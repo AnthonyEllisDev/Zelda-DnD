@@ -275,6 +275,8 @@ Everything else in that exchange, the initiative order, the action economy, the 
 > ##### A Note for New Players
 > You do not need to memorize any of this. The DM will tell you when to roll and what to add. The only thing worth remembering going in is the core loop: say what your character does, roll a d20, add your modifier, and compare it to a number. Everything else in this book is detail hanging off that one sentence.
 
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/AoI_Warriors_Artwork.png' alt='Adventurers' style='position:absolute;left:174px;top:688px;width:468px'/>
+
 {{footnote Before You Begin | Example of Play }}
 
 {{pageNumber,auto}}
@@ -383,6 +385,8 @@ These terms belong to standard 5th Edition and are used throughout this book wit
 **Short Rest.** One hour. In this book, only possible somewhere safe.
 
 **Spell Save DC.** The DC a creature must beat to resist your spell. Equal to 8 + your proficiency bonus + your spellcasting ability modifier.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/ALttP_Book_of_Mudora_Artwork_2_upscaled.png' alt='The Book of Mudora' style='position:absolute;left:217px;top:585px;width:381px'/>
 
 {{footnote Before You Begin | Glossary }}
 
@@ -574,11 +578,15 @@ Your class table shows your MP maximum at each level. At 1st level, most casters
 
 **Recovering MP:** Your MP fully recovers after a long rest. MP can also be partially recovered through **Stamina Burn**, a 10-minute meditation that converts 2 SP into 1 MP, usable outside combat in safe conditions. **Stamina spent this way is burned:** it returns on a long rest rather than a short one.
 
+\column
+
 > **Key difference from standard 5e:** There are no spell slots and no spells known. You do not prepare spells at all. Any spell on your class's list is available to you at any time, and your MP pool is the only limit on which one you reach for. You can cast the same spell repeatedly, though doing so costs more each time (see **Arcane Strain**).
 
 > **Escalating Spell Cost:** Casting the same spell again, without casting a different spell in between, raises its MP cost by 50 percent on the second cast and 100 percent on the third. To reset this, cast a different spell or skip a turn without casting. This discourages repetitive single-spell combat strategies. The full rule is in the Magic System chapter.
 
 **Non-casters:** If your class does not use magic (Adventurer on a non-magic path, Masked Wanderer, Veilblade), you have no MP at 1st level. You may still use Stamina Burn if your class allows it.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/CDvlxGu.png' alt='A blade sweep' style='position:absolute;left:60px;top:460px;width:696px'/>
 
 {{footnote Character Creation | Step 2 }}
 
@@ -940,7 +948,7 @@ While many Deku are shy or defensive, others are surprisingly mercantile. These 
 Adventuring Deku often leave their groves due to curiosity, exile, trade disputes, or visions granted by forest spirits. Some seek to heal dying woods, others to spread influence, and a few simply wish to see what lies beyond the trees.
 
 {{imageMaskCorner29,--offsetX:52%,--offsetY:60%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px,opacity:0.6}
 }}
 
 {{imageMaskEdge4,--offset:3%,--rotation:270
@@ -1042,7 +1050,7 @@ Clever traders and wanderers, known for trickery and gliding petals.
 ---
 
 {{imageMaskCorner29,--offsetX:55%,--offsetY:-75%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){height:100%}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){height:100%,opacity:0.6}
 }}
 
 {{imageMaskEdge4,--offset:3%,--rotation:270
@@ -1110,7 +1118,7 @@ Exile is the harshest punishment a Gerudo can face. To be cast from the desert i
 ---
 
 {{imageMaskCorner29,--offsetX:52%,--offsetY:50%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px,opacity:0.6}
 }}
 
 {{imageMaskEdge4,--offset:3%,--rotation:270
@@ -1181,7 +1189,7 @@ Your Gerudo character has the following racial traits.
 **Desert Temperature Endurance.** You have resistance to extreme heat and cold for the purposes of Weather Exhaustion checks. In addition, you can go twice as long without food and water as normal.
 
 {{imageMaskCorner29,--offsetX:50%,--offsetY:-60%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){height:100%}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){height:100%,opacity:0.6}
 }}
 
 {{imageMaskEdge4,--offset:3%,--rotation:270
@@ -1238,7 +1246,7 @@ Family among Gorons is not strictly biological. Orphans are readily adopted, out
 Mining, stonecraft, and smithing are central to Goron culture, and so are feasting, contests of strength, and storytelling. Goron settlements are loud places, full of hammer strikes and the rumble of rolling bodies.
 
 {{imageMaskCorner29,--offsetX:55%,--offsetY:45%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px,opacity:0.6}
 }}
 
 {{imageMaskEdge4,--offset:3%,--rotation:270
@@ -1314,7 +1322,6 @@ Your Goron character has the following racial traits.
 
 **Speed.** Your base walking speed is 25 feet.
 
-
 **Languages.** You can speak, read, and write Common and Goron.
 
 **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
@@ -1323,27 +1330,27 @@ Your Goron character has the following racial traits.
 
 **Stone Hide.** Your rocky body provides natural protection. Your base Armor Class is **14 + your Constitution modifier**, with no maximum. You cannot wear armor, but you can use shields.
 
-Stone Hide counts as armor for every rule that cares whether you are wearing any: you can gain an armor set's **Set Bonus** while wearing that set's headgear and greaves alone, and you can have Stone Hide itself upgraded at a **Great Fairy Fountain** the way others upgrade a chest piece, to a maximum of ★★ (+2 AC). Features that require you to be unarmored do not work while Stone Hide is active.
+Stone Hide counts as armor for any rule that cares whether you wear any: you gain an armor set's **Set Bonus** wearing only that set's headgear and greaves, and Stone Hide itself can be upgraded at a **Great Fairy Fountain** like a chest piece, to a maximum of ★★ (+2 AC). Features requiring you to be unarmored do not work while it is active.
 
 **Goron Curl.** As a bonus action, you curl into a rocky sphere and become a rolling weapon. Curling is not a defensive option; it is the wind-up for **Rolling Charge**, and a way to ride out something you cannot dodge.
 
 While curled:
 - You have **resistance to bludgeoning, piercing, and slashing damage**, and advantage on Strength and Constitution saving throws.
 - You are prone, your speed is 0, you cannot take reactions, and you have disadvantage on Dexterity saving throws.
-- The only things you can do are use a bonus action to uncurl, or use a feature that specifically works while curled, such as Rolling Charge.
-- Uncurling as a bonus action does not cost movement, and you stand up from prone as part of it without spending movement.
+- The only actions available are uncurling (a bonus action) or a feature that works while curled, such as Rolling Charge.
+- Uncurling costs no movement, and you stand up from prone as part of it.
 
 **Rolling Charge.** Starting at 5th level, while curled, you can use your action to roll up to 40 feet. If you move at least 20 feet in a straight line before hitting a creature, it must succeed on a Strength saving throw  
 (DC = 8 + your proficiency bonus + your Strength modifier)  
 or be knocked prone and take **1d6 bludgeoning damage**.
 
 {{imageMaskCorner9,--offsetX:55%,--offsetY:-35%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){height:100%}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){height:100%,opacity:0.6}
 }}
 
 
 {{imageMaskCorner9,--offsetX:55%,--offsetY:-35%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/oSo9nxL.png){top:540px,left:420px,height:45%}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/oSo9nxL.png){top:795px,left:520px,height:19%}
 }}
 
 {{footnote Races | Goron }}
@@ -1422,7 +1429,7 @@ Hylians vary widely in appearance, temperament, and occupation. They range from 
 What unites Hylians is **adaptability**. Where other races are shaped strongly by environment or tradition, Hylians thrive by learning, borrowing, and adapting. They are quick studies and natural generalists.
 
 {{imageMaskCorner29,--offsetX:53%,--offsetY:30%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px,opacity:0.6}
 }}
 
 {{imageMaskEdge7,--offset:8%,--rotation:260
@@ -1523,7 +1530,7 @@ Your Hylian character has the following racial traits.
 **Great Learners.** You gain one feat of your choice from the following: **Actor, Athlete, Defensive Duelist, Dual Wielder, Dungeon Delver, Durable, Healer, Keen Mind, Lightly Armored, Linguist, Martial Adept, Mobile, Observant, Skilled, Tavern Brawler, Tough.**
 
 {{imageMaskCorner9,--offsetX:55%,--offsetY:-35%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){height:100%}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){height:100%,opacity:0.6}
 }}
 
 
@@ -1567,7 +1574,7 @@ Fairy companions are small enough to fit in a cupped hand, usually a few inches 
 A Kokiri without a fairy is deeply unusual, rare enough that other Kokiri treat it as a serious misfortune, though fairies lost to violence or dark magic may in time be replaced through the Great Deku Tree's blessing. No Kokiri tradition records one rejecting their fairy on purpose. It would be treated as a spiritual wound.
 
 {{imageMaskCorner29,--offsetX:55%,--offsetY:55%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px,opacity:0.6}
 }}
 
 {{imageMaskEdge4,--offset:3%,--rotation:270
@@ -1704,11 +1711,11 @@ Rito culture varies greatly depending on homeland. Some cling to ancient rites a
 **Sheikah.** Watchful and secretive. Rito trust their results, if not their methods.
 
 {{imageMaskCorner29,--offsetX:53%,--offsetY:45%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px,opacity:0.6}
 }}
 
 {{imageMaskCorner29,--offsetX:50%,--offsetY:20%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/P1826Hk.png){top:20px,left:450px,height:60%}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/P1826Hk.png){top:0px,left:450px,height:50%}
 }}
 
 {{footnote Races | Rito }}
@@ -1786,18 +1793,14 @@ In addition, you learn **one additional language** of your choice.
 
 
 {{imageMaskCorner9,--offsetX:60%,--offsetY:-38%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){height:100%}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){height:100%,opacity:0.6}
 }}
 
-{{imageMaskCorner35,--offsetX:50%,--offsetY:-50%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/JxdBzRp.png){top:630px,left:550px,height:37%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/JxdBzRp.png' alt='Rito' style='position:absolute;left:566px;top:700px;height:30%'/>
 
-{{imageMaskCorner20,--offsetX:-50%,--offsetY:-50%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/8oNGgBC.png){top:840px,left:140px,height:15%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/8oNGgBC.png' alt='Rito Crest' style='position:absolute;left:400px;top:815px;height:12%'/>
 
-{{artist,bottom:80px,left:90px
+{{artist,bottom:88px,left:402px
 ##### Rito Crest
 }}
 
@@ -1850,7 +1853,7 @@ Sheikah names are short, sharp, and often symbolic. Many abandon personal names 
 **Titles:** Shadow, Sentinel, Watcher, Monk, Blade
 
 {{imageMaskCorner29,--offsetX:55%,--offsetY:35%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px,opacity:0.6}
 }}
 
 {{imageMaskEdge7,--offset:6%,--rotation:260
@@ -1902,7 +1905,7 @@ Your Sheikah character has the following racial traits.
 When you reach 3rd level, you learn one 1st-level Illusion spell of your choice, which you can cast once without expending magic points. You regain the ability to cast this spell in this way when you finish a long rest.
 
 {{imageMaskCorner29,--offsetX:-60%,--offsetY:45%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:-300px}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:-300px,opacity:0.6}
 }}
 
 {{imageMaskCorner29,--offsetX:0%,--offsetY:0%,--rotation:0
@@ -1990,7 +1993,7 @@ Twili names are soft, flowing, and often symbolic. They reflect concepts rather 
 **Titles:** Shadow Regent, Twilight Scholar, Veilwarden, Mirrorbound
 
 {{imageMaskCorner29,--offsetX:60%,--offsetY:42%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px,opacity:0.6}
 }}
 
 {{imageMaskEdge7,--offset:6%,--rotation:260
@@ -2034,7 +2037,7 @@ You can use this trait a number of times equal to your proficiency bonus, and yo
 
 
 {{imageMaskCorner29,--offsetX:-60%,--offsetY:50%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:-300px}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:-300px,opacity:0.6}
 }}
 
 {{imageMaskCorner29,--offsetX:-60%,--offsetY:40%,--rotation:0
@@ -2045,11 +2048,9 @@ You can use this trait a number of times equal to your proficiency bonus, and yo
   ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/0KAaghz.jpeg){top:0px,left:0px,height:100%}
 }}
 
-{{imageMaskCorner20,--offsetX:-50%,--offsetY:-50%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/SbNrNVb.png){top:820px,left:550px,height:15%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/SbNrNVb.png' alt='Twili Crest' style='position:absolute;left:560px;top:760px;height:15%'/>
 
-{{artist,bottom:230px,left:500px,color:white,
+{{artist,bottom:105px,left:566px,color:white,
 ##### Twili Crest
 }}
 
@@ -2091,7 +2092,7 @@ Most Zonai value:
 
 Zonai society was built upon divine responsibility rather than dominance.
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:
 
 ### Zonai and Other Races
 
@@ -2109,12 +2110,10 @@ Zonai society was built upon divine responsibility rather than dominance.
 
 
 {{imageMaskCorner29,--offsetX:53%,--offsetY:42%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px,opacity:0.6}
 }}
 
-{{imageMaskEdge7,--offset:6%,--rotation:260
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/AoI_Rauru_Artwork.png){top:-220px,right:-170px,Height:85%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/AoI_Rauru_Artwork.png' alt='Rauru' style='position:absolute;right:-120px;top:20px;height:72%'/>
 
 {{footnote Races | Zonai }}
 
@@ -2169,7 +2168,7 @@ Wisdom is your spellcasting ability for these spells.
 
 
 {{imageMaskCorner29,--offsetX:-60%,--offsetY:50%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:-300px}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:-300px,opacity:0.6}
 }}
 
 {{imageMaskCorner29,--offsetX:-50%,--offsetY:40%,--rotation:0
@@ -2180,11 +2179,9 @@ Wisdom is your spellcasting ability for these spells.
   ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/0KAaghz.jpeg){top:0px,left:0px,height:100%}
 }}
 
-{{imageMaskCorner20,--offsetX:-50%,--offsetY:-50%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/9VrSP0M.png){top:800px,left:550px,height:15%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/9VrSP0M.png' alt='Zonai Crest' style='position:absolute;left:560px;top:760px;height:15%'/>
 
-{{artist,bottom:230px,left:470px,color:white,
+{{artist,bottom:105px,left:564px,color:white,
 ##### Zonai Crest
 }}
 
@@ -2236,7 +2233,7 @@ Zora society is traditionally ruled by a royal family believed to be divinely fa
 Music and ceremony are central to Zora life. Songs are used to mark seasons, remember the dead, and even calm dangerous waters. Many Zora adventurers carry these traditions with them, performing rites wherever they travel.
 
 {{imageMaskCorner29,--offsetX:53%,--offsetY:40%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:300px,opacity:0.6}
 }}
 
 {{imageMaskCorner29,--offsetX:53%,--offsetY:40%,--rotation:0
@@ -2405,9 +2402,7 @@ A creature with **resistance to cold damage** has advantage on Weather Exhaustio
 
 Certain items, spells, or clothing may grant resistance or immunity to freezing conditions.
 
-{{imageMaskCorner20,--offsetX:55%,--offsetY:72%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/BotW_Edge_Cover_Official_Illustration.png){Right:0px,top:-60px,height:40%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/BotW_Link_Snow_soft.png' alt='Traveller in the snow' style='position:absolute;right:-10px;top:-8px;height:18%'/>
 
 {{imageMaskCorner32,--offsetX:-70%,--offsetY:-70%,--rotation:0
   ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/Link_has_a_pumpkin_to_climb_-_BOTW_art.jpg){Right:280px,height:30%}
@@ -2573,8 +2568,6 @@ When a called shot targets a creature's weak point, it triggers a **special effe
 
 **8 + your proficiency bonus + the ability modifier you used for the attack**
 
-:::::::::::::::::::::::::::::::::::::::::
-
 {{classTable,wide
 
 ##### Called Shot Examples
@@ -2586,6 +2579,8 @@ When a called shot targets a creature's weak point, it triggers a **special effe
 | Arm | | No additional effect. | | The arm is injured; attacks or ability checks made with it have disadvantage until healed or a successful Constitution save is made as an action. |
 | Head | | The target has disadvantage on Intelligence, Wisdom, and Charisma checks until the end of its next turn. | | The target must succeed on a Constitution saving throw or be knocked unconscious. It may repeat the save at the end of each of its turns. |
 }}
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/Impa_Great_Sword.webp' alt='Called shot' style='position:absolute;left:230px;top:778px;height:23%'/>
 
 
 {{footnote Mechanics | Stamina System }}
@@ -2686,6 +2681,8 @@ The MP cost resets when you:
 
 This rule discourages repetitive spell use while preserving tactical flexibility.
 
+\column
+
 ### Arcane Saturation
 High-intensity magic places stress on a caster's arcane channels.
 
@@ -2706,6 +2703,8 @@ Arcane Saturation resets at the end of combat, or after **1 uninterrupted minute
 
 :
 Arcane Saturation represents magical overload and naturally discourages nova casting without hard limits.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/zelda-magic-soft.png' alt='Channelling magic' style='position:absolute;left:68px;top:540px;width:680px'/>
 
 {{footnote Mechanics | Magic System }}
 
@@ -2743,6 +2742,10 @@ Some sustained magical effects, notably the Goddess Chanter's Sacred Songs and t
 **It cannot be maintained while casting a spell with a casting time of 1 minute or longer.** Lengthy ritual casting interrupts the sustained harmonic or divine focus that soft concentration requires.
  
 In all other respects, soft concentration follows the standard concentration rules: it can be ended voluntarily as a free action, only one soft concentration effect can be active at a time, and features that provide advantage on concentration checks also provide advantage on soft concentration checks.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/The-Golden-Land-soft.png' alt='The Golden Land' style='position:absolute;left:68px;top:300px;width:330px'/>
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/396px-TMC_Link_Artwork_9.png' alt='Link' style='position:absolute;left:120px;top:570px;height:37%'/>
 
 {{footnote Mechanics | Magic System }}
 
@@ -2933,14 +2936,18 @@ You start with the following equipment, in addition to the equipment granted by 
 
 \page
 
-##### The table below uses the traditional spell slots of D&D 5e, for players or DMs who would rather run this class the standard way.
+{{wide
+*The table below uses the traditional spell slots of D&D 5e, for players or DMs who would rather run this class the standard way.*
+}}
 
-> ##### Using the Spell Slot Alternative
-> Swapping a class to this table swaps out the whole MP economy, including the **No Known Spells** rule. A class run on spell slots prepares and knows spells as its nearest 5e counterpart does: **Adventurer** as a Bard (Minstrel) or Ranger (Wild Scout); **Blightbound** as a Warlock; **Champion** as a Paladin; **Goddess Chanter** as a Bard; **Interloper** and **Sage** as a Wizard; **Ranger** as a Ranger; **Shaman** as a Druid.
->
-> Draw from this book's spell list for the class rather than the Player's Handbook's. **Arcane Strain, Arcane Saturation and Overchanneling do not apply** when using spell slots; the slot economy limits the caster instead.
->
-> **How many spells you know.** Champion, Interloper, Sage and Shaman map to prepared casters (Paladin, Wizard, Wizard, Druid), so they prepare a number of spells the standard way and need no extra column. The other four map to known casters, and use their counterpart's Spells Known progression from the 2014 Player's Handbook: **Adventurer** the Bard's (Minstrel) or the Ranger's (Wild Scout), **Blightbound** the Warlock's, **Goddess Chanter** the Bard's, **Ranger** the Ranger's.
+{{note,wide
+##### Using the Spell Slot Alternative
+Swapping a class to this table swaps out the whole MP economy, including the **No Known Spells** rule. A class run on spell slots prepares and knows spells as its nearest 5e counterpart does: **Adventurer** as a Bard (Minstrel) or Ranger (Wild Scout); **Blightbound** as a Warlock; **Champion** as a Paladin; **Goddess Chanter** as a Bard; **Interloper** and **Sage** as a Wizard; **Ranger** as a Ranger; **Shaman** as a Druid.
+
+Draw from this book's spell list for the class rather than the Player's Handbook's. **Arcane Strain, Arcane Saturation and Overchanneling do not apply** when using spell slots; the slot economy limits the caster instead.
+
+**How many spells you know.** Champion, Interloper, Sage and Shaman map to prepared casters (Paladin, Wizard, Wizard, Druid), so they prepare a number of spells the standard way and need no extra column. The other four map to known casters, and use their counterpart's Spells Known progression from the 2014 Player's Handbook: **Adventurer** the Bard's (Minstrel) or the Ranger's (Wild Scout), **Blightbound** the Warlock's, **Goddess Chanter** the Bard's, **Ranger** the Ranger's.
+}}
 
 {{classTable,frame,wide
 #### Adventurer
@@ -2968,6 +2975,8 @@ You start with the following equipment, in addition to the equipment granted by 
 | 19th | +6 | Ability Score Improvement         | 2 | 4 | 3 | 3 | 2 |
 | 20th | +6 | Legendary Wanderer                | 2 | 4 | 3 | 3 | 2 |
 }}
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TLoZ_Series_Royal_Crest_Artwork.png' alt='Royal Crest' style='position:absolute;left:177px;top:705px;height:26%'/>
 
 {{footnote Classes | Adventurer }}
 
@@ -3130,6 +3139,8 @@ You cast spells by spending Magic Points (MP). You must meet all normal casting 
 - Charisma is your spellcasting ability.
 - You cast spells by spending **MP equal to the spell's level + 1** (cantrips cost 1 MP).
 
+\column
+
 #### 6th Level: Encouraging Performance
 - When you grant Bardic Inspiration, the target gains temporary hit points equal to your Charisma modifier.
 - As a reaction, when a creature within 30 feet fails a saving throw, you may spend **1 SP** to allow it to reroll the save and take the new result.
@@ -3147,6 +3158,8 @@ You cast spells by spending Magic Points (MP). You must meet all normal casting 
 #### 18th Level: Song of Legends
 - Once per long rest, as an action, you may inspire up to six creatures of your choice within 60 feet.
 - Each creature gains an Inspiration Die, temporary hit points equal to your Adventurer level, and advantage on its next attack roll or saving throw.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TLoZ_Minstrels_cut.png' alt='Minstrels' style='position:absolute;left:234px;top:580px;width:347px'/>
 
 {{footnote Classes | Adventurer }}
 
@@ -3174,6 +3187,8 @@ You cast spells by spending Magic Points (MP). You must meet all normal casting 
 - Wisdom is your spellcasting ability.
 - You cast spells by spending **MP equal to the spell's level + 1** (cantrips cost 1 MP).
 
+\column
+
 #### 6th Level: Hunter's Awareness
 - You gain advantage on initiative rolls while in your favored terrain.
 - As a bonus action, you may spend **1 SP** to mark a creature you can see for 1 minute. You have advantage on the first attack you make against that creature each round.
@@ -3191,6 +3206,8 @@ You cast spells by spending Magic Points (MP). You must meet all normal casting 
 - While in your favored terrain, you have advantage on all saving throws.
 - Once per long rest, you may spend **3 SP** to gain a climbing speed and swimming speed equal to your walking speed for 10 minutes.
 - When you reduce a hostile creature to 0 hit points, you regain **1 SP**.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/lozbotw-fauna_cut.png' alt='Hyrulean wildlife' style='position:absolute;left:128px;top:594px;width:559px'/>
 
 {{footnote Classes | Adventurer }}
 
@@ -3340,9 +3357,9 @@ Spells marked with ✦ are Zelda-original spells found in the Spell Compendium.
 
 *"Power does not beg. Power takes."*
 
-Blightbound are warriors infused with corruptive arcane force, who channel blight, fear, and domination through sheer force of will. They wade into battle expecting harm, <br> because harm is fuel. Pain becomes <br> power. Suffering becomes <br> command.
+Blightbound are warriors infused with corruptive arcane force, who channel blight, fear, and domination through sheer force of will. They wade into battle expecting harm, because harm is fuel. Pain becomes power. Suffering becomes command.
 
-Where others cast spells from afar, <br> a Blightbound stands at the center of the storm.
+Where others cast spells from afar, a Blightbound stands at the center of the storm.
 
 ---
 
@@ -3375,7 +3392,7 @@ You start with the following equipment, in addition to equipment granted by your
 - (a) a cursed arcane focus or (b) a component pouch  
 - A black cloak and ceremonial mask  
 
-::::::::::::::::::::::::::::::::::::::
+::::::::::::
 
 {{classTable,frame
 #### Blightbound
@@ -3403,9 +3420,7 @@ You start with the following equipment, in addition to equipment granted by your
 | 20th | +6 | True Blight Sovereign | 12 | 40 |
 }}
 
-{{imageMaskCorner20,--offsetX:19%,--offsetY:50%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/JyOYvNH.png){Right:-50px,top:0px,height:60%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/JyOYvNH.png' alt='Blightbound' style='position:absolute;right:-40px;top:600px;height:38%'/>
 
 {{footnote Classes | Blightbound }}
 
@@ -3413,7 +3428,7 @@ You start with the following equipment, in addition to equipment granted by your
 
 \page
 
-##### The Blightbound's alternative table is a hybrid, not a pure spell slot table. It keeps an MP column, because the Blightbound spends MP on Demonic Power effects that are not spells and would have nothing to draw on otherwise. Run the Pact Slots as a Warlock's, and keep the MP column exactly as printed.
+*The Blightbound's alternative table is a hybrid, not a pure spell slot table. It keeps an MP column, because the Blightbound spends MP on Demonic Power effects that are not spells and would have nothing to draw on otherwise. Run the Pact Slots as a Warlock's, and keep the MP column exactly as printed.*
 
 {{classTable,frame,wide
 #### Blightbound
@@ -3441,6 +3456,8 @@ You start with the following equipment, in addition to equipment granted by your
 | 19th | +6 | Ability Score Improvement     | 4 | 4 | 5th | 24 |
 | 20th | +6 | True Blight Sovereign         | 4 | 4 | 5th | 24 |
 }}
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TotK_Phantom_Ganon_Model.png' alt='Phantom Ganon' style='position:absolute;left:280px;top:520px;height:45%'/>
 
 {{footnote Classes | Blightbound }}
 
@@ -3578,6 +3595,8 @@ Your power bends the battlefield to your will.
 - At the start of your turn, if you have **0 DPP**, you gain **1 DPP**.
 - Once per turn, when you would be reduced to 0 hit points, you may spend **3 DPP** to drop to **1 hit point instead**.
 - Creatures frightened by you have disadvantage on Constitution saving throws against your spells and features.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/Zant_29_2.webp' alt='A usurper' style='position:absolute;left:431px;top:477px;width:315px'/>
 
 {{footnote Classes | Blightbound }}
 
@@ -3785,6 +3804,8 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Power Word Kill
 }}
 
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/1200px-TPHD_Zant_Artwork.png' alt='Usurper' style='position:absolute;left:220px;top:705px;width:375px'/>
+
 {{footnote Classes | Blightbound }}
 
 {{pageNumber,auto}}
@@ -3843,7 +3864,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a priest's pack or (b) an explorer's pack  
 - A holy symbol of your chosen goddess  
 
-::::::::::::::::::::
+::::
 
 {{classTable,frame
 #### Champion
@@ -3871,9 +3892,7 @@ You start with the following equipment, in addition to the equipment granted by 
 | 20th | +6 | Avatar of the Goddess | 24 | 59 |
 }}
 
-{{imageMaskCorner20,--offsetX:50%,--offsetY:60%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/U7MvzEj.png){Right:-25px,top:-30px,height:40%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/U7MvzEj-soft.png' alt='Champion' style='position:absolute;right:-20px;top:660px;height:31%'/>
 
 {{footnote Classes | Champion }}
 
@@ -3907,6 +3926,8 @@ You start with the following equipment, in addition to the equipment granted by 
 | 19th | +6 | Ability Score Improvement         | 3 | 4 | 3 | 3 | 3 | 1 |
 | 20th | +6 | Avatar of the Goddess             | 3 | 4 | 3 | 3 | 3 | 2 |
 }}
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/750px-Link_Soldier_Set_-_HWAoC_key_art.png' alt='Champion' style='position:absolute;left:110px;top:480px;width:600px'/>
 
 {{footnote Classes | Champion }}
 
@@ -4093,6 +4114,8 @@ Your encouragement carries restorative power.
 #### 10th Level: Cleanse Spirit
 You can purge lingering afflictions.
 
+\column
+
 - As an action, you may touch a creature and end **one condition** affecting it (charmed, frightened, poisoned, blinded, deafened, or paralyzed).
 - This feature costs **2 MP**.
 
@@ -4107,6 +4130,8 @@ You refuse to let heroes fall.
 
 - Once per long rest, when a creature you can see within 30 feet drops to 0 hit points, you may use your reaction to restore it to **1 hit point**.
 - That creature may immediately stand up without spending movement.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/King_Rhoam_-_HWAoC.png' alt='A king' style='position:absolute;left:226px;top:474px;width:364px'/>
 
 {{footnote Classes | Champion }}
 
@@ -4205,6 +4230,8 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Divine Word
 - Holy Aura
 }}
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/AoI_Sonia_Artwork.png' alt='Sonia' style='position:absolute;left:240px;top:576px;width:336px'/>
 
 {{footnote Classes | Champion }}
 
@@ -4318,6 +4345,8 @@ You start with the following equipment, in addition to the equipment granted by 
 | 20th | +6 | Incarnation of Hylia             | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 }}
 
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TWW_Laruto.png' alt='Laruto, sage of the harp' style='position:absolute;left:225px;top:464px;width:365px'/>
 
 {{footnote Classes | Goddess Chanter }}
 
@@ -4680,7 +4709,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a scholar's pack or (b) a dungeoneer's pack  
 - A twilight focus (a shard of mirror, a black glass lens, or a shadow-etched sigil)  
 
-:::::::::::::::::::::
+::::
 
 {{classTable,frame
 #### Interloper
@@ -4708,9 +4737,7 @@ You start with the following equipment, in addition to the equipment granted by 
 | 20th | +6 | Master of the Twilight | 12 | 105 |
 }}
 
-{{imageMaskCorner20,--offsetX:50%,--offsetY:55%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/uHbMTtF.png){Right:-60px,top:-30px,height:60%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/uHbMTtF.png' alt='Interloper' style='position:absolute;right:-40px;top:560px;height:42%'/>
 
 {{footnote Classes | Interloper }}
 
@@ -4744,6 +4771,8 @@ You start with the following equipment, in addition to the equipment granted by 
 | 19th | +6 | Ability Score Improvement         | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 1 |
 | 20th | +6 | Master of the Twilight            | 4 | 3 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 }}
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/HWDE_Yuga_Artwork.webp' alt='Yuga' style='position:absolute;left:208px;top:464px;width:399px'/>
 
 {{footnote Classes | Interloper }}
 
@@ -5145,18 +5174,9 @@ You may only be transformed into **one mask at a time**.
 
 At 5th level and every 5 levels thereafter (10th, 15th, and 20th), you learn **one additional mask**.
 :
-**Available Masks:**
+**Available Masks:** Deku, Goron, Gerudo, Hylian, Rito, Sheikah, Twili, Zora.
 
-- Deku
-- Goron
-- Gerudo
-- Hylian
-- Rito
-- Sheikah
-- Twili
-- Zora
-
-::::::::::::
+::
 
 {{classTable,frame
 #### Masked Wanderer
@@ -5184,9 +5204,7 @@ At 5th level and every 5 levels thereafter (10th, 15th, and 20th), you learn **o
 | 20th | +6 | Fierce Deity Ascension, New Mask | 24 | 7 |
 }}
 
-{{imageMaskCorner20,--offsetX:40%,--offsetY:50%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/hbvMrIc.png){Right:20px,top:20px,height:40%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/hbvMrIc.png' alt='Masked Wanderer' style='position:absolute;right:-10px;top:590px;height:30%'/>
 
 {{footnote Classes | Masked Wanderer }}
 
@@ -5204,8 +5222,8 @@ Starting at 1st level, you can assume the form granted by one of your known mask
 - **Uses:** Unlimited  
 
 While transformed:
-- You gain **all racial traits** of the mask, including its size, speed, movement modes, senses and resistances. These **replace** your own race's traits.
-- Your **Strength, Dexterity and Constitution** are adjusted by the mask race's increases in place of your own race's.
+- You gain **all racial traits** of the mask - size, speed, movement modes, senses and resistances - and these **replace** your own race's traits.
+- Your **Strength, Dexterity and Constitution** use the mask race's increases in place of your own.
 - You keep your Intelligence, Wisdom, Charisma, alignment, personality, class features, proficiencies, hit points and Hit Dice.
 - Equipment **merges into the form**, cannot be used while transformed, and reappears unchanged when you revert.
 
@@ -5218,7 +5236,7 @@ While not wearing armor or wielding a shield, your AC equals:
 
 The exception is Goron form, where the Goron racial AC applies instead.
 
-Because your equipment merges into the form, you are always unarmored while transformed and this feature is always active there. It also applies in your own form on any occasion when you wear no armor and wield no shield.
+Because your equipment merges into the form, this feature is always active while transformed. It also applies in your own form whenever you wear no armor and no shield.
 
 #### 2nd Level: Martial Arts
 Beginning at 2nd level:
@@ -5230,7 +5248,7 @@ Beginning at 2nd level:
 At 2nd level, you learn one Signature Technique tied to any mask you know.
 You learn additional techniques at **9th and 17th level**.
 
-The table below lists the technique attached to each mask. Learning a technique means choosing one row from that table; you can use a technique only while wearing the mask it belongs to.
+Learning a technique means choosing one row from the table below; you can use it only while wearing its mask.
 
 - Signature Techniques may be used **once per turn**
 - They do **not** cost SP
@@ -5338,6 +5356,8 @@ You may use this feature a number of times equal to your proficiency bonus per l
 #### 6th Level: Anchored Form
 When you would be moved or knocked prone against your will, you may spend **1 SP** to negate the movement.
 
+\column
+
 In addition, while transformed, you have advantage on checks and saves made to resist grapples, shoves, and forced movement.
 
 #### 10th Level: Protective Shift
@@ -5352,6 +5372,8 @@ While transformed:
 
 #### 18th Level: Bastion of Memories
 Once per long rest, when you or an ally within 30 feet would be reduced to 0 hit points, that creature instead drops to 1 hit point and gains temporary hit points equal to your Masked Wanderer level.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/MM_Deku_King_Artwork.png' alt='The Deku King' style='position:absolute;left:182px;top:457px;width:451px'/>
 
 {{footnote Classes | Masked Wanderer }}
 
@@ -5419,6 +5441,8 @@ Once per long rest, for 1 minute:
 - When a creature misses you, you may immediately switch masks without using an action.
 - You regain **1 SP** at the start of each of your turns.
 
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/MM_Deku_Scrubs_cut.png' alt='Deku Scrubs' style='position:absolute;left:296px;top:712px;width:223px'/>
+
 {{footnote Classes | Masked Wanderer }}
 
 {{pageNumber,auto}}
@@ -5467,7 +5491,7 @@ You start with the following equipment, in addition to equipment granted by your
 - (a) explorer's pack or (b) dungeoneer's pack  
 - Herbalism kit  
 
-::::::::::::::::::::::::::::::::
+::::::::::::::
 
 {{classTable,frame
 #### Ranger
@@ -5495,9 +5519,7 @@ You start with the following equipment, in addition to equipment granted by your
 | 20th | +6 | Living Hunt | 18 | 65 | 4 |
 }}
 
-{{imageMaskCorner20,--offsetX:38%,--offsetY:50%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/XwoUJlb.png){Right:-50px,top:30px,height:45%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/XwoUJlb.png' alt='Ranger' style='position:absolute;right:-30px;top:645px;height:28%'/>
 
 {{footnote Classes | Ranger }}
 
@@ -5531,6 +5553,8 @@ You start with the following equipment, in addition to equipment granted by your
 | 19th | +6 | Ability Score Improvement                     | 3 | 4 | 3 | 3 | 3 | 2 |
 | 20th | +6 | Living Hunt                                   | 3 | 4 | 3 | 3 | 3 | 3 |
 }}
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/Revali_-_HWAoC_key_art.png' alt='Revali' style='position:absolute;left:149px;top:464px;width:518px'/>
 
 {{footnote Classes | Ranger }}
 
@@ -5849,6 +5873,8 @@ You embody elemental mastery.
 - Your attacks ignore resistance to elemental damage
 - Once per turn, you may apply two elemental effects on a single hit
 
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/320px-SS_Impa_Artwork.png' alt='Impa' style='position:absolute;left:315px;top:645px;width:186px'/>
+
 {{footnote Classes | Ranger }}
 
 {{pageNumber,auto}}
@@ -5927,6 +5953,8 @@ The Ranger draws from a focused well of survival, exploration, and battlefield-c
 - Wall of Stone
 - Insect Plague
 }}
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TotK_Paya_Artwork.png' alt='Paya' style='position:absolute;left:269px;top:492px;width:278px'/>
 
 {{footnote Classes | Ranger }}
 
@@ -6027,6 +6055,8 @@ You start with the following equipment, in addition to the equipment granted by 
 | 19th | +6 | Ability Score Improvement            | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 2 |
 | 20th | +6 | Avatar of the Sages                  | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 2 |
 }}
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/HWAoC_Monk_Maz_Koshia_Artwork.webp' alt='Maz Koshia' style='position:absolute;left:173px;top:464px;width:470px'/>
 
 {{footnote Classes | Sage }}
 
@@ -6385,7 +6415,7 @@ You use **Magic Points (MP)** to cast Shaman spells.
 - Your spellcasting ability is **Wisdom**.
 - **Spell Level Cap:** 6th level (Overchanneling required for spells above 5th level).
 
-::::::::::::::::
+::::
 
 {{classTable,frame
 #### Shaman
@@ -6413,9 +6443,7 @@ You use **Magic Points (MP)** to cast Shaman spells.
 | 20th | +6 | Avatar of the Elements | 12 | 115 |
 }}
 
-{{imageMaskCorner20,--offsetX:50%,--offsetY:50%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/lT19jIF.png){Right:60px,top:30px,height:50%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/lT19jIF.png' alt='Shaman' style='position:absolute;right:55px;top:735px;height:26%'/>
 
 {{footnote Classes | Shaman }}
 
@@ -6449,6 +6477,8 @@ You use **Magic Points (MP)** to cast Shaman spells.
 | 19th | +6 | Ability Score Improvement          | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | Avatar of the Elements             | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 }}
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/HWAoC_Urbosa_Artwork.webp' alt='Urbosa' style='position:absolute;left:142px;top:464px;width:531px'/>
 
 {{footnote Classes | Shaman }}
 
@@ -6927,6 +6957,8 @@ The Shaman channels the voice of the spirit world: ancestral memory, elemental t
 - Weird
 }}
 
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/1200px-AoI_Mineru_Artwork.png' alt='Mineru' style='position:absolute;left:247px;top:647px;width:322px'/>
+
 {{footnote Classes | Shaman }}
 
 {{pageNumber,auto}}
@@ -6939,12 +6971,9 @@ The Shaman channels the voice of the spirit world: ancestral memory, elemental t
 
 Veilblades are masters of precision warfare: tacticians who dismantle their enemies with calculated strikes, crippling status effects, and no wasted motion.
 
-Where others overwhelm with force, <br>
-a Veilblade controls the flow of battle <br>
-through timing, positioning, and execution.
+Where others overwhelm with force, a Veilblade controls the flow of battle through timing, positioning, and execution.
 
-They do not fight fair. <br>
-They fight to win.
+They do not fight fair. They fight to win.
 
 ---
 
@@ -6978,7 +7007,7 @@ You start with the following equipment, in addition to equipment granted by your
 - (a) a burglar's pack or (b) an explorer's pack  
 - Thieves' tools and a hooded cloak  
 
-::::::::::::::::::::::::::
+:::::::::
 
 {{classTable,frame
 #### Veilblade
@@ -7006,9 +7035,7 @@ You start with the following equipment, in addition to equipment granted by your
 | 20th | +6 | Apex Predator | 26 | 5 | 5d6 |
 }}
 
-{{imageMaskCorner20,--offsetX:50%,--offsetY:55%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/Szrvaep.png){Right:0px,top:20px,height:60%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/Szrvaep.png' alt='Veilblade' style='position:absolute;right:30px;top:578px;height:40%'/>
 
 {{footnote Classes | Veilblade }}
 
@@ -7189,6 +7216,8 @@ In addition, you have advantage on initiative rolls.
 
 #### 6th Level: Marked for the End
 
+\column
+
 When you apply **Mark for Death** to a creature, you may immediately make one additional weapon attack against it as part of the same action, without expending an additional Special Attack or Energy. This bonus attack cannot itself apply a new Special Attack.
 
 #### 10th Level: No Second Chances
@@ -7210,6 +7239,8 @@ Once per long rest, as an action, choose one creature you can see within 60 feet
 - Deals maximum damage on all weapon and Special Attack damage dice.
 
 If this attack reduces the target to 0 hit points, you regain all expended Energy.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/Still_Ardi_image950w.png' alt='A duellist' style='position:absolute;left:248px;top:675px;width:320px'/>
 
 {{footnote Classes | Veilblade }}
 
@@ -7235,6 +7266,8 @@ The normal combo rule limiting one combo upgrade per attack does not apply to yo
 
 While a creature has two or more conditions you have inflicted active on it simultaneously, it has disadvantage on Constitution saving throws, and any bleed or poison damage it takes from your Special Attacks increases by your Tactician modifier.
 
+\column
+
 #### 14th Level: Total Breakdown
 
 When a creature under the effect of three or more of your conditions starts its turn, it must succeed on a Constitution saving throw against your Special Attack save DC or be poisoned and have its speed reduced to 0 until the start of its next turn, as its body fails under the compounded strain.
@@ -7248,6 +7281,8 @@ Once per long rest, as a bonus action, choose one creature within 30 feet that y
 - Every condition you inflict on that creature lasts until the end of your next turn rather than its normal duration, and does not require maintenance to persist.
 - At the start of each of the target's turns, it takes necrotic damage equal to the number of distinct conditions you have currently inflicted on it (minimum 1).
 - If at any point the target is suffering from all four condition types you can inflict (Slowed, Bleeding, Dazed/Stunned, Poisoned) simultaneously, it must succeed on a Constitution saving throw at the start of each of its turns or fall unconscious until the effect ends or it takes damage.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/Rhondson_-_TotK_Character_Profile_art.png' alt='A Gerudo' style='position:absolute;left:339px;top:618px;width:138px'/>
 
 {{footnote Classes | Veilblade }}
 
@@ -7273,6 +7308,8 @@ In addition, attacks of opportunity against you have disadvantage.
 
 #### 10th Level: Untouchable Flow
 
+\column
+
 When a creature misses you with an attack, you may use your reaction to immediately use Step Between Shadows, even if you have no light requirement met at your destination (you may teleport into an unlit space normally inaccessible to this feature).
 
 You regain one use of Step Between Shadows whenever you start combat undetected by all enemies.
@@ -7288,6 +7325,8 @@ Once per long rest, as a bonus action, you become one with shadow for 1 minute:
 - You may use Step Between Shadows without expending a use, as many times per turn as you have movement available to justify (DM adjudicates reasonable frequency).
 - While in dim light or darkness, you are invisible until you attack, cast a spell, or the effect ends.
 - The first attack you make each turn while this feature is active automatically counts as a Sneak Strike and applies a Special Attack at no Energy cost.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/MM_Mikau_Artwork.png' alt='Mikau' style='position:absolute;left:265px;top:566px;width:285px'/>
 
 {{footnote Classes | Veilblade }}
 
@@ -13198,6 +13237,8 @@ An earlier draft of Zelda DnD used **Racial Classes**: a rule under which only o
 | Contagion | 5th | Blight, corruption, curses |
 | Antipathy/Sympathy | 8th | High magic, wards, traps |
 
+\column
+
 **Ways to use them.** Any of these is a good reason for a party to go somewhere.
 
 - **A spell tome.** The classic. A book in a ruin that teaches its reader one spell permanently, regardless of class. This is the closest thing this book has to a scroll, and it is a fine dungeon reward.
@@ -13207,6 +13248,8 @@ An earlier draft of Zelda DnD used **Racial Classes**: a rule under which only o
 - **An enemy's trick.** Nothing says a spell has to be available to players at all. *Drowned Servants* in the hands of a river-cult necromancer is a whole adventure.
 
 Balance them as you would any spell of their level. They were written for characters who had given up a great deal of flexibility to reach them, so if you hand one out freely, expect it to feel slightly stronger than a spell of the same level that everybody already has.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/800px-Quill.png' alt='A scribe' style='position:absolute;left:314px;top:636px;width:188px'/>
 
 {{footnote Spell Compendium | Unassigned Spells }}
 
@@ -13755,6 +13798,8 @@ ___
 :
 **Critical:** The moblin is stunned until the end of its next turn.
 }}
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/520px-TotK_Blue_Moblin_Model_cut.png' alt='Blue Moblin' style='position:absolute;left:263px;top:666px;width:289px'/>
 
 {{footnote Enemies | The Blin }}
 
@@ -14658,6 +14703,8 @@ Depending on the type of ChuChu, the jelly may contain:
 
 Many scholars believe the value of Chu Jelly is the primary reason ChuChus have never been fully eradicated despite their nuisance status.
 
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/659px-TotK_Ice_Chuchu_Model.png' alt='Ice ChuChu' style='position:absolute;left:167px;top:557px;width:481px'/>
+
 {{footnote Enemies | ChuChus }}
 
 {{pageNumber,auto}}
@@ -14765,6 +14812,8 @@ ___
 :
 **Critical:** The Blue ChuChu immediately splits as though it had taken slashing damage, even though this was not a slashing attack, as the precise strike ruptures its core.
 }}
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/661px-TotK_Electric_Chuchu_Model.png' alt='Electric ChuChu' style='position:absolute;left:244px;top:697px;width:328px'/>
 
 {{footnote Enemies | ChuChus }}
 
@@ -15078,6 +15127,8 @@ Darknuts are heavily armored warriors that stand among the most feared soldiers 
 
 **Critical:** A section of armor breaks away. The Darknut permanently loses 1 AC.
 
+\column
+
 {{monster,frame
 ## Darknut
 *Medium Humanoid, Lawful Evil*
@@ -15106,6 +15157,8 @@ ___
 :
 ***Shield Bash.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) bludgeoning damage. The target must succeed on a DC 14 Strength saving throw or be knocked prone.
 }}
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/Armos_Concepts_cut.png' alt='Armoured constructs' style='position:absolute;left:234px;top:582px;width:348px'/>
 
 {{footnote Enemies | ChuChus }}
 
@@ -15237,6 +15290,8 @@ Dodongos are enormous reptilian monsters famous for their explosive weakness. Th
 
 Special Rule: If a lit bomb enters the Dodongo's mouth, the Dodongo takes 4d10 force damage and is stunned until the end of its next turn.
 
+\column
+
 {{monster,frame
 ## Dodongo
 *Large Monstrosity, Unaligned*
@@ -15264,6 +15319,13 @@ ___
 ***Tail Slam.*** *Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:* 15 (2d8 + 6) bludgeoning damage.
 :
 ***Fire Breath (Recharge 5-6).*** The dodongo exhales fire in a 30-foot cone. Creatures within the area make a DC 15 Dexterity save, taking 28 (8d6) fire damage on a failure or half on a success.
+}}
+
+{{note
+##### Running a Dodongo
+A Dodongo is a puzzle with teeth. It swallows what it is given, so the fight turns on what the party can get into its mouth rather than on what they can do to its hide, and a group that works that out should be rewarded for it quickly.
+
+Give them the means: a bomb flower growing in the chamber, a keg left by miners, a brazier they can tip. If nothing in the room can be fed to it, the encounter becomes a slog against a resistant monster, which is the one shape this creature should never take.
 }}
 
 {{footnote Enemies | ChuChus }}
@@ -15606,6 +15668,15 @@ ___
 **Critical:** The Like Like disgorges everything it has swallowed and cannot use Swallow again for 1 minute.
 }}
 
+\column
+
+{{note
+##### Running a Like Like
+A Like Like threatens a party's gear, not its hit points, and the fun is in the scramble to get a shield back. Telegraph it: describe the ring of muscle working at the mouth before anything is grabbed, so a called shot on the Gullet Ring feels like the obvious play rather than a lucky guess.
+
+When Digest Equipment lands, prefer damaging an item to destroying it. A cracked shield the party carries to the next smith is better at the table than an empty slot, and it keeps the Like Like from reading as a punishment for losing initiative.
+}}
+
 {{footnote Enemies | ChuChus }}
 
 {{pageNumber,auto}}
@@ -15784,6 +15855,8 @@ ___
 }}
 
 
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/400px-TotK_Lizalfos_Model_cut.png' alt='Lizalfos' style='position:absolute;left:277px;top:611px;width:262px'/>
+
 {{footnote Enemies | Lizalfos }}
 
 {{pageNumber,auto}}
@@ -15933,6 +16006,8 @@ ___
 **Critical:** The jaw is broken. The dinolfos has disadvantage on attack rolls for 1 minute.
 }}
 
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/439px-TotK_Black_Lizalfos_Model.png' alt='Black Lizalfos' style='position:absolute;left:280px;top:647px;width:255px'/>
+
 {{footnote Enemies | Lizalfos }}
 
 {{pageNumber,auto}}
@@ -16040,6 +16115,8 @@ ___
 **Critical:** The membrane tears. The aeralfos loses its flying speed for 1 minute, falls, and takes falling damage as normal.
 }}
 
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/493px-TotK_Aerocuda_Model_cut.png' alt='Aerocuda' style='position:absolute;left:278px;top:678px;width:260px'/>
+
 {{footnote Enemies | Lizalfos }}
 
 {{pageNumber,auto}}
@@ -16065,6 +16142,8 @@ Though lacking intelligence, Octoroks possess powerful survival instincts and sp
 Octoroks are soft-bodied creatures resembling a strange cross between an octopus and a mollusk. Their most recognizable feature is their tubular snout, which functions as a biological cannon capable of launching rocks, snowballs, seeds, explosive projectiles, and other materials depending on the species.
 
 Most possess:
+
+\column
 
 - Powerful lungs capable of compressing air
 - Elastic internal sacs used to launch projectiles
@@ -16099,6 +16178,13 @@ Across nearly every appearance throughout Hyrule's history, Octoroks possess one
 Whether launching stones, snowballs, seeds, or magical projectiles, Octoroks rarely survive their own ammunition being returned to them.
 
 Many experienced warriors intentionally bait an Octorok's attack before redirecting the projectile with a shield or weapon. Legends claim entire generations of Hylian soldiers learned shield techniques specifically to combat Octorok infestations.
+
+{{note
+##### Octoroks at the Table
+Octoroks are the most common monster in Hyrule and the least interesting one to fight alone, so use them the way the games do: as pressure applied to a place. Put them where the party must cross, not where the party must go.
+
+They are also the first monster most groups learn to turn around. The moment a player asks whether they can knock a rock back, say yes - that reflex is the whole point of the species, and it will serve them again against far worse things.
+}}
 
 {{footnote Enemies | Octoroks }}
 
@@ -16245,6 +16331,13 @@ ___
 **Critical:** The siphon ruptures. The octorok loses Heavy Rock Spit for the rest of the combat and can attack only with Bite.
 }}
 
+{{note
+##### Running Octoroks
+Octoroks are terrain, not opponents. One on its own is a speed bump; three spread across a ravine, a river bank or a rooftop line turn a simple crossing into a problem, because every round spent in the open costs someone hit points.
+
+Rock Spit is also the party's weapon. A shield bash, a Gust Jar, a well-timed deflection - anything that sends the rock back - should work, and the siphon called shot exists so that players who look for the weak spot are rewarded for it rather than told to keep rolling attacks.
+}}
+
 {{footnote Enemies | Octoroks }}
 
 {{pageNumber,auto}}
@@ -16348,6 +16441,13 @@ ___
 **Critical:** The shell splits open. The octorok's Armor Class is reduced by 3 for the rest of the combat and it loses Ore Eater.
 }}
 
+{{note
+##### Fighting in the Water
+A Water Octorok picked its ground. With a swim speed of 40 feet against a party swimming at half pace, it will not stay still and it does not have to: it submerges, moves, and surfaces somewhere else.
+
+Give the party something to stand on - a sandbar, a capsized boat, a line of stones - and the fight becomes a real decision about whether to hold the dry ground or go in after it. Without that, it is simply a creature they cannot catch.
+}}
+
 {{footnote Enemies | Octoroks }}
 
 {{pageNumber,auto}}
@@ -16415,7 +16515,7 @@ ___
 **Critical:** The bladder ruptures. The octorok loses its flying speed for 1 minute, falls, and takes falling damage as normal.
 }}
 
-<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/BotW_Sky_Octorok_Platform_Model_2.png' alt='Sky Octorok' style='position:absolute;left:427px;top:438px;width:330px'/>
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/BotW_Sky_Octorok_Platform_Model_2.png' alt='A sky octorok in disguise' style='position:absolute;left:150px;top:560px;width:540px'/>
 
 {{footnote Enemies | Octoroks }}
 
@@ -16942,6 +17042,8 @@ The parasite's body dissolves into the root-wood within minutes, leaving behind 
 
 **Narrative:** The Deku Scrubs who sealed the lower chambers emerge cautiously, and word spreads quickly through any nearby Deku Grove. The party's name becomes known, however small the deed seemed to them, as "the ones who saved the Hollow Root."
 
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/1280px-Queen-Gohma-Artwork.png' alt='Queen Gohma' style='position:absolute;left:133px;top:614px;width:549px'/>
+
 {{footnote Bosses | Gohma }}
 
 {{pageNumber,auto}}
@@ -17085,6 +17187,8 @@ The cavern falls silent except for the settling of loose rock and the distant dr
 
 **Narrative:** Goron witnesses (if any were nearby, or word reaching Goron City regardless) treat the party with immediate, considerable respect. Felling King Dodongo is the kind of deed that gets carved into mountain stone and repeated for generations.
 
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/800px-OoT-KingDodongo-Artwork.png' alt='King Dodongo' style='position:absolute;left:60px;top:458px;width:696px'/>
+
 {{footnote Bosses | King Dodongo }}
 
 {{pageNumber,auto}}
@@ -17194,6 +17298,8 @@ A bolder option exists for parties willing to take a physical risk: climbing dir
 - **No Heart Container equivalent.** As an overworld optional encounter rather than a dungeon capstone, Stone Talus does not grant the permanent HP increase that dungeon bosses do. This is intentional and helps preserve the value of dungeon-based Heart Container rewards.
 
 **Narrative:** None required. This is an environmental encounter, not a story beat. If a DM wants to add a hook, a nearby NPC (a prospector, a Goron miner, a worried traveler) might offer a small bonus reward or grateful favor for clearing a Talus that's been blocking a useful trade route or mining claim.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TotK_Stone_Talus_Model.png' alt='Stone Talus' style='position:absolute;left:60px;top:505px;width:696px'/>
 
 {{footnote Bosses | Stone Talus }}
 
@@ -17466,6 +17572,8 @@ Where a boss's mechanics depend on its phase (such as King Dodongo's breath cycl
 
 **Staggering Impact.** Whenever Stone Talus takes 15 or more damage from a single attack, or accumulates 25 damage since its last stagger, it rears backward and its core is exposed until the end of its next turn.
 
+\column
+
 ### Actions
 
 **Boulder Fist.** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 12 (2d8 + 3) bludgeoning damage.
@@ -17482,6 +17590,8 @@ The core cannot be targeted unless exposed by Staggering Impact, or unless a cre
 
 **Called Shot (Core), while exposed or while climbing**
 *Hit:* Ignores Stone Hide resistance entirely, and deals normal Called Shot bonus dice.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TotK_Stone_Talus_Model.png' alt='Stone Talus' style='position:absolute;left:60px;top:554px;width:696px'/>
 
 {{footnote Bosses | Stat Blocks }}
 
@@ -17757,11 +17867,15 @@ Boomerangs are unique weapons that return to the wielder's hand after being thro
 >### New Property: Returning
 >A weapon with the **returning** property flies back to the wielder's hand immediately after a ranged attack, hit or miss. If you have no free hand to catch it, the weapon falls at your feet.
 
+\column
+
 ***Lizal Boomerangs*** are Lizalfos-made blades sharpened along one edge, more dangerous than their Hylian counterparts and capable of slashing rather than merely bludgeoning.
 
 ***Lizal Forked and Tri-Boomerangs*** have two or three blades joined at a central grip, spinning in complex patterns that are harder to dodge. When you throw a forked or tri-boomerang, you can target two creatures within 10 feet of each other with a single attack. Make a separate attack roll for each target.
 
 ***Sea-Breeze Boomerangs*** are finely balanced Rito-crafted boomerangs, designed for aerial throwing, with exceptional range.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/lozbotw-hylian-gear_soft.png' alt='Hylian weapons and shields' style='position:absolute;left:236px;top:536px;width:344px'/>
 
 {{footnote Items | Weapons }}
 
@@ -17833,6 +17947,8 @@ Monster-made clubs and Goron sledges are common on battlefields where finesse gi
 
 ***Boko and Moblin Clubs*** are crude weapons made from whittled trees and, in spiked versions, animal bone. Dragonbone versions are reinforced with fossilized ancient bone.
 
+\column
+
 ***The Boulder Breaker*** was the signature weapon of Goron Champion Daruk. It is an immense two-handed hammer of volcanic iron that requires a Strength score of 18 or higher to wield without disadvantage; smaller races simply lack the leverage to swing it effectively. The Boulder Breaker deals double damage to objects, stone constructs, and Stone Taluses. It can be reforged by Goron smiths if destroyed. This weapon requires attunement.
 
 ### Axes
@@ -17845,6 +17961,8 @@ Monster-made clubs and Goron sledges are common on battlefields where finesse gi
 | Woodcutter's Axe | 5 gp | 1d8 slashing | 5 lbs. | Versatile (1d10), special |
 
 ***Woodcutter's Axes*** serve double duty; they can be used as carpenter's tools for the purpose of checks related to felling or shaping timber.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/lozbotw-hyrulean-gear_soft.png' alt='Hyrulean weapons' style='position:absolute;left:60px;top:509px;width:696px'/>
 
 {{footnote Items | Weapons }}
 
@@ -17940,6 +18058,8 @@ Crossbows use bolts rather than arrows. Bolts cost the same as arrows and are so
 | Strengthened Lizal Bow | 25 gp | 1d8 piercing | 2 lbs. | Ammunition (range 80/320), two-handed |
 | Steel Lizal Bow | 40 gp | 1d8 piercing | 2 lbs. | Ammunition (range 100/400), two-handed, fine |
 
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/lozbotw-rito-gear_soft.png' alt='Bows and quivers' style='position:absolute;left:70px;top:423px;width:320px'/>
+
 {{footnote Items | Weapons }}
 
 {{pageNumber,auto}}
@@ -18017,6 +18137,8 @@ Exotic weapons require specialized training. A creature without the appropriate 
 ***Double-Bladed Scimitars.*** When you take the Attack action, you can make one extra attack with the second blade as a bonus action. Both ends deal 1d6 slashing damage. Most Gerudo are proficient with this weapon.
 
 ***Desert Whips.*** Attack with Dexterity. Reach 10 feet; cannot attack creatures within 5 feet. Does not damage creatures with AC 13 or higher from rigid armor.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/lozbotw-monster-gear_soft.png' alt='Monster weapons and shields' style='position:absolute;left:168px;top:406px;width:480px'/>
 
 {{footnote Items | Weapons }}
 
@@ -18134,6 +18256,8 @@ A DM who would rather let earrings be worn under a hood is free to allow it; the
 | Thunder Helm | +2 | Lightning immunity while attuned (requires attunement) | * |
 
 The **Thunder Helm** is an heirloom of the Gerudo chiefs, passed through the line of leaders who have earned the trust of the tribe. It grants complete immunity to lightning damage and the paralyzed condition caused by electrical attacks while attuned. It cannot be purchased; it must be earned.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/lozbotw-zora-gear_soft.png' alt='Zora gear' style='position:absolute;left:301px;top:702px;width:214px'/>
 
 {{footnote Items | Armor }}
 
@@ -18778,6 +18902,8 @@ Standard arrows are sold in bundles at most traders and fletcher shops. Special 
 | Silver Arrows (1) | 50 gp | +2d6 radiant damage; bypass resistances of monsters tied to Ganon's power |
 | Phrenic Arrows (5) | 15 gp | On a hit, target must DC 12 Wis save or be confused (as the *confusion* spell) until end of their next turn |
 
+\column
+
 ***Fire Arrows*** ignite flammable terrain, light campfires, and melt ice blocks on impact. A single fire arrow can start a grass fire in dry weather.
 
 ***Ice Arrows*** freeze water on impact (a 5-foot cube per arrow), creating temporary platforms or blocking waterways. Against creatures vulnerable to cold, the restraining effect has disadvantage on the saving throw.
@@ -18787,6 +18913,8 @@ Standard arrows are sold in bundles at most traders and fletcher shops. Special 
 ***Light Arrows (Silver Arrows)*** are blessed ammunition that bypass the magical protections of Ganon and his servants. Against Blights, Malice constructs, and the King of Evil himself, light and silver arrows ignore damage resistances and immunities. Silver Arrows in particular are associated with the final, ritual defeat of Ganon across the ages. It is said that without a Silver Arrow, Ganon cannot truly be destroyed, only sealed.
 
 ***Bomb Arrows*** are notably unstable. They detonate if exposed to open flame, and they cannot be fired in rain without a DC 12 Dexterity check (on a failure, the arrow fizzles and the attack misses automatically).
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/lozbotw-monster-gear_soft.png' alt='Monster-made gear' style='position:absolute;left:242px;top:589px;width:331px'/>
 
 {{footnote Items | Adventuring Gear & Consuma }}
 
@@ -19157,6 +19285,8 @@ What this chapter gives you is a ladder, so that you know what you are handing o
 
 **Most of a campaign happens at Tier 4 and Tier 3.** A party that finds a Lens of Truth in their third session and a Roc's Feather in their fifth has exactly the Zelda experience: a growing bag of verbs, each of which reshapes what a dungeon can ask of them. Tier 2 relics arrive at the end of arcs. Tier 1 relics arrive once or twice in a campaign. Tier 0 arrives at the end, or never.
 
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/ALttP_Triforce_Sacred_Realm_soft.png' alt='The Sacred Realm' style='position:absolute;left:144px;top:623px;width:528px'/>
+
 {{footnote Relics | Using Relics }}
 
 {{pageNumber,auto}}
@@ -19194,6 +19324,8 @@ Four questions, and the fourth is the one that matters.
 **3. Who else wants it?** The best relics in Hyrule's history are all contested. Someone should want this back.
 
 **4. What does the world look like once they have it?** If the answer is "the same, but the fighter hits harder," reconsider. If the answer is "now they can reach the sunken city," you have picked the right relic.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/BotW_Master_Sword_Model.png' alt='The Master Sword' style='position:absolute;left:295px;top:598px;width:226px'/>
 
 {{footnote Relics | Using Relics }}
 
@@ -19347,9 +19479,7 @@ The Master Sword is not merely a weapon. It began as the **Goddess Sword**, forg
 
 A sealed creature may attempt to break out once per year, repeating the save. With additional divine sanction, and at the DM's discretion, this power can be turned on far greater beings; that is how Ganon was sealed the first time.
 
-{{imageMaskCenter1,--offsetX:0%,--offsetY:2%,--rotation:180,transform:scaleY(-1)
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/Jlrk6rP.png){top:350px,right:400px,height:60%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/Jlrk6rP.png' alt='The Master Sword' style='position:absolute;right:25px;top:678px;height:27%'/>
 
 {{footnote Relics | The Master Sword }}
 
@@ -19473,17 +19603,11 @@ The blue pendant from the Tower of Hera, associated with Nayru. It is the heavie
 
 ---
 
-{{imageMaskCenter1,--offsetX:0%,--offsetY:2%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/sUc8XRV.png){top:260px,right:210px,height:10%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/sUc8XRV.png' alt='Pendant of Courage' style='position:absolute;top:378px;right:-4px;height:5%'/>
 
-{{imageMaskCenter1,--offsetX:0%,--offsetY:2%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/qNg6Qbo.png){top:440px,right:110px,height:10%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/qNg6Qbo.png' alt='Pendant of Power' style='position:absolute;top:533px;right:-4px;height:5%'/>
 
-{{imageMaskCenter1,--offsetX:0%,--offsetY:2%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/clWn37d.png){top:620px,right:210px,height:10%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/clWn37d.png' alt='Pendant of Wisdom' style='position:absolute;top:688px;right:-4px;height:5%'/>
 
 **The Three Together.** A bearer holding all three Pendants may draw the Master Sword from the Lost Woods pedestal if the sword recognizes them. In a campaign using the Temple of Time legend instead, the three Pendants together grant the recognition without the journey: the sword accepts a bearer who wears all three, though they must still reach the pedestal.
 
@@ -19548,6 +19672,8 @@ A blue disc that is always cool and slightly wet, as if just pulled from a deep 
 **Passive Effect.** You can breathe water and have a swim speed of 30 feet. Currents, floods and pressure do not affect you. You have advantage on Constitution saving throws.
 
 ---
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/ALBW_Seres_Artwork.png' alt='A sage' style='position:absolute;left:329px;top:682px;width:158px'/>
 
 {{footnote Relics | Sage Medallions }}
 
@@ -19688,35 +19814,27 @@ A translucent white-silver crystal that drifts upward slightly in still air. Win
 
 In the age it was made for, each Element also granted the wielder one **duplicate of themselves**, and a blade holding all four could field three. That power sleeps in the modern era. A DM who wants it awake should treat it as a Tier 1 effect and price the quest accordingly.
 
-{{imageMaskCenter1,--offsetX:0%,--offsetY:2%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/frHOB80.png){top:380px,right:60px,height:5%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/czftaKM.png' alt='Earth Element' style='position:absolute;left:105px;top:810px;height:7%'/>
 
-{{artist,top:400px,right:120px
+{{artist,top:895px,left:88px
 ##### Earth Element
 }}
 
-{{imageMaskCenter1,--offsetX:0%,--offsetY:2%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/fr5MmwX.png){top:505px,right:290px,height:5%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/fr5MmwX.png' alt='Fire Element' style='position:absolute;left:285px;top:810px;height:7%'/>
 
-{{artist,top:530px,right:200px
+{{artist,top:895px,left:272px
 ##### Fire Element
 }}
 
-{{imageMaskCenter1,--offsetX:0%,--offsetY:2%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/WXqX3a9.png){top:605px,right:60px,height:5%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/WXqX3a9.png' alt='Water Element' style='position:absolute;left:460px;top:810px;height:7%'/>
 
-{{artist,top:630px,right:120px
+{{artist,top:895px,left:443px
 ##### Water Element
 }}
 
-{{imageMaskCenter1,--offsetX:0%,--offsetY:2%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/czftaKM.png){top:705px,right:290px,height:5%}
-}}
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/frHOB80.png' alt='Wind Element' style='position:absolute;left:635px;top:810px;height:7%'/>
 
-{{artist,top:730px,right:200px
+{{artist,top:895px,left:618px
 ##### Wind Element
 }}
 
@@ -20344,9 +20462,13 @@ Before laying out a single room, hold onto three ideas:
 
 **Dungeons have a reason to exist.** Even if the players never learn it, you should know why this place was built. A tomb built to honor a fallen king feels different from a sanctum built to contain a cursed relic, even if both have similar layouts. The reason bleeds into the architecture: a tomb has mourning chambers and offering rooms; a containment sanctum has redundant seals and warning wards. Let the purpose guide your imagination.
 
+\column
+
 **Dungeons teach before they test.** The best Zelda dungeons introduce a mechanic gently, then build on it. The first mirror puzzle is simple. The second adds an enemy. The third combines two mirrors and a moving platform. By the time players reach the boss, they have become fluent in the dungeon's language, and the boss fight is the final exam. Design with this arc in mind.
 
 **Player creativity is not a threat to your dungeon.** It is the point. If a player finds an unexpected solution, your instinct should usually be to let it work. The dungeon's job is to create a feeling (accomplishment, tension, discovery), not to protect a specific sequence of steps. A player who burns down a wooden door has solved a puzzle, just not the one you intended. Embrace it, redirect it, or build gentle consequences into it. But rarely forbid it outright.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TWW_Armos_Door_cut.png' alt='A guarded door' style='position:absolute;left:260px;top:467px;width:296px'/>
 
 {{footnote DM Guide | Dungeon Design }}
 
@@ -20581,6 +20703,8 @@ Use this when designing any dungeon from scratch.
 - [ ] Puzzle room 2 (combined use: item + enemy or item + environment)
 - [ ] Boss chamber (item-based weakness, dynamic space)
 
+\column
+
 **For each puzzle, confirm:**
 - [ ] At least two valid solutions exist
 - [ ] Brute-force approach has a planned response
@@ -20592,6 +20716,8 @@ Use this when designing any dungeon from scratch.
 - [ ] The arena has enough space and features for dynamic combat
 - [ ] There is a vulnerability window that rewards observant play
 - [ ] The reward is meaningful and feels like the dungeon's completion
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/beamos.png' alt='A Beamos' style='position:absolute;left:289px;top:392px;width:238px'/>
 
 {{footnote DM Guide | Dungeon Design }}
 
@@ -20771,6 +20897,8 @@ A Zelda boss fight is not a standard D&D encounter with a big HP pool. It is a s
 
 This chapter gives you the tools to design boss fights that feel distinctly Zelda, built on discovery, exploitation, vulnerability, and the damage window, and scaling from a simple two-phase encounter at low levels to a full three-phase spectacle at the campaign's climax.
 
+\column
+
 ---
 
 ## The Boss Loop
@@ -20782,6 +20910,8 @@ DISCOVERY → EXPLOITATION → VULNERABILITY → DAMAGE WINDOW
      ↑                                              |
      └──────────────── (repeat per phase) ──────────┘
 ```
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/BotW_Calamity_Ganon_Artwork.webp' alt='Calamity Ganon' style='position:absolute;left:90px;top:415px;width:636px'/>
 
 {{footnote DM Guide | Boss Design }}
 
@@ -21028,6 +21158,8 @@ REWARD:
   Narrative: ___________________________
 }}
 
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TP_Morpheel_Render.png' alt='Morpheel' style='position:absolute;left:87px;top:510px;width:642px'/>
+
 {{footnote DM Guide | Boss Design }}
 
 {{pageNumber,auto}}
@@ -21044,9 +21176,13 @@ REWARD:
 
 **Vulnerability:** The Bulb Node glows bright when exposed. A Called Shot (Bulb Node) during this window stuns the Thornheart until the end of its turn and deals double damage dice. The window lasts until the start of the Thornheart's next turn.
 
+\column
+
 **Phase Transition at 50% HP:** Cosmetic + Environmental. The Thornheart drives its stem into the floor (Rooted), gaining +3 AC, but the arena changes: it begins launching Seed Volleys in lines, which players must now navigate while also maintaining the boomerang exploitation rhythm.
 
 **What makes this work at low levels:** The Thornheart is simple. Discovery is forgiving: there's a clear hint roll path and the dungeon item foreshadows the solution. The exploitation requires the boomerang the players just found. The phase transition adds tactical complexity without overwhelming a new party.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/800px-Armos_Knight_TWW_artwork.png' alt='Armos Knight' style='position:absolute;left:223px;top:420px;width:370px'/>
 
 {{footnote DM Guide | Boss Design }}
 
@@ -21231,6 +21367,8 @@ Minor weak points are the baseline, the kind every creature has, whether or not 
 
 ### Major Weak Points
 
+\column
+
 Major weak points are the ones that define how a fight works, the crystal, the eye, the unarmored belly, the glowing core. These require more effort to reach, cost more SP, and carry consequences that can meaningfully shift the fight.
 
 **Typical Major Weak Point effects:**
@@ -21243,6 +21381,8 @@ Major weak points are the ones that define how a fight works, the crystal, the e
 | Vulnerability window | The creature enters a damage window — all attacks against it deal maximum damage dice for 1 round |
 | Forced phase transition | If the creature has multiple phases, it transitions immediately (combining with next phase) |
 | Behavioral change | The creature retreats, attempts to protect the weak point, or changes tactics dramatically |
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/285px-TotK_Gibdo_Model.png' alt='Gibdo' style='position:absolute;left:298px;top:531px;width:220px'/>
 
 {{footnote DM Guide | Weak Points }}
 
@@ -21275,6 +21415,8 @@ When a player calls a shot against a body part that isn't listed in a monster's 
 
 
 }}
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/649px-Ordon_Link.png' alt='Adventurer' style='position:absolute;left:263px;top:726px;width:290px'/>
 
 {{footnote DM Guide | Weak Points }}
 
@@ -21381,6 +21523,8 @@ Sometimes the most interesting response to a creative called shot is an outcome 
 - [ ] Describe the creature in enough detail that observant players might notice the weak point unprompted (the Darknut's armor gap, the Skulltula's exposed abdomen, the Wizzrobe's fragile staff)
 - [ ] Let a passive Perception check (DC 12–15) reveal the weak point to attentive players before initiative is rolled
 
+\column
+
 **During combat:**
 - [ ] When a weak point is successfully hit, narrate the effect dramatically. This is a payoff moment
 - [ ] If the creature covers its weak point, narrate that immediately and hint at the alternative
@@ -21390,6 +21534,8 @@ Sometimes the most interesting response to a creative called shot is an outcome 
 **After combat:**
 - [ ] Remind players of their SP expenditure. Called shots are a meaningful resource choice, and tracking that is part of the game's texture
 - [ ] Note which weak points worked well or created interesting moments; use those patterns in future encounters
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/596px-TotK_Black_Hinox_Model.png' alt='Hinox' style='position:absolute;left:130px;top:399px;width:556px'/>
 
 {{footnote DM Guide | Weak Points }}
 
@@ -21600,6 +21746,8 @@ Whatever structure you choose, Zelda campaigns have a natural rhythm: tension an
 A campaign that is wall-to-wall dungeon crawling loses the wonder of the overworld. A campaign that never challenges players with a focused, difficult, consequential dungeon loses the satisfaction that makes the overworld feel earned. The alternation between expansive freedom and focused intensity is not incidental to the Zelda experience. It *is* the Zelda experience.
 
 Give your players room to breathe. Let them wander. Let them find things you didn't put there (improvise something worth finding). And then, when the dungeon door opens, let it matter.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/BotW_Death_Mountain_soft.png' alt='Death Mountain' style='position:absolute;left:60px;top:485px;width:696px'/>
 
 {{footnote DM Guide | Campaigns }}
 
@@ -21981,6 +22129,8 @@ Once you've answered these questions for your campaign, apply that context to ev
 **If Players Help Them:** Access to black-market goods, information networks that operate outside official channels, and morally complex storytelling opportunities.
 
 **If Players Oppose Them:** Standard heroic conflict, though consider whether your particular outlaw group deserves a purely villainous treatment or a more nuanced one.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/HWAoC_Sooga_Artwork.png' alt='Sooga' style='position:absolute;left:251px;top:478px;width:313px'/>
 
 {{footnote DM Guide | Factions }}
 
