@@ -1,2 +1,15 @@
-# Auto detect text files and perform LF normalization
+# Text files: normalise line endings
 * text=auto
+
+# Artwork is binary. Never let git rewrite these.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.svg binary
+*.pdf binary
+
+# The book itself is text, but it is one enormous line-based file;
+# treat it as text so diffs stay readable.
+*.md text eol=lf
