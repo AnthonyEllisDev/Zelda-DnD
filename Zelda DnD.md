@@ -205,7 +205,7 @@ Five different resources appear across the classes in this book. No character us
 |:--|:--|:--|:--|
 | **SP** Stamina Points | Every class | Short rest, if safe | Called shots, harsh terrain, class features |
 | **MP** Magic Points | Every spellcasting class | Long rest | Casting spells |
-| **DPP** Demonic Power Points | Blightbound only | Long rest | Cursed strikes and demon form |
+| **DPP** Demonic Power Points | Blightbound only | Built in combat; 0 after a rest | Cursed strikes and demon form |
 | **Energy** | Veilblade only | 1 per turn; all on a rest | Special Attacks |
 | **FP** Focus Points | Ranger only | Gained in combat | Ranger Techniques |
 }}
@@ -233,7 +233,7 @@ This is the single largest departure from standard 5e, and it is intentional.
 
 # An Example of Play
 
-The fastest way to understand the rules above is to watch one round of combat play out. The character below is **The Wandering Hero** from the Example Builds in the next chapter: a 1st-level Hylian Adventurer on the Martial path, with STR 15 (+2), DEX 14 (+2), CON 13 (+1), a proficiency bonus of +2, leather armor, a longsword, a soldier's shield, and 2 Stamina Points.
+The fastest way to understand the rules above is to watch one round of combat play out. The character below is **The Wandering Hero** from the Example Builds in the next chapter: a 1st-level Hylian Adventurer, with STR 15 (+2), DEX 14 (+2), CON 13 (+1), a proficiency bonus of +2, leather armor, a longsword, a soldier's shield, and 2 Stamina Points.
 
 ---
 
@@ -241,7 +241,7 @@ The fastest way to understand the rules above is to watch one round of combat pl
 
 **Player:** *(rolls a d20 and adds her Dexterity modifier of +2)* Fourteen.
 
-**DM:** You go first. It is about twenty feet up a rocky slope, and the slope counts as difficult terrain.
+**DM:** You go first. It is about twenty-five feet up a rocky slope, and the slope counts as difficult terrain.
 
 **Player:** My speed is thirty, and difficult terrain costs double, so thirty feet of movement only carries me fifteen feet up. Can I spend Stamina to make up the difference?
 
@@ -404,7 +404,7 @@ These terms are specific to this book. Each has a full entry in the chapter note
 
 **Arcane Wounds.** What happens when a caster pushes past an empty MP pool. *(Magic System)*
 
-**Blight.** A Malice-born champion of the Demon King, one bound to each of the four Divine Beasts. Several items in this book are written to counter them; the Bosses chapter does not yet provide their stat blocks. *(Items)*
+**Blight.** A Malice-born champion of the Demon King, one bound to each of the four Divine Beasts. Several items in this book are written to counter them; their stat blocks are left to the DM. *(Items)*
 
 **Called Shot.** Spending 2 SP before an attack to target a specific body part. On a hit, add an extra weapon damage die. Against a listed **weak point** it also triggers that creature's special effect. *(Stamina System)*
 
@@ -436,7 +436,7 @@ These terms are specific to this book. Each has a full entry in the chapter note
 
 **Soft Concentration.** A lighter form of concentration used by Sacred Songs, the Champion's Aura and the Interloper's Hex. It does not conflict with ordinary concentration, so you can hold one of each. *(Magic System)*
 
-**Stamina Burn.** Ten minutes of meditation converting 2 SP into 1 MP, out of combat only. Stamina spent this way returns on a long rest, not a short one. *(Magic System)*
+**Stamina Burn.** Ten minutes of meditation converting 2 SP into 1 MP, out of combat only. Stamina spent this way returns on a long rest, not a short one. *(Stamina System)*
 
 **Stamina Points (SP).** The universal physical resource. Every class has it. *(Stamina System)*
 
@@ -444,7 +444,7 @@ These terms are specific to this book. Each has a full entry in the chapter note
 
 **Weak Point.** A specific vulnerability listed in a creature's stat block, exploitable with a called shot. Creatures without one use the Body Part Reference Table. *(Stamina System; DM Guide)*
 
-**Weather Exhaustion.** Environmental exhaustion from heat, cold, or storms, resisted by the right armor set or the right meal. *(Temperature)*
+**Weather Exhaustion.** Environmental exhaustion from heat, cold, or storms, resisted by the right armor set or the right elixir. *(Temperature)*
 
 {{footnote Before You Begin | Glossary }}
 
@@ -492,8 +492,8 @@ Your race is the species your character belongs to. In Hyrule, the races are the
 | **Rito** | Swift, proud, observant | Flight, ranged combat, cold resistance | Hebra and coastal peaks |
 | **Sheikah** | Disciplined, secretive, loyal | Stealth, ancient knowledge, speed | Kakariko Village and shadows |
 | **Twili** | Enigmatic, perceptive, otherworldly | Twilight magic, illusion, shadow | The Twilight Realm |
-| **Zonai** | Ancient, inventive, powerful | Construct mastery, elemental force | Ancient ruins and sky islands |
-| **Zora** | Graceful, proud, devoted | Swimming, water magic, physical precision | Zora's Domain and waterways |
+| **Zonai** | Ancient, inventive, powerful | Divine magic, keen sight, radiant ward | Ancient ruins and sky islands |
+| **Zora** | Graceful, proud, devoted | Swimming, water breathing, slipperiness | Zora's Domain and waterways |
 
 **How to choose:** Pick the race that excites you most as a personality, as a visual image, or as a set of abilities. Your race does not lock you into a particular class or role. A Goron Sage and a Goron Masked Wanderer both exist and both work. Ask yourself: *who is this person, and where do they come from?*
 
@@ -513,11 +513,11 @@ Your class is your calling: the set of skills, training, and talents that define
 
 | Class | Role | Combat Style | Uses Magic? |
 |:--|:--|:--|:--|
-| **Adventurer** | Versatile hero | Weapon attacks, skills, and adaptability | Optional (Bard or Ranger path) |
+| **Adventurer** | Versatile hero | Weapon attacks, skills, and adaptability | From 3rd level (Minstrel or Wild Scout path) |
 | **Blightbound** | Dark power warrior | Cursed weapon strikes, eldritch power, dark contracts | Yes (Charisma) |
 | **Champion** | Divine warrior | Holy weapon strikes, healing, divine authority | Yes (Charisma) |
 | **Goddess Chanter** | Sacred support | Healing songs, divine blessings, harmonic power | Yes (Charisma) |
-| **Interloper** | Twilight trickster | Illusion, enchantment, teleportation, subtlety | Yes (Intelligence) |
+| **Interloper** | Twilight trickster | Illusion, enchantment, teleportation, subtlety | Yes (Int or Cha) |
 | **Masked Wanderer** | Shape-changing combatant | Martial prowess through mask-granted forms | No |
 | **Ranger** | Nature hunter | Tracking, ranged precision, terrain mastery | Yes (Wisdom) |
 | **Sage** | Elemental mage | Elemental spells, ancient knowledge, affinity mastery | Yes (Intelligence or Wisdom) |
@@ -570,7 +570,7 @@ If your class uses magic, it uses **Magic Points (MP)** rather than the spell sl
 | 5th level | 6 MP |
 | 6th level | 7 MP |
 
-Your class table shows your MP maximum at each level. At 1st level, most casters begin with 2 MP.
+Your class table shows your MP maximum at each level. At 1st level, most casters begin with 4 to 9 MP.
 
 {{footnote Character Creation | Step 2 }}
 
@@ -584,7 +584,7 @@ Your class table shows your MP maximum at each level. At 1st level, most casters
 
 > **Escalating Spell Cost:** Casting the same spell again, without casting a different spell in between, raises its MP cost by 50 percent on the second cast and 100 percent on the third. To reset this, cast a different spell or skip a turn without casting. This discourages repetitive single-spell combat strategies. The full rule is in the Magic System chapter.
 
-**Non-casters:** If your class does not use magic (Adventurer on a non-magic path, Masked Wanderer, Veilblade), you have no MP at 1st level. You may still use Stamina Burn if your class allows it.
+**Non-casters:** If your class does not use magic (Adventurer before 3rd level, Masked Wanderer, Veilblade), you have no MP at 1st level. You may still use Stamina Burn if your class allows it.
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/CDvlxGu.png' alt='A blade sweep' style='display:block;width:328px;height:250px;margin:6px auto 2px auto'/>
 
@@ -648,9 +648,9 @@ No score may be purchased above 15 before racial bonuses.
 
 | Class | Primary Score | Secondary Score |
 |:--|:--|:--|
-| Adventurer (martial) | STR or DEX | CON |
-| Adventurer (Bard path) | CHA | DEX |
-| Adventurer (Ranger path) | DEX or STR | WIS |
+| Adventurer (Treasure Hunter) | STR or DEX | CON |
+| Adventurer (Minstrel path) | CHA | DEX |
+| Adventurer (Wild Scout path) | DEX or STR | WIS |
 | Blightbound | CHA | CON |
 | Champion | CHA | STR or CON |
 | Goddess Chanter | CHA | WIS |
@@ -659,7 +659,7 @@ No score may be purchased above 15 before racial bonuses.
 | Ranger | DEX or STR | WIS |
 | Sage | INT or WIS | CON |
 | Shaman | WIS | CON |
-| Veilblade | DEX | INT or STR |
+| Veilblade | DEX | INT or CHA |
 
 ## Step 4: Describe Your Character
 
@@ -667,7 +667,7 @@ This step is where your character becomes a person rather than a collection of n
 
 ### Background
 
-Your background represents what your character did before adventuring: where they came from, what skills they developed, and what connections they carry into the world. Standard 5e backgrounds work in Hyrule. Some suggestions for Zelda-flavored interpretations:
+Your background represents what your character did before adventuring: where they came from, what skills they developed, and what connections they carry into the world. Use the **Backgrounds** chapter or any 5e background. Quick Hyrule equivalents:
 
 | 5e Background | Hyrule Equivalent |
 |:--|:--|
@@ -753,7 +753,7 @@ When your character enters an extreme temperature environment, the DM will call 
 | 3 | Your speed is reduced by **10 feet**. At the start of each of your turns, choose **attack rolls or saving throws**. You have disadvantage on the chosen rolls until the start of your next turn. |
 | 4 | Your speed is reduced by **20 feet**, and you **cannot gain advantage** on any d20 rolls. |
 
-**Protective equipment:** Certain armor sets from the Zelda DnD equipment chapter provide immunity or resistance to specific Weather Exhaustion checks. When choosing your starting equipment, consider the environment your campaign will involve. A campaign set largely in the Gerudo Desert makes the **Desert Voe set** valuable early. A Hebra-based campaign makes the **Snowquill set** essential.
+**Protective equipment:** Certain armor sets from the Items chapter provide immunity or resistance to specific Weather Exhaustion checks. When choosing your starting equipment, consider the environment your campaign will involve. A campaign set largely in the Gerudo Desert makes the **Desert Voe set** valuable early. A Hebra-based campaign makes the **Snowquill set** essential.
 
 *Your DM can tell you what environments your campaign will frequently visit so you can plan your gear accordingly.*
 
@@ -805,7 +805,7 @@ These examples show what a finished character concept looks like. Each one is a 
 
 ### The Wandering Hero
 *Classic Link archetype*
-**Race:** Hylian | **Class:** Adventurer (Martial path) | **Background:** Folk Hero
+**Race:** Hylian | **Class:** Adventurer | **Background:** Folk Hero
 **Key scores:** STR 15, DEX 14, CON 13
 **Starting SP:** 2 | **MP:** None
 **Concept:** A young Hylian with no memory of their past, carrying a sword they don't remember learning to use. Adaptable, observant, and unable to walk past an injustice. Speaks rarely and acts decisively.
@@ -849,7 +849,7 @@ These examples show what a finished character concept looks like. Each one is a 
 
 ### The Desert Wind
 *Gerudo warrior / drifter archetype*
-**Race:** Gerudo | **Class:** Blightbound or Adventurer (Ranger path) | **Background:** Outlander
+**Race:** Gerudo | **Class:** Blightbound or Adventurer (Wild Scout path) | **Background:** Outlander
 **Key scores:** CHA 15 (Blightbound) or DEX 15 (Adventurer), STR or CON 13
 **Starting SP:** 2 | **MP:** 6 (Blightbound, as DPP); an Adventurer has no MP until 3rd level
 **Concept:** A Gerudo who has wandered far from the desert, carrying either a dark pact made in desperation or a hunter's instinct honed by years in the waste. Self-sufficient, independent, and looking for someone she will not name.
@@ -1036,7 +1036,7 @@ Aggressive and territorial Deku who rely on brute seedfire.
 
 **Spit Specialist.** You have advantage on attack rolls made with your Deku Spit.
 
-**Hardened Seeds.** Once per short rest, when you hit with Deku Spit, you can add an extra **1d6 bludgeoning damage**.
+**Hardened Seeds.** Once per short or long rest, when you hit with Deku Spit, you can add an extra **1d6 bludgeoning damage**.
 
 ---
 
@@ -1187,7 +1187,7 @@ Your Gerudo character has the following racial traits.
 
 **Trained Fighters.** You have proficiency with scimitars, double-bladed scimitars, shortbows, and shields.
 
-**Desert Temperature Endurance.** You have resistance to extreme heat and cold for the purposes of Weather Exhaustion checks. In addition, you can go twice as long without food and water as normal.
+**Desert Temperature Endurance.** You have advantage on Weather Exhaustion checks caused by extreme heat or cold. In addition, you can go twice as long without food and water as normal.
 
 {{imageMaskCorner29,--offsetX:50%,--offsetY:-60%,--rotation:0
   ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){height:100%}
@@ -1329,9 +1329,9 @@ Your Goron character has the following racial traits.
 
 **Fiery Endurance.** You have resistance to fire damage. In addition, you are immune to the effects of extreme heat for the purposes of Weather Exhaustion.
 
-**Stone Hide.** Your rocky body provides natural protection. Your base Armor Class is **14 + your Constitution modifier**, with no maximum. You cannot wear armor, but you can use shields.
+**Stone Hide.** Your rocky body provides natural protection. Your base Armor Class is **14 + your Constitution modifier**, with no maximum. You cannot wear body armor, but can wear headgear, greaves and shields.
 
-Stone Hide counts as armor for any rule that cares whether you wear any: you gain an armor set's **Set Bonus** wearing only that set's headgear and greaves, and Stone Hide itself can be upgraded at a **Great Fairy Fountain** like a chest piece, to a maximum of ★★ (+2 AC). Features requiring you to be unarmored do not work while it is active.
+Stone Hide counts as armor for any rule that cares whether you wear any: you gain an armor set's **Set Bonus** wearing only that set's headgear and greaves, and Stone Hide itself can be upgraded at a **Great Fairy Fountain** like a chest piece, to a maximum of ★★ (+2 AC). Features requiring you to be unarmored never work for you.
 
 **Goron Curl.** As a bonus action, you curl into a rocky sphere and become a rolling weapon. Curling is not a defensive option; it is the wind-up for **Rolling Charge**, and a way to ride out something you cannot dodge.
 
@@ -1651,7 +1651,7 @@ Your fairy grants you the following benefits:
 - ***Fairy Guidance.*** You have advantage on Wisdom (Perception), Wisdom (Survival), and Intelligence (Nature) checks. Your fairy constantly observes, remembers, and advises.
 - ***Fairy Light.*** Your fairy emits dim light in a 5-foot radius. You can suppress or restore this light as a bonus action.
 - ***Fairy Warning.*** You cannot be surprised while your fairy is conscious. It watches while you sleep and wakes you before danger reaches you.
-- ***Fairy Revival (Once per Long Rest).*** When you are reduced to 0 hit points, your fairy may immediately use its action on your initiative to stabilize you automatically, without requiring a roll. You are stabilized at 0 hit points. The fairy cannot use this ability again until you finish a long rest.
+- ***Fairy Revival (Once per Long Rest).*** When you are reduced to 0 hit points, your fairy immediately stabilizes you automatically, without requiring a roll. You are stabilized at 0 hit points. The fairy cannot use this ability again until you finish a long rest.
 
 {{footnote Races of Hyrule | Kokiri}}
 {{pageNumber,auto }}
@@ -2082,7 +2082,7 @@ A faint aura of ancient magic surrounds them, particularly when they channel pow
 
 They favor flowing garments adorned with geometric patterns and sigils representing skyward spirals.
 
-Zonai are tall and slender, with elongated torsos and eyes of blue, violet, or amber.
+Their eyes are blue, violet, or amber.
 
 ### A Dwindling People
 
@@ -2370,10 +2370,10 @@ ___
 
 The blazing heat of the Gerudo Desert or the freezing cold of the Hebra Mountains can break even seasoned adventurers. Extreme environments in Hyrule are obstacles in their own right, meant to test preparation, endurance, and resolve.
 
-When traveling through extreme temperatures, creatures may be forced to make **Weather Exhaustion checks**, which represent mounting strain from heat or cold. These rules exist to **gate dangerous regions**. They reward proper gear, planning, and magical protection, and still let desperate heroes push forward at great risk.
+When traveling through extreme temperatures, creatures may be forced to make **Weather Exhaustion checks** (Constitution saves), which represent mounting strain from heat or cold. These rules exist to **gate dangerous regions**. They reward proper gear, planning, and magical protection, and still let desperate heroes push forward at great risk.
 
 :
-Your environment and your level of preparedness determine the **DC** of a Weather Exhaustion check, as well as how frequently checks are required. For example, traveling through the Gerudo Desert at midday in common clothing might require a DC 10 check every hour, while traversing the caldera of an active volcano could require a DC 20 check every 10 minutes.
+Your environment and your level of preparedness determine the **DC** of a Weather Exhaustion check, as well as how frequently checks are required. For example, traveling through the Gerudo Desert at midday in common clothing might require a DC 12 check every 3 hours, while traversing the caldera of an erupting volcano could require a DC 16 check every hour.
 
 :
 On a failed check, a creature gains **1 level of Weather Exhaustion**. On a success, no Weather Exhaustion is gained.
@@ -2512,9 +2512,6 @@ As a **10-minute uninterrupted meditation**, a creature may convert stamina into
 :
 Stamina Burn represents controlled breathing, ritual focus, or spiritual grounding rather than an adrenaline rush.
 
-:
-Stamina points expended this way do **not** recover until the creature completes a **long rest**.
-
 ### Called Shots
 
 Just before making an attack roll with a weapon or an unarmed strike, a creature may attempt a **called shot** by expending **2 stamina points**.
@@ -2651,7 +2648,7 @@ Magic Points are fully restored after completing a **long rest**.
 
 :
 Some class features, relics, potions, or sacred locations may restore MP earlier, such as:
-- Blue Potions  
+- Green Potions  
 - Light Temples  
 - Sheikah meditation sites  
 
@@ -2795,7 +2792,7 @@ Arcane Wounds are not easily healed.
 - **Long Rest:** Removes 1 Arcane Wound  
 - **Blue Potion:** Removes 1 Arcane Wound  
 - **Sacred Springs or Light Temples:** Remove 1–2 Arcane Wounds (DM discretion)  
-- **Great Fairy Blessing:** Removes all Arcane Wounds  
+- **Great Fairy:** Removes 1 Arcane Wound (see Items)  
 - **Rare Ritual (10 minutes):** Consumes special reagents and removes 1 Arcane Wound  
 
 ---
@@ -3124,7 +3121,7 @@ Your Inspiration Die becomes a d8 at 10th level and a d10 at 18th level.
 
 You cast spells by spending Magic Points (MP). You must meet all normal casting requirements. This spellcasting counts as limited spellcasting and does not grant access to high-level spell effects outside your Path.
 
-- You learn two cantrips and two 1st-level spells from the Bard spell list.
+- You can cast any spell on the Minstrel Path Spell List.
 - Charisma is your spellcasting ability.
 - You cast spells by spending **MP equal to the spell's level + 1** (cantrips cost 1 MP).
 
@@ -3168,7 +3165,7 @@ While in your favored terrain:
 
 You cast spells by spending Magic Points (MP). You must meet all normal casting requirements. This spellcasting counts as limited spellcasting and does not grant access to high-level spell effects outside your Path.
 
-- You learn two cantrips and two 1st-level spells from the Druid or Ranger spell list.
+- You can cast any spell on the Wild Scout Path Spell List.
 - Wisdom is your spellcasting ability.
 - You cast spells by spending **MP equal to the spell's level + 1** (cantrips cost 1 MP).
 
@@ -3196,7 +3193,7 @@ You cast spells by spending Magic Points (MP). You must meet all normal casting 
 
 ### Minstrel Path Spell List
 
-Adventurers on the Minstrel path access limited spellcasting through music, charm, and social magic. They draw from the standard Bard spell list but are restricted to spells available within their MP pool and level range.
+Adventurers on the Minstrel path access limited spellcasting through music, charm, and social magic. They draw from the Minstrel list below but are restricted to spells available within their MP pool and level range.
 
 **Spellcasting Ability:** Charisma
 **Access Level:** Limited. No spell access above 4th-level equivalent (see class table).
@@ -3245,18 +3242,18 @@ Spells marked with ✦ are Zelda-original spells found in the Spell Compendium.
 - Calm Emotions
 - Enthrall
 - Hold Person
-- Hypnotic Pattern
 - Invisibility
-- Major Image
 - See Invisibility
-- Sending
 - Silence
 - Zone of Truth
 ##### 3rd Level (4 MP)
 - Fear
+- Hypnotic Pattern
+- Major Image
 - Mass Healing Word
 - Nondetection
 - Plant Growth
+- Sending
 - Speak with Dead
 - Tongues
 ##### 4th Level (5 MP)
@@ -3302,7 +3299,6 @@ Spells marked with ✦ are Zelda-original spells found in the Spell Compendium.
 - Goodberry
 - Jump
 - Longstrider
-- Pass Without Trace
 - Snare
 - Speak with Animals
 ##### 2nd Level (3 MP)
@@ -3313,6 +3309,7 @@ Spells marked with ✦ are Zelda-original spells found in the Spell Compendium.
 - Lesser Restoration
 - Locate Animals or Plants
 - Locate Object
+- Pass Without Trace
 - Silence
 - Spike Growth
 ##### 3rd Level (4 MP)
@@ -3383,7 +3380,7 @@ You start with the following equipment, in addition to equipment granted by your
 |:---:|:---:|:---------------------------|:---:|:---:|
 | 1st | +2 | Demonic Might, Blight Engine | 2 | 6 |
 | 2nd | +2 | Blight Invocations | 2 | 8 |
-| 3rd | +2 | Spellcasting, Path of Dominion | 3 | 10 |
+| 3rd | +2 | Spellcasting, Blightbound Path | 3 | 10 |
 | 4th | +2 | Ability Score Improvement | 3 | 12 |
 | 5th | +3 | Extra Attack, Crushing Blows | 4 | 14 |
 | 6th | +3 | Malice Unbound, Path Feature | 4 | 16 |
@@ -3420,7 +3417,7 @@ You start with the following equipment, in addition to equipment granted by your
 |:-----:|:-----------:|:---------|:--------:|:----:|:----:|:--:|
 | 1st  | +2 | Demonic Might, Blight Engine  | 2 | 1 | 1st | 2  |
 | 2nd  | +2 | Blight Invocations            | 2 | 2 | 1st | 4  |
-| 3rd  | +2 | Spellcasting, Path of Dominion | 2 | 2 | 2nd | 6  |
+| 3rd  | +2 | Spellcasting, Blightbound Path | 2 | 2 | 2nd | 6  |
 | 4th  | +2 | Ability Score Improvement     | 3 | 2 | 2nd | 6  |
 | 5th  | +3 | Extra Attack, Crushing Blows  | 3 | 3 | 3rd | 12 |
 | 6th  | +3 | Malice Unbound, Path Feature  | 3 | 3 | 3rd | 12 |
@@ -3452,7 +3449,7 @@ Your body is a conduit of blight.
 \column
 
 #### 1st Level: Blight Engine (DPP)
-You generate **Demon Power Points (DPP)** through violence and suffering.
+You generate **Demonic Power Points (DPP)** through violence and suffering.
 
 - DPP starts at **0**
 - DPP resets to **0** on a short or long rest
@@ -3473,7 +3470,7 @@ You generate **Demon Power Points (DPP)** through violence and suffering.
 Damage is tracked cumulatively. Self-inflicted damage does not count. Damage tracked is reset upon a short/long rest.
 
 #### 3rd Level: Spellcasting
-You gain spellcasting fueled by **Demon Power Points (DPP)**.
+You gain spellcasting fueled by **Demonic Power Points (DPP)**.
 
 - **Spellcasting Ability:** Charisma
 - **Spell Lists:** Warlock and Paladin  
@@ -3673,7 +3670,7 @@ The Blightbound draws on the dark pact power of the Demon King, a fusion of Warl
 **Spellcasting Ability:** Charisma
 **Spell Lists:** Warlock and Paladin
 
-Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells compendium; all others are drawn from the standard 5e spell list or named variants thereof, and use standard 5e statistics unless the compendium provides a Hyrule-flavored version.
+Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendium; all others are drawn from the standard 5e spell list or named variants thereof, and use standard 5e statistics unless the compendium provides a Hyrule-flavored version.
 
 > **Spell Level Cap:** 6th level (Overchanneling required for spells above 5th level).
 
@@ -3684,7 +3681,7 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 \page
 
 {{spellList,wide
-##### Cantrips (1 MP)
+##### Cantrips (1 DPP)
 - Eldritch Blast ✦
 - Fire Bolt ✦
 - Mage Hand ✦
@@ -3695,7 +3692,7 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Toll the Dead
 - Booming Blade
 - Green-Flame Blade
-##### 1st Level (2 MP)
+##### 1st Level (2 DPP)
 - Abyssal Barrier ✦
 - Armor of Malevolence ✦
 - Burning Hands ✦
@@ -3712,10 +3709,11 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Searing Smite
 - Thunderous Smite
 - Wrathful Smite
-##### 2nd Level (3 MP)
+- Darkmantle Shroud ✦
+- Dreadform Mask ✦
+##### 2nd Level (3 DPP)
 - Blur ✦
 - Darkness ✦
-- Darkmantle Shroud ✦
 - Enthrall ✦
 - Hold Person ✦
 - Mirror Curse ✦
@@ -3729,10 +3727,10 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Levitate ✦
 - Shatter
 - Silence
-##### 3rd Level (4 MP)
+- Flaming Sphere ✦
+##### 3rd Level (4 DPP)
 - Animate Dead ✦
 - Bestow Curse ✦
-- Blight ✦
 - Counterspell ✦
 - Dispel Magic ✦
 - Fear ✦
@@ -3744,12 +3742,13 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Remove Curse
 - Spirit Shroud
 - Summon Undead
-##### 4th Level (5 MP)
+- Fly ✦
+- Slow ✦
+##### 4th Level (5 DPP)
 - Confusion ✦
 - Dominate Beast ✦
 - Evard's Black Tentacles ✦
 - Fire Shield ✦
-- Flaming Sphere ✦
 - Greater Invisibility ✦
 - Hall of Lies ✦
 - Ice Storm ✦
@@ -3759,31 +3758,29 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Death Ward
 - Dimension Door
 - Staggering Smite
-##### 5th Level (6 MP)
+- Blight ✦
+- Wall of Fire ✦
+##### 5th Level (6 DPP)
 - Cloudkill ✦
 - Dominate Person ✦
 - Dream ✦
-- Fly ✦
 - Geas ✦
 - Hold Monster ✦
 - Insect Plague ✦
-- Dreadform Mask ✦
-- Slow ✦
-- Wall of Fire ✦
 - Antilife Shell
 - Destructive Wave
 - Dispel Evil and Good
 - Scrying
-##### 6th Level (7 MP)
+- Telekinesis ✦
+- Wall of Force ✦
+- Wall of Stone ✦
+##### 6th Level (7 DPP)
 - Blade Barrier
 - Circle of Death
 - Flesh to Stone
 - Globe of Invulnerability
 - Harm
-- Telekinesis ✦
 - True Seeing
-- Wall of Force ✦
-- Wall of Stone ✦
 - Power Word Stun
 - Power Word Kill
 }}
@@ -3917,7 +3914,7 @@ Choose one Fighting Style:
 - **Defense.** +1 AC while wearing armor  
 - **Dueling.** +2 damage with a one-handed weapon  
 - **Great Weapon Fighting.** Reroll 1s and 2s on damage dice with two-handed weapons  
-- **Blessed Warrior.** Learn two Cleric cantrips, using Charisma as your spellcasting ability. If you take this style before you gain Magic Points at 3rd level, you have an MP pool of 2 at 1st and 2nd level, usable only for these cantrips  
+- **Blessed Warrior.** Learn two Champion-list cantrips, using Charisma as your spellcasting ability. If you take this style before you gain Magic Points at 3rd level, you have an MP pool of 2 at 1st and 2nd level, usable only for these cantrips  
 - **Archery.** +2 bonus to attack rolls with ranged weapons  
 
 #### 2nd Level: Heroic Presence
@@ -4102,7 +4099,7 @@ Champions are warriors empowered by the goddesses to channel divine force in bat
 **Spellcasting Ability:** Charisma
 **Spell Lists:** Cleric and Paladin
 
-Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells compendium; all others are drawn from the standard 5e spell list or named variants thereof, and use standard 5e statistics unless the compendium provides a Hyrule-flavored version.
+Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendium; all others are drawn from the standard 5e spell list or named variants thereof, and use standard 5e statistics unless the compendium provides a Hyrule-flavored version.
 
 {{footnote Classes | Champion }}
 
@@ -4499,7 +4496,7 @@ The Goddess Chanter channels divine magic through music, voice, and sacred reson
 **Spellcasting Ability:** Charisma
 **Spell Compendium:** see the **Spell Compendium** chapter of this book
 
-Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells compendium; all others are drawn from the standard 5e spell list or named variants thereof, and use standard 5e statistics unless the compendium provides a Hyrule-flavored version.
+Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendium; all others are drawn from the standard 5e spell list or named variants thereof, and use standard 5e statistics unless the compendium provides a Hyrule-flavored version.
 
 > **Spell Level Cap:** 9th level (Overchanneling required for spells above 5th level).
 
@@ -4516,7 +4513,6 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Toll the Dead
 - Word of Radiance
 ##### 1st Level (2 MP)
-- Aid ✦
 - Bane ✦
 - Bless ✦
 - Charm Person ✦
@@ -4535,29 +4531,28 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Shield of Faith ✦
 - Speak with Animals
 - Dissonant Whispers
+- Hymn of Soaring ✦
 ##### 2nd Level (3 MP)
 - Calm Emotions ✦
 - Detect Thoughts ✦
 - Enhance Ability ✦
 - Enthrall ✦
 - Hold Person ✦
-- Hymn of Soaring ✦
 - Lesser Restoration ✦
 - Locate Object ✦
 - Mirror Chorus ✦
 - Prayer of Healing ✦
 - See Invisibility ✦
-- Sending ✦
 - Silence ✦
 - Warding Bond ✦
 - Zone of Truth ✦
 - Spiritual Weapon
 - Shatter
+- Aid ✦
 ##### 3rd Level (4 MP)
 - Beacon of Hope ✦
 - Daylight ✦
 - Dispel Magic ✦
-- Harmonic Communion ✦
 - Hymn of Entrancement ✦
 - Judgment Hymn ✦
 - Luminous Vision ✦
@@ -4566,8 +4561,9 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Protection from the Elements ✦
 - Remove Curse ✦
 - Revivify ✦
-- Stone Shape ✦
 - Tongues ✦
+- Sending ✦
+- Sanctum of Song ✦
 ##### 4th Level (5 MP)
 - Banishment ✦
 - Compulsion ✦
@@ -4581,7 +4577,7 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Guardian of Faith ✦
 - Locate Creature ✦
 - Sacred Transformation ✦
-- Sanctum of Song ✦
+- Stone Shape ✦
 ##### 5th Level (6 MP)
 - Commune ✦
 - Dispel Evil and Good ✦
@@ -4598,9 +4594,10 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Raise Dead ✦
 - Scrying ✦
 - Wall of Force ✦
-##### 6th Level (7 MP)
+- Harmonic Communion ✦
 - Circle of Power
 - Destructive Wave
+##### 6th Level (7 MP)
 - Find the Path
 - Heal
 - Heroes' Feast
@@ -4772,7 +4769,7 @@ Only the **Fracturing Hex** deals damage on its own. Path features and other abi
 - You gain double proficiency on Arcana checks related to ancient or forbidden magic.
 - You can sense invisible or ethereal creatures within 30 feet (no action).
 
-#### 3rd Level: Path of the Interloper
+#### 3rd Level: Interloper Path
 At 3rd level, you choose a path that shapes your thirst for power:
 
 - **Cyclone Tyrant**
@@ -4975,7 +4972,7 @@ The Interloper draws from the art of the Twilight Realm: a blend of illusion, en
 **Spell Compendium:** see the **Spell Compendium** chapter of this book
 **Spell Focus:** Illusion, Enchantment, Transmutation, Divination
 
-Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells compendium; all others are drawn from the standard 5e spell list or named variants thereof, and use standard 5e statistics unless the compendium provides a Hyrule-flavored version.
+Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendium; all others are drawn from the standard 5e spell list or named variants thereof, and use standard 5e statistics unless the compendium provides a Hyrule-flavored version.
 
 {{footnote Classes | Interloper }}
 
@@ -4998,7 +4995,6 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Charm Person ✦
 - Comprehend Languages ✦
 - Detect Magic ✦
-- Detect Thoughts ✦
 - Disguise Self ✦
 - Expeditious Retreat ✦
 - Mage Armor ✦
@@ -5009,6 +5005,7 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Silent Image ✦
 - Sleep ✦
 - Unseen Servant ✦
+- Hex ✦
 ##### 2nd Level (3 MP)
 - Arcane Lock ✦
 - Blur ✦
@@ -5021,11 +5018,10 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Mirror Image ✦
 - Misty Step ✦
 - Phantasmal Force ✦
-- Sending ✦
 - Silence
 - Suggestion ✦
-- Arcane Eye ✦
 - Shatter (Spatial Fracture) ✦
+- Detect Thoughts ✦
 ##### 3rd Level (4 MP)
 - Bestow Curse ✦
 - Clairvoyance ✦
@@ -5034,17 +5030,15 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Fear ✦
 - Fly ✦
 - Gaseous Form ✦
-- Hex ✦
 - Hypnotic Pattern ✦
-- Noctifex ✦
 - Nondetection ✦
 - Tongues ✦
+- Sending ✦
 ##### 4th Level (5 MP)
 - Banishment ✦
 - Blight ✦
 - Confusion ✦
 - Divination ✦
-- Dream ✦
 - Greater Invisibility ✦
 - Hallucinatory Terrain ✦
 - Locate Creature ✦
@@ -5052,6 +5046,7 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Polymorph ✦
 - Shadow-Forged Flesh ✦
 - Wall of Fire (Cyclone) ✦
+- Arcane Eye ✦
 ##### 5th Level (6 MP)
 - Dominate Person ✦
 - Geas ✦
@@ -5063,11 +5058,13 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Seeming ✦
 - Wall of Stone ✦
 - Wall of Force ✦
+- Noctifex ✦
+- Dream ✦
+- Telekinesis
 ##### 6th Level (7 MP)
 - Chain Lightning
 - Flesh to Stone
 - Magic Jar
-- Telekinesis
 - True Seeing
 ##### 7th Level (8 MP)
 - Etherealness
@@ -5553,7 +5550,7 @@ You regain Focus Points in the following ways, up to your maximum:
 
 \page
 
-- Once per turn, when you hit a creature you have marked or analyzed: **+1 FP**
+- Once per turn, when you hit a creature you have marked: **+1 FP**
 - When you score a critical hit: **+1 FP**
 - When a creature you damaged drops to 0 HP: **+1 FP**
 
@@ -5613,7 +5610,7 @@ After hitting a creature:
 - Make one additional weapon attack against the same target as part of the same action
 
 #### 3rd Level: Ranger Paths
-At 3rd Level you pick one of the four below Ranger Paths;
+At 3rd level, you choose one of the four Ranger Paths below:
 
 - **Beastmaster**
 - **Shadow Scout**
@@ -5871,7 +5868,6 @@ The Ranger draws from a focused well of survival, exploration, and battlefield-c
 - Hunter's Mark
 - Jump
 - Longstrider
-- Pass Without Trace
 - Snare
 - Speak with Animals
 ##### 2nd Level (3 MP)
@@ -5885,6 +5881,7 @@ The Ranger draws from a focused well of survival, exploration, and battlefield-c
 - Locate Object
 - Silence
 - Spike Growth
+- Pass Without Trace
 ##### 3rd Level (4 MP)
 - Conjure Animals
 - Conjure Barrage
@@ -6034,7 +6031,7 @@ As a bonus action, choose one:
 - **Guided Casting:** Reroll one spell attack roll  
 - **Soothing Aura:** Allies within 10 feet gain 1d4 temporary hit points  
 
-#### 1st Level: Sage Insight
+#### 2nd Level: Sage Insight
 You have advantage on Arcana and History checks related to ancient magic, ruins, or divine artifacts.
 
 #### 5th Level: Empowered Blessings
@@ -6047,7 +6044,7 @@ At 7th level, choose a second affinity.
 
 #### 9th Level: Triforce Resonance
 At 9th level, once per long rest, choose one:
-- **Power:** +CHA or INT modifier to spell damage for 1 minute  
+- **Power:** +INT or WIS modifier to spell damage for 1 minute  
 - **Wisdom:** Regain MP equal to your proficiency bonus  
 - **Courage:** Automatically succeed on one saving throw  
 
@@ -6154,7 +6151,7 @@ The Sage channels the ancient elemental and spiritual magic of Hyrule's sages, f
 **Spell Compendium:** see the **Spell Compendium** chapter of this book
 **Subclass Bonus:** A Sage's Elemental Affinity and Oracle Path may grant additional spells at the DM's discretion, drawn from anywhere in the Spell Compendium. See **Unassigned Spells** at the end of that chapter for a pool written for exactly this purpose.
 
-Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells compendium; all others are drawn from the standard 5e spell list or named variants thereof, and use standard 5e statistics unless the compendium provides a Hyrule-flavored version.
+Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendium; all others are drawn from the standard 5e spell list or named variants thereof, and use standard 5e statistics unless the compendium provides a Hyrule-flavored version.
 
 {{footnote Classes | Sage }}
 
@@ -6182,7 +6179,6 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 ##### 1st Level (2 MP)
 - Absorb Elements
 - Alarm (Spiritual Ward) ✦
-- Alter Self ✦
 - Burning Hands
 - Chromatic Orb
 - Color Spray
@@ -6198,6 +6194,7 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Shield
 - Thunderwave
 - Witch Bolt
+- Create or Destroy Water
 ##### 2nd Level (3 MP)
 - Blur
 - Continual Flame
@@ -6219,22 +6216,15 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Silence
 - Spider Climb
 - Spike Growth
+- Alter Self ✦
 ##### 3rd Level (4 MP)
 - Animate Dead ✦
-- Arcane Eye ✦
-- Banishment ✦
 - Bestow Curse
-- Blight ✦
 - Call Lightning
 - Clairvoyance ✦
-- Confusion
-- Control Water ✦
 - Counterspell
-- Create or Destroy Water
 - Daylight ✦
-- Death Ward
 - Dispel Magic
-- Dominate Person
 - Erupting Earth
 - Fireball
 - Fly ✦
@@ -6242,10 +6232,8 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Glyph of Warding
 - Haste
 - Hypnotic Pattern
-- Ice Storm ✦
 - Lightning Bolt
 - Meld into Stone
-- Polymorph
 - Remove Curse ✦
 - Sending ✦
 - Sleet Storm ✦
@@ -6253,17 +6241,22 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Speak with Dead
 - Speak with Plants
 - Spirit Guardians ✦
-- Stone Shape ✦
-- Stoneskin
 - Thunder Step
 - Tongues
-- Wall of Fire
 - Wall of Water
 - Wind Wall
 ##### 4th Level (5 MP)
-- Earthquake
-- Heal
-- Storm of Vengeance
+- Arcane Eye ✦
+- Banishment ✦
+- Blight ✦
+- Confusion
+- Control Water ✦
+- Death Ward
+- Ice Storm ✦
+- Polymorph
+- Stone Shape ✦
+- Stoneskin
+- Wall of Fire
 ##### 5th Level (6 MP)
 - Animate Objects
 - Awaken
@@ -6280,6 +6273,7 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Telekinesis
 - Wall of Force
 - Wall of Stone
+- Dominate Person
 ##### 6th Level (7 MP)
 - Chain Lightning
 - Circle of Death
@@ -6289,6 +6283,7 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Magic Jar
 - Move Earth
 - True Seeing
+- Heal
 ##### 7th Level (8 MP)
 - Fire Storm
 - Finger of Death
@@ -6304,6 +6299,7 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Maze
 - Power Word Stun
 - Sunburst
+- Earthquake
 ##### 9th Level (10 MP)
 - Foresight
 - Gate
@@ -6314,6 +6310,7 @@ Spells marked with ✦ are **Zelda-original spells** found in the Zelda Spells c
 - Time Stop
 - True Polymorph
 - Wish
+- Storm of Vengeance
 }}
 
 {{footnote Classes | Sage }}
@@ -6545,7 +6542,7 @@ If you would apply a third Mark, you choose which existing Mark ends.
 You can set two elements against each other at once.
 
 - When you trigger an Elemental Reaction against a creature carrying two of your Marks (see **Dual Mark**), you may spend **2 MP** to immediately trigger a second valid Elemental Reaction against that creature using its remaining Mark.
-- This is the one exception to the rule that a creature can only trigger one Elemental Reaction per turn. A creature still cannot be affected by the *same* Elemental Reaction twice in a turn.
+- This is an exception to the rule that a creature can only trigger one Elemental Reaction per turn. A creature still cannot be affected by the *same* Elemental Reaction twice in a turn.
 - **Elemental Flow** refunds MP for only one Elemental Reaction per turn, as normal, so the second one always costs you 2 MP net.
 
 #### 15th Level: Elemental Cascade
@@ -6805,6 +6802,7 @@ The Shaman channels the voice of the spirit world: ancestral memory, elemental t
 
 {{spellList,wide
 ##### Cantrips (1 MP)
+- Create Bonfire
 - Druidcraft
 - Frostbite
 - Guidance
@@ -6821,7 +6819,6 @@ The Shaman channels the voice of the spirit world: ancestral memory, elemental t
 - Animal Friendship
 - Animal Messenger
 - Beast Bond
-- Create Bonfire
 - Cure Wounds
 - Detect Magic
 - Detect Poison and Disease
@@ -6853,25 +6850,26 @@ The Shaman channels the voice of the spirit world: ancestral memory, elemental t
 - Sleet Storm
 - Speak with Dead
 - Speak with Plants
-- Stone Shape
-- Wall of Fire
 - Wind Wall
 ##### 4th Level (5 MP)
-- Conjure Elemental
 - Death Ward
 - Divination
 - Freedom of Movement
 - Guardian of Faith
 - Ice Storm
 - Locate Creature
+- Stone Shape
 - Stoneskin
+- Wall of Fire
 ##### 5th Level (6 MP)
 - Awaken
+- Conjure Elemental
 - Commune
 - Greater Restoration
 - Insect Plague
 - Legend Lore
 - Mass Cure Wounds
+- Reincarnate
 - Scrying
 - Tree Stride
 - Wall of Stone
@@ -6884,7 +6882,6 @@ The Shaman channels the voice of the spirit world: ancestral memory, elemental t
 - Heal
 - Heroes' Feast
 - Move Earth
-- Reincarnate
 - True Seeing
 - Wall of Thorns
 ##### 7th Level (8 MP)
@@ -6932,7 +6929,7 @@ As a Veilblade, you gain the following class features.
 ### Hit Points
 - **Hit Die:** 1d8 per Veilblade level  
 - **Hit Points at 1st Level:** 8 + your Constitution modifier  
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier  
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per Veilblade level after 1st  
 
 ---
 
@@ -6959,7 +6956,7 @@ You start with the following equipment, in addition to equipment granted by your
 #### Veilblade
 | Level | Prof. | Features | SP | Max Energy | Sneak Strike |
 |:---:|:---:|:---------------------------|:---:|:---:|:---:|
-| 1st | +2 | Sneak Strike, Tactical Precision | 4 | 3 | 1d6 |
+| 1st | +2 | Sneak Strike, Tactical Precision | 4 | — | 1d6 |
 | 2nd | +2 | Energy Pool, Special Attacks | 6 | 3 | 1d6 |
 | 3rd | +2 | Rogue Path | 8 | 4 | 1d6 |
 | 4th | +2 | Ability Score Improvement | 10 | 4 | 1d6 |
@@ -7089,7 +7086,7 @@ Conditions only count if **you** applied them.
 | **Crippling Strike** | Slowed | Target falls **Prone** (DEX save negates) | Gain advantage on your next melee attack |
 | **Hemorrhage** | Bleeding | Increase bleed to 1d6 and extend 1 round | Regain 1 Energy |
 | **Dazing Blow** | Dazed | Target becomes **Stunned** until end of its next turn (1/combat) | Add Tactician mod to damage |
-| **Venom Cut** | Poisoned | Target has disadvantage on saving throws until end of its next turn | You gain advantage on next attack |
+| **Venom Cut** | Poisoned | Target has disadvantage on its next saving throw before end of its next turn | You gain advantage on next attack |
 | **Shadow Feint** | Any Condition | Deal +1d6 additional damage | Does not count against 1/turn Special Attack limit |
 | **Mark for Death** | Any Condition | Target's resistances are suppressed for 2 rounds | Regain 1 Energy (max once per turn) |
 }}
@@ -7242,7 +7239,7 @@ In addition, attacks of opportunity against you have disadvantage.
 
 #### 10th Level: Untouchable Flow
 
-When a creature misses you with an attack, you may use your reaction to immediately use Step Between Shadows, even if you have no light requirement met at your destination (you may teleport into an unlit space normally inaccessible to this feature).
+When a creature misses you with an attack, you may use your reaction to immediately use Step Between Shadows, even if the light requirement is not met at your destination (you may teleport into a brightly lit space normally inaccessible to this feature).
 
 \column
 
@@ -7653,7 +7650,7 @@ You know the rhythms of city life and can spot when something is wrong before mo
 \column
 
 |**Suggested Characteristics**||
-| d6 | Personality Trait |
+| d6 | Ideal |
 |:--|:--|
 | 1 | **Order.** A kingdom without law is a kingdom that devours itself. (Lawful) |
 | 2 | **Justice.** Everyone deserves fair treatment, noble and commoner alike. (Good) |
@@ -7774,7 +7771,7 @@ You master fighting with two weapons, gaining the following benefits:
 ### Dungeon Delver
 **Prerequisite:** None
 
-Alert to the hidden traps and secret doors found in many ancient ruins and ancient ruins across Hyrule, you gain the following benefits:
+Alert to the hidden traps and secret doors found in many dungeons and ancient ruins across Hyrule, you gain the following benefits:
 
 - You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors.
 - You have advantage on saving throws made to avoid or resist traps.
@@ -7938,7 +7935,7 @@ Your spellcasting ability for these spells depends on the class you chose: Chari
 
 You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
 
-- You learn two **Special Attacks** of your choice from the **Special Attacks** list in the Veilblade Combo Reference.
+- You learn two **Special Attacks** of your choice from the **Special Attacks** list in the Veilblade class.
 - You gain **2 Energy**, which you spend to use them, exactly as a Veilblade does. Each Special Attack costs 1 Energy, and you may use only one per turn. You regain all spent Energy when you finish a short or long rest, and at the end of any combat.
 - If you are a Veilblade, you instead add 1 to your maximum Energy and learn two additional Special Attacks.
 - Your save DC for these Special Attacks is **8 + your proficiency bonus + your Strength, Dexterity, or Intelligence modifier**, chosen when you take this feat.
@@ -8176,7 +8173,7 @@ MP costs follow the Spell Chart Conversion: Cantrips 1 MP, 1st-level 2 MP, 2nd-l
 
 ### Absorb Elements
 **School:** Abjuration
-**MP Cost:** 3
+**MP Cost:** 2
 **Casting Time:** 1 Reaction (when you take acid, cold, fire, lightning, or thunder damage)
 **Range:** Self
 **Duration:** 1 round
@@ -8271,7 +8268,7 @@ You charm one beast of CR 1 or lower. The target must succeed on a Wisdom saving
 
 \page
 
-*Common among Ranger-path Adventurers and those who have spent time among the wildlife of Faron, Lanayru, or the Akkala highlands.*
+*Common among Wild Scout Adventurers and those who have spent time among the wildlife of Faron, Lanayru, or the Akkala highlands.*
 
 ### Animal Messenger
 **School:** Enchantment (Ritual)
@@ -8298,9 +8295,9 @@ You raise the remains of a corpse within range as a skeleton or zombie under you
 
 *Spend an additional 2 MP to animate or reassert control over additional creatures.*
 
-**Drowned Servants (Zora Tidecaller variant):** The undead rise as bloated or coral-crusted spirits, their movements rippling unnaturally as though still underwater.
+**Drowned Servants (Zora variant):** The undead rise as bloated or coral-crusted spirits, their movements rippling unnaturally as though still underwater.
 
-**Animate Dead (Cursed Sandbound) (Gerudo Sandreaver variant):** The dead rise wrapped in dry sand, their bones bleached pale, moving with the stiff deliberateness of desert mummies.
+**Animate Dead (Cursed Sandbound) (Gerudo variant):** The dead rise wrapped in dry sand, their bones bleached pale, moving with the stiff deliberateness of desert mummies.
 
 *Blightbound command these servants with cursed loyalty, their eyes glowing red; Interlopers infuse them with twilight energy, eyes shimmering violet.*
 
@@ -8344,7 +8341,7 @@ A 10-foot-radius sphere of antimagic surrounds you and moves with you. Within th
 
 ### Antipathy/Sympathy
 **School:** Enchantment
-**MP Cost:** 6
+**MP Cost:** 9
 **Casting Time:** 1 Hour
 **Range:** 60 feet
 **Duration:** 10 days
@@ -8356,7 +8353,7 @@ You designate an object or area and choose to generate an **Antipathy** or **Sym
 
 **Sympathy:** Designate a creature type. Affected creatures feel irresistibly drawn to the object or area and must succeed on a Wisdom saving throw to leave its vicinity.
 
-*Used by Deku Thornweavers to protect ancient groves and sacred trees.*
+*Used by Deku thornweavers to protect ancient groves and sacred trees.*
 
 ### Arcane Eye
 *(Also: Arcane Eye (Surveillance Orb))*
@@ -8375,7 +8372,7 @@ You designate an object or area and choose to generate an **Antipathy** or **Sym
 
 You conjure an invisible magical eye that floats freely up to 30 feet per turn and can move through openings as small as 1 inch. You see through it using your normal senses (including darkvision). The eye cannot attack, but it can observe in magical darkness and transmit everything it sees back to you.
 
-**Surveillance Orb (Sheikah Phantom variant):** Manifests as a Sheikah-tech floating sensor, a glowing sapphire-blue eye that blinks into existence and tethers to you by a thread of light.
+**Surveillance Orb (Sheikah variant):** Manifests as a Sheikah-tech floating sensor, a glowing sapphire-blue eye that blinks into existence and tethers to you by a thread of light.
 
 **Interloper version:** Appears as a slit-pupiled void eye that blinks into existence, tethered by a thread of shadow.
 
@@ -8390,7 +8387,7 @@ You conjure an invisible magical eye that floats freely up to 30 feet per turn a
 
 You touch a closed door, window, gate, chest, or other entryway and inscribe a ward. It becomes magically locked. You and any creatures you designate may open it normally. Knock suppresses the lock for 1 minute. Otherwise, a DC 25 Strength check or Dispel Magic is required.
 
-**Windseal Bind (Rito Marksman variant):** The seal manifests as compressed wind, an invisible pressure that hisses when tested, with faint feather-shaped glyphs at the corners.
+**Windseal Bind (Rito variant):** The seal manifests as compressed wind, an invisible pressure that hisses when tested, with faint feather-shaped glyphs at the corners.
 
 *Interlopers seal with runes that shimmer briefly then vanish, as if reality has accepted the door as forever shut.*
 
@@ -8457,7 +8454,7 @@ You emanate an aura of healing energy. For the duration, you can use a bonus act
 
 After spending 8 hours performing a ritual, you grant sentience to a plant or beast you touch. It gains Intelligence 10, can speak one language you know, and becomes a creature of its own will, neither bound to you nor hostile by default. If the awakened creature is a plant, it gains the ability to move using a walking speed.
 
-*Deku Thornweavers use this to awaken ancient trees as guardians or sages. It is said the Great Deku Tree itself was awakened in this way in Hyrule's earliest era.*
+*Deku thornweavers use this to awaken ancient trees as guardians or sages. It is said the Great Deku Tree itself was awakened in this way in Hyrule's earliest era.*
 
 ### Bane
 **School:** Enchantment
@@ -8492,9 +8489,9 @@ Up to three creatures must make Charisma saving throws. On a failure, they subtr
 
 You attempt to send a creature to another plane. On a failed Charisma saving throw, the target is banished. If it is not native to this plane and you maintain concentration for the full duration, it does not return.
 
-**Sacred Exile (Zora Tidecaller variant):** You raise your hand, summoning the sacred tides to wash away those who don't belong. The target is cast into a pocket of turbulent extradimensional water if it fails.
+**Sacred Exile (Zora variant):** You raise your hand, summoning the sacred tides to wash away those who don't belong. The target is cast into a pocket of turbulent extradimensional water if it fails.
 
-**Shadow Banish (Sheikah Phantom variant):** A shadow-fold engulfs the target. The creature vanishes into a collapsing echo of itself, swallowed by a ripple of darkness.
+**Shadow Banish (Sheikah variant):** A shadow-fold engulfs the target. The creature vanishes into a collapsing echo of itself, swallowed by a ripple of darkness.
 
 *A golden ring of light encircles the target when cast by a Champion or Goddess Chanter; Interlopers collapse the air inward as the creature vanishes.*
 
@@ -8508,7 +8505,7 @@ You attempt to send a creature to another plane. On a failed Charisma saving thr
 
 You touch a willing creature whose skin roughens to bark-like hardness. The target's AC cannot be lower than 16, regardless of armor or Dexterity, for the duration.
 
-*Common among Rangers and Deku Thornweavers who call on the forest's resilience.*
+*Common among Rangers and Deku thornweavers who call on the forest's resilience.*
 
 ### Beacon of Hope
 **School:** Abjuration
@@ -8534,7 +8531,7 @@ Targets glow faintly with a golden aura, like light filtered through sacred wate
 
 You establish a telepathic link with one beast you touch. For the duration, you can use a bonus action to see through its eyes and hear what it hears. The beast must have Intelligence 3 or lower. While perceiving through its senses, you are deaf and blind with regard to your own senses.
 
-*Ranger-path Adventurers and Deku Thornweavers use this to scout ahead through companion animals.*
+*Wild Scout Adventurers and Deku thornweavers use this to scout ahead through companion animals.*
 
 ### Beast Sense
 **School:** Divination (Ritual)
@@ -8596,7 +8593,7 @@ You create a vertical wall of whirling, razor-sharp blades made of magical force
 
 You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
 
-*Sheikah Phantoms use this as a split-second defensive technique trained into muscle memory.*
+*Sheikah phantoms use this as a split-second defensive technique trained into muscle memory.*
 
 ### Bless
 **School:** Enchantment
@@ -8627,7 +8624,7 @@ You drain the moisture and vitality from a creature or plant. The target must ma
 
 \column
 
-**Blight (Venombark) (Deku Thornweaver variant):** The spell manifests as a surge of dark venom through wood and root. The spell wilts leaves, blackens bark, and withers flesh, as if aging the target by decades in seconds.
+**Blight (Venombark) (Deku variant):** The spell manifests as a surge of dark venom through wood and root. The spell wilts leaves, blackens bark, and withers flesh, as if aging the target by decades in seconds.
 
 ### Blinding Smite
 *(Also: Blinding Smite (Explosion of Cinder))*
@@ -8640,7 +8637,7 @@ You drain the moisture and vitality from a creature or plant. The target must ma
 
 The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon blazes with intense light. The attack deals an extra 3d8 radiant damage and the target must succeed on a Constitution saving throw or be blinded until the spell ends.
 
-**Explosion of Cinder (Goron Juggernaut variant):** The weapon erupts in a burst of superheated cinders on impact, burning eyes and scorching the air. The blinding ash lingers until the target succeeds on the saving throw.
+**Explosion of Cinder (Goron variant):** The weapon erupts in a burst of superheated cinders on impact, burning eyes and scorching the air. The blinding ash lingers until the target succeeds on the saving throw.
 
 ### Blur
 **School:** Illusion
@@ -8652,7 +8649,7 @@ The next time you hit a creature with a melee weapon attack during this spell's 
 
 Your form distorts and shifts. For the duration, any creature has disadvantage on attack rolls against you unless it can see through illusions (such as with truesight).
 
-*Interlopers manifest as a veil of shifting twilight; Gerudo Sandreavers blur into heat mirages; Blightbound cast shadow-warped echoes of themselves.*
+*Interlopers manifest as a veil of shifting twilight; Gerudo sandreavers blur into heat mirages; Blightbound cast shadow-warped echoes of themselves.*
 
 ### Booming Blade
 **School:** Evocation
@@ -8694,7 +8691,7 @@ You exhale a blast of flame. Each creature in a 15-foot cone must make a Dexteri
 
 *Spend an additional 2 MP to add 1d6 damage.*
 
-*Blightbound channel this as demonic hellfire; Gerudo Sandreavers invoke Flames of Din, a focused burst of the goddess of power's sacred heat. Goron Juggernauts release it as a gust of volcanic breath.*
+*Blightbound channel this as demonic hellfire; Gerudo sandreavers invoke Flames of Din, a focused burst of the goddess of power's sacred heat. Goron juggernauts release it as a gust of volcanic breath.*
 
 ### Call Lightning
 **School:** Conjuration
@@ -8709,7 +8706,7 @@ A storm cell appears overhead (or a pre-existing storm intensifies). When you ca
 
 *Spend 2 additional MP to increase the damage by 1d10.*
 
-*Wind and Spirit Sages invoke this through ancient elemental rituals; Rito Marksmen channel it through the natural storm systems of Hyrule's high peaks.*
+*Wind and Spirit Sages invoke this through ancient elemental rituals; Rito marksmen channel it through the natural storm systems of Hyrule's high peaks.*
 
 ### Calm Emotions
 **School:** Enchantment
@@ -8826,7 +8823,7 @@ Divine energy radiates from you, distorting and diffusing magical effects within
 
 You create an invisible sensor at a location within range that you can see or have visited, or at a specific location you can accurately describe. You choose to see or hear through the sensor for the duration.
 
-**Scrying Pool Vision (Zora Tidecaller variant):** You conjure a vision through a reflective surface: a pool, tide basin, or water mirror. The sensor appears as an invisible presence in that water, and the vision appears in your watery focus.
+**Scrying Pool Vision (Zora variant):** You conjure a vision through a reflective surface: a pool, tide basin, or water mirror. The sensor appears as an invisible presence in that water, and the vision appears in your watery focus.
 
 \column
 
@@ -8845,7 +8842,7 @@ You create an invisible sensor at a location within range that you can see or ha
 
 You conjure a 20-foot-radius sphere of sickly green gas that spreads around corners. The cloud heavily obscures the area and moves 10 feet away from you at the start of each of your turns. Creatures inside the cloud when it appears or starts their turn there must make a Constitution saving throw, taking 5d8 poison damage on a failed save or half as much on a success.
 
-**Toxic Dune Haze (Gerudo Sandreaver variant):** The cloud appears as a swirling mass of sand and toxic spores, tinted amber and reeking of decay, drifting like a desert mirage turned deadly.
+**Toxic Dune Haze (Gerudo variant):** The cloud appears as a swirling mass of sand and toxic spores, tinted amber and reeking of decay, drifting like a desert mirage turned deadly.
 
 *Blightbound manifest this as cursed decay flecked with ash and groaning whispers.*
 
@@ -8860,7 +8857,7 @@ You conjure a 20-foot-radius sphere of sickly green gas that spreads around corn
 
 A dazzling array of flashing, colored light springs from your hand. Roll 6d10; the total is how many hit points of creatures this spell can affect. Starting with the creature with the lowest current hit points in the cone, each creature affected is blinded until the end of your next turn. Subtract each creature's hit points from the total before moving to the next.
 
-*Bard-path Adventurers use this as a performance trick turned weapon; Sages of the Light Affinity produce it as a sacred prism burst.*
+*Minstrel Adventurers use this as a performance trick turned weapon; Sages of the Light Affinity produce it as a sacred prism burst.*
 
 ### Command
 **School:** Enchantment
@@ -8958,7 +8955,7 @@ You assault the minds of creatures in a 10-foot-radius sphere. Each creature mus
 
 You call forth fey spirits that take the form of beasts. Choose a combination of beasts whose total CR is 2 or lower (or one beast of CR 2 or lower). The summoned creatures act on their own initiative, are friendly to you, and remain for the duration.
 
-*Deku Thornweavers call woodland creatures; Ranger-path Adventurers summon plains animals or hunting birds they have befriended.*
+*Deku thornweavers call woodland creatures; Wild Scout Adventurers summon plains animals or hunting birds they have befriended.*
 
 ### Conjure Barrage
 **School:** Conjuration
@@ -8972,7 +8969,7 @@ You call forth fey spirits that take the form of beasts. Choose a combination of
 
 You throw a nonmagical weapon or fire a piece of nonmagical ammunition into the air and conjure copies of it, creating a rain of identical weapons. Each creature in a 60-foot cone must succeed on a Dexterity saving throw, taking 3d8 damage on a failed save or half as much on a success.
 
-*Rito Marksmen fan a single arrow into a sky-covering barrage, the signature of a trained aerial skirmisher.*
+*Rito marksmen fan a single arrow into a sky-covering barrage, the signature of a trained aerial skirmisher.*
 
 ### Conjure Elemental
 **School:** Conjuration
@@ -8992,7 +8989,7 @@ You call forth an elemental servant. Choose an area of air, earth, fire, or wate
 
 *Sages of matching elemental affinities communicate with these spirits more naturally; a Fire Sage's summoned fire elemental arrives with less coercion required.*
 
-### Conjure Woodland Beings ✦
+### Conjure Woodland Beings
 **School:** Conjuration
 **MP Cost:** 5
 **Casting Time:** 1 Action
@@ -9002,7 +8999,7 @@ You call forth an elemental servant. Choose an area of air, earth, fire, or wate
 
 You call upon the forest's spiritual denizens. You summon up to eight woodland spirits (Koroks, Deku Scrubs, or fey-touched forest creatures) of CR 1/4 or lower; up to four of CR 1/2; up to two of CR 1; or one of CR 2 or lower. The spirits are friendly to you and obey your commands.
 
-*Deku Thornweavers use this to call forest guardians and scout spirits. Ancient Koroks occasionally answer such calls from those they deem worthy.*
+*Deku thornweavers use this to call forest guardians and scout spirits. Ancient Koroks occasionally answer such calls from those they deem worthy.*
 
 ### Contagion
 *(Also: Contagion (Venombark))*
@@ -9017,7 +9014,7 @@ Your touch inflicts a disease. Make a melee spell attack. On a hit, the target i
 
 Choose from: Blinding Sickness, Filth Fever, Flesh Rot, Mindfire, Seizure, or Slimy Doom.
 
-**Contagion (Venombark) (Deku Thornweaver variant):** The disease manifests as dark veins spreading under the skin like the roots of a dying tree, smelling of rot and black water.
+**Contagion (Venombark) (Deku variant):** The disease manifests as dark veins spreading under the skin like the roots of a dying tree, smelling of rot and black water.
 
 ### Continual Flame
 **School:** Evocation
@@ -9043,7 +9040,7 @@ A flame, equivalent in brightness to a torch, springs forth from an object you t
 
 You take command of a massive volume of water in a 100-foot cube within range. Choose one of the following effects (as an action on each of your turns): **Redirect Flow.** Change the direction of water within the area. **Part Water.** Create a 100-foot trench. **Whirlpool.** Create a vortex that restrains creatures (Strength saving throw). **Flood Rise.** Raise the water level up to 20 feet.
 
-*Goddess Chanters perform this with harmonic hand gestures invoking aquatic blessings; Zora Tidecallers command tides like sacred conductors.*
+*Goddess Chanters perform this with harmonic hand gestures invoking aquatic blessings; Zora tidecallers command tides like sacred conductors.*
 
 ### Control Weather
 **School:** Transmutation
@@ -9067,7 +9064,7 @@ You take control of the weather within 5 miles for the duration. You must be out
 
 You take control of the wind in a 100-foot cube within range. Choose one of the following: **Gusts.** Creatures in the area must succeed on a Strength saving throw or be knocked prone. **Downdraft.** Strong downward air; flying creatures must make Strength saving throws or be knocked prone while flying. **Updraft.** Strong upward air; flying creatures gain advantage on checks and are harder to knock prone.
 
-*Wind Sages can sustain this effect through elemental attunement. Rito Marksmen use updrafts to elevate their shooting positions mid-battle.*
+*Wind Sages can sustain this effect through elemental attunement. Rito marksmen use updrafts to elevate their shooting positions mid-battle.*
 
 ### Cordon of Arrows
 **School:** Transmutation
@@ -9079,7 +9076,7 @@ You take control of the wind in a 100-foot cube within range. Choose one of the 
 
 You plant up to four pieces of nonmagical ammunition in the ground. Until the spell ends, whenever a creature other than you comes within 30 feet of the ammunition for the first time on a turn, one piece flies and makes a ranged spell attack. On a hit, the target takes 1d6 piercing damage. The ammunition is destroyed if a target is hit.
 
-*Ranger-path Adventurers and Rito Marksmen use this to secure campsites or funnel enemies through killzones.*
+*Wild Scout Adventurers and Rito marksmen use this to secure campsites or funnel enemies through killzones.*
 
 {{footnote Spell Compendium }}
 
@@ -9139,7 +9136,7 @@ You create 45 pounds of food and 30 gallons of water on the ground or in contain
 
 \column
 
-*Water Sages and Zora Tidecallers use this as a utility spell; in the Depths, it can clear patches of Gloom that rely on moisture.*
+*Water Sages and Zora tidecallers use this as a utility spell; in the Depths, it can clear patches of Gloom that rely on moisture.*
 
 ### Crown of Madness
 **School:** Enchantment
@@ -9190,7 +9187,7 @@ A soothing prayer or radiant note heals the wounded. A creature you touch regain
 
 You create up to four torch-sized lights within range. Each sheds dim light in a 10-foot radius. You can combine them into a glowing, vaguely humanoid form of Medium size. As a bonus action, you can move the lights up to 60 feet to a new location within range.
 
-*Bard-path Adventurers use these as performance elements; Sage Light Affinities summon sacred motes they can actually read by.*
+*Minstrel Adventurers use these as performance elements; Sage Light Affinities summon sacred motes they can actually read by.*
 
 {{footnote Spell Compendium }}
 
@@ -9319,7 +9316,7 @@ You sense the presence of magic within 30 feet of you. As an action, you can see
 
 You sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case.
 
-*Ranger-path Adventurers and Deku Thornweavers use this frequently in poisoned swamps and caves.*
+*Wild Scout Adventurers and Deku thornweavers use this frequently in poisoned swamps and caves.*
 
 ### Detect Thoughts
 **School:** Divination
@@ -9345,9 +9342,9 @@ You focus your will into a mental probe. Initially, you detect surface thoughts 
 
 You teleport yourself and optionally one willing creature to a location you can visualize or describe precisely within 500 feet. If the location is occupied, you take 4d6 force damage and fail to appear.
 
-**Skybound Leap (Rito Marksman variant):** You vanish mid-flight in a burst of compressed air and reappear at a target aerial position, leaving behind a faint wind-shear.
+**Skybound Leap (Rito variant):** You vanish mid-flight in a burst of compressed air and reappear at a target aerial position, leaving behind a faint wind-shear.
 
-**Volcanic Leap (Goron Juggernaut variant):** You launch yourself through a burst of superheated air and magma-smell, reappearing with a shockwave of heat.
+**Volcanic Leap (Goron variant):** You launch yourself through a burst of superheated air and magma-smell, reappearing with a shockwave of heat.
 
 *Interlopers fold reality like opening a curtain. Blightbound vanish in a spiral of red-black glyphs or a tearing flame of shadow.*
 
@@ -9401,7 +9398,7 @@ You choose a creature, object, or magical effect within range. Any spell of 3rd 
 
 You whisper a discordant melody audible only to one creature of your choice within range. It must succeed on a Wisdom saving throw or take 3d6 psychic damage and immediately use its reaction to move as far away from you as it can. A creature that is deafened automatically succeeds.
 
-*Bard-path Adventurers weaponize their musical training; Goddess Chanters deliver this as a sacred condemnation.*
+*Minstrel Adventurers weaponize their musical training; Goddess Chanters deliver this as a sacred condemnation.*
 
 {{footnote Spell Compendium }}
 
@@ -9595,7 +9592,7 @@ You send a message or illusion to a sleeping creature you are familiar with. You
 *Goddess Chanters use this for sacred visions of warning, hope, or judgment. Interlopers deliver threats and false prophecies. Blightbound use it for torment from a distance.*
 
 ### Drowned Servants ✦
-*(Renamed: Animate Dead, Zora Tidecaller variant)*
+*(Renamed: Animate Dead, Zora variant)*
 **School:** Necromancy
 **MP Cost:** 4
 **Casting Time:** 1 Minute
@@ -9607,7 +9604,7 @@ You call upon the souls of the drowned or those claimed by abyssal tides. You ra
 
 These servants resemble bloated or coral-crusted spirits, their movements rippling unnaturally as though still underwater.
 
-*Zora Tidecaller variant of Animate Dead.*
+*Zora variant of Animate Dead.*
 
 ### Druidcraft
 **School:** Transmutation
@@ -9629,7 +9626,7 @@ You channel a minor surge of nature magic, producing one of the following:
 - You create an instantaneous, harmless sensory effect: the rustle of leaves, a puff of wind, a distant bird call.
 - You light or snuff out a candle, a torch, or a small campfire.
 
-*A staple for Ranger-path Adventurers and Deku Thornweavers, the forest answering a quiet call.*
+*A staple for Wild Scout Adventurers and Deku thornweavers, the forest answering a quiet call.*
 
 ### Dust Devil
 **School:** Conjuration
@@ -9643,7 +9640,7 @@ You channel a minor surge of nature magic, producing one of the following:
 
 You conjure a 5-foot-tall, 5-foot-wide column of swirling sand and wind in a space you can see within range. The dust devil lasts for the spell's duration, and it moves up to 30 feet in a direction you choose at the start of each of your turns. Creatures that enter or start their turn in the same space must make a Strength saving throw, taking 1d8 bludgeoning damage on a failure, or half as much on a success. On a failed save, the creature is also pushed 10 feet away.
 
-*Gerudo Sandreavers and Wind Sages use this to harass and scatter enemy formations across open desert terrain.*
+*Gerudo sandreavers and Wind Sages use this to harass and scatter enemy formations across open desert terrain.*
 
 ### Earth Tremor
 **School:** Evocation
@@ -9657,7 +9654,7 @@ You conjure a 5-foot-tall, 5-foot-wide column of swirling sand and wind in a spa
 
 You cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, the creature takes 1d6 bludgeoning damage and is knocked prone. If the ground is loose earth or stone, it becomes difficult terrain until cleared.
 
-*Earth Sages and Goron Juggernauts can trigger this with a stomp, a fist strike on the ground, or a war cry that resonates through stone.*
+*Earth Sages and Goron juggernauts can trigger this with a stomp, a fist strike on the ground, or a war cry that resonates through stone.*
 
 ### Earthquake
 **School:** Evocation
@@ -9672,7 +9669,7 @@ You cause a tremor in the ground within range. Each creature other than you in t
 
 You create a seismic disturbance at a point on the ground you choose within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The tremor creates difficult terrain, causes concentration checks (DC 15), and may open fissures.
 
-*The signature catastrophic spell of Earth Sages who have fully mastered their element. Goron Juggernauts invoke it as the culmination of their geomantic power.*
+*The signature catastrophic spell of Earth Sages who have fully mastered their element. Goron juggernauts invoke it as the culmination of their geomantic power.*
 
 ### Eldritch Blast
 *(Also: Eldritch Blast (Twilight Bolt))*
@@ -9755,7 +9752,7 @@ You sing an aria that enhances a creature's natural gifts. Choose one ability sc
 
 **Reduce:** A creature or object halves in size. Its attacks deal 1d4 less damage (minimum 1), and it has disadvantage on Strength checks.
 
-*Earth Sages use this to grow stone constructs; Goron Juggernauts occasionally enlarge themselves to maximum intimidating effect.*
+*Earth Sages use this to grow stone constructs; Goron juggernauts occasionally enlarge themselves to maximum intimidating effect.*
 
 ### Entangle
 **School:** Conjuration
@@ -9768,7 +9765,7 @@ You sing an aria that enhances a creature's natural gifts. Choose one ability sc
 
 Grasping weeds and vines sprout from the ground in a 20-foot square within range. For the duration, these plants turn the area into difficult terrain. Each creature in the area at the time of casting must succeed on a Strength saving throw or be restrained. A creature restrained by the plants can use an action to make a Strength check (DC equal to your spell save DC) to free itself.
 
-*Deku Thornweavers summon these vines as extensions of the forest's will; Ranger-path Adventurers use them to deny retreat to fleeing foes.*
+*Deku thornweavers summon these vines as extensions of the forest's will; Wild Scout Adventurers use them to deny retreat to fleeing foes.*
 
 ### Enthrall
 **School:** Enchantment
@@ -9797,7 +9794,7 @@ You unleash a speech, melody, or chant infused with charismatic power. Creatures
 
 You choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity saving throw, taking 3d12 bludgeoning damage on a failed save or half as much on a success. The area is difficult terrain until cleared.
 
-*Earth Sages and Goron Juggernauts erupt this from the ground like a volcanic geyser, a favored terrain-denial tactic in tight corridors and dungeon floors.*
+*Earth Sages and Goron juggernauts erupt this from the ground like a volcanic geyser, a favored terrain-denial tactic in tight corridors and dungeon floors.*
 
 ### Etherealness
 **School:** Transmutation
@@ -9844,7 +9841,7 @@ The tentacles emerge from the ground, twisting and snapping like living shadows 
 
 You channel swiftness through your body, allowing you to Dash as a bonus action on each of your turns until the spell ends.
 
-*Interlopers blur into afterimages as they move; Sheikah Phantoms use this as a standard escape technique.*
+*Interlopers blur into afterimages as they move; Sheikah phantoms use this as a standard escape technique.*
 
 ### Fear
 **School:** Illusion
@@ -9857,7 +9854,7 @@ You channel swiftness through your body, allowing you to Dash as a bonus action 
 
 You unleash a terrifying illusion, pulling each creature's deepest fear from its mind. Every creature in a 30-foot cone must make a Wisdom saving throw or drop what it's holding and become frightened. While frightened, it must use the Dash action to move away on each turn.
 
-*Blightbound project a shadowy flaming silhouette of their patron; Interlopers show each target a looming shadow of their own failure; Bard-path Adventurers weaponize their knowledge of folk stories about Hyrule's worst horrors.*
+*Blightbound project a shadowy flaming silhouette of their patron; Interlopers show each target a looming shadow of their own failure; Minstrel Adventurers weaponize their knowledge of folk stories about Hyrule's worst horrors.*
 
 ### Feeblemind
 **School:** Enchantment
@@ -9884,9 +9881,9 @@ You blast the mind of a creature you can see within range. The target takes 4d6 
 
 Up to five falling creatures descend at 60 feet per round and take no damage from falling.
 
-**Dancer's Descent (Gerudo Sandreaver variant):** The caster descends in an elegant spinning arc, silk-light and controlled, landing in a combat-ready pose.
+**Dancer's Descent (Gerudo variant):** The caster descends in an elegant spinning arc, silk-light and controlled, landing in a combat-ready pose.
 
-**Skyguard Reflex (Rito Marksman variant):** Triggered as pure muscle memory mid-dive, the Rito spreads invisible wings of compressed air and glides safely to a new position.
+**Skyguard Reflex (Rito variant):** Triggered as pure muscle memory mid-dive, the Rito spreads invisible wings of compressed air and glides safely to a new position.
 
 *Also note: Hymn of Soaring is the Goddess Chanter's named version, five creatures descend on radiant wind currents trailing glimmers like feathers in sunlight.*
 
@@ -9930,7 +9927,7 @@ This spell allows you to find the shortest, most direct physical route to a spec
 
 You sense the presence of any trap within range that is within line of sight. A trap is defined as anything that would inflict a sudden or unexpected effect that was intended by its creator. You learn the general nature of the danger but not the precise mechanism.
 
-*Ranger-path Adventurers use this before scouting ahead in ruins; Sheikah Phantoms train this sense to near-reflex.*
+*Wild Scout Adventurers use this before scouting ahead in ruins; Sheikah phantoms train this sense to near-reflex.*
 
 ### Finger of Death
 **School:** Necromancy
@@ -9945,7 +9942,7 @@ You send negative energy coursing through one creature you can see within range,
 *Overchannel (Minor):* The zombie rises with maximum hit points.
 
 ### Fire Bolt
-*(Also: Fire Bolt (Lava Blast). Goron Juggernaut variant)*
+*(Also: Fire Bolt (Lava Blast). Goron variant)*
 **School:** Evocation
 **MP Cost:** 1 (Cantrip)
 **Casting Time:** 1 Action
@@ -9958,7 +9955,7 @@ You launch a mote of fire. Make a ranged spell attack. On a hit, the target take
 
 The damage increases to 2d10 at 5th level, 3d10 at 11th, and 4d10 at 17th.
 
-*Blightbound channel this as infernal flame glowing with unholy crimson; Din's Fire Sages invoke the goddess's sacred heat; Goron Juggernauts produce a dense lava blob that splatters on impact.*
+*Blightbound channel this as infernal flame glowing with unholy crimson; Din's Fire Sages invoke the goddess's sacred heat; Goron juggernauts produce a dense lava blob that splatters on impact.*
 
 ### Fire Shield
 *(Also: Fire Shield (Shadowflame Version))*
@@ -10042,7 +10039,7 @@ You call down a pillar of crackling fire from above. Each creature in a 10-foot 
 
 You conjure a 5-foot-diameter sphere of fire at a point within range. Creatures that end their turn within 5 feet must make a Dexterity saving throw or take 2d6 fire damage. You can move the sphere up to 30 feet as a bonus action. The sphere sheds bright light in a 20-foot radius.
 
-**Magma Orb (Goron Juggernaut variant):** The sphere is a dense rolling ball of superheated basalt and magma that scorches the ground in its wake, leaving a trail of molten rock.
+**Magma Orb (Goron variant):** The sphere is a dense rolling ball of superheated basalt and magma that scorches the ground in its wake, leaving a trail of molten rock.
 
 *Blightbound roll this like a burning soul fragment, leaving scorched glyphs in its wake.*
 
@@ -10070,7 +10067,7 @@ You attempt to turn one creature you can see within range into stone. If the tar
 
 You grant the power of flight to a willing creature. The target gains a flying speed of 60 feet and can hover.
 
-**Storm Dancer's Leap (Gerudo Sandreaver variant):** The caster launches skyward on columns of hot desert air and whirling sand, holding position with elegant combat stances as the winds bear them up.
+**Storm Dancer's Leap (Gerudo variant):** The caster launches skyward on columns of hot desert air and whirling sand, holding position with elegant combat stances as the winds bear them up.
 
 *Interlopers appear suspended by invisible strings; Blightbound manifest wings of flame or a vortex of darkness; Wind Sages ride their own elemental current.*
 
@@ -10086,7 +10083,7 @@ You grant the power of flight to a willing creature. The target gains a flying s
 
 You create a 20-foot-radius sphere of fog centered on a point within range. The fog heavily obscures the area. A strong wind (at least 20 miles per hour) disperses it in 1 round.
 
-*Water and Wind Sages invoke this naturally; Ranger-path Adventurers use it to disengage from pursuit in open terrain.*
+*Water and Wind Sages invoke this naturally; Wild Scout Adventurers use it to disengage from pursuit in open terrain.*
 
 ### Force Cage
 **School:** Evocation
@@ -10121,7 +10118,7 @@ You touch a willing creature and bestow a limited ability to see into the immedi
 
 Your song unbinds a target from all hindrance. The creature is unaffected by difficult terrain, spells can't reduce its speed or paralyze or restrain it, and underwater movement is completely unhindered. In addition, it can spend 5 feet of movement to escape nonmagical restraints or grapples.
 
-**Mountain Stride (Goron Juggernaut variant):** The Goron channels the mountain's unyielding nature through their body. No terrain, no magic, no grip can hold a mountain.
+**Mountain Stride (Goron variant):** The Goron channels the mountain's unyielding nature through their body. No terrain, no magic, no grip can hold a mountain.
 
 {{footnote Spell Compendium }}
 
@@ -10155,7 +10152,7 @@ You create a globe of freezing cold energy and hurl it at a point within range. 
 
 You gain advantage on all Charisma checks directed at one non-hostile creature you can see. When the spell ends, the target realizes it was magically influenced.
 
-*Interlopers exploit this with warm, knowing eyes; Bard-path Adventurers use it as a social opener.*
+*Interlopers exploit this with warm, knowing eyes; Minstrel Adventurers use it as a social opener.*
 
 ### Frostbite
 **School:** Evocation
@@ -10209,7 +10206,7 @@ You conjure a circular portal 5 to 20 feet in diameter linking an unoccupied spa
 
 You issue a magical command bound by power. The target must succeed on a Wisdom saving throw or be magically compelled to follow your instruction. Disobeying causes 5d10 psychic damage each day. The compulsion ends if you use your action to end it, if the task is completed, or if the duration expires.
 
-**Oath of the Tides (Zora Tidecaller variant):** The binding manifests as a sacred tidal covenant, a hymn written in divine law, etched into the air as glowing script. The oath is witnessed by the ocean's eternal memory.
+**Oath of the Tides (Zora variant):** The binding manifests as a sacred tidal covenant, a hymn written in divine law, etched into the air as glowing script. The oath is witnessed by the ocean's eternal memory.
 
 *Blightbound bind with invisible chains the target hears as a constant voice. Champions use this only for grave divine oaths.*
 
@@ -10241,7 +10238,7 @@ An immobile, faintly shimmering barrier springs into existence in a 10-foot radi
 
 You inscribe a harmful glyph on a surface or within an object. The glyph triggers when a creature enters the area or picks up the object without speaking a password you designate. When it triggers, it casts a spell of up to 3rd level that you prepared, or releases an explosion of magical energy dealing 5d8 damage.
 
-*Sages inscribe these as rune traps in ancient ruins and temples. Sheikah Phantoms use them as security wards.*
+*Sages inscribe these as rune traps in ancient ruins and temples. Sheikah phantoms use them as security wards.*
 
 ### Goodberry
 **School:** Transmutation
@@ -10253,7 +10250,7 @@ You inscribe a harmful glyph on a surface or within an object. The glyph trigger
 
 Up to ten berries appear in your hand, infused with magic. A creature can use its action to eat one berry, gaining 1 hit point and enough nourishment to sustain it for one day. Uneaten berries lose their potency after 24 hours.
 
-*Ranger-path Adventurers distribute these before long dungeon dives; Deku Thornweavers grow them from the tips of their fingers with a quiet word.*
+*Wild Scout Adventurers distribute these before long dungeon dives; Deku thornweavers grow them from the tips of their fingers with a quiet word.*
 
 ### Grease
 **School:** Conjuration
@@ -10322,7 +10319,7 @@ You brandish the weapon and make a melee attack with it. On a hit, the target ta
 At 5th level, both the hit target and second creature take an additional 1d8 fire damage. This increases to 2d8 at 11th level and 3d8 at 17th.
 
 ### Guardian of Faith
-*(Also: Guardian of the Spring, Zora Tidecaller variant)*
+*(Also: Guardian of the Spring, Zora variant)*
 **School:** Conjuration
 **MP Cost:** 5
 **Casting Time:** 1 Action
@@ -10339,7 +10336,7 @@ At 5th level, both the hit target and second creature take an additional 1d8 fir
 
 You summon a radiant guardian (a luminous avatar, sage spirit, or echo of a deity) in an unoccupied space you choose within range. Any hostile creature that enters or starts its turn within 10 feet must make a Dexterity saving throw, taking 20 radiant damage on a failure or half as much on a success. The guardian vanishes after dealing a total of 60 damage.
 
-**Guardian of the Spring (Zora Tidecaller variant):** An ethereal Zora spirit, temple guardian, or water elemental protector hovers in place, glowing with deep-blue divine energy.
+**Guardian of the Spring (Zora variant):** An ethereal Zora spirit, temple guardian, or water elemental protector hovers in place, glowing with deep-blue divine energy.
 
 *Champions summon this as a floating emblem, robed figure, or divine animal; Goddess Chanters manifest it as an incorporeal sage or ancestral spirit.*
 
@@ -10366,7 +10363,7 @@ You hum or whisper a divine refrain, guiding a creature through the song of dest
 
 You seize the air and compel it to create one of the following: a creature of Medium or smaller must succeed on a Strength saving throw or be pushed 5 feet away; you create a harmless sensory effect of wind; you extinguish a candle, torch, or campfire.
 
-*Rito Marksmen and Wind Sages use this as a natural reflex, the wind answering a quiet request.*
+*Rito marksmen and Wind Sages use this as a natural reflex, the wind answering a quiet request.*
 
 ### Gust of Wind
 **School:** Evocation
@@ -10379,7 +10376,7 @@ You seize the air and compel it to create one of the following: a creature of Me
 
 A line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose. Each creature in the line must succeed on a Strength saving throw or be pushed 15 feet away. The gust disperses gas or vapor and extinguishes flames.
 
-*Rito Marksmen use this for crowd control and aerial repositioning; Wind Sages channel it as sustained elemental expression.*
+*Rito marksmen use this for crowd control and aerial repositioning; Wind Sages channel it as sustained elemental expression.*
 
 \column
 
@@ -10396,7 +10393,7 @@ You reshape the appearance of a natural terrain within a 150-foot cube. Hills lo
 
 The illusion may flicker with crimson light when under strain.
 
-*See also: Hallucinatory Terrain (Interloper variant). Used by Demon Kings to guard hidden fortresses by luring invaders into cursed traps.*
+*See also: Hallucinatory Terrain. Used by Demon Kings to guard hidden fortresses by luring invaders into cursed traps.*
 
 ### Hallow
 *(Also: Hallow (Reflavored as Sacred Spring))*
@@ -10424,7 +10421,7 @@ The sanctified zone glows with faint runes and carries a sacred stillness.
 
 You make natural terrain in a 150-foot cube within range look, sound, and smell like some other sort of natural terrain. Hills appear as plains; forests as meadows; deserts as lakes. Physical interaction reveals the illusion.
 
-*Interlopers find this hauntingly convincing, especially in twilight or silence. Gerudo Sandreavers can make desert terrain appear passable when it isn't.*
+*Interlopers find this hauntingly convincing, especially in twilight or silence. Gerudo sandreavers can make desert terrain appear passable when it isn't.*
 
 ### Harm
 **School:** Necromancy
@@ -10512,7 +10509,7 @@ You lash out in wrathful flame when struck. The creature that harmed you must ma
 
 *Spend 2 additional MP to add 1d10 damage.*
 
-**Eruption (Goron Juggernaut variant):** The retaliation manifests as a volcanic burst, a geyser of lava and superheated steam erupting from where the Goron was struck.
+**Eruption (Goron variant):** The retaliation manifests as a volcanic burst, a geyser of lava and superheated steam erupting from where the Goron was struck.
 
 *Blightbound channel this as a curse-glyph that explodes from their body; the flames erupt from the eyes and mouth, the fury of their patron ignited in a single blink.*
 
@@ -10555,7 +10552,7 @@ You imbue a creature with courage through divine music or spiritual fortitude. T
 **Components:** V, S, M (a cursed token, a shard of bone, or a shard of glass)
 **Damage:** Necrotic
 
-You mark a creature with a hex from your patron. Until the spell ends, you deal an additional 1d6 necrotic damage whenever you hit the target with a weapon or spell attack. You also choose one ability, the target has disadvantage on ability checks using that ability. If the target dies, you can move the curse to another creature as a bonus action.
+You mark a creature with a hex from your patron. Until the spell ends, you deal an additional 1d6 necrotic damage whenever you hit the target with a weapon or spell attack. You also choose one ability; the target has disadvantage on ability checks using that ability. If the target dies, you can move the curse to another creature as a bonus action.
 
 *Spend additional MP to extend duration: 4 MP for 8 hours, 6 MP for 24 hours.*
 
@@ -10630,7 +10627,7 @@ You designate a creature as your quarry. Until the spell ends, you deal an extra
 
 *Spend additional MP to extend duration: 4 MP for 8 hours, 6 MP for 24 hours.*
 
-*A Ranger-path Adventurer's primary combat spell, invoking ancient Hylian tracking rituals.*
+*A Wild Scout Adventurer's primary combat spell, invoking ancient Hylian tracking rituals.*
 
 {{footnote Spell Compendium }}
 
@@ -10725,11 +10722,11 @@ You create a shard of ice and fling it at one creature within range. Make a rang
 
 A hail of cursed ice pelts a 20-foot-radius, 40-foot-high cylinder. Each creature must make a Dexterity saving throw, taking 2d8 bludgeoning and 4d6 cold damage on a failed save, or half on a success. The area becomes difficult terrain until cleared.
 
-**Glassstorm (Gerudo Sandreaver variant):** The storm hurls razor-sharp frozen sand-glass from the sky, the sound is a scream of shattering crystal, the wounds unmistakable.
+**Glassstorm (Gerudo variant):** The storm hurls razor-sharp frozen sand-glass from the sky, the sound is a scream of shattering crystal, the wounds unmistakable.
 
-**Hailstrike (Rito Marksman variant):** Called from an aerial position, this storm arrives as a precision barrage of arrow-like ice shards that concentrate damage in a tight area rather than spreading wide.
+**Hailstrike (Rito variant):** Called from an aerial position, this storm arrives as a precision barrage of arrow-like ice shards that concentrate damage in a tight area rather than spreading wide.
 
-**Hail of Seedpods (Deku Thornweaver variant):** Explosive crystallized seed pods rain down, dealing the same damage but also planting difficult-terrain brambles that persist for 1 hour.
+**Hail of Seedpods (Deku variant):** Explosive crystallized seed pods rain down, dealing the same damage but also planting difficult-terrain brambles that persist for 1 hour.
 
 *Blightbound's version howls with demonic screams and freezes the air with malevolent intent.*
 
@@ -10776,7 +10773,7 @@ A swirling cloud of smoke and white-hot embers fills a 20-foot-radius sphere. Th
 
 You summon a 20-foot-radius swarm of biting insects. The cloud heavily obscures its area and deals 4d10 piercing damage to creatures that enter or start their turn there (Constitution save for half). The swarm feeds eagerly on the living.
 
-**Locust Swarm (Gerudo Sandreaver variant):** The insects are desert locusts: vast, dark, and deafening. They strip flesh from bone and devour anything organic they contact. The buzzing fills the air with a roar audible for hundreds of feet.
+**Locust Swarm (Gerudo variant):** The insects are desert locusts: vast, dark, and deafening. They strip flesh from bone and devour anything organic they contact. The buzzing fills the air with a roar audible for hundreds of feet.
 
 *Blightbound command bloodthirsty beetles, spectral locusts, or shadow mites.*
 
@@ -10792,9 +10789,9 @@ You touch a creature and shroud it in a cloak of shadowy invisibility. Until the
 
 \column
 
-*Spend 4 additional MP to affect a third creature as well.*
+*Spend 4 additional MP to affect a second creature as well.*
 
-*Interlopers phase into the veil between worlds, the subject simply steps between veils, existing just out of sync with light and sound. Sheikah Phantoms train this until it's as natural as breathing.*
+*Interlopers phase into the veil between worlds, the subject simply steps between veils, existing just out of sync with light and sound. Sheikah phantoms train this until it's as natural as breathing.*
 
 ### Judgment Hymn ✦
 *(Renamed: Bestow Curse, Goddess Chanter variant)*
@@ -10826,10 +10823,10 @@ The curse glows faintly in the air, visible as a burning hymn of judgment only t
 
 You touch a creature. The creature's jump distance is tripled until the spell ends.
 
-*Wind Sages and physically trained Adventurers use this for terrain traversal; Goron Juggernauts can leap across volcanic chasms.*
+*Wind Sages and physically trained Adventurers use this for terrain traversal; Goron juggernauts can leap across volcanic chasms.*
 
 ### Kelp Lash ✦
-*(Renamed: Grasping Vine, Zora Tidecaller variant)*
+*(Renamed: Grasping Vine, Zora variant)*
 **School:** Conjuration
 **MP Cost:** 5
 **Casting Time:** 1 Bonus Action
@@ -10840,7 +10837,7 @@ You touch a creature. The creature's jump distance is tripled until the spell en
 
 You conjure a writhing tendril of animated kelp or water-vine at a point you can see within range. On your turn, you can direct the kelp to lash at a creature within 30 feet of it. The target must succeed on a Dexterity saving throw or be pulled up to 20 feet toward the kelp and be restrained until the start of your next turn.
 
-*Zora Tidecaller variant of Grasping Vine, used to drag prey underwater or immobilize shoreline enemies.*
+*Zora variant of Grasping Vine, used to drag prey underwater or immobilize shoreline enemies.*
 
 ### Knock
 **School:** Transmutation
@@ -10856,12 +10853,12 @@ You conjure a writhing tendril of animated kelp or water-vine at a point you can
 
 \page
 
-You speak a command word or tap the air, and a locked object unlocks with a metallic ring or echo audible within 300 feet. Arcane Locks are suppressed for 10 minutes. All other mundane and magical locks (DC up to 30) are opened.
+You speak a command word or tap the air, and a locked object unlocks with a metallic ring or echo audible within 300 feet. Arcane Locks are suppressed for 10 minutes. Any other lock on it, mundane or magical (DC up to 30), opens.
 
 *Interlopers often disguise the sound as a dull pulse or echo, the ripple of spatial dominance overriding material resistance.*
 
 ### Laughing Pressure Point ✦
-*(Renamed: Tasha's Hideous Laughter, Sheikah Phantom variant)*
+*(Renamed: Tasha's Hideous Laughter, Sheikah variant)*
 **School:** Enchantment
 **MP Cost:** 2
 **Casting Time:** 1 Action
@@ -10872,7 +10869,7 @@ You speak a command word or tap the air, and a locked object unlocks with a meta
 
 You strike a precisely calibrated nerve cluster on your target's psyche, triggering uncontrollable laughter. On a failed Wisdom save, the creature falls prone and is incapacitated for the duration. It repeats the save at the end of each turn or when it takes damage (with advantage if it took damage).
 
-*Sheikah Phantom variant of Tasha's Hideous Laughter, less a joke, more a pressure point technique.*
+*Sheikah variant of Tasha's Hideous Laughter, less a joke, more a pressure point technique.*
 
 ### Legend Lore
 *(Also: Legend Lore (Archive Access))*
@@ -10885,7 +10882,7 @@ You strike a precisely calibrated nerve cluster on your target's psyche, trigger
 
 You chant an ancient ballad or invoke a relic's name. The Goddesses grant you visions or stories regarding a legendary person, place, or object. The more familiar you are, the more detailed the lore.
 
-**Archive Access (Sheikah Phantom variant):** Instead of divine visions, this version accesses the Sheikah Archive, a vast repository of encoded memory crystals containing the recorded history of ancient Hyrule. The information arrives as text, recorded imagery, or spoken memory rather than as prophetic vision.
+**Archive Access (Sheikah variant):** Instead of divine visions, this version accesses the Sheikah Archive, a vast repository of encoded memory crystals containing the recorded history of ancient Hyrule. The information arrives as text, recorded imagery, or spoken memory rather than as prophetic vision.
 
 *Sages may receive glimpses of the past, old kings, ancient temples, or divine conflicts whispered through time.*
 
@@ -10899,7 +10896,7 @@ You chant an ancient ballad or invoke a relic's name. The Goddesses grant you vi
 
 You sing a healing chord and touch a creature. The target is cured of one condition: blinded, deafened, paralyzed, or poisoned.
 
-*The song may sound like the notes of a harp, echoing in the body as the affliction fades, or a sharp, firm snap of sound for a Goron Juggernaut clearing battle-shock from an ally.*
+*The song may sound like the notes of a harp, echoing in the body as the affliction fades, or a sharp, firm snap of sound for a Goron juggernaut clearing battle-shock from an ally.*
 
 \column
 
@@ -10944,7 +10941,7 @@ You release a crackling bolt of lightning in a 100-foot line, 5 feet wide. Each 
 
 *Spend 2 additional MP to add 1d6 damage.*
 
-**Stormpiercer's Strike (Rito Marksman variant):** Fired from altitude, this bolt drops straight down from the caster's position, piercing through any number of targets in a vertical line below them.
+**Stormpiercer's Strike (Rito variant):** Fired from altitude, this bolt drops straight down from the caster's position, piercing through any number of targets in a vertical line below them.
 
 *When cast by a Blightbound, the lightning may be tinted red or violet and echoes with distorted whispers.*
 
@@ -10964,7 +10961,7 @@ You release a crackling bolt of lightning in a 100-foot line, 5 feet wide. Each 
 
 You describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles.
 
-*Essential for Ranger-path Adventurers tracking quarry, finding rare ingredients, or locating the Korok Seeds that indicate Korok presence.*
+*Essential for Wild Scout Adventurers tracking quarry, finding rare ingredients, or locating the Korok Seeds that indicate Korok presence.*
 
 ### Locate Creature
 **School:** Divination
@@ -11000,7 +10997,7 @@ You sense the direction of a specific object within 1,000 feet that you are fami
 
 You touch a creature. Its walking speed increases by 10 feet until the spell ends.
 
-*Gerudo Sandreavers call this Tailwind, a gust of hot desert air at the back that seems to carry the Goddess's blessing of speed.*
+*Gerudo sandreavers call this Tailwind, a gust of hot desert air at the back that seems to carry the Goddess's blessing of speed.*
 
 ### Luminous Vision ✦
 *(Renamed: Major Image, Goddess Chanter variant)*
@@ -11073,7 +11070,7 @@ You transfer your soul into a prepared vessel (the magic jar) within 100 feet. W
 *Spirit Sages who study deep soul-magic regard this as the most dangerous of their traditions, the vessel must be guarded at all costs while the soul is absent.*
 
 ### Magic Missile
-*(Also: Magic Missile (Spirits of Light). Sage variant)*
+*(Also: Magic Missile (Spirits of Light), Sage variant)*
 **School:** Evocation
 **MP Cost:** 2
 **Casting Time:** 1 Action
@@ -11114,7 +11111,7 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 You create an image of an object, creature, or scene no larger than a 20-foot cube, complete with sound, smell, and temperature. The illusion can move and speak as you direct it.
 
-**Illusory Sky Trick (Rito Marksman variant):** The Rito conjures false silhouettes of fellow Rito in the sky, decoys that draw enemy fire while the real Rito repositions for a clean shot.
+**Illusory Sky Trick (Rito variant):** The Rito conjures false silhouettes of fellow Rito in the sky, decoys that draw enemy fire while the real Rito repositions for a clean shot.
 
 *Interlopers craft illusions as twisted memories, forgotten ruins, or mockeries of divine symbols. Blightbound summon flaming serpents or demonic avatars.*
 
@@ -11182,7 +11179,7 @@ You transform up to ten creatures of your choice you can see within range. Unwil
 **Duration:** Concentration, up to 10 minutes
 **Components:** V, S
 
-You banish a creature you can see within range into a labyrinthine demiplane. The target can use its action to attempt DC 20 Intelligence check to escape. On success, the spell ends and the creature returns. On failure, it remains. When the spell ends naturally, the creature reappears in the nearest unoccupied space.
+You banish a creature you can see within range into a labyrinthine demiplane. The target can use its action to attempt a DC 20 Intelligence check to escape. On success, the spell ends and the creature returns. On failure, it remains. When the spell ends naturally, the creature reappears in the nearest unoccupied space.
 
 *Overchannel (Major):* The DC increases to 25, and the creature cannot attempt the check during the first minute.
 
@@ -11197,7 +11194,7 @@ You banish a creature you can see within range into a labyrinthine demiplane. Th
 
 You step into a stone object or surface large enough to fully contain your body, merging with it completely. While merged, you can't see or hear what's outside, but you remain aware of time's passing. You are undetectable by divination magic and protected from all environmental effects.
 
-**Sacred Pool Descent (Zora Tidecaller variant):** You step into a sacred pool, coral bloom, or shrine spring and merge with its essence for the duration. If the pool is destroyed or drained, you are ejected and take 6d6 force damage.
+**Sacred Pool Descent (Sage Water variant):** You step into a sacred pool, coral bloom, or shrine spring and merge with its essence for the duration. If the pool is destroyed or drained, you are ejected and take 6d6 force damage.
 
 *Earth Sages use this to rest, hide, or wait in complete safety inside boulders and canyon walls.*
 
@@ -11211,7 +11208,7 @@ You step into a stone object or surface large enough to fully contain your body,
 
 You channel divine energy to repair a break or tear in an object you touch. A break no larger than 1 foot in any dimension is repaired. Multiple castings can repair larger objects. The spell doesn't work on magical items or artifacts.
 
-*A Goddess Chanter whispers a reverent note over a broken holy symbol; a Ranger-path Adventurer splices a broken bowstring with practiced hands.*
+*A Goddess Chanter whispers a reverent note over a broken holy symbol; a Wild Scout Adventurer splices a broken bowstring with practiced hands.*
 
 ### Message
 **School:** Transmutation
@@ -11225,7 +11222,7 @@ You channel divine energy to repair a break or tear in an object you touch. A br
 
 You point your finger toward a creature within range and whisper a message. The target, and only the target, hears the message and can reply in a whisper that only you can hear.
 
-*Interlopers flavor this as a cold wind delivery; Sheikah Phantoms train it as a precision infiltration tool.*
+*Interlopers flavor this as a cold wind delivery; Sheikah phantoms train it as a precision infiltration tool.*
 
 ### Meteor Swarm
 **School:** Evocation
@@ -11310,7 +11307,7 @@ The copies laugh silently and flicker with red or violet light, mimicking your e
 
 Three illusory duplicates of yourself appear in your space. Whenever a creature targets you, roll a d20 to determine if the attack hits you or a duplicate. Each duplicate has an AC equal to 10 + your Dexterity modifier. A duplicate is destroyed when it is hit by an attack.
 
-*The generic form. Interlopers produce fractured shadow echoes; Gerudo Sandreavers dance their duplicates to confuse enemies mid-combat.*
+*The generic form. Interlopers produce fractured shadow echoes; Gerudo sandreavers dance their duplicates to confuse enemies mid-combat.*
 
 ### Mislead
 **School:** Illusion
@@ -11336,7 +11333,7 @@ You become invisible and simultaneously create an illusory double that appears w
 
 You teleport in a flash of shadow, light, or vapor, reappearing in an unoccupied space you can see within 30 feet.
 
-*Blightbound vanish in a puff of ash, crimson mist, or a spiral of dark flame. Interlopers fold into shadow and appear from another shadow. Goddess Chanters dissolve in a shimmer of light and music. Gerudo Sandreavers blur through a burst of hot sand.*
+*Blightbound vanish in a puff of ash, crimson mist, or a spiral of dark flame. Interlopers fold into shadow and appear from another shadow. Goddess Chanters dissolve in a shimmer of light and music. Gerudo sandreavers blur through a burst of hot sand.*
 
 ### Modify Memory
 *(Also: Emotional Chorus, Goddess Chanter variant)*
@@ -11407,7 +11404,7 @@ The object must be something you have held or studied closely. You cannot create
 
 You protect a creature or object from magical detection. The target is immune to scrying, divination, and tracking spells for the duration.
 
-*To others, the warded subject fades like a shadow behind fog, unreachable by spell or gaze. Sheikah Phantoms use this as standard pre-mission preparation.*
+*To others, the warded subject fades like a shadow behind fog, unreachable by spell or gaze. Sheikah phantoms use this as standard pre-mission preparation.*
 
 ### Nystul's Magic Aura
 **School:** Illusion
@@ -11422,7 +11419,7 @@ You place an illusion on a creature or an object within range, causing detection
 *Sages use this to disguise artifacts as mundane items and themselves as non-magical travelers.*
 
 ### Oath of the Tides ✦
-*(Renamed: Geas, Zora Tidecaller variant)*
+*(Renamed: Geas, Zora variant)*
 **School:** Enchantment
 **MP Cost:** 6
 **Casting Time:** 1 Minute
@@ -11433,7 +11430,7 @@ You place an illusion on a creature or an object within range, causing detection
 
 You bind a creature to a sacred tidal covenant, a hymn written in divine law, etched into the air as glowing script. The creature must succeed on a Wisdom save or be compelled to fulfill your instruction for the duration, taking 5d10 psychic damage each day it disobeys.
 
-*Zora Tidecaller variant of Geas. The oath is witnessed by the ocean's eternal memory.*
+*Zora variant of Geas. The oath is witnessed by the ocean's eternal memory.*
 
 \column
 
@@ -11445,9 +11442,9 @@ You bind a creature to a sacred tidal covenant, a hymn written in divine law, et
 **Duration:** Concentration, up to 1 hour
 **Components:** V, S, M (ashes from a burned leaf of mistletoe and a sprig of spruce)
 
-A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you gains a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by magical means. A creature that benefits from this feature leaves behind no tracks.
+A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you gains a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by magical means. A creature that benefits from this spell leaves behind no tracks.
 
-*The premier stealth spell of Ranger-path Adventurers, as if the Kokiri Forest itself swallows all sound and sign of your passage.*
+*The premier stealth spell of Wild Scout Adventurers, as if the Kokiri Forest itself swallows all sound and sign of your passage.*
 
 ### Phantasmal Force
 **School:** Illusion
@@ -11463,7 +11460,7 @@ You create an illusion in the mind of one creature. It takes on a form you choos
 *A personal nightmare crafted specifically for the target. Interlopers use this to replay humiliating failures or imagined threats.*
 
 ### Phantasmal Killer
-*(Also: Phantasmal Killer (Storm Terror). Rito variant)*
+*(Also: Phantasmal Killer (Storm Terror), Rito variant)*
 **School:** Illusion
 **MP Cost:** 5
 **Casting Time:** 1 Action
@@ -11483,12 +11480,12 @@ The hallucination is visible only to the target, often taking the form of a burn
 
 \page
 
-**Storm Terror (Rito Marksman variant):** The hallucination takes the form of the one thing all flying beings fear, a storm of infinite violence from which there is no escape, no updraft, no shelter.
+**Storm Terror (Rito variant):** The hallucination takes the form of the one thing all flying beings fear, a storm of infinite violence from which there is no escape, no updraft, no shelter.
 
 ### Phantom Glider ✦
-*(Renamed: Phantom Steed, Sheikah Phantom variant)*
+*(Renamed: Phantom Steed, Sheikah variant)*
 **School:** Illusion (Ritual)
-**MP Cost:** 3
+**MP Cost:** 4
 **Casting Time:** 1 Minute
 **Range:** 30 feet
 **Duration:** 1 hour
@@ -11496,7 +11493,7 @@ The hallucination is visible only to the target, often taking the form of a burn
 
 You summon a Large quasi-real horselike creature that moves without sound. The steed has the statistics of a warhorse but is translucent and leaves no tracks. It vanishes after 1 hour, if it takes any damage, or if you dismiss it.
 
-*Sheikah Phantom variant of Phantom Steed, a silent, shadow-touched mount suited for infiltration rather than open battle.*
+*Sheikah variant of Phantom Steed, a silent, shadow-touched mount suited for infiltration rather than open battle.*
 
 ### Planar Binding
 *(Also: Binding Seal, Goddess Chanter variant)*
@@ -11540,7 +11537,7 @@ You and up to eight willing creatures who link hands are transported to a differ
 
 **Long-term (8 hours):** All normal plants in a half-mile radius enrich themselves over the next year, yielding twice the normal amount of food.
 
-*Deku Thornweavers use the immediate version defensively and the long-term version to restore cursed farmland.*
+*Deku thornweavers use the immediate version defensively and the long-term version to restore cursed farmland.*
 
 ### Poison Spray
 **School:** Conjuration
@@ -11556,10 +11553,10 @@ You extend your hand toward a creature you can see within range and project a pu
 
 The damage increases by 1d12 at 5th, 11th, and 17th levels.
 
-*Deku Scrubs and Thornweavers produce this naturally; Ranger-path Adventurers mix toxic plant compounds for the same effect.*
+*Deku Scrubs produce this naturally; Wild Scout Adventurers mix toxic plant compounds for the same effect.*
 
 ### Polymorph
-*(Also: Sacred Transformation, Goddess Chanter variant; Desert Form, Windshift Form, other variants)*
+*(Also: Sacred Transformation, Goddess Chanter variant)*
 **School:** Transmutation
 **MP Cost:** 5
 **Casting Time:** 1 Action
@@ -11657,7 +11654,7 @@ You perform a minor magical trick. You may have up to three effects active at on
 **Duration:** Instantaneous
 **Components:** V, S
 
-Eight rays of light flash from your hand. Each creature in a 60-foot cone must make a Dexterity saving throw. Roll a d8 for each target: 1 = 10d6 fire; 2 = 10d6 acid; 3 = 10d6 lightning; 4 = 10d6 poison; 5 = 10d6 cold; 6 = restrained, then Constitution saves or petrified; 7 = blinded, then Wisdom save or transported to another plane; 8 = struck by two rays (roll twice).
+Eight rays of light flash from your hand. Each creature in a 60-foot cone must make a Dexterity saving throw. Roll a d8 for each target: 1 = 10d6 fire; 2 = 10d6 acid; 3 = 10d6 lightning; 4 = 10d6 poison; 5 = 10d6 cold; 6 = restrained, then Constitution save or petrified; 7 = blinded, then Wisdom save or transported to another plane; 8 = struck by two rays (roll twice).
 
 *Overchannel (Major):* Each creature is struck by two rays.
 
@@ -11684,7 +11681,7 @@ A flickering flame appears in your hand. The flame sheds bright light in a 10-fo
 
 The damage increases by 1d8 at 5th, 11th, and 17th levels.
 
-*Common among Ranger-path Adventurers who need a reliable light source and a ranged option in emergencies.*
+*Common among Wild Scout Adventurers who need a reliable light source and a ranged option in emergencies.*
 
 {{footnote Spell Compendium }}
 
@@ -11770,7 +11767,7 @@ All nonmagical food and drink within a 5-foot-radius sphere are cleansed of pois
 **Duration:** Instantaneous
 **Components:** V, S, M (diamonds worth 500 rupees)
 
-You call a soul back to its body with a sacred song of rebirth. A creature that died within the last 10 days is returned to life with 1 hit point, provided the body is intact and willing to return. The target suffers temporary penalties to attacks and saves until they finish a long rest. The spell restores life, but not missing limbs.
+You call a soul back to its body with a sacred song of rebirth. A creature that died within the last 10 days is returned to life with 1 hit point, provided its body is intact and its soul willing to return. The target suffers temporary penalties to attacks and saves until they finish a long rest. The spell restores life, but not missing limbs.
 
 *A Goddess Chanter's ultimate act of compassion, the resurrected creature awakens to the sound of sacred music echoing in their ears.*
 
@@ -11783,7 +11780,7 @@ You call a soul back to its body with a sacred song of rebirth. A creature that 
 **Components:** V, S
 **Save:** Constitution
 
-A black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack. On a hit, the target deals only half damage with weapon attacks that use Strength for the duration.
+A black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack. On a hit, the target deals only half damage with weapon attacks that use Strength; a Constitution save at the end of each of its turns ends the spell.
 
 *Earth Sages use this to drain physical strength from Goron and Moblin enemies.*
 
@@ -11843,7 +11840,7 @@ You sing a desperate prayer and restore life to a creature that died within the 
 
 You touch a dead humanoid. The soul returns to a new body, roll or choose from the Reincarnate table to determine the creature's new race. The creature retains its memories, personality, class levels, and ability scores. Its physical appearance and racial traits are entirely new.
 
-**Reincarnate (Bloomshaper) (Deku Thornweaver variant):** The body is grown from the forest itself, bark and leaf weaving into form, wildflowers blooming as the soul settles. The new form has a connection to the Kokiri Forest regardless of the race generated.
+**Reincarnate (Bloomshaper) (Deku variant):** The body is grown from the forest itself, bark and leaf weaving into form, wildflowers blooming as the soul settles. The new form has a connection to the Kokiri Forest regardless of the race generated.
 
 ### Remove Curse
 **School:** Abjuration
@@ -11981,7 +11978,7 @@ You conjure three rays of cursed fire and hurl them at one or more targets. Make
 *Blightbound project these as beams carrying an echo of their wrath; Fire Sages focus them as precise lances of divine flame.*
 
 ### Scrying
-*(Also: Scrying (Sheikah Surveillance), Scrying (Desert Reflection), other variants)*
+*(Also: Scrying (Sheikah Surveillance), other variants)*
 **School:** Divination
 **MP Cost:** 6
 **Casting Time:** 10 Minutes
@@ -11992,9 +11989,9 @@ You conjure three rays of cursed fire and hurl them at one or more targets. Make
 
 You call upon sacred waters, mirrored stone, or divine resonance to observe a creature at any distance. If they fail a Wisdom save (or none is required if you possess a personal item of theirs), you see and hear the area around them for the duration.
 
-**Sheikah Surveillance (Sheikah Phantom variant):** The observation is conducted through a Sheikah Eye glyph that manifests at the target's location, transmitting imagery through Sheikah-tech resonance.
+**Sheikah Surveillance (Sheikah variant):** The observation is conducted through a Sheikah Eye glyph that manifests at the target's location, transmitting imagery through Sheikah-tech resonance.
 
-*Interlopers use floating black mirrors or pools of reflective twilight. Gerudo Sandreavers project through a desert mirage. Zora Tidecallers observe through water surfaces.*
+*Interlopers use floating black mirrors or pools of reflective twilight. Gerudo sandreavers project through a desert mirage. Zora tidecallers observe through water surfaces.*
 
 ### Searing Smite
 **School:** Evocation
@@ -12036,7 +12033,7 @@ For the duration, you see invisible creatures and objects as if they were visibl
 
 You alter the appearance of any number of creatures within range for the duration. Each may be disguised as someone else of the same size category. The illusions hold up to basic interaction but not to touch or close inspection.
 
-*Interlopers often disguise allies as nobles, shades, or even members of the Yiga or Sheikah. Gerudo Sandreavers use this to infiltrate Hylian society when needed.*
+*Interlopers often disguise allies as nobles, shades, or even members of the Yiga or Sheikah. Gerudo sandreavers use this to infiltrate Hylian society when needed.*
 
 ### Sending
 **School:** Evocation
@@ -12067,7 +12064,7 @@ Your laughter echoes through the void, humor twisted by interplanar truths.
 *Interloper variant of Tasha's Hideous Laughter.*
 
 ### Shadow-Forged Flesh ✦
-*(Original Zelda DnD spell. Interloper variant)*
+*(Renamed: Stoneskin, Interloper variant)*
 **School:** Abjuration
 **MP Cost:** 5
 **Casting Time:** 1 Action
@@ -12092,7 +12089,7 @@ The target's flesh hardens like crystallized shadow, granting resistance to nonm
 You assume the form of a different creature with a CR equal to or lower than your character level. The creature must be a non-construct, non-undead creature you have seen. Your statistics are replaced by the creature's, though you retain your alignment and mental scores. You can use your action to change form again at any time.
 
 ### Shape Coral ✦
-*(Renamed: Stone Shape, Zora Tidecaller variant)*
+*(Renamed: Stone Shape, Zora variant)*
 **School:** Transmutation
 **MP Cost:** 5
 **Casting Time:** 1 Action
@@ -12102,7 +12099,7 @@ You assume the form of a different creature with a CR equal to or lower than you
 
 You shape raw coral or seabed rock into a form that suits your purpose. You can create up to a 5-foot cube of coral structure, a wall, doorway, seal, or symbol. You can also repair coral architecture, craft a concealed passage, or integrate living coral into existing stone structures.
 
-*Zora Tidecaller variant of Stone Shape.*
+*Zora variant of Stone Shape.*
 
 ### Shape Water
 **School:** Transmutation
@@ -12139,7 +12136,7 @@ You choose an area of water that fits within a 5-foot cube. You can manipulate i
 
 A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature within 10 feet must make a Constitution saving throw, taking 3d8 thunder damage on a failed save or half as much on a success. A creature made of inorganic material (stone, crystal, metal) has disadvantage on the save. Nonmagical objects that aren't being worn or carried in the area take 3d8 thunder damage.
 
-**Sonic Arrowburst (Rito Marksman variant):** An arrow is fused with compressed air and fired; it detonates in a concussive sphere on impact, stunning creatures within the burst.
+**Sonic Arrowburst (Rito variant):** An arrow is fused with compressed air and fired; it detonates in a concussive sphere on impact, stunning creatures within the burst.
 
 **Spatial Fracture (Interloper variant):** You rupture the fabric of space in an area, causing a burst of harmonic dissonance. The air twists, reality bends, and shards of sound slice through the zone.
 
@@ -12175,7 +12172,7 @@ You conjure a floating shield of radiant light to protect an ally. The target ga
 
 The wood of a club or quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability modifier instead of Strength for attack and damage rolls with the weapon, and the weapon's damage die becomes a d8. The weapon also counts as magical for the duration.
 
-*Ranger-path Adventurers who prefer melee combat find this indispensable for keeping pace with martial characters.*
+*Wild Scout Adventurers who prefer melee combat find this indispensable for keeping pace with martial characters.*
 
 \column
 
@@ -12204,7 +12201,7 @@ The damage increases by 1d8 at 5th, 11th, and 17th levels.
 
 You cancel all sound within a zone, creating a dome of total quiet. The area becomes immune to thunder damage and spells with verbal components can't be cast within it.
 
-*Goddess Chanters invoke this as a divine hush, a hymn so pure it cancels all earthly noise. Sheikah Phantoms use it to prevent alarms and screams during infiltration.*
+*Goddess Chanters invoke this as a divine hush, a hymn so pure it cancels all earthly noise. Sheikah phantoms use it to prevent alarms and screams during infiltration.*
 
 ### Silent Image
 **School:** Illusion
@@ -12216,7 +12213,7 @@ You cancel all sound within a zone, creating a dome of total quiet. The area bec
 
 You create a visual illusion of an object, creature, or other visible phenomenon no larger than a 15-foot cube. The image has no sound, smell, or other sensory effect. Physical interaction reveals the illusion.
 
-*Interlopers stitch these from shadow and dream; Sheikah Phantoms create false exits, sleeping guards, and decoy doors.*
+*Interlopers stitch these from shadow and dream; Sheikah phantoms create false exits, sleeping guards, and decoy doors.*
 
 ### Sleep
 **School:** Enchantment
@@ -12228,7 +12225,7 @@ You create a visual illusion of an object, creature, or other visible phenomenon
 
 This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until it takes damage or someone uses an action to wake it.
 
-*Interlopers invoke a wave of shadow or the absence of sound; Bard-path Adventurers hum a folk melody that is older than memory.*
+*Interlopers invoke a wave of shadow or the absence of sound; Minstrel Adventurers hum a folk melody that is older than memory.*
 
 {{footnote Spell Compendium }}
 
@@ -12272,7 +12269,7 @@ You warp time around up to six creatures in a 40-foot cube. Each must make a Wis
 
 As you cast this spell, you use the rope to create a circle with a 5-foot radius on the ground. When a Small, Medium, or Large creature steps into the circle, it must make a Dexterity saving throw or be suspended upside down until the spell ends or it escapes.
 
-*Ranger-path Adventurers deploy these around camp perimeters and across game trails in Hyrule's vast wilderness.*
+*Wild Scout Adventurers deploy these around camp perimeters and across game trails in Hyrule's vast wilderness.*
 
 ### Spare the Dying
 **School:** Necromancy
@@ -12298,7 +12295,7 @@ A soft pulse of light glows briefly beneath your hand, the spirit held in place 
 
 You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but they can give information about nearby locations and monsters.
 
-*Ranger-path Adventurers and Forest Sages use this constantly. In Hyrule, many animals carry ancient memories of the kingdom's history.*
+*Wild Scout Adventurers and Forest Sages use this constantly. In Hyrule, many animals carry ancient memories of the kingdom's history.*
 
 ### Speak with Dead
 **School:** Necromancy
@@ -12324,7 +12321,7 @@ You imbue plants within 30 feet with limited sentience and animation, giving the
 
 In addition, you can turn difficult terrain caused by plant growth into ordinary terrain for the duration, or vice versa.
 
-*Deku Thornweavers commune with ancient trees; Forest Sages discover that the most ancient of Hyrule's trees remember events stretching back to the Calamity.*
+*Deku thornweavers commune with ancient trees; Forest Sages discover that the most ancient of Hyrule's trees remember events stretching back to the Calamity.*
 
 ### Spider Climb
 **School:** Transmutation
@@ -12336,7 +12333,7 @@ In addition, you can turn difficult terrain caused by plant growth into ordinary
 
 You touch a willing creature. For the duration, it can move up, down, and across vertical surfaces and ceilings at normal speed. It also gains the ability to climb while keeping its hands free.
 
-*Also referenced as Webstep in the Blightbound compendium. Earth Sages use this to scale dungeon walls; Sheikah Phantoms train a form of this through Sheikah acrobatic techniques.*
+*Earth Sages use this to scale dungeon walls; Sheikah phantoms train a form of this through Sheikah acrobatic techniques.*
 
 {{footnote Spell Compendium }}
 
@@ -12354,10 +12351,10 @@ You touch a willing creature. For the duration, it can move up, down, and across
 
 The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.
 
-*Deku Thornweavers and Ranger-path Adventurers use this to turn terrain into a weapon. The spikes look like natural growth to the untrained eye.*
+*Deku thornweavers and Wild Scout Adventurers use this to turn terrain into a weapon. The spikes look like natural growth to the untrained eye.*
 
 ### Spirit Guardians
-*(Also: Spirits of the Sea, Zora Tidecaller variant)*
+*(Also: Spirits of the Sea, Zora variant)*
 **School:** Conjuration
 **MP Cost:** 4
 **Casting Time:** 1 Action
@@ -12369,7 +12366,7 @@ The ground in a 20-foot radius centered on a point within range twists and sprou
 
 You summon divine spirits, ancestral sages or angelic guardians, to circle you. Creatures of your choice in the area must make a Wisdom saving throw or take 3d8 radiant (or necrotic) damage on entering or starting their turn there. Your allies move freely among them.
 
-**Spirits of the Sea (Zora Tidecaller variant):** Ghostly aquatic figures, fallen Zora warriors and oceanic guardians, swim through the air in a 15-foot radius around you. Hostile creatures within must make a Wisdom saving throw when they enter or start their turn; on a failed save they take 3d8 radiant or cold damage (your choice).
+**Spirits of the Sea (Zora variant):** Ghostly aquatic figures, fallen Zora warriors and oceanic guardians, swim through the air in a 15-foot radius around you. Hostile creatures within must make a Wisdom saving throw when they enter or start their turn; on a failed save they take 3d8 radiant or cold damage (your choice).
 
 *Champions summon these as ancestral warrior figures; Goddess Chanters call sage spirits; the Zora variant is named Spirits of the Sea.*
 
@@ -12381,14 +12378,14 @@ You summon divine spirits, ancestral sages or angelic guardians, to circle you. 
 **Duration:** Concentration, up to 1 minute
 **Components:** V, S
 
-You call forth spirits of the dead, which flit around you for the spell's duration. Whenever you make an attack roll, the spirits lash out at the target: it takes 1d8 necrotic, radiant, or cold damage (your choice) once per turn. In addition, any creature that takes damage from this spell has its speed reduced by 10 feet until the start of your next turn, and it can't regain hit points until then.
+You call forth spirits of the dead, which flit around you for the spell's duration. Whenever you hit with an attack, the spirits lash out at the target: it takes 1d8 necrotic, radiant, or cold damage (your choice) once per turn. In addition, any creature that takes damage from this spell has its speed reduced by 10 feet until the start of your next turn, and it can't regain hit points until then.
 
 \column
 
 *Spirit Sages and Blightbound summon fallen spirits as weapons; the spirits resent the living and gladly aid the caster.*
 
 ### Spirits of the Sea ✦
-*(Renamed: Spirit Guardians, Zora Tidecaller variant)*
+*(Renamed: Spirit Guardians, Zora variant)*
 **School:** Conjuration
 **MP Cost:** 4
 **Casting Time:** 1 Action
@@ -12399,7 +12396,7 @@ You call forth spirits of the dead, which flit around you for the spell's durati
 
 See **Spirit Guardians** above for full statistics. The spirits appear as ghostly Zora warriors swimming through air in a protective orbit.
 
-*Zora Tidecaller variant of Spirit Guardians.*
+*Zora variant of Spirit Guardians.*
 
 ### Spiritual Weapon
 **School:** Evocation
@@ -12429,7 +12426,7 @@ The next time you hit a creature with a melee weapon attack during this spell's 
 *A Champion's divine strike. It breaks the body and the will to fight at the same time.*
 
 ### Stone Shape
-*(Also: Shape Coral, Zora Tidecaller variant)*
+*(Also: Shape Coral, Zora variant)*
 **School:** Transmutation
 **MP Cost:** 5
 **Casting Time:** 1 Action
@@ -12445,7 +12442,7 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 
 \page
 
-*Earth Sages use this as naturally as potters work clay. Goron Juggernauts shape walls and weapons on the fly from dungeon stone.*
+*Earth Sages use this as naturally as potters work clay. Goron juggernauts shape walls and weapons on the fly from dungeon stone.*
 
 ### Stoneskin
 *(Also: Stoneskin (Obsidian Hide), Goron variant; Shadow-Forged Flesh, Interloper variant)*
@@ -12458,7 +12455,7 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 
 You touch a willing creature. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
 
-**Obsidian Hide (Goron Juggernaut variant):** The skin hardens to volcanic obsidian, dark and gleaming, capable of deflecting blade and bludgeon alike. The enhancement spreads from the hands upward, cracking slightly around joint movements.
+**Obsidian Hide (Goron variant):** The skin hardens to volcanic obsidian, dark and gleaming, capable of deflecting blade and bludgeon alike. The enhancement spreads from the hands upward, cracking slightly around joint movements.
 
 *Blightbound manifest this as darkened stone spreading over the body, marked by red sigils and glowing cracks.*
 
@@ -12513,7 +12510,7 @@ You call forth an undead spirit. It manifests as a skeleton, zombie, or ghostly 
 
 A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Constitution saving throw, taking 6d8 radiant damage on a failed save or half as much on a success. Undead and oozes have disadvantage on this saving throw. The beam creates bright light in the line for the duration.
 
-*Deku Thornweavers and Light Sages summon this as a focused shaft of divine sunlight, fatal to creatures of shadow.*
+*Deku thornweavers and Light Sages summon this as a focused shaft of divine sunlight, fatal to creatures of shadow.*
 
 ### Sunburst
 **School:** Evocation
@@ -12546,7 +12543,7 @@ You inscribe a harmful glyph on a surface or inside an object. When triggered, t
 *Overchannel (Major):* The glyph is undetectable by magical means unless the detecting spell exceeds 8th level.
 
 ### Tasha's Hideous Laughter
-*(Also: Laughing Pressure Point, Sheikah Phantom variant; Shadow Disruption, Interloper variant)*
+*(Also: Laughing Pressure Point, Sheikah variant; Shadow Disruption, Interloper variant)*
 **School:** Enchantment
 **MP Cost:** 2
 **Casting Time:** 1 Action
@@ -12580,7 +12577,7 @@ You manipulate creatures or objects with sheer will. You can lift, move, or rest
 **Duration:** Instantaneous
 **Components:** V
 
-You instantly transport yourself and up to eight willing creatures you can see within range, or a single object that fits in a 10-foot cube, to a destination you know on the same plane. Your familiarity with the destination determines accuracy, roll on the teleport table: very familiar locations succeed 75% of the time; casually seen locations 47%; viewed once 27%.
+You instantly transport yourself and up to eight willing creatures you can see within range, or a single object that fits in a 10-foot cube, to a destination you know on the same plane. Your familiarity with the destination determines accuracy, roll on the teleport table: very familiar locations succeed 76% of the time; casually seen locations 47%; viewed once 27%.
 
 *Overchannel (Minor):* Use the "very familiar" row for any destination you have visited at least once.
 
@@ -12619,7 +12616,7 @@ You unleash subtle or overwhelming displays of magical power. You may have up to
 
 **Voice of the Goddess (Goddess Chanter variant):** Your voice echoes with choral harmony; effects involve sacred wind and blooming flowers.
 
-**Desert Power (Gerudo Sandreaver variant):** Effects are desert-flavored, sand swirls, heat distorts, your voice carries like a desert storm.
+**Desert Power (Gerudo variant):** Effects are desert-flavored, sand swirls, heat distorts, your voice carries like a desert storm.
 
 **Twilight Manifestation (Interloper variant):** Shadow deepens, lights flicker with distorted color, your voice echoes with dual tones.
 
@@ -12636,7 +12633,7 @@ You create a long, vine-like whip covered in thorns that lashes out at your comm
 
 The damage increases by 1d6 at 5th, 11th, and 17th levels.
 
-*Deku Thornweavers grow these from their fingertips; Ranger-path Adventurers snap them from surrounding undergrowth.*
+*Deku thornweavers grow these from their fingertips; Wild Scout Adventurers snap them from surrounding undergrowth.*
 
 {{footnote Spell Compendium }}
 
@@ -12671,7 +12668,7 @@ You create a burst of thunderous sound that can be heard up to 100 feet away. Ea
 
 The damage increases by 1d6 at 5th, 11th, and 17th levels.
 
-*Wind and Earth Sages produce this as a natural shockwave; Bard-path Adventurers time it with a dramatic chord.*
+*Wind and Earth Sages produce this as a natural shockwave; Minstrel Adventurers time it with a dramatic chord.*
 
 ### Thunderous Smite
 **School:** Evocation
@@ -12730,7 +12727,7 @@ The damage increases by one die at 5th, 11th, and 17th levels.
 *Blightbound invoke this with a finger-point; Champions who carry the weight of the dead use this as a judge's verdict.*
 
 ### Tongues
-*(Also: Tongues (Oceanic Communion), Tongues (Desert Tongue))*
+*(Also: Tongues (Oceanic Communion))*
 **School:** Divination
 **MP Cost:** 4
 **Casting Time:** 1 Action
@@ -12740,7 +12737,7 @@ The damage increases by one die at 5th, 11th, and 17th levels.
 
 You touch a creature and allow them to speak and understand all spoken languages. The voice carries supernatural clarity, and the target instinctively adapts to cultural inflection.
 
-**Oceanic Communion (Zora Tidecaller variant):** The target can understand the spoken language of any creature, and when they speak, any creature that knows at least one language can understand them. The speech flows like water, adaptable and clear across cultures and creatures, and it carries the Great Sea's rhythm in it.
+**Oceanic Communion (Zora variant):** The target can understand the spoken language of any creature, and when they speak, any creature that knows at least one language can understand them. The speech flows like water, adaptable and clear across cultures and creatures, and it carries the Great Sea's rhythm in it.
 
 *A gift of the Goddesses, often granted to emissaries and wandering sages.*
 
@@ -12760,7 +12757,7 @@ You touch a creature and allow them to speak and understand all spoken languages
 
 This spell creates a magical link between a Large or larger inanimate plant within range and another plant at any distance on the same plane of existence. You must have seen or touched the destination plant at least once. For the duration, any creature can step into the target plant and exit from the destination plant.
 
-*Deku Thornweavers use this to travel instantly between the ancient groves of Hyrule's forests, stepping into a Deku Tree in Kokiri Forest and emerging from a giant root in Faron.*
+*Deku thornweavers use this to travel instantly between the ancient groves of Hyrule's forests, stepping into a Deku Tree in Kokiri Forest and emerging from a giant root in Faron.*
 
 ### Tree Stride
 **School:** Conjuration
@@ -12772,7 +12769,7 @@ This spell creates a magical link between a Large or larger inanimate plant with
 
 You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet.
 
-*An essential travel spell for Deku Thornweavers in Hyrule's vast forested territories.*
+*An essential travel spell for Deku thornweavers in Hyrule's vast forested territories.*
 
 ### True Polymorph
 **School:** Transmutation
@@ -12808,7 +12805,7 @@ You give the willing creature you touch the ability to see things as they actual
 
 You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target's defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn't ended.
 
-*Sheikah Phantoms and precision-focused Sages use this cantrip to set up devastating follow-up strikes.*
+*Sheikah phantoms and precision-focused Sages use this cantrip to set up devastating follow-up strikes.*
 
 ### Tsunami
 **School:** Conjuration
@@ -12875,7 +12872,7 @@ You create an invisible, mindless, shapeless force that performs simple tasks. I
 *Blightbound manifest this as Servant of Malice, a sentient ripple, floating red eyes, or a faint puppet string reacting to unseen gestures. Interlopers conjure a floating pair of glowing hands connected by no visible body.*
 
 ### Vampiric Touch
-*(Also: Vampiric Touch (Venombark's Bite). Deku variant)*
+*(Also: Vampiric Touch (Venombark's Bite), Deku variant)*
 **School:** Necromancy
 **MP Cost:** 4
 **Casting Time:** 1 Action
@@ -12888,10 +12885,10 @@ Your hand pulses with cursed energy. On a melee spell attack hit, the target tak
 
 The effect resembles a clawed hand of shadow wrapping around your own, siphoning the victim's life essence directly into your veins.
 
-**Venombark's Bite (Deku Thornweaver variant):** Instead of shadow energy, the drain manifests as venomous dark thorns that pierce the skin and draw life through a plant-root connection.
+**Venombark's Bite (Deku variant):** Instead of shadow energy, the drain manifests as venomous dark thorns that pierce the skin and draw life through a plant-root connection.
 
 ### Veil of the Deep ✦
-*(Original Zelda DnD spell. Zora Tidecaller variant)*
+*(Original Zelda DnD spell. Zora variant)*
 **School:** Illusion
 **MP Cost:** 6
 **Casting Time:** 1 Action
@@ -12963,7 +12960,7 @@ You invoke a divine presence, causing harmless but awe-inspiring effects. Up to 
 \page
 
 ### Wall of Fire
-*(Also: Wall of Fire (Cyclone). Interloper/Vaati variant)*
+*(Also: Wall of Fire (Cyclone Flame), Interloper/Vaati variant)*
 **School:** Evocation
 **MP Cost:** 5
 **Casting Time:** 1 Action
@@ -12973,7 +12970,7 @@ You invoke a divine presence, causing harmless but awe-inspiring effects. Up to 
 **Save:** Dexterity
 **Damage:** Fire
 
-You create a 60-foot-long, 20-foot-high wall of flame on a solid surface. Creatures within 10 feet of the opaque side take 5d8 fire damage on a failed save (half on success). Creatures that enter or start a turn within the wall take 5d8 fire damage.
+You create a 60-foot-long, 20-foot-high wall of flame on a solid surface. Creatures within 10 feet of the side you choose take 5d8 fire damage on a failed save (half on success). Creatures that enter or start a turn within the wall take 5d8 fire damage.
 
 **Cyclone Flame, Vaati Variant (Interloper variant):** The wall manifests as a swirling vortex of flame, a ring 20 feet in diameter that spirals upward like a tornado of fire, sucking in air and roaring with unnatural force.
 
@@ -12992,9 +12989,9 @@ You conjure an invisible wall of hardened arcane energy. The wall is immune to a
 *Goddess Chanters manifest this as a quiet divine hum of protective harmony. Blightbound create a translucent forcefield that emits a low, cursed pulse. Interlopers produce a shimmer of warped glass or refracted shadow.*
 
 ### Wall of Pressure ✦
-*(Renamed: Wall of Water, Zora Tidecaller variant)*
+*(Renamed: Wall of Water, Zora variant)*
 **School:** Evocation
-**MP Cost:** 5
+**MP Cost:** 4
 **Casting Time:** 1 Action
 **Range:** 60 feet
 **Duration:** Concentration, up to 10 minutes
@@ -13002,7 +12999,7 @@ You conjure an invisible wall of hardened arcane energy. The wall is immune to a
 
 You conjure a wall of deep ocean pressure in an area you choose, up to 30 feet long, 10 feet wide, and 10 feet tall. The wall acts as a barrier of intensely compressed water. Ranged weapon attacks that pass through the wall are made with disadvantage. Fire spells that pass through it deal only half damage. Creatures pushed into the wall take 2d8 bludgeoning damage and must make a Strength save or be pushed back.
 
-*Zora Tidecaller variant of Wall of Water, flavored as the crushing pressure of the deep sea rather than a simple water barrier.*
+*Zora variant of Wall of Water, flavored as the crushing pressure of the deep sea rather than a simple water barrier.*
 
 \column
 
@@ -13016,7 +13013,7 @@ You conjure a wall of deep ocean pressure in an area you choose, up to 30 feet l
 
 You conjure a wall of stone from nearby rock up to 60 feet long, 10 feet high, and 5 feet thick, shaped freely. It can be used to create passages, form barriers, or collapse tunnels. If created along solid ground, the wall becomes permanent after the spell ends (requiring concentration for the full duration).
 
-*Earth Sages and Goron Juggernauts use this naturally. Interlopers form obsidian-dark walls bearing patterns that resemble runic seals or corrupted fortresses.*
+*Earth Sages and Goron juggernauts use this naturally. Interlopers form obsidian-dark walls bearing patterns that resemble runic seals or corrupted fortresses.*
 
 ### Wall of Thorns
 **School:** Conjuration
@@ -13030,12 +13027,12 @@ You conjure a wall of stone from nearby rock up to 60 feet long, 10 feet high, a
 
 You create a wall of tough, pliable, tangled brush bristling with needle-sharp thorns. The wall is up to 60 feet long, 10 feet high, and 5 feet thick. Moving through the wall costs 4 feet for every 1 foot moved and deals 7d8 piercing damage.
 
-*Deku Thornweavers call walls of living thorns that continue to grow, the forest's ultimate defensive expression.*
+*Deku thornweavers call walls of living thorns that continue to grow, the forest's ultimate defensive expression.*
 
 ### Wall of Water
-*(Also: Wall of Pressure, Zora Tidecaller variant)*
+*(Also: Wall of Pressure, Zora variant)*
 **School:** Evocation
-**MP Cost:** 5
+**MP Cost:** 4
 **Casting Time:** 1 Action
 **Range:** 60 feet
 **Duration:** Concentration, up to 10 minutes
@@ -13043,7 +13040,7 @@ You create a wall of tough, pliable, tangled brush bristling with needle-sharp t
 
 You conjure a wall of water up to 30 feet long, 10 feet wide, and 10 feet tall. The wall reduces the damage of fire spells by half that pass through it, and ranged weapon attacks that pass through it are made with disadvantage.
 
-*Water Sages summon this as a fluid defense; see Wall of Pressure for the Zora Tidecaller's deep-sea variant.*
+*Water Sages summon this as a fluid defense; see Wall of Pressure for the Zora tidecaller's deep-sea variant.*
 
 ### Warding Bond
 **School:** Abjuration
@@ -13085,7 +13082,7 @@ This spell grants up to ten willing creatures you can see within range the abili
 
 This spell grants the ability to move across any liquid surface as if it were solid ground. Up to ten willing creatures can benefit.
 
-*A convenience spell for Zora Tidecallers, water Sages, and Champions crossing Hyrule's many rivers and coastal areas.*
+*A convenience spell for Zora tidecallers, water Sages, and Champions crossing Hyrule's many rivers and coastal areas.*
 
 ### Weird
 **School:** Illusion
@@ -13123,7 +13120,7 @@ A 10-foot-radius, 30-foot-tall cylinder of howling wind forms at a point you cho
 
 A wall of strong wind rises from the ground at a point you choose, up to 50 feet long, 15 feet high, and 1 foot thick. The wall keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects cannot pass through. Creatures can pass through with a Strength saving throw, taking 3d8 bludgeoning damage on a failure.
 
-*Rito Marksmen use this to deflect arrows and prevent pursuit; Wind Sages maintain it as a natural extension of their elemental mastery.*
+*Rito marksmen use this to deflect arrows and prevent pursuit; Wind Sages maintain it as a natural extension of their elemental mastery.*
 
 ### Wish
 **School:** Conjuration
@@ -13229,15 +13226,15 @@ An earlier draft of Zelda DnD used **Racial Classes**: a rule under which only o
 
 | Spell | Level | Fits |
 |:--|:--:|:--|
-| Kelp Lash ✦ | 1st | Zora, water, coastal |
-| Shape Coral ✦ | 1st | Zora, reef, building |
-| Veil of the Deep ✦ | 2nd | Zora, stealth underwater |
+| Kelp Lash ✦ | 4th | Zora, water, coastal |
+| Shape Coral ✦ | 4th | Zora, reef, building |
+| Veil of the Deep ✦ | 5th | Zora, stealth underwater |
 | Wall of Pressure ✦ | 3rd | Zora, control |
-| Oath of the Tides ✦ | 3rd | Zora, oath and binding |
-| Spirits of the Sea ✦ | 4th | Zora, summoning |
-| Drowned Servants ✦ | 5th | Zora, necromancy |
+| Oath of the Tides ✦ | 5th | Zora, oath and binding |
+| Spirits of the Sea ✦ | 3rd | Zora, summoning |
+| Drowned Servants ✦ | 3rd | Zora, necromancy |
 | Phantom Glider ✦ | 3rd | Rito, Sheikah, movement |
-| Laughing Pressure Point ✦ | 2nd | Sheikah, subtlety |
+| Laughing Pressure Point ✦ | 1st | Sheikah, subtlety |
 | Conjure Woodland Beings | 4th | Deku, Kokiri, forest |
 | Transport via Plants | 6th | Deku, Kokiri, forest |
 | Contagion | 5th | Blight, corruption, curses |
@@ -13362,7 +13359,7 @@ Bokoblins are the most frequently encountered Blins. Shorter than Moblins but qu
 ### Variants
 
 - **Red Bokoblins**: The weakest and most common. Poorly trained but numerous.
-- **Green Bokoblins**: These variants of Bokoblin have wild magic which courses through their veins, turning their skin green. They typically take of shaman roles in their tribes and are able to cast very basic spells.
+- **Green Bokoblins**: These variants of Bokoblin have wild magic which courses through their veins, turning their skin green. They typically take on shaman roles in their tribes and are able to cast very basic spells.
 - **Blue Bokoblins**: More disciplined, tougher, and often serve as squad leaders.
 - **Black Bokoblins**: Veteran warriors with hardened bodies and devastating horn attacks.
 - **Silver Bokoblins**: Touched by Ganon's power; marked with purple patterns and glowing horns. Feared even by their own kind.
@@ -13460,7 +13457,7 @@ Blins are capable of cooperation, but betrayal is common, especially when leader
 ## Red Bokoblin
 *Small Humanoid (Blin), Neutral Evil*
 ___
-**Armor Class** :: 14 (leather armor, shield)
+**Armor Class** :: 15 (leather armor, shield)
 **Hit Points**  :: 21 (6d6)
 **Speed**       :: 30 ft.
 **Weak Point**  :: Horn
@@ -13469,8 +13466,8 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |8 (-1)|14 (+2)|10 (+0)|8 (-1)|8 (-1)|8 (-1)|
 ___
-**Skills**               :: Stealth +4, Survival +2
-**Senses**               :: darkvision 60 ft., passive Perception 10
+**Skills**               :: Stealth +4, Survival +1
+**Senses**               :: darkvision 60 ft., passive Perception 9
 **Languages**            :: Blin
 **Challenge**            :: 1/4 (50 XP) {{bonus **Proficiency Bonus** +2}}
 ___
@@ -13491,7 +13488,7 @@ ___
 ## Green Bokoblin
 *Small Humanoid (Blin), Neutral Evil*
 ___
-**Armor Class** :: 14 (leather armor, shield)
+**Armor Class** :: 15 (leather armor, shield)
 **Hit Points**  :: 31 (9d6) {{bonus **Magic Points** 12}}
 **Speed**       :: 30 ft.
 **Weak Point**  :: Horn
@@ -13501,7 +13498,7 @@ ___
 |10 (+0)|14 (+2)|10 (+0)|10 (+0)|14 (+2)|10 (+0)|
 ___
 **Skills**               :: Stealth +4, Survival +2
-**Senses**               :: darkvision 60 ft., passive Perception 10
+**Senses**               :: darkvision 60 ft., passive Perception 12
 **Languages**            :: Blin
 **Challenge**            :: 1/2 (100 XP) {{bonus **Proficiency Bonus** +2}}
 ___
@@ -13651,7 +13648,7 @@ ___
 ### Called Shot (Glowing Horns)
 **Hit:** The bokoblin's Savage Coordination aura is suppressed until the end of its next turn.
 :
-**Critical:** The bokoblin's Ganon's Empowerment is suppressed until the end of its next turn. Its weapon attacks are treated as nonmagical, allowing damage resistance to apply against it.
+**Critical:** The bokoblin's Ganon's Empowerment is suppressed until the end of its next turn. Its weapon attacks count as nonmagical, so targets' damage resistances apply.
 }}
 
 {{imageMaskEdge1,--offset:10%,--rotation:0
@@ -13707,7 +13704,7 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |15 (+2)|10 (+0)|13 (+1)|10 (+0)|15 (+2)|8 (-1)|
 ___
-**Senses**               :: darkvision 60 ft., passive Perception 10
+**Senses**               :: darkvision 60 ft., passive Perception 12
 **Languages**            :: Blin
 **Challenge**            :: 1 (200 XP) {{bonus **Proficiency Bonus** +2}}
 ___
@@ -14349,7 +14346,7 @@ ___
 :
 ***Titanic Slam.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 24 (3d10 + 8) bludgeoning damage.
 :
-***Temple Quake (Recharge 5-6).*** The Sentinel slams the ground. Each creature within 30 feet must make a DC 19 Dexterity saving throw, taking 36 (8d8) bludgeoning damage and falling prone on a failure, or half damage on a success.
+***Temple Quake (Recharge 5-6).*** The Sentinel slams the ground. Each creature within 30 feet must make a DC 20 Dexterity saving throw, taking 36 (8d8) bludgeoning damage and falling prone on a failure, or half damage on a success.
 :
 ***Guardian Advance.*** The Sentinel moves up to its speed without provoking opportunity attacks.
 ### Called Shot (Sealed Core)
@@ -14619,7 +14616,7 @@ ___
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TWW_Red_Bubble_and_Blue_Bubble_Figurine_Model.png' alt='Bubble' style='display:block;width:299px;height:330px;margin:6px auto 2px auto'/>
 
-{{footnote Enemies | Beamos }}
+{{footnote Enemies | Beamos & Bubble }}
 
 {{pageNumber,auto}}
 
@@ -14671,7 +14668,7 @@ Over many generations, an isolated ChuChu colony can slowly take on the characte
 
 ### Splitting
 
-Every ChuChu in this family (Blue, Green, any of Green's elemental-transformed forms, Red, Yellow, Purple, and Dark alike) shares the following trait, printed identically in each stat block below:
+Every ChuChu in this family (Blue, Green, any of Green's elemental-transformed forms, Red, Yellow, Purple, and Dark alike) shares the following trait, summarized in each stat block below:
 
 {{footnote Enemies | ChuChus }}
 
@@ -14741,7 +14738,7 @@ Thriving in the same forests and grasslands as their Blue cousins, Green ChuChus
 
 ### Ember, Frost, and Spark ChuChus
 
-The transformed results of a Green ChuChu's elemental absorption. An **Ember ChuChu** has been permanently claimed by fire, its body warm to the touch, immune to flame, and dangerously vulnerable to cold. A **Frost ChuChu** has been claimed by cold in the same way, immune to its own element and vulnerable to fire. A **Spark ChuChu** carries a permanent electrical charge, immune to lightning and dangerous to touch with any metal weapon. None of these forms exist as their own independent colonies, every one was once a Green ChuChu, and every one is a permanent, individual transformation rather than an inherited trait.
+The transformed results of a Green ChuChu's elemental absorption. An **Ember ChuChu** has been permanently claimed by fire, its body warm to the touch, immune to flame, and dangerously vulnerable to cold. A **Frost ChuChu** has been claimed by cold in the same way, immune to its own element and vulnerable to fire. A **Spark ChuChu** carries a permanent electrical charge, immune to lightning and dangerous to touch with any metal weapon. None of these forms exist as their own independent colonies; every one was once a Green ChuChu, and every one is a permanent, individual transformation rather than an inherited trait.
 
 ### Red ChuChus
 
@@ -14967,7 +14964,7 @@ ___
 :
 ***Splitting.*** Whenever the ChuChu takes slashing damage and has 2 or more hit points remaining afterward, it immediately splits into two new Spark ChuChus, each with hit points equal to half the parent's remaining hit points (rounded down), AC 12, and using the Hop action in place of its normal attacks, but otherwise retaining the parent's traits (including lightning immunity). If remaining hit points would be 1 or fewer, it dies instead.
 :
-***Electric Body.*** A creature that touches the Spark ChuChu or hits it with a melee attack while within 5 feet takes 4 (1d8) lightning damage. A creature wielding a metal weapon to make that attack has disadvantage on the attack roll.
+***Electric Body.*** A creature that touches the Spark ChuChu or hits it with a melee attack while within 5 feet takes 4 (1d8) lightning damage. Melee attacks made against it with a metal weapon have disadvantage.
 ### Actions
 ***Shock Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage plus 4 (1d8) lightning damage.
 ### Called Shot (Charged Core)
@@ -15113,7 +15110,7 @@ ___
 :
 ***Dark Division.*** When reduced to 0 hit points, the Dark ChuChu splits into two Green ChuChus (each with hit points equal to a full Green ChuChu, not a fraction) unless it takes radiant damage during the same turn it is reduced to 0, in which case it dies outright with no further splitting.
 ### Actions
-***Multiattack.*** The Dark ChuChu makes two Slam attacks.
+***Multiattack.*** The Dark ChuChu makes two Dark Slam attacks.
 :
 ***Dark Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) bludgeoning damage plus 7 (2d6) necrotic damage.
 :
@@ -15174,7 +15171,7 @@ ___
 ***Shield Bash.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) bludgeoning damage. The target must succeed on a DC 14 Strength saving throw or be knocked prone.
 }}
 
-{{footnote Enemies | ChuChus }}
+{{footnote Enemies | ChuChus & Darknut }}
 
 {{pageNumber,auto}}
 
@@ -15204,7 +15201,7 @@ Deku Babas are carnivorous plants commonly found in forests, swamps, and overgro
 *Small Plant, Unaligned*
 ___
 **Armor Class** :: 12
-**Hit Points**  :: 13 (3d8)
+**Hit Points**  :: 14 (4d6)
 **Speed**       :: 0 ft.
 **Weak Point**  :: Stem
 ___
@@ -15259,7 +15256,7 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |8 (-1)|14 (+2)|12 (+1)|10 (+0)|12 (+1)|12 (+1)|
 ___
-**Skills** :: Nature +3, Stealth +4
+**Skills** :: Nature +2, Stealth +4
 **Senses** :: darkvision 60 ft., passive Perception 11
 **Languages** :: Hylian, Deku
 **Challenge** :: 1/2 (100 XP) {{bonus **Proficiency Bonus** +2}}
@@ -15273,7 +15270,7 @@ ___
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/MM3D_Deku_Scrub_Model_4.png' alt='Deku Scrub' style='display:block;width:160px;height:169px;margin:6px auto 2px auto'/>
 
-{{footnote Enemies | ChuChus }}
+{{footnote Enemies | Deku Baba & Deku Scrub }}
 
 {{pageNumber,auto}}
 
@@ -15294,7 +15291,7 @@ Dodongos are enormous reptilian monsters famous for their explosive weakness. Th
 
 **Called Shot (Mouth)**
 
-**Hit:** The Dodongo cannot use Fire Breath until its next turn.
+**Hit:** The Dodongo cannot use Fire Breath until the end of its next turn.
 
 **Critical:** The Dodongo is stunned until the end of its next turn.
 
@@ -15370,7 +15367,7 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |18 (+4)|10 (+0)|20 (+5)|3 (-4)|10 (+0)|5 (-3)|
 ___
-**Skills**               :: Athletics +6
+**Skills**               :: Athletics +7
 **Senses**               :: darkvision 60 ft., passive Perception 10
 **Languages**            :: —
 **Challenge**            :: 5 (1,800 XP) {{bonus **Proficiency Bonus** +3}}
@@ -15382,7 +15379,7 @@ ___
 ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
 }}
 
-{{footnote Enemies | ChuChus }}
+{{footnote Enemies | Dodongo & Floormaster }}
 
 {{pageNumber,auto}}
 
@@ -15480,7 +15477,7 @@ ___
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/EoW_Gibdo_Model_2.png' alt='Gibdo' style='display:block;width:262px;height:330px;margin:6px auto 2px auto'/>
 
-{{footnote Enemies | ChuChus }}
+{{footnote Enemies | Wallmaster & Gibdo }}
 
 {{pageNumber,auto}}
 
@@ -15512,7 +15509,6 @@ ___
 **Hit Points**  :: 95 (10d10 + 40)
 **Speed**       :: 40 ft.
 **Weak Point**  :: Faceplate
-**Weakpoint**   :: Faceplate
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -15581,7 +15577,7 @@ ___
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TotK_Keese_Model_2.png' alt='Keese' style='display:block;width:328px;height:126px;margin:6px auto 2px auto'/>
 
-{{footnote Enemies | ChuChus }}
+{{footnote Enemies | Helmasaur & Keese }}
 
 {{pageNumber,auto}}
 
@@ -15602,7 +15598,7 @@ Leevers are burrowing monsters that inhabit deserts, beaches, and loose soil. Th
 
 **Called Shot (Core)**
 
-**Hit:** The Leever cannot Burrow until the end of its next turn.
+**Hit:** The Leever's burrow speed is 0 until the end of its next turn.
 
 **Critical:** The Leever is stunned until the end of its next turn.
 
@@ -15651,7 +15647,7 @@ ___
 ***Adhesive Flesh.*** Creatures grappled by the Like Like have disadvantage on checks made to escape the grapple.
 ### Actions
 ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
-*Hit:* 11 (2d6 + 4) piercing damage.
+*Hit:* 11 (2d6 + 4) piercing damage, and the target is grappled (escape DC 14).
 :
 ***Swallow.*** One Medium or smaller creature grappled by the Like Like must succeed on a DC 14 Dexterity saving throw or be swallowed.
 :
@@ -15669,7 +15665,7 @@ A Like Like threatens a party's gear, not its hit points, and the fun is in the 
 When Digest Equipment lands, prefer damaging an item to destroying it. A cracked shield the party carries to the next smith is better at the table than an empty slot, and it keeps the Like Like from reading as a punishment for losing initiative.
 }}
 
-{{footnote Enemies | ChuChus }}
+{{footnote Enemies | Leever & Like Like }}
 
 {{pageNumber,auto}}
 
@@ -15687,7 +15683,7 @@ The **Lizalfos** are among the most intelligent and dangerous monsters found thr
 
 Though many Hylians mistake them for simple monsters, Lizalfos display signs of organized tribal behavior, tactical thinking, and sophisticated combat techniques. Some tribes inhabit swamps and deserts, while others dwell within volcanoes, ruins, forests, and ancient strongholds.
 
-Across the ages, three major branches of the species have emerged; Lizalfos, Dinolfos, Aeralfos.
+Across the ages, three major branches of the species have emerged: Lizalfos, Dinolfos, and Aeralfos.
 
 Each represents a different evolutionary adaptation of the same reptilian lineage.
 
@@ -15823,7 +15819,7 @@ Unlike Bokoblins, a lone Lizalfos remains dangerous even when isolated.
 
 {{monster,frame
 ## Lizalfos
-*Medium Humanoid (Lizardfolk), Chaotic Evil*
+*Medium Humanoid (Lizalfos), Chaotic Evil*
 ___
 **Armor Class** :: 15
 **Hit Points**  :: 52 (8d8 + 16)
@@ -15871,7 +15867,7 @@ ___
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|18 (+4)|18 (+4)|10 (+0)|12 (+1)|8 (-1)|
 ___
-**Skills** :: Acrobatics +6, Athletics +6, Stealth +6
+**Skills** :: Acrobatics +7, Athletics +7, Stealth +7
 **Senses** :: darkvision 60 ft., passive Perception 11
 **Languages** :: Lizalfos, Blin
 **Challenge** :: 5 (1,800 XP) {{bonus **Proficiency Bonus** +3}}
@@ -15907,9 +15903,11 @@ ___
 |20 (+5)|20 (+5)|16 (+3)|10 (+0)|13 (+1)|10 (+0)|
 ___
 **Skills** :: Acrobatics +8, Athletics +8, Stealth +8
+**Senses** :: darkvision 60 ft., passive Perception 11
+**Languages** :: Lizalfos, Blin
 **Challenge** :: 8 (3,900 XP) {{bonus **Proficiency Bonus** +3}}
 ___
-***Skirmisher.***
+***Skirmisher.*** When a creature ends its turn within 5 feet of the lizalfos, it may move up to half its speed.
 :
 ***Uncanny Dodge.*** Once per round, the lizalfos halves the damage of an attack that hits it.
 ### Actions
@@ -15981,7 +15979,7 @@ Some varieties have even demonstrated the ability to breathe fire.
 
 {{monster,frame
 ## Dinolfos
-*Medium Humanoid (Lizardfolk), Chaotic Evil*
+*Medium Humanoid (Lizalfos), Chaotic Evil*
 ___
 **Armor Class** :: 17
 **Hit Points**  :: 85 (10d8 + 40)
@@ -15992,7 +15990,7 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |18 (+4)|16 (+3)|18 (+4)|10 (+0)|12 (+1)|10 (+0)|
 ___
-**Skills** :: Athletics +6, Intimidation +2
+**Skills** :: Athletics +7, Intimidation +3
 **Senses** :: darkvision 60 ft., passive Perception 11
 **Languages** :: Lizalfos
 **Challenge** :: 5 (1,800 XP) {{bonus **Proficiency Bonus** +3}}
@@ -16023,6 +16021,8 @@ ___
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|18 (+4)|18 (+4)|10 (+0)|12 (+1)|10 (+0)|
 ___
+**Senses** :: darkvision 60 ft., passive Perception 11
+**Languages** :: Lizalfos
 **Challenge** :: 9 (5,000 XP) {{bonus **Proficiency Bonus** +4}}
 ___
 ***Brutal Assault.*** Critical hits roll an additional damage die.
@@ -16327,7 +16327,7 @@ ___
 ___
 ***Skittish.*** If a hostile creature ends its turn within 5 feet of the octorok, the octorok may move up to 10 feet without provoking opportunity attacks.
 :
-***Reflectable Projectile.*** A creature wielding a shield may use its reaction when hit by Rock Spit to reduce the damage to 0. If it does, the projectile is reflected. The octorok must succeed on a DC 13 Dexterity saving throw or take the attack's damage.
+***Reflectable Projectile.*** A creature wielding a shield may use its reaction when hit by Heavy Rock Spit to reduce the damage to 0. If it does, the projectile is reflected. The octorok must succeed on a DC 13 Dexterity saving throw or take the attack's damage.
 ### Actions
 ***Heavy Rock Spit.*** *Ranged Weapon Attack:* +4 to hit, range 60/180 ft., one target. *Hit:* 9 (2d6 + 2) bludgeoning damage.
 :
@@ -16367,7 +16367,7 @@ ___
 ___
 ***False Vegetation.*** While motionless, the forest octorok is indistinguishable from ordinary foliage.
 :
-***Ambush Predator.*** The forest octorok deals an extra 7 (2d6) damage with Rock Spit against creatures that have not yet acted in combat.
+***Ambush Predator.*** The forest octorok deals an extra 7 (2d6) damage with Seed Spit against creatures that have not yet acted in combat.
 ### Actions
 ***Seed Spit.*** *Ranged Weapon Attack:* +4 to hit, range 60/180 ft., one target. *Hit:* 9 (2d6 + 2) piercing damage.
 ### Called Shot (Root Cluster)
@@ -16420,7 +16420,7 @@ ___
 *Medium Monstrosity, Chaotic Evil*
 ___
 **Armor Class** :: 16 (Natural Armor)
-**Hit Points**  :: 68 (8d10 + 24)
+**Hit Points**  :: 67 (9d8 + 27)
 **Speed**       :: 20 ft.
 **Weak Point**  :: Cracked Shell
 ___
@@ -16435,7 +16435,7 @@ ___
 ___
 ***Ore Eater.*** The rock octorok ignores difficult terrain composed of stone or rubble.
 :
-***Reflectable Projectile.*** A creature wielding a shield may use its reaction when hit by Rock Spit to reduce the damage to 0. If it does, the projectile is reflected. The rock octorok takes the attack's damage automatically.
+***Reflectable Projectile.*** A creature wielding a shield may use its reaction when hit by Boulder Spit to reduce the damage to 0. If it does, the projectile is reflected. The rock octorok takes the attack's damage automatically.
 ### Actions
 ***Boulder Spit.*** *Ranged Weapon Attack:* +5 to hit, range 80/240 ft., one target. *Hit:* 17 (4d6 + 3) bludgeoning damage.
 :
@@ -16589,7 +16589,7 @@ The target must succeed on a DC 13 Constitution saving throw or its hit point ma
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/BotW_Sky_Octorok_Platform_Model_2.png' alt='A sky octorok in disguise' style='display:block;width:328px;height:227px;margin:6px auto 2px auto'/>
 
-{{footnote Enemies | Octoroks }}
+{{footnote Enemies | Peahat & Poe }}
 
 {{pageNumber,auto}}
 
@@ -16616,11 +16616,11 @@ ReDeads are undead remnants of ancient civilizations. Their horrifying gaze free
 
 **Called Shot (Head)**
 
-**Hit:** The ReDead cannot use Paralyzing Gaze until the start of its next turn.
+**Hit:** The ReDead cannot use Paralyzing Gaze until the end of its next turn.
 
 **Critical:** The ReDead is stunned until the end of its next turn.
 
-{{footnote Enemies | Octoroks }}
+{{footnote Enemies | ReDead }}
 
 {{pageNumber,auto}}
 
@@ -16644,7 +16644,7 @@ ___
 **Languages**            :: understands Hylian but cannot speak
 **Challenge**            :: 2 (450 XP) {{bonus **Proficiency Bonus** +2}}
 ___
-***Undead Fortitude.*** If damage reduces the redead to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken.
+***Undead Fortitude.*** If damage reduces the redead to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken. On a success, it drops to 1 hit point instead.
 ### Actions
 ***Paralyzing Gaze.*** One creature within 30 feet that can see the redead must succeed on a DC 12 Wisdom saving throw or be paralyzed until the end of its next turn.
 :
@@ -16701,7 +16701,7 @@ ___
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TP_Skulltula_Model_2.png' alt='Skulltula' style='display:block;width:328px;height:190px;margin:6px auto 2px auto'/>
 
-{{footnote Enemies | Octoroks }}
+{{footnote Enemies | ReDead & Skulltula }}
 
 {{pageNumber,auto}}
 
@@ -16730,7 +16730,7 @@ Stalfos are skeletal warriors animated by dark magic. Unlike mindless undead, th
 ## Stalfos
 *Medium Undead, Lawful Evil*
 ___
-**Armor Class** :: 16 (chain shirt, shield)
+**Armor Class** :: 17 (chain shirt, shield)
 **Hit Points**  :: 39 (6d8 + 12)
 **Speed**       :: 30 ft.
 **Weak Point**  :: Skull
@@ -16788,7 +16788,7 @@ ___
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/OoT3D_Stalfos_Model_2.png' alt='Stalfos' style='display:block;width:250px;height:330px;margin:6px auto 2px auto'/>
 
-{{footnote Enemies | Octoroks }}
+{{footnote Enemies | Stalfos & Tektite }}
 
 {{pageNumber,auto}}
 
@@ -16843,8 +16843,8 @@ ___
 - Fire Bolt (1 MP)
 - Burning Hands (2 MP)
 - Scorching Ray (3 MP)
-- Misty Step (2 MP)
-- Fireball (5 MP)
+- Misty Step (3 MP)
+- Fireball (4 MP)
 :
 ***Arcane Staff.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) bludgeoning damage.
 }}
@@ -16860,7 +16860,7 @@ Wolfos are cunning lupine predators found in forests, mountains, and wilderness 
 - Targets weakened prey
 - Avoids obvious traps
 
-{{footnote Enemies | Octoroks }}
+{{footnote Enemies | Wizzrobe & Wolfos }}
 
 {{pageNumber,auto}}
 
@@ -16870,7 +16870,7 @@ Wolfos are cunning lupine predators found in forests, mountains, and wilderness 
 
 **Called Shot (Flank)**
 
-**Hit:** The Wolfos loses Pack Hunter until the start of its next turn.
+**Hit:** The Wolfos loses Pack Hunter until the end of its next turn.
 
 **Critical:** The Wolfos is knocked prone.
 
@@ -16905,7 +16905,7 @@ ___
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/MM_White_Wolfos_Model_3.png' alt='Wolfos' style='display:block;width:240px;height:330px;margin:6px auto 2px auto'/>
 
-{{footnote Enemies | Octoroks }}
+{{footnote Enemies | Wolfos }}
 
 {{pageNumber,auto}}
 
@@ -16994,7 +16994,7 @@ Unlike the Thornheart Sanctum (a sealed ruin reclaimed by corruption), the Hollo
 **What changed:** Gohma is now on the same vertical level as the party (whichever shelf it landed on) and fights at melee range. Its falling debris hazard (see Arena features) is now active beneath wherever it stands.
 
 **Attacks:**
-- *Claw* (×2): Melee attack, +6 to hit, reach 10 ft. On hit: 1d10 + 3 slashing damage.
+- *Claw* (×2): Melee attack, +5 to hit, reach 10 ft. On hit: 1d10 + 3 slashing damage.
 - *Acid Spit* (Recharge 5–6): As Phase 1.
 - *Skittering Charge:* Once per turn, Gohma may move up to its full speed (30 ft.) toward a creature and make one Claw attack at the end of the movement without provoking opportunity attacks.
 
@@ -17015,7 +17015,7 @@ Unlike the Thornheart Sanctum (a sealed ruin reclaimed by corruption), the Hollo
 \page
 
 **Attacks:**
-- *Frenzied Claws* (×3): Melee attack, +6 to hit, reach 10 ft. On hit: 1d8 + 3 slashing damage. (Same total attacks per round as Phase 2's combination, redistributed into three weaker strikes, more chances to hit, but each less individually threatening.)
+- *Frenzied Claws* (×3): Melee attack, +5 to hit, reach 10 ft. On hit: 1d8 + 3 slashing damage. (Same total attacks per round as Phase 2's combination, redistributed into three weaker strikes, more chances to hit, but each less individually threatening.)
 - *Final Acid Burst* (1/combat): When Gohma is reduced below 10% of its maximum HP, it unleashes a final desperate attack, each creature within 15 feet must succeed on a DC 13 Dexterity saving throw or take 3d6 acid damage (half on success). This can be telegraphed clearly: *"Its body swells, fluid building visibly beneath its cracked carapace."*
 
 **Exploitation:** Gohma's eye is now AC 10 (its defenses have collapsed) and any hit against it, Called Shot or not, triggers the Vulnerability Window.
@@ -17037,7 +17037,7 @@ The parasite's body dissolves into the root-wood within minutes, leaving behind 
 ### Reward
 
 **Mechanical:**
-- **Gohma's Chitin Shell:** A crafting component. A Goron smith or Deku Thornweaver-trained Sage can use it to craft a piece of light armor granting resistance to acid damage.
+- **Gohma's Chitin Shell:** A crafting component. A Goron smith or a Deku-trained Sage can use it to craft a piece of light armor granting resistance to acid damage.
 - **Heart of the Root:** Each player gains +2 to their maximum hit points (permanent), the tree's gratitude made tangible.
 - **Rupee Cache:** 60 rupees in tree-sap amber, plus a handful of rare Deku Seeds (functionally infinite Deku Sling ammunition for the rest of the campaign).
 
@@ -17143,7 +17143,7 @@ King Dodongo's hide is thick, scaled, and almost entirely immune to called shots
 
 *Pain makes King Dodongo genuinely angry for the first time. It begins to actively close distance, and the juvenile Dodongos in the nest stir, woken by the commotion.*
 
-**What changed:** The Dodongo nest activates: two or three juvenile Dodongos join the fight (see Arena features). King Dodongo's breath cycle accelerates: telegraph and payoff now occur on consecutive turns instead of with a pause between, giving the party less breathing room to react.
+**What changed:** The Dodongo nest activates: two or three juvenile Dodongos join the fight (see Arena features). King Dodongo's breath cycle accelerates: each new telegraph now follows the previous payoff with no pause between, giving the party less breathing room to react.
 
 **New attack:**
 - *Charge:* Once per turn, in place of its normal movement, King Dodongo may move up to 40 feet in a straight line toward a creature. Any creature in its path must succeed on a DC 15 Dexterity save or take 3d8 bludgeoning damage and be knocked prone.
@@ -17291,7 +17291,7 @@ A bolder option exists for parties willing to take a physical risk: climbing dir
 ### Reward
 
 **Mechanical:**
-- **Raw Ore Core Fragment:** A valuable crafting component, sellable for 40–60 rupees to most merchants, or usable by a Goron smith or Zonai Tinkerer-trained character to upgrade a single piece of armor by one Great Fairy tier without requiring an actual Great Fairy Fountain visit.
+- **Raw Ore Core Fragment:** A valuable crafting component, sellable for 40–60 rupees to most merchants, or usable by a Goron smith or Zonai crafter to upgrade a single piece of armor by one Great Fairy tier without requiring an actual Great Fairy Fountain visit.
 - **Rupee Cache:** 1d6 × 10 rupees, scattered among the rubble (the ore the Talus had been absorbing before the fight).
 - **No Heart Container equivalent.** As an overworld optional encounter rather than a dungeon capstone, Stone Talus does not grant the permanent HP increase that dungeon bosses do. This is intentional and helps preserve the value of dungeon-based Heart Container rewards.
 
@@ -17310,7 +17310,7 @@ A bolder option exists for parties willing to take a physical risk: climbing dir
 **Recommended Party Level:** 6–8
 **Recommended Party Size:** 3–5
 **CR:** 9 (5,000 XP)
-**Dungeon Item:** Zora Trident or equivalent aquatic gear (granting swim speed and underwater combat capability; see the Zora Tidecaller spell compendium and Items chapter for reference equipment)
+**Dungeon Item:** Zora Trident or equivalent aquatic gear (granting swim speed and underwater combat capability; see the Items chapter for reference equipment)
 **Central Mechanic:** Rising and falling water levels combined with a surface/submerge attack rhythm.
 
 ---
@@ -17418,7 +17418,7 @@ If a creature is already grappled by Morpheel at the start of its turn, it is pu
 ### Reward
 
 **Mechanical:**
-- **Morpheel's Eye:** A rare crafting component or relic-tier reagent. Usable by a Zora Tidecaller-aligned Sage or appropriate crafter to create an item granting darkvision underwater equal to normal darkvision range, or sold to the right collector or Zonai Researcher for a substantial rupee sum.
+- **Morpheel's Eye:** A rare crafting component or relic-tier reagent. Usable by a Water-affinity Sage or appropriate crafter to create an item granting darkvision underwater equal to normal darkvision range, or sold to the right collector or Zonai Researcher for a substantial rupee sum.
 - **Heart of the Depths:** Each player gains +2 to their maximum hit points (permanent).
 - **Rupee Cache:** 340 rupees recovered from the sanctum's submerged offering chests, plus one rare-tier piece of Zora-crafted equipment (DM's choice from the Items chapter).
 - **Sanctum Access:** The Lakebed Sanctum's deeper chambers, previously sealed by Morpheel's presence, become explorable, a natural hook for a Zora-aligned relic, a Sage Medallion fragment, or simply a quiet, sacred space the party has reclaimed.
@@ -17433,7 +17433,7 @@ If a creature is already grappled by Morpheel at the start of its turn, it is pu
 
 # Boss Compendium: Stat Blocks
 
-These four stat blocks support the full encounter write-ups found in the DM Guide's Boss Compendium (Gohma, King Dodongo, Stone Talus, and Morpheel). Each stat block is built to be run on its own by a DM who wants the mechanical reference without re-reading the full narrative encounter, but for the complete phase-by-phase experience (arena design, narration cues, hint rolls, and failure states), see the full write-up for each boss.
+These four stat blocks support the full encounter write-ups found in the Bosses chapter (Gohma, King Dodongo, Stone Talus, and Morpheel). Each stat block is built to be run on its own by a DM who wants the mechanical reference without re-reading the full narrative encounter, but for the complete phase-by-phase experience (arena design, narration cues, hint rolls, and failure states), see the full write-up for each boss.
 
 Where a boss's mechanics depend on its phase (such as King Dodongo's breath cycle or Morpheel's surface/submerge rhythm), the stat block notes the phase transitions directly in its traits and actions, condensed from the full encounter text.
 
@@ -17470,7 +17470,7 @@ Where a boss's mechanics depend on its phase (such as King Dodongo's breath cycl
 
 **Multiattack.** Gohma makes two Claw attacks (only while grounded; while ceiling-anchored, it cannot make Claw attacks).
 
-**Claw.** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 8 (1d10 + 3) slashing damage.
+**Claw.** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 8 (1d10 + 3) slashing damage.
 
 **Acid Spit (Recharge 5–6).** *Ranged Attack:* +5 to hit, range 60 ft., one target. *Hit:* 7 (2d6) acid damage.
 
@@ -17530,7 +17530,7 @@ Where a boss's mechanics depend on its phase (such as King Dodongo's breath cycl
 
 **Charge (Phase 2+, Replaces One Stomp).** King Dodongo moves up to 40 feet in a straight line. Each creature in its path must succeed on a DC 15 Dexterity saving throw or take 13 (3d8) bludgeoning damage and be knocked prone.
 
-**Phase 2 (60% HP).** The Dodongo nest activates (2–3 juvenile Dodongos, use Lizalfos statistics, join the fight). King Dodongo's Breath Cycle accelerates: telegraph and payoff occur on consecutive turns.
+**Phase 2 (60% HP).** The Dodongo nest activates (2–3 juvenile Dodongos, use weakened CR 1/2 Lizalfos statistics, join the fight). King Dodongo's Breath Cycle accelerates: a new telegraph follows each payoff at once.
 
 **Phase 3 (25% HP).** Fiery Breath's cone widens to 40 feet. At the start of each of King Dodongo's turns, roll a d6: on a 5–6, it attempts an immediate, untelegraphed breath attack this turn instead of following the normal cycle (still interruptible by the same AC 8 attack roll, but with only the current turn to react).
 
@@ -17538,7 +17538,7 @@ Where a boss's mechanics depend on its phase (such as King Dodongo's breath cycl
 
 ### Weak Point: Stomach (Conditional)
 
-**Swallowed Explosive.** When an explosive is thrown into King Dodongo's open mouth and the cycle completes, it takes 22 (4d10) fire damage, is knocked prone, and is stunned until the end of its next turn. Its stomach is exposed for the duration.
+**Swallowed Explosive.** When an explosive is thrown into King Dodongo's open mouth and the cycle completes, it takes 22 (4d10) fire damage (ignoring its fire resistance), is knocked prone, and is stunned until the end of its next turn. Its stomach is exposed for the duration.
 
 **Called Shot (Stomach), while exposed**
 *Hit:* The attack automatically succeeds and deals double damage dice, in addition to normal Called Shot bonus dice.
@@ -17553,7 +17553,7 @@ Where a boss's mechanics depend on its phase (such as King Dodongo's breath cycl
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:--|:--|:--|:--|:--|:--|
-| 18 (+4) | 8 (−1) | 17 (+3) | 3 (−4) | 10 (+0) | 1 (−5) |
+| 16 (+3) | 8 (−1) | 17 (+3) | 3 (−4) | 10 (+0) | 1 (−5) |
 
 **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks (except when core is exposed; see below)
 **Damage Immunities** poison
@@ -17603,8 +17603,8 @@ The core cannot be targeted unless exposed by Staggering Impact, or unless a cre
 |:--|:--|:--|:--|:--|:--|
 | 20 (+5) | 14 (+2) | 14 (+2) | 2 (−4) | 13 (+1) | 6 (−2) |
 
-**Skills** Perception +3
-**Senses** blindsight 60 ft. (underwater only), passive Perception 13
+**Skills** Perception +5
+**Senses** blindsight 60 ft. (underwater only), passive Perception 15
 **Languages** —
 **Challenge** 9 (5,000 XP) | **Proficiency Bonus** +4
 
@@ -17667,7 +17667,7 @@ ___
 
 The currency of Hyrule is the **rupee**: a hexagonal gemstone whose color denotes its value. Rupees are carried in a wallet, are accepted everywhere from Castle Town to a Gerudo market stall, and are what every price in this chapter is denominated in.
 
-**One rupee is worth one gold piece.** Prices in this book are written using the standard 5e coin abbreviations, so a shield listed at 30 gp costs thirty rupees, and one listed at 5 sp costs five silver rupees. This keeps every price in the Player's Handbook usable at your table without conversion.
+**One rupee is worth one gold piece.** Prices in this book are written using the standard 5e coin abbreviations, so a shield listed at 30 gp costs thirty rupees, and one listed at 5 sp costs half a rupee. This keeps every price in the Player's Handbook usable at your table without conversion.
 
 | Rupee | Value | 5e Equivalent |
 |:--|:--:|:--|
@@ -17708,7 +17708,7 @@ Weapons in this chapter use the standard 5e properties (ammunition, finesse, hea
 
 ***Quick-draw.*** Drawing or stowing this weapon does not use your free object interaction, and you may do so as part of any attack you make with it.
 
-***Returning.*** When thrown, the weapon returns to your hand at the end of the turn, whether or not the attack hit.
+***Returning.*** When thrown, the weapon returns to your hand immediately after the attack, whether or not it hit.
 
 ***Special.*** The item has a rule written out in the text below its table. Read that entry before using it.
 
@@ -17720,7 +17720,7 @@ Weapons in this chapter use the standard 5e properties (ammunition, finesse, hea
 
 ***Perfect Parry.*** If a parry reduces the incoming damage to 0, it is a **perfect parry**. Some shields and magic items key an additional effect off one; the Hylian Shield is the clearest example.
 
-***Shield Bash.*** If you are wielding a shield and take the Attack action, you may use your bonus action to make a melee weapon attack with the shield. It deals **1d4 bludgeoning damage plus your Strength modifier**. A **fine** shield deals 1d4 + 1.
+***Shield Bash.*** If you are wielding a shield and take the Attack action, you may use your bonus action to make a melee weapon attack with the shield. It deals **1d4 bludgeoning damage plus your Strength modifier**. A **fine** shield adds +1 to this damage.
 
 Shield Bash does not shove, trip, or push. Moving a creature with your shield requires the **Shield Master** feat.
 
@@ -17746,7 +17746,7 @@ Blades of every length are carried across Hyrule, from simple village shortsword
 |:--|:--:|:--|:--:|:--|
 | Traveler's Sword | 5 gp | 1d6 slashing | 2 lbs. | Light |
 | Shortsword | 10 gp | 1d6 piercing | 2 lbs. | Finesse, light |
-| Rusty Broadsword | 3 gp | 1d6 slashing | 3 lbs. | — |
+| Rusty Broadsword | 3 gp | 1d6 slashing | 3 lbs. | Fragile |
 
 ***Traveler's Swords*** are the most common blade in Hyrule: simple, unadorned, and wielded by anyone from wandering merchants to aspiring adventurers. They're easy to come by and easy to lose.
 
@@ -18102,7 +18102,7 @@ Shields in Hyrule range from crude Bokoblin bark to the legendary Hylian Shield 
 
 ***Royal Guard's Shield*** is a Sheikah-engineered shield of exceptional stopping power but poor structural integrity. It is **fragile**: it shatters if you roll a 1 on an attack roll made as part of a shield bash, or at DM discretion when subjected to extreme force. Both the fragile property and the shield bash action are defined at the front of this chapter.
 
-***The Hylian Shield*** is the most legendary shield in Hyrule, passed down through the royal family alongside the legend of the chosen hero. Its Guard bonus of +4 is matched only by the Royal Guard's Shield, and unlike that shield it does not break. It requires attunement. While attuned, you cannot be disarmed of the Hylian Shield, and a perfect parry made with it deals 1d8 force damage to the attacker. If destroyed, it can be purchased from Granté in Tarrey Town for 3,000 rupees, assuming he has found one.
+***The Hylian Shield*** is the most legendary shield in Hyrule, passed down through the royal family alongside the legend of the chosen hero. Its Guard bonus of +4 is matched only by the Royal Guard's Shield, and unlike that shield it is not fragile. It requires attunement. While attuned, you cannot be disarmed of the Hylian Shield, and a perfect parry made with it deals 1d8 force damage to the attacker. If destroyed, it can be purchased from Granté in Tarrey Town for 3,000 rupees, assuming he has found one.
 
 {{footnote Items | Weapons }}
 
@@ -18114,7 +18114,7 @@ Shields in Hyrule range from crude Bokoblin bark to the legendary Hylian Shield 
 
 ***Daybreaker*** was the champion's shield of Gerudo warrior Urbosa. This magnificent shield, paired with her scimitar the Scimitar of the Seven, was her weapon against the Calamity. It requires attunement. While attuned, you gain resistance to lightning damage. When a creature within 5 feet of you misses you with a melee attack, you can use your reaction to deal 2d6 lightning damage to that creature (Daybreaker's charge). If destroyed, it can be reforged by Gerudo smiths.
 
-***Lynel Shields*** are as much weapons as shields. Their bladed outer rims slash attackers who make contact. When a creature within 5 feet hits you with a melee attack, that creature takes 1d6 slashing damage (Mighty: 1d8; Savage: 1d10). This damage occurs whether the attack hits or misses.
+***Lynel Shields*** are as much weapons as shields. Their bladed outer rims slash attackers who make contact. When a creature within 5 feet makes a melee attack against you, that creature takes 1d6 slashing damage (Mighty: 1d8; Savage: 1d10). This damage occurs whether the attack hits or misses.
 
 ### Exotic Weapons
 Exotic weapons require specialized training. A creature without the appropriate proficiency that attacks with an exotic weapon does so with disadvantage and does not add its proficiency bonus.
@@ -18154,7 +18154,7 @@ Some sets are **environmental**. Their individual pieces grant stacking protecti
 >
 > **Upgrades add +1 AC per tier to your chest piece only,** to a maximum of +4 at ★★★★. Upgrading headgear and greaves does not raise your AC; it is what unlocks the Set Bonus and, for some sets, strengthens that piece's listed effect. So a fully upgraded three-piece set is worth **+4 AC over its printed value**, not +12.
 >
-> Full rules for finding a fountain, what upgrades cost, and what the Great Fairies can do are in **Great Fairy Fountains** in the Adventuring chapter.
+> Full rules for finding a fountain, what upgrades cost, and what the Great Fairies can do are in **Great Fairy Fountains** later in this chapter.
 
 ---
 
@@ -18285,7 +18285,7 @@ Sheikah-crafted dark garments designed for infiltration, woven from shadow-silk 
 
 Rito-crafted garments woven from the down feathers of snow-birds and studded with Rubies that channel warmth from within.
 
-- **Individual Piece Effect:** Each piece grants 1 level of **Cold Resistance**. Up to 3 levels can be stacked, negating mild, severe, and extreme cold environments respectively (see Environmental Hazards).
+- **Individual Piece Effect:** Each piece grants 1 level of **Cold Resistance**. Up to 3 levels can be stacked, negating moderate, severe, and extreme cold environments respectively (see Temperature).
 - **Set Bonus (★★):** You are completely immune to cold environmental damage and the exhaustion it causes. You also have advantage on saving throws against being restrained or slowed by ice or magical cold effects.
 
 ---
@@ -18319,7 +18319,7 @@ Gifted to honored friends of the Zora, this shimmering blue-silver armor was sha
 #### Desert Voe Set
 *Desert Voe Headband / Desert Voe Spaulder / Desert Voe Trousers*
 
-Close-fitted garments sold discretely through the Gerudo Secret Club. The Gerudo name these "voe" garments, practical clothing for men traveling in desert heat.
+Close-fitted garments sold discreetly through the Gerudo Secret Club. The Gerudo name these "voe" garments, practical clothing for men traveling in desert heat.
 
 - **Individual Piece Effect:** Each piece grants 1 level of **Heat Resistance**. Up to 3 levels protect against increasingly severe desert heat.
 - **Set Bonus (★★):** You are immune to the effects of extreme heat environments and have resistance to lightning damage.
@@ -18388,7 +18388,7 @@ Exotic Gerudo armor adorned with glowing gemstones and luminous material. Its ee
 Dark Link's iconic shadowy garb, styled after the Hero of Time's clothing but rendered in black and gray. It has an unsettling quality that makes even confident creatures hesitate.
 
 - **Individual Piece Effect:** Each piece grants advantage on Charisma (Intimidation) checks made against humanoids who can see you.
-- **Set Bonus (always active):** You gain a +10 bonus to your walking speed at night (between sunset and sunrise). In addition, creatures making Wisdom saving throws to resist being frightened by you have disadvantage on those saves.
+- **Set Bonus (always active):** Your walking speed increases by 10 feet at night (between sunset and sunrise). In addition, creatures making Wisdom saving throws to resist being frightened by you have disadvantage on those saves.
 
 ---
 
@@ -18419,10 +18419,6 @@ A blue tunic bearing the crest of Hyrule's Champions, gifted to those who have p
 
 - **Effect:** While wearing this tunic, you can see the current hit point total of any creature you can see, displayed in your mind's eye as a rough numerical sense. In addition, you have advantage on saving throws against effects that reduce your maximum hit points.
 
----
-
-#### Barbarian Set
-*(See above under Armor Set Descriptions)*
 
 ---
 
@@ -18673,7 +18669,7 @@ Once woken, a Great Fairy stays woken. She is available to that party for the re
 | ★★★ | 200 | 8 rare materials, including one from a boss-tier creature |
 | ★★★★ | 2,000 | 10 very rare materials, including one that no longer occurs naturally |
 
-Each armor set names its own materials in its entry, or the DM names them. The right materials are the point: an upgrade quest is a reason to go somewhere specific and fight something specific, which is why this rule exists at all.
+The DM names the materials each armor set requires. The right materials are the point: an upgrade quest is a reason to go somewhere specific and fight something specific, which is why this rule exists at all.
 
 **Not every fountain can do every tier.** A newly woken Great Fairy works to ★★. Waking a second raises the ceiling to ★★★, and a third to ★★★★. A party that wants a fully upgraded set has to find three fountains, which is a campaign's worth of travelling.
 
@@ -18794,7 +18790,7 @@ A fizzing, tingly potion that quickens the legs and sharpens the reflexes.
 
 A fiery, pepper-flavored brew that warms the body from within, essential for travel in Hebra's mountains or Lanayru's snowfields.
 
-**Effect:** For 30 minutes, you gain 1 level of Cold Resistance (see Environmental Hazards).
+**Effect:** For 30 minutes, you gain 1 level of Cold Resistance (see Temperature).
 
 **Cost:** 60 gp &emsp; **Brewing Materials:** Sizzlefin Trout or Warm Darner + monster part
 
@@ -18807,7 +18803,7 @@ A cool, mint-tinged tincture that lowers the body's temperature and protects aga
 
 \column
 
-**Effect:** For 30 minutes, you gain 1 level of Heat Resistance (see Environmental Hazards).
+**Effect:** For 30 minutes, you gain 1 level of Heat Resistance (see Temperature).
 
 **Cost:** 60 gp &emsp; **Brewing Materials:** Winterwing Butterfly or Cold Darner + monster part
 
@@ -18896,7 +18892,7 @@ Standard arrows are sold in bundles at most traders and fletcher shops. Special 
 | Shock Arrows (5) | 10 gp | Deal +1d6 lightning damage; metal-armored targets have disadvantage on save |
 | Ancient Arrows (3) | 75 gp | +2d8 force damage; constructs struck must DC 15 Con save or be stunned 1 round |
 | Light Arrows (3) | 100 gp | +2d8 radiant damage; undead and creatures vulnerable to radiant take maximum damage |
-| Bomb Arrows (5) | 25 gp | On hit, deal 2d6 fire damage in a 5-foot radius (Dex DC 13 half); cannot be fired in rain |
+| Bomb Arrows (5) | 25 gp | On hit, deal 2d6 fire damage in a 5-foot radius (Dex DC 13 half); DC 12 Dex check to fire in rain |
 | Dusk Arrows (5) | 20 gp | Silenced on impact; no sound on hit or miss; ideal for stealth |
 | Silver Arrows (1) | 50 gp | +2d6 radiant damage; bypass resistances of monsters tied to Ganon's power |
 | Phrenic Arrows (5) | 15 gp | On a hit, target must DC 12 Wis save or be confused (as the *confusion* spell) until end of their next turn |
@@ -19063,7 +19059,7 @@ A brass-cased oil lamp that illuminates the otherwise impenetrable darkness of H
 #### Blue Candle / Red Candle
 *Adventuring gear, common / uncommon (Classic)*
 
-Magical candles from Hyrule's earliest adventuring traditions. The Blue Candle can be used once per room; the Red Candle has no such restriction.
+Magical candles from Hyrule's earliest adventuring traditions. The Blue Candle can be used once per short rest; the Red Candle has no such restriction.
 
 **Blue Candle (5 gp):** Once per short rest, you can light a 10-foot cone of magical fire as an action, dealing 1d6 fire damage to creatures in the cone (Dex DC 12 half) and shedding bright light for 1 minute.
 
@@ -19074,7 +19070,7 @@ Magical candles from Hyrule's earliest adventuring traditions. The Blue Candle c
 
 Seed pods from Deku Babas or Deku Scrubs. When thrown or smashed, they release a brilliant flash of light and a concussive shockwave.
 
-**Effect:** As a ranged attack (thrown; range 20/60) or as an action to smash at your feet: all creatures within 10 feet that can see you must make a DC 13 Constitution saving throw. On a failure, they are **blinded** until the end of their next turn. Undead and creatures without eyes are immune.
+**Effect:** As a ranged attack (thrown; range 20/60) or as an action to smash at your feet: all creatures within 10 feet of the flash that can see it must make a DC 13 Constitution saving throw. On a failure, they are **blinded** until the end of their next turn. Undead and creatures without eyes are immune.
 
 **Cost:** 5 gp each, or 10 gp for 5
 
@@ -19157,7 +19153,7 @@ A headpiece styled after a woodland rabbit, said to carry the speed of a frighte
 
 An enchanted boomerang inhabited by a captive Fairy of Winds. When thrown, it generates a focused whirlwind that can extinguish fires, spin mechanisms, and scatter lighter enemies.
 
-**Effect:** Functions as an Iron Boomerang (1d6 bludgeoning, returning, 40/80 range). In addition, when thrown, it generates a burst of wind in a 10-foot cone at the point of impact: small fires are extinguished, lightweight objects (less than 5 lbs.) are hurled 10 feet away, and flying creatures of Medium size or smaller must make a DC 13 Strength save or be knocked prone.
+**Effect:** Functions as a Boomerang (1d6 bludgeoning, returning, 40/80 range). In addition, when thrown, it generates a burst of wind in a 10-foot cone at the point of impact: small fires are extinguished, lightweight objects (less than 5 lbs.) are hurled 10 feet away, and flying creatures of Medium size or smaller must make a DC 13 Strength save or be knocked prone.
 
 **Cost:** Artifact, not for sale; must be found or won
 
@@ -19181,7 +19177,7 @@ A top-like Sheikah/ancient relic that, when deployed, expands beneath the user's
 
 A precision optical scope worn over one eye, crafted by Rito artisans for long-distance spotting. When combined with a bow, it effectively transforms any ranged shot into a sniper's tool.
 
-**Effect:** While wearing the Hawkeye, you can use an action to take careful aim at a creature you can see within your bow's long range. Your next ranged attack made this turn ignores the disadvantage imposed by long range and cover (unless the target is fully behind total cover). In addition, you can see clearly up to 1 mile in good conditions.
+**Effect:** While wearing the Hawkeye, you can use an action to take careful aim at a creature you can see within your bow's long range. Your next ranged attack made before the end of your next turn ignores the disadvantage imposed by long range and cover (unless the target is fully behind total cover). In addition, you can see clearly up to 1 mile in good conditions.
 
 **Cost:** 150 gp
 
@@ -19229,7 +19225,7 @@ A Sheikah Slate attachment or standalone device that pulses faintly when certain
 | Light Arrow | 33 gp | +2d8 radiant; bypass Ganon's immunities |
 | Silver Arrow | 50 gp | +2d6 radiant; ritual significance |
 | Ancient Arrow | 25 gp | +2d8 force; stun constructs DC 15 |
-| Dusk Arrow | 3 gp | Silent; no noise on hit or miss |
+| Dusk Arrow | 4 gp | Silent; no noise on hit or miss |
 | Phrenic Arrow | 3 gp | DC 12 Wis or confused 1 round |
 | Bomb | 5 gp | 3d6 fire (5-ft. radius; DC 13 Dex) |
 | Bomb Flower | 8 gp | As Bomb; detonates on impact |
@@ -19284,10 +19280,10 @@ What this chapter gives you is a ladder, so that you know what you are handing o
 | Tier | Name | What it does to a campaign | Attunement | Examples |
 |:--:|:--|:--|:--|:--|
 | **0** | **The Triforce** | Ends one campaign and begins another. Nothing in this book is stronger, and nothing should be. | Special (see below) | The Triforce and its three pieces |
-| **1** | **Divine Artifact** | Defines the rest of the campaign. The party will be known for carrying it. | Required | Master Sword, Fused Shadows, Mirror of Twilight, Ocarina of Time |
+| **1** | **Divine Artifact** | Defines the rest of the campaign. The party will be known for carrying it. | Usually required | Master Sword, Fused Shadows, Mirror of Twilight, Ocarina of Time |
 | **2** | **Sacred Relic** | Defines an arc. Usually the reward at the end of a dungeon chain. | Required | Sage Medallions, the Four Elements, Sacred Flames, Pendants of Virtue |
 | **3** | **Wondrous Relic** | Changes how one character plays. A memorable single-dungeon reward. | Usually required | Spiritual Stones, Essences, Goddess Harp, Bombos Medallion |
-| **4** | **Lesser Relic** | Solves a problem, opens a route, or gives a character one new verb. | Rarely required | Lens of Truth, Pegasus Boots, Roc's Feather, Magic Cape |
+| **4** | **Lesser Relic** | Solves a problem, opens a route, or gives a character one new verb. | Rarely required | Lens of Truth, Pegasus Boots, Roc's Feather, Power Bracelet |
 }}
 
 **Most of a campaign happens at Tier 4 and Tier 3.** A party that finds a Lens of Truth in their third session and a Roc's Feather in their fifth has exactly the Zelda experience: a growing bag of verbs, each of which reshapes what a dungeon can ask of them. Tier 2 relics arrive at the end of arcs. Tier 1 relics arrive once or twice in a campaign. Tier 0 arrives at the end, or never.
@@ -20514,7 +20510,7 @@ The mini-boss should feel thematically tied to the dungeon. It does not have to 
 
 The Dungeon Item is the heart of a Zelda dungeon. It is the tool that unlocks the second half of the dungeon, solves its central puzzles, and determines the strategy for the boss fight.
 
-**Choosing a Dungeon Item:** Pick something from the Adventuring Gear chapter that creates interesting *interactions with the environment*, not just combat power. Good Dungeon Items have answers to the question: *"What can I do with this that I couldn't do before?"*
+**Choosing a Dungeon Item:** Pick something from the Adventuring Gear section of the Items chapter that creates interesting *interactions with the environment*, not just combat power. Good Dungeon Items have answers to the question: *"What can I do with this that I couldn't do before?"*
 
 Examples:
 - **Hookshot:** Pull objects, cross gaps, reach high switches, yank enemies.
@@ -20751,7 +20747,7 @@ Use this when designing any dungeon from scratch.
 
 \page
 
-**Encounter:** 3× Deku Scrub in hiding (Shrub Disguise; they appear as plants). One Perception check (DC 13) reveals the ambush before it triggers. If missed, they attack when players examine the locked door. The Deku Scrubs attempt to flee underground when reduced to half HP, if captured or spoken to (Speak with Animals or Deku PC), they can confirm: *"The winding thing opens the sealed ways. The round-thrower. The spinning sage-tool."* This is a hint toward the Dungeon Item without revealing it.
+**Encounter:** 3× Deku Scrub in hiding (Shrub Disguise; they appear as plants). One Perception check (DC 13) reveals the ambush before it triggers. If missed, they attack when players examine the locked door. The Deku Scrubs attempt to flee underground when reduced to half HP. If captured or spoken to (Speak with Animals or Deku PC), they can confirm: *"The winding thing opens the sealed ways. The round-thrower. The spinning sage-tool."* This is a hint toward the Dungeon Item without revealing it.
 
 ---
 
@@ -20785,7 +20781,7 @@ The fight teaches players to notice and target the Core Rune weak point. When th
 
 ### Room 5: The Still Pool (Puzzle Room 1: Simple)
 
-*A chamber bisected by a 10-foot gap. On the far side, a stone lever sits beside a sealed gate. Between here and there: open air over a deep root-filled pit.*
+*A chamber bisected by a 20-foot gap. On the far side, a stone lever sits beside a sealed gate. Between here and there: open air over a deep root-filled pit.*
 
 **Intended solution:** Throw the boomerang at the lever on the far side to pull/activate it. The boomerang's return arc is the key. It hooks the lever on the throw and pulls it on the return.
 
@@ -20795,7 +20791,7 @@ The fight teaches players to notice and target the Core Rune weak point. When th
 - A Rito PC can fly across.
 - The Boomerang still works better: if players use it, the gate opens smoothly. Alternative solutions may open the gate partway, requiring a second attempt.
 
-**Puzzle-break protection:** The gap is too wide to jump without the Jump spell. The walls beside the gap are slick with moisture (Acrobatics DC 16 to traverse them), and a failed Dexterity save means 1d6 fall damage and landing in the root-pit (difficult terrain, requires a Strength DC 12 Athletics check to climb out).
+**Puzzle-break protection:** The gap is too wide to jump without the Jump spell. The walls beside the gap are slick with moisture (Acrobatics DC 16 to traverse them), and a failed check means 1d6 fall damage and landing in the root-pit (difficult terrain, requires a Strength DC 12 Athletics check to climb out).
 
 ---
 
@@ -20809,9 +20805,9 @@ The fight teaches players to notice and target the Core Rune weak point. When th
 
 \page
 
-**Encounter:** 2× Green Bokoblin patrol, using the spore cloud as cover (they're immune; they belong here). Players dealing with both the Bokoblins and the environmental hazard simultaneously.
+**Encounter:** 2× Green Bokoblin patrol, using the spore cloud as cover (they're immune; they belong here). Players must deal with both the Bokoblins and the environmental hazard simultaneously.
 
-**Puzzle:** The three seed-pods, when struck with the boomerang, release a hardened seed that flies toward the corresponding indentation in the gate, locking into place. All three must be hit in sequence (the gate resets if more than 10 seconds, 2 rounds, pass between activations).
+**Puzzle:** The three seed-pods, when struck with the boomerang, release a hardened seed that flies toward the corresponding indentation in the gate, locking into place. All three must be hit in sequence (the gate resets if more than 12 seconds, 2 rounds, pass between activations).
 
 **Teaching moment:** This is the first time players must use the boomerang in a sequence under time pressure and while managing combat. The Bokoblins are not so threatening that the puzzle becomes impossible, but they create enough pressure to make it interesting.
 
@@ -21310,7 +21306,9 @@ A weak point is any location on a creature's body or equipment where a targeted 
 >
 > **Some weak points list their own AC**, and that AC is usually *lower* than the creature's body, because a weak point is by definition the place the armor is not. Gohma's eye and Morpheel's eye are both AC 14 while their bodies are harder to hurt. When a stat block names an AC for a weak point, use it. When it does not, use the creature's AC.
 >
-> If you are writing a new creature and its weak point is genuinely harder to hit than its body (a small target, a fast-moving one, one behind a grate), give it a higher AC and say so in the stat block. Everything else uses the body's AC. Weak points serve two purposes simultaneously:
+> If you are writing a new creature and its weak point is genuinely harder to hit than its body (a small target, a fast-moving one, one behind a grate), give it a higher AC and say so in the stat block. Everything else uses the body's AC.
+
+Weak points serve two purposes simultaneously:
 
 **Narratively**, they make combat feel like an interaction with a real creature rather than a health bar. A Lizalfos that favors its injured leg, a Darknut that raises its shield arm higher after its pauldron is knocked loose, a Gohma whose single massive eye flinches away from the light. These responses make monsters feel alive.
 
@@ -21344,7 +21342,7 @@ Not all weak points are equal. The significance of hitting a weak point scales w
 
 ### Minor Weak Points
 
-Minor weak points are the baseline, the kind every creature has, whether or not they're listed in the stat block. They cost 1–2 SP to target via Called Shot and provide a modest but real advantage.
+Minor weak points are the baseline, the kind every creature has, whether or not they're listed in the stat block. They cost 2 SP to target via Called Shot and provide a modest but real advantage.
 
 **Typical Minor Weak Point effects:**
 
@@ -21361,7 +21359,7 @@ Minor weak points are the baseline, the kind every creature has, whether or not 
 
 ### Major Weak Points
 
-Major weak points are the ones that define how a fight works, the crystal, the eye, the unarmored belly, the glowing core. These require more effort to reach, cost more SP, and carry consequences that can meaningfully shift the fight.
+Major weak points are the ones that define how a fight works, the crystal, the eye, the unarmored belly, the glowing core. These require more effort to reach and carry consequences that can meaningfully shift the fight.
 
 **Typical Major Weak Point effects:**
 
@@ -21513,7 +21511,7 @@ Sometimes the most interesting response to a creative called shot is an outcome 
 - [ ] When a weak point is successfully hit, narrate the effect dramatically. This is a payoff moment
 - [ ] If the creature covers its weak point, narrate that immediately and hint at the alternative
 - [ ] If players are struggling to find the weak point after 2–3 rounds of standard combat, offer a hint roll (INT or WIS, DC 12–15)
-- [ ] For non-listed called shots, use Priority 1 (Rule of Cool) first, Priority 4 (Unconventional Outcome) second, and Priority 2–3 only when the other options don't fit
+- [ ] For non-listed called shots, work through Priorities 1–4 in order, starting with the Rule of Cool
 
 **After combat:**
 - [ ] Remind players of their SP expenditure. Called shots are a meaningful resource choice, and tracking that is part of the game's texture
@@ -21558,7 +21556,7 @@ Build your world with secrets that have no quest marker attached. A hidden Great
 
 The overworld is where the story breathes. Dungeons are where it focuses. A Zelda campaign should feel like alternating between two modes, the expansive, open rhythm of the world, and the tight, purposeful intensity of a dungeon.
 
-Dungeons should feel earned. Players who arrive at a temple after traveling through the region it belongs to, meeting its people, understanding its history, and acquiring the equipment they'll need. Those players will care about the dungeon in a way that players who are simply pointed at it never will.
+Dungeons should feel earned. Players who arrive at a temple after traveling through the region it belongs to, meeting its people, understanding its history, and acquiring the equipment they'll need: those players will care about the dungeon in a way that players who are simply pointed at it never will.
 
 ### Victory Has a Shape
 
@@ -21742,7 +21740,7 @@ Give your players room to breathe. Let them wander. Let them find things you did
 
 Weather Exhaustion is not a mechanic to deploy constantly. It is a tool for specific moments, when the environment itself becomes a genuine threat to life, when crossing a stretch of terrain costs twice what it would under normal circumstances, when preparation and planning matter as much as combat skill.
 
-A thunderstorm that soaks the party and ruins their camp is unpleasant. A blizzard that drops visibility to zero, drives wind chill to lethal temperatures, and forces the party to make hard decisions about whether to press on or find shelter. That is a Weather Exhaustion event.
+A thunderstorm that soaks the party and ruins their camp is unpleasant. A blizzard that drops visibility to zero, drives wind chill to lethal temperatures, and forces the party to make hard decisions about whether to press on or find shelter: that is a Weather Exhaustion event.
 
 Use this chapter as a reference when designing environments and weather events. The tables here are guides, not laws.
 
@@ -21759,7 +21757,7 @@ Before reaching for the region tables, understand the four severity tiers. These
 | **Extreme** | Every 3 hours | DC 12 | Blizzard, volcanic ash cloud, desert at peak midday heat, hurricane-force winds |
 | **Natural Disaster** | Every 1 hour | DC 16 | Tornado, volcanic eruption event, full hurricane, catastrophic flood, whiteout blizzard |
 
-> **The guiding question:** Would this weather *threaten a normal person's life* over the course of a day's travel? If yes, it qualifies for Weather Exhaustion checks. If it is merely miserable, inconvenient, or atmospherically grim. It does not require mechanical enforcement, though you may describe it vividly.
+> **The guiding question:** Would this weather *threaten a normal person's life* over the course of a day's travel? If yes, it qualifies for Weather Exhaustion checks. If it is merely miserable, inconvenient, or atmospherically grim, it does not require mechanical enforcement, though you may describe it vividly.
 
 \column
 
@@ -21911,7 +21909,7 @@ Use this when you need a fast ruling mid-session without returning to the full t
 **What reduces or eliminates checks?**
 - Appropriate armor set for the environment → Advantage on checks, or remove one severity tier
 - Appropriate elixir (Chilly, Spicy, Fireproof) → Advantage on checks for 30 minutes
-- Racial resistance (Goron fire resistance, Rito cold tolerance) → Advantage
+- Racial resistance (Gerudo Desert Temperature Endurance) → Advantage
 - Racial immunity → Automatic success
 - Shelter (cave, tent, magical space) → Checks suspended for the duration
 
@@ -22160,7 +22158,7 @@ This example shows how a faction relationship becomes a playable adventure scena
 
 ## Sample NPCs
 
-Five NPCs, one drawn from a different major faction, ready to use immediately. Each includes roleplaying notes; combat stats are included only where the NPC is realistically likely to fight.
+Five NPCs, each drawn from a different major faction, ready to use immediately. Each includes roleplaying notes; combat stats are included only where the NPC is realistically likely to fight.
 
 ---
 
@@ -22208,7 +22206,7 @@ Five NPCs, one drawn from a different major faction, ready to use immediately. E
 
 **Roleplaying Notes:** Kass is an excellent recurring NPC. He can appear in any region, has heard rumors about almost anything happening in the wider world, and will happily trade information for a good story. He's not a combatant and should generally avoid danger, fleeing or hiding rather than fighting.
 
-**Combat Capability:** None significant. Kass avoids combat entirely. If endangered, he relies on his flight speed (Rito base 30 ft. flying speed) to escape.
+**Combat Capability:** None significant. Kass avoids combat entirely. If endangered, he relies on his flight speed (Rito flying speed of 50 ft.) to escape.
 
 **Adventure Hooks:**
 1. Kass has heard a song fragment, an old riddle-rhyme, that seems to point toward the location of something the party needs (a relic, a lost dungeon, a sage's hiding place), but he doesn't know what it means.
@@ -22279,7 +22277,7 @@ Five NPCs, one drawn from a different major faction, ready to use immediately. E
 
 **Roleplaying Notes:** Mara is a morally complex NPC: sympathetic, but with a genuinely violent past the party may eventually learn about. She is a good source of inside knowledge about Yiga tactics, hideouts, and members, but sharing this information terrifies her and she'll only do so if she trusts the party significantly.
 
-**Combat Capability:** Mara retains her Yiga training. Use Veilblade or Masked Wanderer class features at character level 4, or a custom stat block: AC 15, HP 38, Dual dagger attacks +6 to hit (1d4+3 piercing each), proficient in Stealth and Acrobatics. She avoids combat when possible and fights defensively if cornered.
+**Combat Capability:** Mara retains her Yiga training. Use Veilblade or Masked Wanderer class features at character level 4, or a custom stat block: AC 15, HP 38, Dual dagger attacks +5 to hit (1d4+3 piercing each), proficient in Stealth and Acrobatics. She avoids combat when possible and fights defensively if cornered.
 
 **Adventure Hooks:**
 1. Yiga Clan members have picked up Mara's trail, and she pleads with the party for protection, drawing them into direct conflict with the Clan as a side effect of an act of kindness.
@@ -22295,7 +22293,7 @@ For fast reference, here are the adventure hooks listed by faction (minimum two 
 |:--|:--|:--|
 | **Royal Family** | Investigate a disturbance threatening the kingdom's stability | Protect a member of the nobility during a dangerous journey |
 | **Sheikah** | Recover ancient technology that has fallen into the wrong hands | Quietly eliminate a threat to the Royal Family without public exposure |
-| **Yiga Clan** | A disillusioned Yiga member seeks to defect and needs protection | Investigate (or interfere with) a Yiga plot against the Crown |
+| **Yiga Clan** | A disillusioned Yiga member seeks to defect and needs protection | Retrieve a sacred Yiga relic before the Sheikah do |
 | **Gerudo Tribes** | Escort a caravan through dangerous desert terrain | Investigate a leak compromising Gerudo trade route security |
 | **Zora's Domain** | Resolve the tributary pollution dispute with Goron City | Recover an item lost in dangerous waters |
 | **Goron City** | Clear dangerous creatures from a mining tunnel | Investigate unusual seismic activity threatening the mountain |
