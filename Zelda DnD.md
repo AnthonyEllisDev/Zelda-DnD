@@ -32,58 +32,58 @@
   - #### [{{ Zora}}{{ 37}}](#p37)
 - ### [{{ Mechanics}}{{ 39}}](#p39)
   - #### [{{ Temperature}}{{ 40}}](#p40)
-  - #### [{{ Stamina System}}{{ 41}}](#p41)
-  - #### [{{ Magic System}}{{ 43}}](#p43)
-- ### [{{ Classes}}{{ 47}}](#p47)
-  - #### [{{ Adventurer}}{{ 48}}](#p48)
-  - #### [{{ Blightbound}}{{ 54}}](#p54)
-  - #### [{{ Champion}}{{ 60}}](#p60)
-  - #### [{{ Goddess Chanter}}{{ 65}}](#p65)
-  - #### [{{ Interloper}}{{ 71}}](#p71)
-  - #### [{{ Masked Wanderer}}{{ 78}}](#p78)
-  - #### [{{ Ranger}}{{ 83}}](#p83)
-  - #### [{{ Sage}}{{ 89}}](#p89)
-  - #### [{{ Shaman}}{{ 94}}](#p94)
-  - #### [{{ Veilblade}}{{ 101}}](#p101)
+  - #### [{{ Stamina System}}{{ 42}}](#p42)
+  - #### [{{ Magic System}}{{ 44}}](#p44)
+- ### [{{ Classes}}{{ 48}}](#p48)
+  - #### [{{ Adventurer}}{{ 49}}](#p49)
+  - #### [{{ Blightbound}}{{ 55}}](#p55)
+  - #### [{{ Champion}}{{ 63}}](#p63)
+  - #### [{{ Goddess Chanter}}{{ 68}}](#p68)
+  - #### [{{ Interloper}}{{ 74}}](#p74)
+  - #### [{{ Masked Wanderer}}{{ 81}}](#p81)
+  - #### [{{ Ranger}}{{ 86}}](#p86)
+  - #### [{{ Sage}}{{ 93}}](#p93)
+  - #### [{{ Shaman}}{{ 99}}](#p99)
+  - #### [{{ Veilblade}}{{ 106}}](#p106)
 }}
 
 \column
 
 {{toc,
-- ### [{{ Backgrounds}}{{ 106}}](#p106)
-- ### [{{ Feats}}{{ 113}}](#p113)
-- ### [{{ Spell Compendium}}{{ 120}}](#p120)
-  - #### [{{ Unassigned Spells}}{{ 169}}](#p169)
-- ### [{{ Enemies}}{{ 171}}](#p171)
-- ### [{{ Bosses}}{{ 221}}](#p221)
-  - #### [{{ Boss Compendium}}{{ 235}}](#p235)
-- ### [{{ Items}}{{ 238}}](#p238)
-  - #### [{{ Weapons}}{{ 240}}](#p240)
-  - #### [{{ Armor}}{{ 247}}](#p247)
-  - #### [{{ Great Fairy Fountains}}{{ 254}}](#p254)
-  - #### [{{ Gear & Consumables}}{{ 255}}](#p255)
-- ### [{{ Relics}}{{ 262}}](#p262)
-  - #### [{{ Using Relics}}{{ 263}}](#p263)
-  - #### [{{ The Triforce}}{{ 264}}](#p264)
-  - #### [{{ The Master Sword}}{{ 266}}](#p266)
-  - #### [{{ Lesser Relics}}{{ 276}}](#p276)
-- ### [{{ DM Guide}}{{ 281}}](#p281)
-  - #### [{{ Dungeon Design}}{{ 282}}](#p282)
-  - #### [{{ Boss Design}}{{ 291}}](#p291)
-  - #### [{{ Running Weak Points}}{{ 298}}](#p298)
-  - #### [{{ Running a Campaign}}{{ 303}}](#p303)
-  - #### [{{ Weather Exhaustion}}{{ 307}}](#p307)
-  - #### [{{ Factions & NPCs}}{{ 311}}](#p311)
-- ### [{{ Appendices}}{{ 318}}](#p318)
-  - #### [{{ Conditions}}{{ 319}}](#p319)
-  - #### [{{ Advancement}}{{ 320}}](#p320)
+- ### [{{ Backgrounds}}{{ 112}}](#p112)
+- ### [{{ Feats}}{{ 119}}](#p119)
+- ### [{{ Spell Compendium}}{{ 126}}](#p126)
+  - #### [{{ Unassigned Spells}}{{ 175}}](#p175)
+- ### [{{ Enemies}}{{ 176}}](#p176)
+- ### [{{ Bosses}}{{ 225}}](#p225)
+  - #### [{{ Boss Compendium}}{{ 239}}](#p239)
+- ### [{{ Items}}{{ 243}}](#p243)
+  - #### [{{ Weapons}}{{ 245}}](#p245)
+  - #### [{{ Armor}}{{ 251}}](#p251)
+  - #### [{{ Great Fairy Fountains}}{{ 258}}](#p258)
+  - #### [{{ Gear & Consumables}}{{ 259}}](#p259)
+- ### [{{ Relics}}{{ 266}}](#p266)
+  - #### [{{ Using Relics}}{{ 267}}](#p267)
+  - #### [{{ The Triforce}}{{ 268}}](#p268)
+  - #### [{{ The Master Sword}}{{ 270}}](#p270)
+  - #### [{{ Lesser Relics}}{{ 280}}](#p280)
+- ### [{{ DM Guide}}{{ 285}}](#p285)
+  - #### [{{ Dungeon Design}}{{ 286}}](#p286)
+  - #### [{{ Boss Design}}{{ 295}}](#p295)
+  - #### [{{ Running Weak Points}}{{ 305}}](#p305)
+  - #### [{{ Running a Campaign}}{{ 310}}](#p310)
+  - #### [{{ Weather Exhaustion}}{{ 314}}](#p314)
+  - #### [{{ Factions & NPCs}}{{ 318}}](#p318)
+- ### [{{ Appendices}}{{ 325}}](#p325)
+  - #### [{{ Conditions}}{{ 326}}](#p326)
+  - #### [{{ Advancement}}{{ 328}}](#p328)
 }}
 
 \page
 
 {{insideCover}}
 
-# Before You Begin{{pageNumber,auto}}
+# Before You Begin
 
 ___
 
@@ -92,6 +92,8 @@ ___
 }}
 
 {{logo ![](/assets/naturalCritLogoRed.svg)}}
+
+{{pageNumber,auto}}
 
 \page
 
@@ -122,9 +124,10 @@ The most important rule in this book is this one:
 > ##### The Default Rule
 > If a rule is not described differently in this book, it works exactly as it does in the 2014 Player's Handbook. Ability scores, proficiency, advantage, conditions, resting, attunement, starting wealth, and everything else you already know are unchanged unless a section marked **New Rule** or **New Stat** says otherwise.
 
-A short list of what this book does change, and where to read about it:
 
 \column
+
+A short list of what this book does change, and where to read about it:
 
 | Change | Replaces | Where |
 |:--|:--|:--|
@@ -189,7 +192,7 @@ You also get **one reaction** per round, which you can take on anyone's turn. Op
 - A **short rest** is at least one hour of light activity. You recover Stamina Points and spend Hit Dice to heal.
 - A **long rest** is at least eight hours. You recover all Hit Points, half your Hit Dice, all Magic Points, and all Stamina Points.
 
-Zelda DnD adds one restriction that the core rules do not have. **You cannot take a short rest anywhere you are not actually safe.** Difficult terrain, extreme temperatures, active pursuit, and any area where Weather Exhaustion checks are in effect all prevent it. Finding shelter is a real decision in this game rather than a formality.
+Zelda DnD adds one restriction that the core rules do not have. **You cannot take a short rest anywhere you are not actually safe.** Difficult terrain, active pursuit, and being out in weather that calls for Weather Exhaustion checks all prevent it; a cave, tent, or roofed room that shelters you from that weather does not. Finding shelter is a real decision in this game rather than a formality.
 
 **A cleared room counts.** This rule is about the environment, not the postcode. A dungeon chamber the party has emptied and can hold, at ordinary temperature and off the patrol route, is a safe place to rest. Being underground is not itself a reason to refuse one.
 
@@ -197,15 +200,13 @@ Zelda DnD adds one restriction that the core rules do not have. **You cannot tak
 
 Five different resources appear across the classes in this book. No character uses all five. Read the row for your class and ignore the rest.
 
-\column
-
 {{classTable,frame
 ##### Character Resources
 | Resource | Who Has It | Recovers | Spent On |
 |:--|:--|:--|:--|
 | **SP** Stamina Points | Every class | Short rest, if safe | Called shots, harsh terrain, class features |
 | **MP** Magic Points | Every spellcasting class | Long rest | Casting spells |
-| **DPP** Demonic Power Points | Blightbound only | Built in combat; 0 after a rest | Cursed strikes and demon form |
+| **DPP** Demonic Power Points | Blightbound only | Built in combat; each fight starts at your proficiency bonus or more | Spells, cursed strikes and demon form |
 | **Energy** | Veilblade only | 1 per turn; all on a rest | Special Attacks |
 | **FP** Focus Points | Ranger only | Gained in combat | Ranger Techniques |
 }}
@@ -219,9 +220,9 @@ The two you will see most often are **SP** and **MP**. SP is physical: everyone 
 This is the single largest departure from standard 5e, and it is intentional.
 
 > ##### New Rule: No Known Spells
-> Spellcasting classes in this book do not have a list of prepared or known spells. A caster may cast **any spell available to their class** at any time, provided they can pay its MP cost. There is no daily preparation step and no limit on how many different spells you use in a day.
+> Spellcasting classes in this book do not have a list of prepared or known spells. A caster may cast **any spell available to their class** at any time, provided they can pay its MP cost and it is within their Spell Level Ceiling. There is no daily preparation step and no limit on how many different spells you use in a day.
 >
-> What limits a caster is the size of their MP pool, the escalating cost of repeating the same spell (see **Arcane Strain**), and the strain of casting high-level magic repeatedly (see **Arcane Saturation**). Those three rules together do the work that a known-spells list does in standard 5e.
+> What limits a caster is their **Spell Level Ceiling** (how high their class level lets them reach), the size of their MP pool, the escalating cost of repeating the same spell (see **Arcane Strain**), and the strain of paying for expensive magic (see **Arcane Saturation**). The last three together do the work that a known-spells list does in standard 5e.
 >
 > The one exception is a table that chooses to use the **spell slot alternative**. Every spellcasting class in this book prints a second class table using traditional 5e spell slots. A DM who prefers the standard system uses that table instead, and in that case the class prepares and knows spells exactly as its 5e counterpart would.
 
@@ -271,8 +272,6 @@ The fastest way to understand the rules above is to watch one round of combat pl
 
 Everything else in that exchange, the initiative order, the action economy, the damage roll, is standard 2014 5th Edition.
 
-\column
-
 > ##### A Note for New Players
 > You do not need to memorize any of this. The DM will tell you when to roll and what to add. The only thing worth remembering going in is the core loop: say what your character does, roll a d20, add your modifier, and compare it to a number. Everything else in this book is detail hanging off that one sentence.
 
@@ -308,8 +307,6 @@ The other peoples of Hyrule have their own homelands and their own governments, 
 
 ---
 
-\column
-
 ## The Recurring Enemy
 
 Evil in Hyrule keeps coming back wearing the same face. **Ganon** is the name it takes most often: a Gerudo king turned Demon King who has sought the Triforce of Power in one era after another, and who has been sealed away and has returned more times than the histories agree on.
@@ -332,15 +329,15 @@ This matters at the table because it is the source of most of the ruins, most of
 
 Neither one nor all of them. **Zelda DnD is a composite Hyrule.** It does not sit on a single point of any official timeline, and it is not trying to. Deku and Kokiri, Twili and Zonai, Ocarina-era medallions and Wild-era armor sets are all in this book because they are all part of what Hyrule means, not because they coexisted in one age.
 
+Use that however suits your table. Run the whole shelf at once and treat the older material as legend that turns out to be true. Or pick an era, keep what belongs to it, and let the rest sit in the Sacred Realm's long memory. The Factions chapter is written for exactly this: each faction is a set of motivations that hold across ages, with notes on how they shift depending on when you set your campaign.
+
+Nothing in this book breaks if you cut a people, a relic, or a whole chapter out of it.
+
 {{footnote Before You Begin | Hyrule in Five Minutes }}
 
 {{pageNumber,auto}}
 
 \page
-
-Use that however suits your table. Run the whole shelf at once and treat the older material as legend that turns out to be true. Or pick an era, keep what belongs to it, and let the rest sit in the Sacred Realm's long memory. The Factions chapter is written for exactly this: each faction is a set of motivations that hold across ages, with notes on how they shift depending on when you set your campaign.
-
-Nothing in this book breaks if you cut a people, a relic, or a whole chapter out of it.
 
 # Glossary: Dungeons & Dragons Terms
 
@@ -372,8 +369,6 @@ These terms belong to standard 5th Edition and are used throughout this book wit
 
 **Initiative.** A Dexterity check made at the start of combat to set turn order.
 
-\column
-
 **Long Rest.** Eight hours. Restores HP, MP, SP, and half your Hit Dice.
 
 **Opportunity Attack.** A reaction attack you may make when a hostile creature leaves your reach.
@@ -398,7 +393,7 @@ These terms belong to standard 5th Edition and are used throughout this book wit
 
 These terms are specific to this book. Each has a full entry in the chapter noted.
 
-**Arcane Saturation.** Strain from casting expensive magic. Each spell costing 5 MP or more adds a level of it, and higher levels degrade your casting. *(Magic System)*
+**Arcane Saturation.** Strain from casting expensive magic. Each casting you pay 5 MP or more for (Arcane Strain and Overchanneling included) adds a level of it, and higher levels degrade your casting. *(Magic System)*
 
 **Arcane Strain.** The escalating MP cost of casting the same spell repeatedly without casting a different one in between. *(Magic System)*
 
@@ -408,7 +403,7 @@ These terms are specific to this book. Each has a full entry in the chapter note
 
 **Called Shot.** Spending 2 SP before an attack to target a specific body part. On a hit, add an extra weapon damage die. Against a listed **weak point** it also triggers that creature's special effect. *(Stamina System)*
 
-**Demonic Power Points (DPP).** The Blightbound's resource, spent on cursed strikes and demon form. *(Classes: Blightbound)*
+**Demonic Power Points (DPP).** The Blightbound's resource, spent on spells, cursed strikes and demon form. *(Classes: Blightbound)*
 
 **Energy.** The Veilblade's resource, spent on Special Attacks and regained every turn. *(Classes: Veilblade)*
 
@@ -416,7 +411,7 @@ These terms are specific to this book. Each has a full entry in the chapter note
 
 **Guard.** A shield's bonus to AC, replacing 5e's flat +2. Shields with the **parry** property can also spend a reaction to reduce damage. *(Items: Shields)*
 
-**Magic Points (MP).** The pool that replaces spell slots. Every spell has an MP cost, and any spell your class can cast is available to you if you can pay it. *(Magic System)*
+**Magic Points (MP).** The pool that replaces spell slots. Every spell has an MP cost, and any spell your class can cast is available to you if you can pay it and it is within your Spell Level Ceiling. *(Magic System)*
 
 **Malice.** The Demon King's corrupting substance. It animates ruins, turns machinery hostile, and marks a creature as his. *(Enemies)*
 
@@ -424,17 +419,15 @@ These terms are specific to this book. Each has a full entry in the chapter note
 
 **Mask.** A form the Masked Wanderer can assume, granting the racial traits of another people. *(Classes: Masked Wanderer)*
 
-**Overchanneling.** Spending extra MP as you cast to add damage dice or range. Replaces upcasting. *(Magic System)*
+**Overchanneling.** Spending extra MP as you cast to add damage or healing dice, range, or what a spell's own Overchannel line lists. Replaces upcasting. *(Magic System)*
 
 **Perfect Parry.** A parry with a shield that reduces the incoming damage to 0. Some shields and relics key an extra effect off one. *(Items)*
-
-\column
 
 **Relic Save DC.** The DC for any relic that forces a saving throw and does not name one: 8 + your proficiency bonus + your highest ability modifier. *(Relics)*
 
 **Set Bonus.** An extra effect granted for wearing all three pieces of an armor set, usually once each is upgraded twice. *(Items: Armor)*
 
-**Soft Concentration.** A lighter form of concentration used by Sacred Songs, the Champion's Aura and the Interloper's Hex. It does not conflict with ordinary concentration, so you can hold one of each. *(Magic System)*
+**Soft Concentration.** A lighter form of concentration used by Sacred Songs, the Champion's Aura and the Interloper's Brand. It does not conflict with ordinary concentration, so you can hold one of each. *(Magic System)*
 
 **Stamina Burn.** Ten minutes of meditation converting 2 SP into 1 MP, out of combat only. Stamina spent this way returns on a long rest, not a short one. *(Stamina System)*
 
@@ -478,9 +471,9 @@ By the end of this chapter you will have a character ready to play.
 
 Your race is the species your character belongs to. In Hyrule, the races are the peoples of this world, each with their own history, culture, and inborn abilities. Your race shapes your character before you have made a single other choice.
 
-**The races of Hyrule are:**
-
 \column
+
+**The races of Hyrule are:**
 
 | Race | Personality | Natural Strengths | Where They Are From |
 |:--|:--|:--|:--|
@@ -503,13 +496,13 @@ Once you choose, note your race's traits on your character sheet. Racial traits 
 
 Your class is your calling: the set of skills, training, and talents that define how your character interacts with the world. It determines your combat abilities, your access to magic, your Hit Points, and the resources you draw on to do remarkable things.
 
-**The classes of Zelda DnD are:**
-
 {{footnote Character Creation | Steps 1-2 }}
 
 {{pageNumber,auto}}
 
 \page
+
+**The classes of Zelda DnD are:**
 
 | Class | Role | Combat Style | Uses Magic? |
 |:--|:--|:--|:--|
@@ -536,8 +529,6 @@ When you choose a class, record the following from its class entry:
 
 ---
 
-\column
-
 ### New Rule: Stamina Points (SP)
 
 Every class in Zelda DnD begins with **Stamina Points (SP)**, a resource representing your character's physical endurance, focus, and ability to push past their normal limits. SP is recorded on your character sheet alongside your Hit Points.
@@ -550,7 +541,7 @@ Every class in Zelda DnD begins with **Stamina Points (SP)**, a resource represe
 - **Climbing, Swimming, or Crawling:** Spend 1 SP to treat 5 feet of these movement types as normal movement.
 - **Class features:** Some class abilities cost SP to activate.
 
-**Recovering SP:** SP fully recovers after a short rest *provided you can rest safely.* You cannot take a short rest while in difficult terrain, in extreme temperatures, during active combat or pursuit, or anywhere Weather Exhaustion checks are in effect. You need a sheltered, safe place to recover SP.
+**Recovering SP:** SP fully recovers after a short rest *provided you can rest safely.* You cannot take a short rest while in difficult terrain, during active combat or pursuit, or out in weather that calls for Weather Exhaustion checks. You need a sheltered, safe place to recover SP; a cave or tent in the desert counts.
 
 > **In play:** Stamina Points make every character, martial or magical, feel capable of heroic physical effort. Even a Sage who never swings a sword has SP to spend on dashing through rubble, shoving through deep snow, or lining up a called shot.
 
@@ -569,8 +560,13 @@ If your class uses magic, it uses **Magic Points (MP)** rather than the spell sl
 | 4th level | 5 MP |
 | 5th level | 6 MP |
 | 6th level | 7 MP |
+| 7th level | 8 MP |
+| 8th level | 9 MP |
+| 9th level | 10 MP |
 
 Your class table shows your MP maximum at each level. At 1st level, most casters begin with 4 to 9 MP.
+
+**Recovering MP:** Your MP fully recovers after a long rest. MP can also be partially recovered through **Stamina Burn**, a 10-minute meditation that converts 2 SP into 1 MP, usable outside combat in safe conditions. **Stamina spent this way is burned:** it returns on a long rest rather than a short one.
 
 {{footnote Character Creation | Step 2 }}
 
@@ -578,21 +574,17 @@ Your class table shows your MP maximum at each level. At 1st level, most casters
 
 \page
 
-**Recovering MP:** Your MP fully recovers after a long rest. MP can also be partially recovered through **Stamina Burn**, a 10-minute meditation that converts 2 SP into 1 MP, usable outside combat in safe conditions. **Stamina spent this way is burned:** it returns on a long rest rather than a short one.
+> **Key difference from standard 5e:** There are no spell slots and no spells known. You do not prepare spells at all. Any spell on your class's list is available to you at any time, and your MP pool and your Spell Level Ceiling are the only limits on which one you reach for. You can cast the same spell repeatedly, though doing so costs more each time (see **Arcane Strain**).
 
-> **Key difference from standard 5e:** There are no spell slots and no spells known. You do not prepare spells at all. Any spell on your class's list is available to you at any time, and your MP pool is the only limit on which one you reach for. You can cast the same spell repeatedly, though doing so costs more each time (see **Arcane Strain**).
+> **Escalating Spell Cost:** Casting the same spell again, without casting a different spell in between, raises its MP cost by 50 percent on the second cast and 100 percent on the third. To reset this, cast a different spell, skip a turn without casting, or (outside combat) go a minute without casting. This discourages repetitive single-spell combat strategies. The full rule is in the Magic System chapter.
 
-> **Escalating Spell Cost:** Casting the same spell again, without casting a different spell in between, raises its MP cost by 50 percent on the second cast and 100 percent on the third. To reset this, cast a different spell or skip a turn without casting. This discourages repetitive single-spell combat strategies. The full rule is in the Magic System chapter.
-
-**Non-casters:** If your class does not use magic (Adventurer before 3rd level, Masked Wanderer, Veilblade), you have no MP at 1st level. You may still use Stamina Burn if your class allows it.
+**Non-casters:** If your class does not use magic (Adventurer before 3rd level, Masked Wanderer, Veilblade), you have no MP at 1st level. Stamina Burn does nothing for you until you have an MP maximum (a feat such as Magic Initiate can give you one).
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/CDvlxGu.png' alt='A blade sweep' style='display:block;width:328px;height:250px;margin:6px auto 2px auto'/>
 
 ## Step 3: Determine Ability Scores
 
 Your six ability scores measure your character's fundamental capabilities. They are **Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma**. Almost everything you attempt in the game is shaped by these scores.
-
-\column
 
 | Score | What It Governs |
 |:--|:--|
@@ -640,12 +632,6 @@ No score may be purchased above 15 before racial bonuses.
 
 **Which scores matter most for your class:**
 
-{{footnote Character Creation | Step 2 }}
-
-{{pageNumber,auto}}
-
-\page
-
 | Class | Primary Score | Secondary Score |
 |:--|:--|:--|
 | Adventurer (Treasure Hunter) | STR or DEX | CON |
@@ -660,6 +646,12 @@ No score may be purchased above 15 before racial bonuses.
 | Sage | INT or WIS | CON |
 | Shaman | WIS | CON |
 | Veilblade | DEX | INT or CHA |
+
+{{footnote Character Creation | Step 2 }}
+
+{{pageNumber,auto}}
+
+\page
 
 ## Step 4: Describe Your Character
 
@@ -682,8 +674,6 @@ Your background represents what your character did before adventuring: where the
 
 Your background grants you two skill proficiencies, one or two tool or language proficiencies, a starting equipment package, and a background feature (a special benefit suited to your history).
 
-\column
-
 ### Personality and Motivation
 
 Answer these questions and note the answers on your sheet:
@@ -695,6 +685,8 @@ Answer these questions and note the answers on your sheet:
 **Bond:** Who or what does your character care about enough to take risks for? A person, a place, a sacred duty. *"I will find the sage who taught me, even if it means entering the Twilight Realm."*
 
 **Flaw:** What is your character's weakness? A fear, a vice, a blind spot? *"I trust too easily, especially anyone who shows me kindness."* *"I cannot resist the call of an unexplored ruin."*
+
+\column
 
 ### Alignment
 
@@ -712,12 +704,6 @@ Most heroes in the Zelda tradition are Good or Neutral Good: courageous, protect
 
 Your class grants a set of starting equipment choices. Record what you take on your sheet, including armor type and any weapons with their damage dice.
 
-{{footnote Character Creation | Step 3 }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Armor and Armor Class (AC)
 
 Your AC determines how hard you are to hit. Different armor types provide different base AC:
@@ -729,6 +715,12 @@ Your AC determines how hard you are to hit. Different armor types provide differ
 | Medium armor (Chain shirt, Scale, Breastplate) | 13–15 + DEX modifier (max +2) | — |
 | Heavy armor (Chain mail, Splint, Plate) | 14–18 | No DEX bonus |
 | Shield | + Guard value (+1 to +4) | Zelda DnD uses Guard instead of a flat +2 (see below) |
+
+{{footnote Character Creation | Step 3 }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### New Rule: Shield Guard
 
@@ -744,8 +736,6 @@ Hyrule's extreme environments impose **Weather Exhaustion** on characters withou
 
 When your character enters an extreme temperature environment, the DM will call for a **Weather Exhaustion check** (a Constitution saving throw). Failing this check grants one level of Weather Exhaustion, which carries increasingly severe penalties:
 
-\column
-
 | Level | Effect |
 |:--|:--|
 | 1 | Disadvantage on **Perception checks** and **initiative rolls**. |
@@ -753,9 +743,12 @@ When your character enters an extreme temperature environment, the DM will call 
 | 3 | Your speed is reduced by **10 feet**. At the start of each of your turns, choose **attack rolls or saving throws**. You have disadvantage on the chosen rolls until the start of your next turn. |
 | 4 | Your speed is reduced by **20 feet**, and you **cannot gain advantage** on any d20 rolls. |
 
-**Protective equipment:** Certain armor sets from the Items chapter provide immunity or resistance to specific Weather Exhaustion checks. When choosing your starting equipment, consider the environment your campaign will involve. A campaign set largely in the Gerudo Desert makes the **Desert Voe set** valuable early. A Hebra-based campaign makes the **Snowquill set** essential.
+**Protective equipment:** Environmental armor, jewelry, and elixirs from the Items chapter grant levels of Heat or Cold Protection. Enough levels for the weather's severity (Moderate 1, Severe 2, Extreme 3, Natural Disaster 4) means you pass the check automatically; fewer still give advantage (see **Temperature**). When choosing your starting equipment, consider the environment your campaign will involve. A campaign set largely in the Gerudo Desert makes the **Desert Voe set** valuable early. A Hebra-based campaign makes the **Snowquill set** essential.
 
 *Your DM can tell you what environments your campaign will frequently visit so you can plan your gear accordingly.*
+
+
+\column
 
 ## Step 6: Record Final Numbers
 
@@ -775,13 +768,7 @@ Before you play, fill in the following on your character sheet:
 
 **Magic Points:** If your class uses magic, record your starting MP from its class table. If not, write 0 or leave it blank.
 
-**Your class spell list (if applicable):** You do not choose or record individual spells. Any spell on your class's list is available to you whenever you can pay its MP cost. Note where your class's list is printed so you can find it at the table, and see **No Known Spells** in the Magic System chapter.
-
-{{footnote Character Creation | Steps 4-5 }}
-
-{{pageNumber,auto}}
-
-\page
+**Your class spell list (if applicable):** You do not choose or record individual spells. Any spell on your class's list is available to you whenever you can pay its MP cost and it is within your Spell Level Ceiling. Note where your class's list is printed so you can find it at the table, and see **No Known Spells** in the Magic System chapter.
 
 **Languages:** All characters speak Common (Hylian) plus any additional languages granted by race or background.
 
@@ -803,13 +790,19 @@ These examples show what a finished character concept looks like. Each one is a 
 
 ---
 
+{{footnote Character Creation | Steps 4-5 }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### The Wandering Hero
 *Classic Link archetype*
 **Race:** Hylian | **Class:** Adventurer | **Background:** Folk Hero
 **Key scores:** STR 15, DEX 14, CON 13
 **Starting SP:** 2 | **MP:** None
 **Concept:** A young Hylian with no memory of their past, carrying a sword they don't remember learning to use. Adaptable, observant, and unable to walk past an injustice. Speaks rarely and acts decisively.
-**Starting equipment:** Longsword, soldier's shield (Guard +2), leather armor, explorer's pack, shortbow.
+**Starting equipment:** Longsword, soldier's shield (Guard +2), leather armor, explorer's pack, lute.
 
 ---
 
@@ -829,13 +822,11 @@ These examples show what a finished character concept looks like. Each one is a 
 **Starting SP:** 2 | **MP:** 6
 **Concept:** A devoted priestess or temple singer whose faith has turned into real power. Heals allies, calls down divine judgment on enemies, and hears music in everything. Uses her ocarina as a spellcasting focus.
 
-\column
-
 ### The Twilight Infiltrator
 *Sheik / shadow operative archetype*
 **Race:** Sheikah or Twili | **Class:** Veilblade or Interloper | **Background:** Criminal (or Spy)
 **Key scores:** DEX 15, INT 14, CON 12
-**Starting SP:** 2 (Interloper) or 4 (Veilblade) | **MP:** 4 (Interloper); the Veilblade uses 3 Energy instead
+**Starting SP:** 2 (Interloper) or 4 (Veilblade) | **MP:** 4 (Interloper); the Veilblade has no MP and gains 3 Energy at 2nd level
 **Concept:** A shadow operative who has learned to move between worlds, literally or figuratively. Gathers information, removes specific targets, and disappears before anyone asks questions. Their loyalty is complicated.
 
 ---
@@ -851,7 +842,7 @@ These examples show what a finished character concept looks like. Each one is a 
 *Gerudo warrior / drifter archetype*
 **Race:** Gerudo | **Class:** Blightbound or Adventurer (Wild Scout path) | **Background:** Outlander
 **Key scores:** CHA 15 (Blightbound) or DEX 15 (Adventurer), STR or CON 13
-**Starting SP:** 2 | **MP:** 6 (Blightbound, as DPP); an Adventurer has no MP until 3rd level
+**Starting SP:** 2 | **DPP:** 2 at the start of each fight, up to 6 (Blightbound); an Adventurer has no MP until 3rd level
 **Concept:** A Gerudo who has wandered far from the desert, carrying either a dark pact made in desperation or a hunter's instinct honed by years in the waste. Self-sufficient, independent, and looking for someone she will not name.
 
 ---
@@ -868,9 +859,10 @@ These examples show what a finished character concept looks like. Each one is a 
 - [ ] **Choose a Class.** Record Hit Die, proficiencies, features, starting SP and MP.
 - [ ] **Determine Ability Scores.** Assign, apply racial bonuses, calculate modifiers.
 - [ ] **Choose a Background.** Record skills, tools, languages, feature, and personality elements.
-- [ ] **Choose Starting Equipment.** Record armor (and AC), weapons, and gear; note Weather Exhaustion protection if relevant.
+- [ ] **Choose Starting Equipment.** Record armor (and AC), weapons, and gear; note Weather Exhaustion protection if relevant. A kit's "shield" is a Soldier's Shield (Guard +2); a Goron takes 20 rupees instead of body armor.
 - [ ] **Record Final Numbers.** HP, Proficiency Bonus, saving throws, Initiative, Passive Perception, SP, and MP.
 - [ ] **Come Together.** Establish connections with the other characters before Session 1.
+- [ ] **Level Up.** When the DM says so, follow your class table; Appendix B covers advancement.
 
 {{footnote Character Creation | Example Builds }}
 
@@ -880,7 +872,7 @@ These examples show what a finished character concept looks like. Each one is a 
 
 {{insideCover}}
 
-# Races of Hyrule{{pageNumber,auto}}
+# Races of Hyrule
 
 ___
 
@@ -898,6 +890,8 @@ ___
      Use --rotation to set rotation angle in degrees. -->
 
 {{logo ![](/assets/naturalCritLogoRed.svg)}}
+
+{{pageNumber,auto}}
 
 \page
 # Deku
@@ -994,7 +988,7 @@ Your Deku character has the following racial traits.
 
 **Creature Type.** You are a Plant creature.
 
-**Ability Score Increase.** Your Wisdom score increases by 1, and your Dexterity score increases by 1.
+**Ability Score Increase.** Your Wisdom score increases by 2, and your Dexterity score increases by 1.
 
 **Age.** Deku mature within a decade but can live for centuries, their lifespans tied to the health of their native groves.
 
@@ -1008,7 +1002,7 @@ Your Deku character has the following racial traits.
 
 **Photosynthesis.** You do not need to eat food. If you spend at least 1 hour in direct sunlight during a long rest, you gain full sustenance. You also gain proficiency in the Nature skill.
 
-**Deku Spit.** As a bonus action, you can spit a hardened seed as a ranged weapon attack (20/60 ft.). On a hit, it deals **1d6 bludgeoning damage**. This damage increases to **2d6 at 5th level**.
+**Deku Spit.** As a bonus action, you can spit a hardened seed as a ranged weapon attack (20/60 ft.), using Dexterity for the attack roll. You are proficient with it. On a hit, it deals **1d6 bludgeoning damage**. You don't add your ability modifier to this damage. This damage increases to **2d6 at 5th level**.
 
 ::::::::::::
 
@@ -1055,14 +1049,14 @@ Clever traders and wanderers, known for trickery and gliding petals.
 }}
 
 {{imageMaskEdge4,--offset:3%,--rotation:270
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/f3pjCRO.png){top:670px,left:500px,height:340px}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/f3pjCRO.png){top:690px,left:505px,height:320px}
 }}
 
 {{imageMaskCorner20,--offsetX:-50%,--offsetY:-50%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/vGeJq8o.png){top:850px,left:160px,height:15%}
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/vGeJq8o.png){top:884px,left:170px,height:11.5%}
 }}
 
-{{artist,bottom:80px,left:90px
+{{artist,bottom:70px,left:80px
 ##### Deku Crest
 }}
 
@@ -1171,7 +1165,7 @@ Your Gerudo character has the following racial traits.
 
 **Creature Type.** You are a Humanoid.
 
-**Ability Score Increase.** Your Charisma score increases by 2, and your Strength score increases by 1. Alternatively, you may increase two different ability scores by +1 each.
+**Ability Score Increase.** Your Charisma score increases by 2, and your Strength score increases by 1. Alternatively, you may increase one ability score of your choice by 2 and a different one by 1.
 
 **Age.** Gerudo reach adulthood in their late teens and rarely live beyond 100 years.
 
@@ -1185,7 +1179,7 @@ Your Gerudo character has the following racial traits.
 
 **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. You also gain proficiency in the Intimidation skill.
 
-**Trained Fighters.** You have proficiency with scimitars, double-bladed scimitars, shortbows, and shields.
+**Trained Fighters.** You have proficiency with scimitars, double-bladed scimitars, war fans, desert whips, shortbows, and shields.
 
 **Desert Temperature Endurance.** You have advantage on Weather Exhaustion checks caused by extreme heat or cold. In addition, you can go twice as long without food and water as normal.
 
@@ -1329,11 +1323,11 @@ Your Goron character has the following racial traits.
 
 **Fiery Endurance.** You have resistance to fire damage. In addition, you are immune to the effects of extreme heat for the purposes of Weather Exhaustion.
 
-**Stone Hide.** Your rocky body provides natural protection. Your base Armor Class is **14 + your Constitution modifier**, with no maximum. You cannot wear body armor, but can wear headgear, greaves and shields.
+**Stone Hide.** Your rocky body provides natural protection. Your base Armor Class is **13 + your Constitution modifier**, with no maximum. You cannot wear body armor, but can wear headgear, greaves and shields.
 
-Stone Hide counts as armor for any rule that cares whether you wear any: you gain an armor set's **Set Bonus** wearing only that set's headgear and greaves, and Stone Hide itself can be upgraded at a **Great Fairy Fountain** like a chest piece, to a maximum of ★★ (+2 AC). Features requiring you to be unarmored never work for you.
+Stone Hide counts as armor for any rule that cares whether you wear any, including the Defense fighting style: you gain an armor set's **Set Bonus** wearing only that set's headgear and greaves, and Stone Hide itself can be upgraded at a **Great Fairy Fountain** like a chest piece, to a maximum of ★★ (+2 AC). Features requiring you to be unarmored never work for you.
 
-**Goron Curl.** As a bonus action, you curl into a rocky sphere and become a rolling weapon. Curling is not a defensive option; it is the wind-up for **Rolling Charge**, and a way to ride out something you cannot dodge.
+**Goron Curl.** As a bonus action, you curl into a rocky sphere and become a rolling weapon. Curled, you are easy to hit but hard to hurt; it is the wind-up for **Rolling Charge**, and a way to ride out something you cannot dodge.
 
 While curled:
 - You have **resistance to bludgeoning, piercing, and slashing damage**, and advantage on Strength and Constitution saving throws.
@@ -1341,18 +1335,14 @@ While curled:
 - The only actions available are uncurling (a bonus action) or a feature that works while curled, such as Rolling Charge.
 - Uncurling costs no movement, and you stand up from prone as part of it.
 
-**Rolling Charge.** Starting at 5th level, while curled, you can use your action to roll up to 40 feet. If you move at least 20 feet in a straight line before hitting a creature, it must succeed on a Strength saving throw  
-(DC = 8 + your proficiency bonus + your Strength modifier)  
-or be knocked prone and take **1d6 bludgeoning damage**.
+**Rolling Charge.** Starting at 5th level, while curled, you can use your action to roll up to 40 feet. This movement provokes opportunity attacks as normal. If you have rolled at least 20 feet in a straight line when you move into a creature's space, your roll ends in the last space before it, and the creature must succeed on a Strength saving throw (DC = 8 + your proficiency bonus + your Strength modifier) or take **2d6 bludgeoning damage** and be knocked prone. The damage increases to **3d6 at 11th level** and **4d6 at 17th level**.
 
-{{imageMaskCorner9,--offsetX:55%,--offsetY:-35%,--rotation:0
+
+{{imageMaskCorner9,--offsetX:80%,--offsetY:-55%,--rotation:0
   ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){height:100%}
 }}
 
 
-{{imageMaskCorner9,--offsetX:55%,--offsetY:-35%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/oSo9nxL.png){top:795px,left:520px,height:19%}
-}}
 
 {{footnote Races | Goron }}
 
@@ -1395,6 +1385,8 @@ Cave Gorons often serve as scouts, tunnel wardens, and guardians of sacred chamb
 {{imageMaskEdge1,--offset:10%,--rotation:0
   ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/EZTyS3f.png){top:500px,left:-200px,height:70%}
 }}
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/oSo9nxL.png' style='position:absolute;top:400px;left:540px;height:190px'/>
 
 {{footnote Races | Goron }}
 
@@ -1502,7 +1494,7 @@ Some Hylians take up adventuring lives out of **duty**, believing it is their ro
 
 Hylian names vary widely by region, culture, and era. Family names are common, particularly among nobles and knights.
 
-**Given Names:** Link, Zelda, Impa, Rauru, Teba, Paya, Mipha, Kass  
+**Given Names:** Link, Zelda, Malon, Ilia, Telma, Rusl, Groose, Rhoam  
 **Family Names:** Ardin, Hateno, Ordon, Castleton, Kakariko  
 **Titles:** Knight, Captain, Scholar, Warden, Champion
 
@@ -1547,8 +1539,10 @@ Your Hylian character has the following racial traits.
 
 # Kokiri
 
-> *"They looked like children, all of them. But their eyes were older than the trees. The fairy on the scout's shoulder watched me the whole time, and somehow I felt it understood more of what I said than she did."*
-> — Viator Fortuitus, A Bard's Record, Ch. 18 excerpt
+*"They looked like children, all of them. But their eyes were older than the trees. The fairy on the scout's shoulder watched me the whole time, and somehow I felt it understood more of what I said than she did."*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — *Viator Fortuitus*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A Bard's Record, Ch. 16 excerpt*
 
 Deep within the Lost Woods, where sunlight filters green through canopies so thick they blot out the sky, live the Kokiri, the forest children of Hyrule. Small, bright-eyed, and ageless, they have dwelt in the shadow of the Great Deku Tree since before the kingdom was founded, under the guidance of their fairy companions and the Tree's own patient will.
 
@@ -1590,6 +1584,10 @@ A Kokiri without a fairy is deeply unusual, rare enough that other Kokiri treat 
 ##### Kokiri Crest
 }}
 
+{{footnote Races | Kokiri }}
+
+{{pageNumber,auto}}
+
 \page
 
 ### The Great Deku Tree's Children
@@ -1617,8 +1615,6 @@ Kokiri names are short and musical, often inspired by natural sounds, seasons, o
 **Given Names:** Saria, Mido, Fado, Navi, Fari, Kalo, Lumi, Brin, Wyn, Telo, Dayo, Sera, Noko, Pell
 
 **Fairy Names (given by their Kokiri):** Spark, Glint, Whisper, Bloom, Ember, Chime, Mist, Flicker, Hush
-
-\column
 
 ### Kokiri Traits
 
@@ -1648,13 +1644,12 @@ Your Kokiri character has the following racial traits.
 
 Your fairy grants you the following benefits:
 
-- ***Fairy Guidance.*** You have advantage on Wisdom (Perception), Wisdom (Survival), and Intelligence (Nature) checks. Your fairy constantly observes, remembers, and advises.
+- ***Fairy Guidance.*** You have advantage on Wisdom (Survival) and Intelligence (Nature) checks. Your fairy constantly observes, remembers, and advises.
 - ***Fairy Light.*** Your fairy emits dim light in a 5-foot radius. You can suppress or restore this light as a bonus action.
 - ***Fairy Warning.*** You cannot be surprised while your fairy is conscious. It watches while you sleep and wakes you before danger reaches you.
 - ***Fairy Revival (Once per Long Rest).*** When you are reduced to 0 hit points, your fairy immediately stabilizes you automatically, without requiring a roll. You are stabilized at 0 hit points. The fairy cannot use this ability again until you finish a long rest.
 
-{{footnote Races of Hyrule | Kokiri}}
-{{pageNumber,auto }}
+{{footnote Races | Kokiri }}
 
 {{pageNumber,auto}}
 
@@ -1763,7 +1758,6 @@ Your Rito character has the following racial traits.
 
 - You are flying, gliding, or falling.
 - Your target is at long range for the weapon you are using.
-- You and your target are both outdoors under open sky.
 
 **Aerial Agility.** You have proficiency in the Acrobatics skill.
 
@@ -1903,9 +1897,9 @@ Your Sheikah character has the following racial traits.
 
 **Shadowy Folk.** You gain proficiency in the Stealth skill. If you already have proficiency in Stealth, you instead gain expertise in that skill.
 
-**Shadow Blessing.** You learn one cantrip of your choice from the Illusion school of magic. Intelligence is your spellcasting ability for it.
+**Shadow Blessing.** You learn one cantrip of your choice from the Illusion school of magic, and you can cast it without expending magic points. Intelligence is your spellcasting ability for it.
 
-When you reach 3rd level, you learn one 1st-level Illusion spell of your choice, which you can cast once without expending magic points. You regain the ability to cast this spell in this way when you finish a long rest.
+When you reach 3rd level, you learn one 1st-level Illusion spell of your choice, which you can cast once without expending magic points. You regain the ability to cast this spell in this way when you finish a long rest. If you have MP, you can also cast it by spending 2 MP.
 
 {{imageMaskCorner29,--offsetX:-60%,--offsetY:45%,--rotation:0
   ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/DTCTlG2.png){top:0px,left:-300px}
@@ -2017,7 +2011,7 @@ Your Twili character has the following racial traits.
 
 **Creature Type.** You are a Humanoid.
 
-**Ability Score Increase.** Your Intelligence score increases by 2, and your Dexterity score increases by 1. Alternatively, you may increase two different ability scores by +1 each.
+**Ability Score Increase.** Your Intelligence score increases by 2, and your Dexterity score increases by 1. Alternatively, you may increase one ability score of your choice by 2 and a different one by 1.
 
 **Age.** Twili mature at a similar rate to Hylians and can live up to 200 years.
 
@@ -2266,7 +2260,7 @@ Music and ceremony are central to Zora life. Songs are used to mark seasons, rem
 Zora names often flow like water, passed down through families and echoing ancient heroes.
 
 **Names:** Mipha, Sidon, Dorephan, Ralis, Lulu, Rutela  
-**Titles:** Prince, Princess, Warden of Tides, Riverguard, Tidecaller
+**Titles:** Prince, Princess, Warden of Tides, Riverguard
 
 ### Zora Traits
 
@@ -2379,31 +2373,28 @@ Your environment and your level of preparedness determine the **DC** of a Weathe
 On a failed check, a creature gains **1 level of Weather Exhaustion**. On a success, no Weather Exhaustion is gained.
 
 :
-Some races, features, or equipment may grant **advantage** on Weather Exhaustion checks, reduce the DC, or increase the time between checks, at the DM's discretion.
+Gear, elixirs, and some racial traits protect against heat and cold (see **Heat and Cold Protection** below). The DM may also lower the DC or lengthen the time between checks for careful travel (see the DM Guide).
 
 :
 Weather Exhaustion is a **separate condition** from standard D&D exhaustion. It represents environmental strain rather than physical collapse.
-
-:
-Weather Exhaustion can be reduced by **1 level per short or long rest**, provided the creature is sheltered from the environment (such as resting in a cave, oasis, tent, or magically protected space).
 
 ### Checking the Weather
 A cautious player may ask the DM "How's the weather in this area?" or "How are traveling conditions today?" That question is the DM's cue to say whether Weather Exhaustion is a factor here. Alternatively, a DM may ask for a Wisdom (Survival) check to see whether the character recognizes if the conditions are safe to travel in given what they are carrying.
 
 :::::::::::::::::
 
-#### Heat
-Extreme heat includes deserts, volcanic regions, badlands, and sun-scorched plains.
+#### Heat and Cold
+**Extreme heat** includes deserts, volcanic regions, badlands, and sun-scorched plains. **Extreme cold** includes tundras, arctic regions, high mountains, and frigid desert nights.
 
-A creature with **resistance to fire damage** has advantage on Weather Exhaustion checks caused by heat. A creature with **immunity to fire damage** automatically succeeds on Weather Exhaustion checks caused by heat.
-Certain items, spells, or clothing may grant resistance or immunity to heat, or otherwise reduce its effects.
+#### Heat and Cold Protection
+Environmental armor, jewelry, and elixirs grant levels of **Heat Protection** or **Cold Protection**. Levels of the same kind stack. Worn items give at most 3 levels; an elixir can add to them, to a maximum of 4. Two elixirs don't stack.
 
-#### Freezing
-Extreme cold includes tundras, arctic regions, high mountains, and frigid desert nights.
+Each weather severity has a number: **Moderate 1, Severe 2, Extreme 3, Natural Disaster 4.** When you make a Weather Exhaustion check caused by heat or cold:
+- **Your levels equal or exceed the severity:** you succeed automatically.
+- **You have at least 1 level, but fewer:** you have advantage on the check.
+- **You have none:** roll normally.
 
-A creature with **resistance to cold damage** has advantage on Weather Exhaustion checks caused by freezing conditions. A creature with **immunity to cold damage** automatically succeeds on Weather Exhaustion checks caused by freezing conditions.
-
-Certain items, spells, or clothing may grant resistance or immunity to freezing conditions.
+**Resistance** to fire damage gives advantage on checks caused by heat. **Immunity** to fire damage, or a trait that makes you immune to extreme heat, means you succeed automatically. Cold resistance and immunity work the same way against cold. Advantage from several sources doesn't add up.
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/BotW_Link_Snow_soft.png' alt='Traveller in the snow' style='position:absolute;right:-10px;top:-8px;height:18%'/>
 
@@ -2426,6 +2417,17 @@ Weather Exhaustion cannot directly kill a creature.
 
 :
 **While a creature is at Weather Exhaustion Level 4, any additional failed Weather Exhaustion checks instead cause the creature to gain 1 level of standard D&D exhaustion.**
+
+{{footnote Mechanics | Temperature }}
+
+{{pageNumber,auto}}
+
+\page
+
+**Shelter.** A cave, a building or roofed dungeon room, a pitched tent, an oasis, or a magically protected space (such as *sanctum of song*) shelters you from the weather. A tent is shelter from Moderate and Severe weather only; Extreme weather or a Natural Disaster needs solid walls or magic. While you stay in shelter, Weather Exhaustion checks **pause**: the time to your next check stops counting, and picks up where it left off when you step back out.
+
+:
+In shelter you can take a short rest even inside a weather region, if nothing else prevents it, and each short or long rest taken there reduces your Weather Exhaustion by **1 level**. A long rest out in the open still counts as a long rest, but checks continue through it and it doesn't reduce Weather Exhaustion.
 
 :
 ### Standard Exhaustion
@@ -2477,13 +2479,10 @@ The DM may still require a Strength (Athletics) check in hazardous conditions, s
 ### Resting & Stamina Recovery (Rest Economy)
 Stamina recovery is intentionally limited by environment and safety.
 
-\column
-
 :
 A creature **cannot benefit from a short rest** while:
 - In **difficult terrain**
-- In **extreme temperatures**
-- While Weather Exhaustion checks are required
+- **Out in the weather** where Weather Exhaustion checks are in effect (a sheltered spot is fine; see Temperature)
 - While under immediate threat or pursuit (DM discretion)
 
 :
@@ -2503,14 +2502,19 @@ As a **10-minute uninterrupted meditation**, a creature may convert stamina into
 - Requires **10 uninterrupted minutes**
 - Cannot be performed while:
   - In difficult terrain
-  - In extreme temperatures
-  - While Weather Exhaustion checks are required
+  - Out in the weather where Weather Exhaustion checks are in effect
 - Conversion rate: **2 Stamina Points → 1 Magic Point**
 - Magic points recovered this way cannot exceed the creature's normal maximum
 - **Stamina spent this way is burned.** It does not come back on a short rest the way ordinary Stamina does; it returns only on a long rest
 
 :
 Stamina Burn represents controlled breathing, ritual focus, or spiritual grounding rather than an adrenaline rush.
+
+{{footnote Mechanics | Stamina System }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Called Shots
 
@@ -2519,23 +2523,17 @@ Just before making an attack roll with a weapon or an unarmed strike, a creature
 :
 A called shot targets a creature's momentary vulnerability: a gap in armor, a joint, an exposed eye, or an unstable stance.
 
-{{footnote Mechanics | Stamina }}
-
-{{pageNumber,auto}}
-
-\page
-
 :
 On a hit, a called shot adds **one additional weapon damage die** to the damage roll.  
 Starting at **10th level**, a called shot instead adds **two additional weapon damage dice**.
 
 :
-Only the weapon's base damage dice are increased. Additional damage from spells, class features, or magic items is rolled as normal.
+Only the weapon's base damage dice are increased. An unarmed strike with no damage die counts as having a d4 for this purpose. Additional damage from spells, class features, or magic items is rolled as normal.
 
 ### Exploitation Fatigue (Anti-Spam Rule)
 Repeatedly exploiting the same opening is taxing.
 
-After a creature makes a called shot against a target, any additional called shots made against that same target before the start of the attacker's next turn cost 1 additional stamina point.
+After you make a called shot against a target, your further called shots against that same target before the start of your next turn cost **3 SP** instead of 2. The surcharge doesn't grow, and it applies only to you: an ally's called shot against the same target costs the normal 2 SP.
 
 This increase resets at the start of the attacker's next turn.
 
@@ -2543,8 +2541,6 @@ This rule encourages teamwork, timing, and precision rather than repeated brute-
 
 ### Weak Points
 Some creatures in Hyrule possess **weak points**, specific body parts or vulnerabilities that can be exploited with a called shot.
-
-\column
 
 :
 Weak points are usually apparent through observation, prior knowledge, or successful ability checks, unless deliberately concealed.
@@ -2564,17 +2560,17 @@ When a called shot targets a creature's weak point, it triggers a **special effe
 
 **8 + your proficiency bonus + the ability modifier you used for the attack**
 
-{{classTable,wide
+{{classTable
 
-##### Called Shot Examples
-| Target | | Example Effect | | Example Critical Hit Effect |
-|:-----:|:-|:---------------|:-|:----------------------------|
-| Eye | | The target has disadvantage on ranged attack rolls and sight-based ability checks until the end of its next turn. | | The target is blinded in that eye until it regains hit points or uses an action to succeed on a Constitution saving throw. |
-| Hand | | The target is disarmed and must use its object interaction to retrieve the item. | | The target's weapon is flung up to 30 feet away. |
-| Leg | | The target's walking speed is reduced by half until the end of its next turn. | | The target is knocked prone and its speed is halved until it regains hit points or succeeds on a Constitution saving throw as an action. |
-| Arm | | No additional effect. | | The arm is injured; attacks or ability checks made with it have disadvantage until healed or a successful Constitution save is made as an action. |
-| Head | | The target has disadvantage on Intelligence, Wisdom, and Charisma checks until the end of its next turn. | | The target must succeed on a Constitution saving throw or be knocked unconscious. It may repeat the save at the end of each of its turns. |
+##### Called Shot Defaults (excerpt)
+| Body Part | On a Hit | On a Critical Hit |
+|:--|:--|:--|
+| **Head / Face** | Dazed — disadvantage on next attack | Stunned 1 round |
+| **Arm / Weapon Hand** | Disarmed | Weapon flung up to 30 feet away |
+| **Legs / Knees** | Speed halved until end of their next turn | Knocked prone, speed 0 until end of next turn |
 }}
+
+A critical hit on a called shot uses the table's Major effect. Eyes, throat, shield arm, wings, cores and the rest are in the **Body Part Reference Table** (DM Guide).
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/Impa_Great_Sword.webp' alt='Called shot' style='display:block;width:243px;height:231px;margin:6px auto 2px auto'/>
 
@@ -2595,26 +2591,38 @@ When a called shot targets a creature's weak point, it triggers a **special effe
 Magic in Zelda DnD is fueled by **Magic Points (MP)**, which represent a creature's attunement to the mystical forces of the world. MP completely replaces spell slots.
 
 :
-If a creature has enough MP to pay a spell's cost, it may cast that spell, regardless of spell level or prior use.
+If a creature has enough MP to pay a spell's cost, it may cast that spell, as long as the spell is no higher than its **Spell Level Ceiling** (below). Casting a spell before never stops you casting it again.
 
 :
-> ##### MP Is the Gate
-> That sentence means what it says, and it is deliberate. There is no table here telling you that 3rd-level spells arrive at 5th level. **What a caster can cast is decided by what they can pay for**, and paying for a spell far above your station costs you the rest of your day.
+> ##### New Rule: Spell Level Ceiling
+> MP pays for a spell. Your level decides how high you can reach. The table shows the class level at which each spell level opens for your class. Nothing lifts that ceiling, including Overchanneling and Magical Desperation. A racial trait, class feature or relic that lets you cast one named spell in its own way (free, or at a price it states) isn't limited by it. Anything at or below it is yours to cast whenever you can pay for it.
 >
-> A 1st-level Sage has 9 MP. Spending all of it on one enormous spell is a legal choice and usually a bad one: it is the whole adventuring day for a single effect, with nothing left for the fight afterwards. That trade is the limit. A DM who wants a firmer ceiling can use the **Spell Level Cap** some classes already carry, or set one per class at the table.
+> | Spell Level | Chanter, Interloper, Sage, Shaman | Blightbound | Champion | Ranger | Adventurer |
+> |:--|:--|:--|:--|:--|:--|
+> | 1st | 1st | 3rd | 3rd | 1st | 3rd |
+> | 2nd | 3rd | 3rd | 6th | 4th | 7th |
+> | 3rd | 5th | 5th | 9th | 8th | 13th |
+> | 4th | 7th | 7th | 12th | 12th | 16th |
+> | 5th | 9th | 9th | 15th | 17th | — |
+> | 6th | 11th | 11th | 18th | — | — |
+> | 7th | 13th | — | — | — | — |
+> | 8th | 15th | — | — | — | — |
+> | 9th | 17th | — | — | — | — |
+>
+> A dash means never: that is the class's Spell Level Cap. MP changes everything below the ceiling. A 9th-level Sage with 60 MP can spend all of it on 5th-level spells, on cantrips, or on anything in between.
 
 :
 > ##### New Rule: No Known Spells
-> Classes in this book have a spell list but **no known-spells list**. A caster may cast any spell on their class's list at any time, provided they can pay the MP. There is no preparation step, no spells known, and no daily limit on which spells you use.
+> Classes in this book have a spell list but **no known-spells list**. A caster may cast any spell on their class's list at any time, provided they can pay the MP and the spell is within their Spell Level Ceiling. There is no preparation step, no spells known, and no daily limit on which spells you use.
 >
-> This is deliberate. What limits a caster here is the size of their MP pool, **Arcane Strain** (repeating a spell costs more each time) and **Arcane Saturation** (expensive magic degrades your casting). Those three rules do the work that a known-spells list does in standard 5e, and they push a caster toward variety rather than toward one memorized answer.
+> This is deliberate. Below the Spell Level Ceiling, what limits a caster here is the size of their MP pool, **Arcane Strain** (repeating a spell costs more each time) and **Arcane Saturation** (expensive magic degrades your casting). Those three rules do the work that a known-spells list does in standard 5e, and they push a caster toward variety rather than toward one memorized answer.
 >
 > The exception is a table using the **spell slot alternative** table printed for each class. A DM who chooses that option runs preparation and spells known exactly as standard 5e does.
 
 :
 Different classes gain MP at different rates, determined by their class progression.
 
-\column
+A monster with a **Magic Points** entry casts under the same rules: Arcane Strain, Arcane Saturation, Overchanneling and Arcane Wounds all apply to it.
 
 ### Casting Spells with MP
 Each spell has an **MP cost** based on its power. When you cast a spell, you expend MP equal to its cost.
@@ -2632,6 +2640,12 @@ These work as they do in standard 5e. Stated here so nobody has to assume:
 
 :
 Your class entry names your spellcasting ability. Some classes define a **separate** DC for their own non-spell features (the Mask save DC, the Special Attack save DC, the Relic save DC); those are stated where they appear.
+
+{{footnote Mechanics | Magic System }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Rituals
 Around twenty spells in the Spell Compendium carry the **(Ritual)** tag. Under this system a ritual is not free.
@@ -2655,12 +2669,6 @@ Some class features, relics, potions, or sacred locations may restore MP earlier
 ### Arcane Strain
 Magic resists repetition. Channeling the same spell over and over causes arcane feedback that raises its cost.
 
-{{footnote Mechanics | Magic System }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Escalating MP Cost
 Each time you cast the **same spell** without casting a different spell in between, its MP cost increases:
 
@@ -2674,17 +2682,18 @@ Each time you cast the **same spell** without casting a different spell in betwe
 :
 The MP cost resets when you:
 - Cast a different spell  
-- Skip a turn without casting a spell  
+- Skip a turn without casting a spell (in combat)  
+- Go **1 minute** without casting a spell (outside combat, where there are no turns)  
+
+Outside combat, a spell you have cast three times in a row can't be cast again until that minute has passed.
 
 This rule discourages repetitive spell use while preserving tactical flexibility.
 
 ### Arcane Saturation
 High-intensity magic places stress on a caster's arcane channels.
 
-\column
-
 :
-Each time you cast a spell that costs **5 MP or more**, you gain **1 level of Arcane Saturation**. Arcane Saturation is tracked openly by the player.
+Each time you pay **5 MP or more** for a single casting (count everything: the spell's cost, Arcane Strain and Overchanneling), you gain **1 level of Arcane Saturation**. Arcane Saturation is tracked openly by the player.
 
 :
 Arcane Saturation resets at the end of combat, or after **1 uninterrupted minute** without casting spells.
@@ -2693,10 +2702,10 @@ Arcane Saturation resets at the end of combat, or after **1 uninterrupted minute
 | Saturation Level | Effect |
 |-----------------|--------|
 | 1 | No effect |
-| 2 | Arcane Strain cost increases by an additional +25% |
+| 2 | Repeat casts cost 25% more of the base cost: +75% on a second cast, +125% on a third (round up). First casts are unaffected. |
 | 3 | Disadvantage on spell attack rolls |
 | 4 | Spell save DCs are reduced by 1 |
-| 5+ | You cannot cast spells that cost 5 MP or more |
+| 5+ | You cannot pay 5 MP or more for a single casting |
 
 :
 Arcane Saturation represents magical overload and naturally discourages nova casting without hard limits.
@@ -2704,6 +2713,12 @@ Arcane Saturation represents magical overload and naturally discourages nova cas
 {{wide
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/zelda-magic-soft.png' alt='Channelling magic' style='display:block;width:392px;height:221px;margin:6px auto 2px auto'/>
 }}
+
+{{footnote Mechanics | Magic System }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Spell Chart Conversion Cost
 
@@ -2720,21 +2735,13 @@ Arcane Saturation represents magical overload and naturally discourages nova cas
 | 8th-level  | **9 MP**  |
 | 9th-level  | **10 MP** |
 
-\column
-
 ### Soft Concentration
 
 Some sustained magical effects, notably the Goddess Chanter's Sacred Songs and the Champion's Aura of the Chosen, use **soft concentration** rather than standard concentration. Soft concentration works like standard concentration with the following differences:
 
-**It does not conflict with standard concentration.** A creature maintaining a soft concentration effect can simultaneously maintain a standard concentration spell. Only one soft concentration effect can be maintained at a time, but it coexists freely with any number of concentration spells, provided those spells also coexist with each other.
+**It does not conflict with standard concentration.** A creature maintaining a soft concentration effect can simultaneously maintain a standard concentration spell. Only one soft concentration effect can be maintained at a time, alongside the one standard concentration spell you are maintaining.
 
-{{footnote Mechanics | Magic System }}
-
-{{pageNumber,auto}}
-
-\page
-
-**It uses a lower damage threshold before breaking.** When a creature maintaining a soft concentration effect takes damage, it must succeed on a Constitution saving throw or the effect ends. The DC is a flat 8, rather than the standard 10 or half the damage taken, whichever is higher. Minor disruptions (moving through difficult terrain, being shoved, taking a small hit) interrupt a sustained song or aura more easily than they would a focused spell.
+**It uses a flat, low DC, but more things test it.** When a creature maintaining a soft concentration effect takes damage, is shoved, or is knocked prone, it must succeed on a DC 8 Constitution saving throw or the effect ends. The DC stays 8 however hard the blow. A shove can break a song that a focused spell would shrug off, but a huge hit is no more dangerous than a small one.
 
 **It ends immediately if the creature is incapacitated or silenced.** Standard concentration also ends on incapacitation, but soft concentration also ends on any silencing effect, because the effects that use it are vocal or harmonic.
 
@@ -2746,43 +2753,51 @@ In all other respects, soft concentration follows the standard concentration rul
 Spellcasters may attempt to empower spells beyond their normal limits, similar to upcasting in traditional magic systems.
 
 :
+
+\column
+
 When casting a spell, you may choose **one** Overchanneling tier:
 
 | Tier | Extra MP | Effect |
 |------|----------|--------|
-| Minor | +1 MP | +1 damage die or +10 feet range |
-| Major | +2 MP | +2 damage dice or +20 feet range |
-| Extreme | +3 MP | +3 damage dice or a secondary effect (DM approval) |
+| Minor | +1 MP | +1 damage or healing die, or +10 feet range |
+| Major | +2 MP | +2 damage or healing dice, or +20 feet range |
+| Extreme | +3 MP | +3 damage or healing dice, or a secondary effect (DM approval) |
 
 ### Overchanneling Rules
 - You may only choose **one tier** per casting
-- Overchanneling always counts as **one additional Arcane Strain step**
-- Extreme Overchanneling requires a **Constitution saving throw**
+- An overchanneled spell counts as **two casts** of that spell for Arcane Strain. It is priced at its normal step; the extra step lands on your next cast of it. (Overchannel your first *fireball*, and a second *fireball* straight after is priced as a third cast, at +100%.)
+- Arcane Strain's percentages apply to the spell's base MP cost. Overchanneling's extra MP is added afterwards.
+- Extreme Overchanneling requires a **Constitution saving throw (DC 10 + the spell's level)**
   - On a failure, you gain **1 Arcane Wound**
 - A spell cannot be overchanneled more than once per casting
 
 Overchanneling allows lower-level spells to remain relevant while preserving risk and balance.
 
-\column
-
 :
 > ##### Spells Brought In From Elsewhere
 > **Overchanneling replaces upcasting completely.** If you use a spell from the Player's Handbook or any other source that has an *At Higher Levels* entry, ignore that entry: the spell is cast at its printed effect for its MP cost, and Overchanneling is how you make it bigger.
 >
-> The one exception is a spell in this book that names its own MP cost for an upgrade. Where a spell says what extra MP buys, that instruction wins.
+> Some spells in this book end with an ***Overchannel*** line. It says what that spell gets from a tier in place of the usual extra dice or range; the tier's MP, its Arcane Strain step and the Extreme save apply as normal. *Hex* and *Hunter's Mark* list a longer version, and *summon undead* a stronger one, at a higher total cost. That is a different casting, not Overchanneling.
 
 ### Magical Desperation (MP Burn)
-When a creature attempts to cast a spell without sufficient MP, it may do so through sheer desperation. The spell takes effect normally, and afterwards the creature gains **1 Arcane Wound**.
+When a creature attempts to cast a spell without sufficient MP, it may do so through sheer desperation. It spends all the MP it has left, the spell takes effect normally, and afterwards the creature gains **1 Arcane Wound for each MP it was short**. (With 1 MP left, a 4-MP spell costs 3 Arcane Wounds.)
 
 ### Arcane Wounds
-An Arcane Wound is lasting damage to a caster's magical channels, taken whenever they force magic they cannot pay for. Wounds stack, and their effects are cumulative.
+An Arcane Wound is lasting damage to a caster's magical channels, taken whenever they force magic they cannot pay for. **Each Wound reduces your maximum MP by 1.** At 3 or more Wounds, your casting also falters.
+
+{{footnote Mechanics | Magic System }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### Arcane Wound Effects
 | Arcane Wounds | Effect |
 |:--------------|:--------|
 | 1 | −1 maximum MP |
 | 2 | −2 maximum MP |
-| 3+ | Disadvantage on spell attack rolls, and your spell save DC is reduced by 1 |
+| 3 or more | −1 maximum MP per Wound; disadvantage on spell attack rolls; your spell save DC is reduced by 1 |
 
 Arcane Wounds represent damage to a creature's magical channels. They stack, cannot reduce maximum MP below 0, and do not cause exhaustion.
 
@@ -2807,12 +2822,6 @@ Magic manifests in many traditions:
 - **Divine Magic:** Songs, prayers, and blessings  
 - **Arcane Magic:** Learned spellcraft and Sheikah technology  
 
-{{footnote Mechanics | Magic System }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Triforce Alignment
 Magic often reflects one of the Triforce's aspects:
 
@@ -2820,13 +2829,13 @@ Magic often reflects one of the Triforce's aspects:
 - **Wisdom:** Control and foresight  
 - **Courage:** Protection and enhancement  
 
-\column
-
 ---
 Triforce alignment has no inherent mechanical effect unless stated otherwise.
 
 ### Magic Items & Relics
-Some magic items require MP to function. Unless stated otherwise, activating such an item does not trigger Arcane Strain or Arcane Saturation.
+Some magic items and relics cost MP to use. Unless stated otherwise, activating one does not trigger Arcane Strain or Arcane Saturation.
+
+**No MP of your own?** A creature without an MP pool (a Veilblade, a Masked Wanderer, an Adventurer below 3rd level) can still pay an item's MP cost by spending **2 SP for each MP**, the rate the Lens of Truth and Stamina Burn already use. SP spent this way is burned: it returns only on a long rest. A Blightbound pays in DPP instead, 1 DPP for each MP.
 
 {{footnote Mechanics | Magic System }}
 
@@ -2875,8 +2884,8 @@ As an Adventurer, you gain the following class features.
 ---
 
 ### Proficiencies
-- **Armor:** Light armor  
-- **Weapons:** Simple weapons, rapiers, shortswords, longbows  
+- **Armor:** Light armor, shields  
+- **Weapons:** Simple weapons, longswords and broadswords, rapiers, shortswords, longbows  
 - **Tools:** Thieves' tools, navigator's tools, one musical instrument  
 - **Saving Throws:** Dexterity, Charisma  
 - **Skills:** Choose two from Athletics, Insight, Medicine, Nature, Perception, Stealth, Survival  
@@ -2886,9 +2895,9 @@ As an Adventurer, you gain the following class features.
 ### Starting Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- (a) a shortbow and 20 arrows, or (b) a shortsword and a shield, or (c) two simple weapons  
+- (a) a longsword and a soldier's shield, or (b) a shortbow and 20 arrows, or (c) two simple weapons  
 - (a) explorer's pack or (b) dungeoneer's pack  
-- (a) leather armor or (b) scale mail  
+- Leather armor  
 - (a) navigator's tools or (b) thieves' tools  
 - (a) a lute or (b) any musical instrument  
 
@@ -2916,8 +2925,8 @@ You start with the following equipment, in addition to the equipment granted by 
 | 16th | +5 | Ability Score Improvement | 17 | 32 |
 | 17th | +6 | Masterful Prowess | 18 | 36 |
 | 18th | +6 | Path Feature | 19 | 36 |
-| 19th | +6 | Ability Score Improvement | 19 | 41 |
-| 20th | +6 | Legendary Wanderer | 20 | 41 |
+| 19th | +6 | Ability Score Improvement | 20 | 41 |
+| 20th | +6 | Legendary Wanderer | 21 | 41 |
 }}
 
 {{imageMaskCorner20,--offsetX:50%,--offsetY:50%,--rotation:0
@@ -2940,7 +2949,9 @@ Swapping a class to this table swaps out the whole MP economy, including the **N
 
 Draw from this book's spell list for the class rather than the Player's Handbook's. **Arcane Strain, Arcane Saturation and Overchanneling do not apply** when using spell slots; the slot economy limits the caster instead.
 
-**How many spells you know.** Champion, Interloper, Sage and Shaman map to prepared casters (Paladin, Wizard, Wizard, Druid), so they prepare a number of spells the standard way and need no extra column. The other four map to known casters, and use their counterpart's Spells Known progression from the 2014 Player's Handbook: **Adventurer** the Bard's (Minstrel) or the Ranger's (Wild Scout), **Blightbound** the Warlock's, **Goddess Chanter** the Bard's, **Ranger** the Ranger's.
+**Features that spend or restore MP.** A class feature that costs MP instead expends a spell slot of a level no lower than its MP cost minus 1 (minimum 1st): a 1- or 2-MP feature takes a 1st-level slot, a 3-MP feature a 2nd-level slot. A feature that restores MP or lowers MP costs instead restores one expended spell slot of 3rd level or lower the first time it would apply, then does nothing more until you finish a long rest.
+
+**How many spells you know.** Champion, Interloper, Sage and Shaman map to prepared casters (Paladin, Wizard, Wizard, Druid), so they prepare a number of spells the standard way and need no extra column. The other four map to known casters, and use their counterpart's Spells Known progression from the 2014 Player's Handbook: **Adventurer** the Arcane Trickster's for either path (3 at 3rd level, rising to 13 at 20th), **Blightbound** the Warlock's, **Goddess Chanter** the Bard's, **Ranger** the Ranger's.
 }}
 
 {{classTable,frame,wide
@@ -2980,12 +2991,11 @@ In addition, you always know the local rumors within a settlement after spending
 #### 1st Level: Cunning Tricks
 You learn a number of **Cunning Tricks** that allow you to turn stamina into tactical advantages.
 
-\column
-
 - You know **2 tricks** at 1st level.
 - You learn **1 additional trick** at 5th, 9th, and 13th level.
 - Using a trick costs **Stamina Points (SP)** as noted.
 - You may use only **one trick per turn**, unless otherwise stated.
+- A trick that calls for a saving throw uses your **trick save DC**: 8 + your proficiency bonus + your Dexterity modifier.
 
 {{footnote Classes | Adventurer }}
 
@@ -2993,11 +3003,15 @@ You learn a number of **Cunning Tricks** that allow you to turn stamina into tac
 
 \page
 
-**Example Tricks**
+**Cunning Tricks**
 - **Distracting Taunt (1 SP):** Bonus action. One creature you can see within 30 feet has disadvantage on its next attack roll before the end of its next turn.
 - **Quick Getaway (1 SP):** Bonus action. You may Dash or Disengage.
 - **Lucky Shot (1 SP):** When you miss an attack, reroll the attack roll.
-- **Pocket Sand (1 SP):** Bonus action. A creature within 5 feet must succeed on a Constitution saving throw or be blinded until the end of its next turn.
+- **Pocket Sand (1 SP):** Bonus action. A creature within 5 feet must succeed on a Constitution saving throw against your trick save DC or be blinded until the end of its next turn.
+- **Backflip (1 SP):** Reaction, when a creature you can see makes a melee attack roll against you. The roll has disadvantage, and after it resolves you may move 5 feet without provoking opportunity attacks.
+- **Catch Your Breath (2 SP):** Bonus action. You regain hit points equal to 1d8 + your Adventurer level. Once you use this trick, you can't use it again until you finish a short or long rest.
+- **Quick Hands (1 SP):** Bonus action. You take the Use an Object action, or draw or stow any number of weapons and shields. This trick can't activate a relic or magic item.
+- **Trip Up (1 SP):** When you hit a Large or smaller creature with a melee weapon attack, it must succeed on a Strength saving throw against your trick save DC or be knocked prone.
 
 | Adventurer Level | Tricks Known |
 |:----------------:|:------------:|
@@ -3026,15 +3040,13 @@ Your path grants features at 3rd, 6th, 10th, 14th, and 18th level.
 #### 3rd Level: Minor Magic
 You gain access to a small pool of Magic Points (MP), which represent tricks, charms, and a latent knack for magic.
 
-You may only use MP to cast spells or activate class features granted by your Adventurer Path.
+You may only use MP to cast spells or activate class features granted by your Adventurer Path, or to pay a magic item's or relic's MP cost.
 
 #### 5th Level: Extra Attack
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 #### 5th Level: Reactive Dodge
 When a creature you can see hits you with an attack, you may use your reaction and expend **1 SP** to halve the damage.
-
-\column
 
 #### 7th Level: Evasion
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage on a success and half damage on a failure.
@@ -3046,7 +3058,7 @@ Whenever you make an ability check using a skill you are proficient in, you may 
 Once per long rest, when you fail an attack roll, ability check, or saving throw, you may treat the roll as a 20.
 
 #### 13th Level: Improved Evasion
-When you fail a Dexterity saving throw, you take only half damage instead of full damage.
+You have advantage on Dexterity saving throws against effects you can see, such as traps and spells. You don't gain this benefit while blinded, deafened, or incapacitated.
 
 #### 15th Level: Slippery Mind
 You gain proficiency in Wisdom saving throws.
@@ -3057,7 +3069,17 @@ Once per turn, when you expend SP for a class feature or trick, you may reduce i
 #### 20th Level: Legendary Wanderer
 When you start your turn with **0 SP or 0 MP**, you regain **1 SP and 1 MP**.
 
-In addition, you learn one **Ultimate Trick**, a powerful ability defined by your path, usable once per long rest.
+In addition, you learn your path's **Ultimate Trick**, below. You can use it once per long rest, and it doesn't count against your one trick per turn.
+
+{{footnote Classes | Adventurer }}
+
+{{pageNumber,auto}}
+
+\page
+
+- **Snatch and Run (Treasure Hunter).** Action. You move up to your speed without provoking opportunity attacks, and make one weapon attack against each creature of your choice that you move within 5 feet of. Your Sneak Attack applies to each hit, ignoring its once-per-turn limit. You may also take one object that a creature you hit is holding in one hand or carrying loosely (not armor, and not an item it is attuned to).
+- **Hero's Refrain (Minstrel).** Action. Choose up to six creatures within 60 feet that can hear you; you can choose yourself. For 1 minute, once on each of its turns, each chosen creature can add your Inspiration Die (d10) to one attack roll, ability check, or saving throw. The first time a chosen creature drops to 0 hit points during this minute, it drops to 1 hit point instead.
+- **Heart of the Wild (Wild Scout).** Bonus action. For 1 minute, every terrain counts as your favored terrain, and you can mark up to three creatures you can see with Hunter's Awareness without spending SP. You know the location of each marked creature within 1 mile, marked creatures gain no benefit from invisibility or from half or three-quarters cover against your attacks, and once on each of your turns when you hit a marked creature, it takes extra damage equal to your Wisdom modifier + your proficiency bonus.
 
 ### Treasure Hunter
 
@@ -3068,30 +3090,24 @@ Treasure Hunters are dungeon-delvers and relic seekers who survive by wit, refle
 - You have advantage on Investigation checks made to detect traps, secret doors, or hidden compartments.
 - You may attempt to disarm traps as a bonus action by spending **1 SP**.
 
-#### 6th Level: Dungeon Instincts
-- You gain darkvision out to 60 feet. If you already have darkvision, its range increases by 30 feet.
-- When you roll initiative in a dungeon, ruin, or enclosed hostile area, you may spend **1 SP** to gain advantage on the roll.
-- Your Sneak Attack damage increases to **2d6**.
-
-{{footnote Classes | Adventurer }}
-
-{{pageNumber,auto}}
-
-\page
-
-#### 6th Level: Relic Sense
+#### 3rd Level: Relic Sense
 
 Years spent in ruins and tombs have sharpened your instinct for what's magical, valuable, or dangerous before you've even touched it.
 
 - As an action, spend 2 MP to sense the presence and general direction of magic within 60 feet of you, as though you had cast *Detect Magic*. This effect lasts until the end of your next turn and does not require concentration.
 - As an action, spend 2 MP to instantly learn the properties of one magic item you are holding or touching, as though you had cast *Identify*. This does not require an hour of study; your knowledge of relics lets you read it in the moment.
-- As a bonus action, spend 1 MP to gain advantage on an Investigation check made to detect traps, secret doors, or hidden compartments.
+- As a bonus action, spend 1 MP to gain advantage on an Arcana or History check about a relic, ruin, or inscription you can see.
 
 You may use each of these benefits a number of times equal to your proficiency bonus per long rest, and each use still costs the MP listed.
 
+#### 6th Level: Dungeon Instincts
+- You gain darkvision out to 60 feet. If you already have darkvision, its range increases by 30 feet.
+- When you roll initiative in a dungeon, ruin, or enclosed hostile area, you may spend **1 SP** to gain advantage on the roll.
+- Your Sneak Attack damage increases to **2d6**.
+
 #### 10th Level: Evasive Explorer
 - When you succeed on a Dexterity saving throw that would normally deal half damage, you take no damage and may move up to 10 feet without provoking opportunity attacks.
-- When you fail such a saving throw, you may spend **1 SP** to take half damage instead.
+- When you fail such a saving throw, you may spend **2 SP** to take no damage instead.
 - Your Sneak Attack damage increases to **3d6**.
 
 #### 14th Level: Master of Relics
@@ -3104,24 +3120,28 @@ You may use each of these benefits a number of times equal to your proficiency b
 - Once per long rest, when you would be reduced to 0 hit points, you instead drop to 1 hit point and may immediately Disengage without using an action.
 - Your Sneak Attack damage increases to **5d6**.
 
-\column
-
 ### Minstrel
 
 Minstrels are performers and storytellers who bolster allies through music, charm, and subtle magic.
 
 #### 3rd Level: Bardic Inspiration
-- You gain a pool of Inspiration Dice (d6).
+- Your Inspiration Die is a d6. Only one creature can hold one of your Inspiration Dice at a time.
 - As a bonus action, you may spend **1 SP** to grant one creature within 60 feet an Inspiration Die.
 - Within 10 minutes, the creature may add the die to one ability check, attack roll, or saving throw.
 
 Your Inspiration Die becomes a d8 at 10th level and a d10 at 18th level.
 
+{{footnote Classes | Adventurer }}
+
+{{pageNumber,auto}}
+
+\page
+
 #### 3rd Level: Spellcasting
 
 You cast spells by spending Magic Points (MP). You must meet all normal casting requirements. This spellcasting counts as limited spellcasting and does not grant access to high-level spell effects outside your Path.
 
-- You can cast any spell on the Minstrel Path Spell List.
+- You can cast any spell on the Minstrel Path Spell List that is within your Spell Level Ceiling (see the Magic System).
 - Charisma is your spellcasting ability.
 - You cast spells by spending **MP equal to the spell's level + 1** (cantrips cost 1 MP).
 
@@ -3143,12 +3163,6 @@ You cast spells by spending Magic Points (MP). You must meet all normal casting 
 - Once per long rest, as an action, you may inspire up to six creatures of your choice within 60 feet.
 - Each creature gains an Inspiration Die, temporary hit points equal to your Adventurer level, and advantage on its next attack roll or saving throw.
 
-{{footnote Classes | Adventurer }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Wild Scout
 
 Wild Scouts are trackers and hunters who blend martial skill with light primal magic and an intimate knowledge of the land.
@@ -3165,7 +3179,7 @@ While in your favored terrain:
 
 You cast spells by spending Magic Points (MP). You must meet all normal casting requirements. This spellcasting counts as limited spellcasting and does not grant access to high-level spell effects outside your Path.
 
-- You can cast any spell on the Wild Scout Path Spell List.
+- You can cast any spell on the Wild Scout Path Spell List that is within your Spell Level Ceiling (see the Magic System).
 - Wisdom is your spellcasting ability.
 - You cast spells by spending **MP equal to the spell's level + 1** (cantrips cost 1 MP).
 
@@ -3182,29 +3196,25 @@ You cast spells by spending Magic Points (MP). You must meet all normal casting 
 - You always know the direction of a creature you are tracking if it has passed through your favored terrain within the last 24 hours.
 - Opportunity attacks you make against marked creatures are made with advantage.
 
-\column
-
 #### 18th Level: Avatar of the Wilds
 - While in your favored terrain, you have advantage on all saving throws.
 - Once per long rest, you may spend **3 SP** to gain a climbing speed and swimming speed equal to your walking speed for 10 minutes.
 - When you reduce a hostile creature to 0 hit points, you regain **1 SP**.
 
-<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/lozbotw-fauna_cut.png' alt='Hyrulean wildlife' style='display:block;width:328px;height:234px;margin:6px auto 2px auto'/>
-
-### Minstrel Path Spell List
-
-Adventurers on the Minstrel path access limited spellcasting through music, charm, and social magic. They draw from the Minstrel list below but are restricted to spells available within their MP pool and level range.
-
-**Spellcasting Ability:** Charisma
-**Access Level:** Limited. No spell access above 4th-level equivalent (see class table).
-
-Spells marked with ✦ are Zelda-original spells found in the Spell Compendium.
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/lozbotw-fauna_cut.png' alt='Hyrulean wildlife' style='display:block;width:236px;height:168px;margin:6px auto 2px auto'/>
 
 {{footnote Classes | Adventurer }}
 
 {{pageNumber,auto}}
 
 \page
+
+### Minstrel Path Spell List
+
+Adventurers on the Minstrel path access limited spellcasting through music, charm, and social magic. They draw from the Minstrel list below but are restricted to spells available within their MP pool and level range.
+
+**Spellcasting Ability:** Charisma
+**Access Level:** Limited. Up to 4th level (see Spell Level Ceiling in the Magic System).
 
 {{spellList,
 ##### Cantrips (1 MP)
@@ -3273,11 +3283,7 @@ Adventurers on the Wild Scout path draw from nature and druidic magic, focused o
 If you want the full Ranger spell suite, the Ranger class is available as a dedicated class option in this document.
 
 **Spellcasting Ability:** Wisdom
-**Access Level:** Limited. No spell access above 4th-level equivalent (see class table).
-
-Spells marked with ✦ are Zelda-original spells found in the Spell Compendium.
-
-\column
+**Access Level:** Limited. Up to 4th level (see Spell Level Ceiling in the Magic System).
 
 {{spellList,
 ##### Cantrips (1 MP)
@@ -3372,8 +3378,6 @@ You start with the following equipment, in addition to equipment granted by your
 - (a) a cursed arcane focus or (b) a component pouch  
 - A black cloak and ceremonial mask  
 
-\column
-
 {{classTable,frame
 #### Blightbound
 | Level | Prof. | Features | SP | Max DPP |
@@ -3400,7 +3404,13 @@ You start with the following equipment, in addition to equipment granted by your
 | 20th | +6 | True Blight Sovereign | 12 | 40 |
 }}
 
-*The Blightbound's alternative table is a hybrid, not a pure spell slot table. It keeps an MP column, because the Blightbound spends MP on Demonic Power effects that are not spells and would have nothing to draw on otherwise. Run the Pact Slots as a Warlock's, and keep the MP column exactly as printed.*
+*The Blightbound's alternative table is a hybrid. You cast spells only with Pact Slots, run as a Warlock's, and DPP no longer pays for spells. The Blight Engine and every DPP feature work as printed, using the Max DPP column. A feature that triggers when you spend DPP on a spell triggers when you expend a Pact Slot instead; one that lowers a spell's DPP cost instead gives you 1 DPP when you cast it; an extra DPP cost is paid from your DPP. From 11th level you may cast one 6th-level spell from your list once per long rest without a slot, like a Warlock's Mystic Arcanum.*
+
+{{footnote Classes | Blightbound }}
+
+{{pageNumber,auto}}
+
+\page
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/JyOYvNH.png' alt='Blightbound' style='display:block;width:298px;height:324px;margin:6px auto 2px auto'/>
 
@@ -3412,29 +3422,29 @@ You start with the following equipment, in addition to equipment granted by your
 
 {{classTable,frame,wide
 #### Blightbound
-| Level | Proficiency | Features | Cantrips | Pact | Slot | MP |
-|      ^| Bonus      ^|         ^| Known   ^| Slots^| Level^|   ^|
+| Level | Proficiency | Features | Cantrips | Pact | Slot | Max |
+|      ^| Bonus      ^|         ^| Known   ^| Slots^| Level^| DPP^|
 |:-----:|:-----------:|:---------|:--------:|:----:|:----:|:--:|
-| 1st  | +2 | Demonic Might, Blight Engine  | 2 | 1 | 1st | 2  |
-| 2nd  | +2 | Blight Invocations            | 2 | 2 | 1st | 4  |
-| 3rd  | +2 | Spellcasting, Blightbound Path | 2 | 2 | 2nd | 6  |
-| 4th  | +2 | Ability Score Improvement     | 3 | 2 | 2nd | 6  |
-| 5th  | +3 | Extra Attack, Crushing Blows  | 3 | 3 | 3rd | 12 |
-| 6th  | +3 | Malice Unbound, Path Feature  | 3 | 3 | 3rd | 12 |
-| 7th  | +3 | Hardened Fury                 | 3 | 4 | 4th | 20 |
-| 8th  | +3 | Ability Score Improvement     | 3 | 4 | 4th | 20 |
-| 9th  | +4 | Warlord's Wrath               | 3 | 5 | 5th | 30 |
-| 10th | +4 | Demonic Overlord, Path Feature| 4 | 5 | 5th | 30 |
-| 11th | +4 | Tyrant's Will                 | 4 | 3 | 5th | 18 |
-| 12th | +4 | Ability Score Improvement     | 4 | 3 | 5th | 18 |
-| 13th | +5 | Aura of Domination            | 4 | 3 | 5th | 18 |
-| 14th | +5 | Apex Demon Form, Path Feature | 4 | 3 | 5th | 18 |
-| 15th | +5 | Blight Ascendant              | 4 | 3 | 5th | 18 |
-| 16th | +5 | Ability Score Improvement     | 4 | 3 | 5th | 18 |
-| 17th | +6 | King of Ruin                  | 4 | 4 | 5th | 24 |
-| 18th | +6 | Path Feature                  | 4 | 4 | 5th | 24 |
-| 19th | +6 | Ability Score Improvement     | 4 | 4 | 5th | 24 |
-| 20th | +6 | True Blight Sovereign         | 4 | 4 | 5th | 24 |
+| 1st  | +2 | Demonic Might, Blight Engine  | — | — | — | 6  |
+| 2nd  | +2 | Blight Invocations            | — | — | — | 8  |
+| 3rd  | +2 | Spellcasting, Blightbound Path | 2 | 2 | 2nd | 10 |
+| 4th  | +2 | Ability Score Improvement     | 3 | 2 | 2nd | 12 |
+| 5th  | +3 | Extra Attack, Crushing Blows  | 3 | 2 | 3rd | 14 |
+| 6th  | +3 | Malice Unbound, Path Feature  | 3 | 2 | 3rd | 16 |
+| 7th  | +3 | Hardened Fury                 | 3 | 2 | 4th | 18 |
+| 8th  | +3 | Ability Score Improvement     | 3 | 2 | 4th | 20 |
+| 9th  | +4 | Warlord's Wrath               | 3 | 2 | 5th | 22 |
+| 10th | +4 | Demonic Overlord, Path Feature| 4 | 2 | 5th | 24 |
+| 11th | +4 | Tyrant's Will                 | 4 | 3 | 5th | 26 |
+| 12th | +4 | Ability Score Improvement     | 4 | 3 | 5th | 28 |
+| 13th | +5 | Aura of Domination            | 4 | 3 | 5th | 30 |
+| 14th | +5 | Apex Demon Form, Path Feature | 4 | 3 | 5th | 32 |
+| 15th | +5 | Blight Ascendant              | 4 | 3 | 5th | 34 |
+| 16th | +5 | Ability Score Improvement     | 4 | 3 | 5th | 36 |
+| 17th | +6 | King of Ruin                  | 4 | 4 | 5th | 37 |
+| 18th | +6 | Path Feature                  | 4 | 4 | 5th | 38 |
+| 19th | +6 | Ability Score Improvement     | 4 | 4 | 5th | 39 |
+| 20th | +6 | True Blight Sovereign         | 4 | 4 | 5th | 40 |
 }}
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TotK_Phantom_Ganon_Model.png' alt='Phantom Ganon' style='display:block;width:193px;height:330px;margin:6px auto 2px auto'/>
@@ -3446,6 +3456,7 @@ Your body is a conduit of blight.
 - Your unarmed strikes deal **1d6 necrotic damage** (1d10 at 10th level).
 - When wielding a two-handed weapon, you may use **Charisma** instead of Strength for damage rolls.
 
+
 \column
 
 #### 1st Level: Blight Engine (DPP)
@@ -3453,6 +3464,7 @@ You generate **Demonic Power Points (DPP)** through violence and suffering.
 
 - DPP starts at **0**
 - DPP resets to **0** on a short or long rest
+- When you roll initiative, if you have fewer DPP than your proficiency bonus, your DPP rises to equal your proficiency bonus
 - You cannot exceed your maximum DPP
 
 #### Gaining DPP
@@ -3469,25 +3481,26 @@ You generate **Demonic Power Points (DPP)** through violence and suffering.
 
 Damage is tracked cumulatively. Self-inflicted damage does not count. Damage tracked is reset upon a short/long rest.
 
-#### 3rd Level: Spellcasting
-You gain spellcasting fueled by **Demonic Power Points (DPP)**.
-
-- **Spellcasting Ability:** Charisma
-- **Spell Lists:** Warlock and Paladin  
-- **Spell Cost:** Spell level + 1 DPP (cantrips cost 1 DPP)  
-
 {{footnote Classes | Blightbound }}
 
 {{pageNumber,auto}}
 
 \page
 
+#### 3rd Level: Spellcasting
+You gain spellcasting fueled by **Demonic Power Points (DPP)**.
+
+- **Spellcasting Ability:** Charisma
+- **Spell Lists:** Warlock and Paladin  
+- **Spell Cost:** Spell level + 1 DPP (cantrips cost 1 DPP)  
+- **DPP works as MP.** Every Magic System rule that prices or limits spells applies to your spells, reading DPP for MP: Arcane Strain, Arcane Saturation, Overchanneling, Magical Desperation and Arcane Wounds. An Arcane Wound reduces your maximum DPP.
+
 #### 2nd Level: Blight Invocations
 You learn **two Blight Invocations**, and you learn more at higher levels.
 - You gain additional invocations at 7th, 11th, 15th, and 18th level
 - You may replace one invocation when you gain a level
 
-Invocations enhance melee, durability, and spellcasting.
+Choose them from the **Blight Invocations** list at the end of the Blightbound paths. Invocations enhance melee, durability, and spellcasting.
 
 #### 5th Level: Extra Attack
 You can attack twice when you take the Attack action.
@@ -3495,7 +3508,7 @@ You can attack twice when you take the Attack action.
 #### 5th Level: Crushing Blows
 When you hit with a melee weapon or unarmed strike, you may spend **2 DPP** to deal extra necrotic damage equal to **your Blightbound level + Charisma modifier**.
 
-You can use Crushing Blows **once per turn**. Because Extra Attack arrives at the same level, without this limit a 5th-level Blightbound could spend their entire pool on a single round and a 20th-level one could add well over a hundred points of necrotic damage in six seconds.
+You can use Crushing Blows **once per turn**.
 
 #### 6th Level: Malice Unbound
 Once per long rest, you may transform as a bonus action for 1 minute:
@@ -3511,20 +3524,45 @@ Once per turn, when you hit a creature with a melee attack, it must succeed on a
 
 When you reduce a creature to 0 HP, enemies within 10 feet must succeed on a Wisdom saving throw against your spell save DC or be frightened until the end of their next turn.
 
+
+\column
+
 #### 10th Level: Demonic Overlord
 - Creatures frightened by you have disadvantage on saving throws against your spells.
 - Your unarmed strikes ignore resistance to necrotic damage.
 
+#### 11th Level: Tyrant's Will
+Your will bends others, and nothing bends it.
+
+- When you fail a saving throw against being charmed or frightened, you may spend **2 DPP** to succeed instead.
+- Once per turn, when a creature fails a saving throw against one of your spells or Blightbound features, you gain **1 DPP**.
+
 #### 13th Level: Aura of Domination
 Hostile creatures within 10 feet of you have disadvantage on saving throws against fear and charm effects.
-
-\column
 
 #### 14th Level: Apex Demon Form
 Once per long rest, you may enter an apex form for 1 minute:
 - Regain 10 HP at the start of each turn while below half HP
 - Gain advantage on Strength and Constitution saving throws
 - Your size counts as Large for grappling
+
+#### 15th Level: Blight Ascendant
+The curse no longer waits to be called.
+
+- You regain your use of **Malice Unbound** when you finish a short or long rest.
+- While Malice Unbound or Apex Demon Form is active, you have resistance to necrotic damage, and Crushing Blows costs **1 DPP** instead of 2.
+
+#### 17th Level: King of Ruin
+You have become what the old legends warned of.
+
+- As an action, you release your stored malice in a 20-foot radius around you. Spend between **5 and 10 DPP**. Each creature of your choice in the area must make a Constitution saving throw against your spell save DC. On a failure, it takes **1d8 necrotic damage per DPP spent** and is frightened of you until the end of its next turn. On a success, it takes half as much damage and isn't frightened. Once you use this feature, you can't use it again until you finish a long rest.
+- Necrotic damage you deal ignores resistance to necrotic damage.
+
+{{footnote Classes | Blightbound }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### 20th Level: True Blight Sovereign
 Once per long rest, you become an avatar of domination for 1 minute:
@@ -3556,12 +3594,6 @@ Your domination becomes physically undeniable.
   - On a success, its speed is reduced by 10 feet until the end of its next turn.
 - Large or smaller creatures automatically fail this save if they are frightened of you.
 
-{{footnote Classes | Blightbound }}
-
-{{pageNumber,auto}}
-
-\page
-
 #### 14th Level: Sovereign Form
 Your Malice Unbound and Apex Demon Form become expressions of calculated supremacy.
 
@@ -3589,14 +3621,18 @@ You learn to convert dominance into spellpower.
 - When you spend DPP to cast a spell, you may reduce its cost by **1 DPP** (minimum 1).
 - Once per turn, when you deal spell damage to a creature, you gain **1 DPP**.
 
-\column
-
 #### 6th Level: Tyrant's Gaze
 Your magic crushes resistance.
 
 - Creatures frightened by you have disadvantage on saving throws against your spells.
 - As a bonus action, you may spend **2 DPP** to force one creature you can see within 60 feet to make a Wisdom saving throw.
   - On a failure, the creature is frightened of you until the end of its next turn.
+
+{{footnote Classes | Blightbound }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### 10th Level: Shadow Cleave
 Your destructive magic bleeds outward.
@@ -3630,12 +3666,6 @@ Your body becomes a conduit for magic.
 #### 6th Level: Demon's Charge
 You turn momentum into devastation.
 
-{{footnote Classes | Blightbound }}
-
-{{pageNumber,auto}}
-
-\page
-
 - When you take the Dash action, you may spend **1 DPP** to move through enemy spaces.
 - Each creature you pass through must succeed on a Strength saving throw or be knocked prone.
 - You do not provoke opportunity attacks during this movement.
@@ -3655,13 +3685,34 @@ Your limbs become weapons of annihilation.
   - On a failure, the creature is stunned until the end of its next turn.
   - On a success, it is restrained until the end of its next turn.
 
-\column
-
 #### 18th Level: Apex Predator
 You are no longer merely humanoid.
 
 - At the start of each of your turns, you gain **1 DPP** if you are within 5 feet of a hostile creature.
 - When you reduce a creature to 0 hit points, you may immediately make one additional unarmed strike as part of the same action.
+
+### Blight Invocations
+
+If an invocation has a level prerequisite, you can learn it at that level or later. An invocation that costs DPP follows the Blight Engine's rules.
+
+{{footnote Classes | Blightbound }}
+
+{{pageNumber,auto}}
+
+\page
+
+- **Carrion Hunger.** When a creature you can see within 30 feet of you drops to 0 hit points and you did not reduce it to 0 yourself, you gain **1 DPP**. You can gain DPP this way once per turn.
+- **Eyes of the Abyss.** You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+- **Mark of Ruin.** As a bonus action, you may spend **1 DPP** to curse one creature you can see within 30 feet for 1 minute. Once per turn, when you hit it with a melee weapon or unarmed strike, it takes an extra **1d4 necrotic damage** (1d6 at 11th level), and it can't regain hit points until the start of your next turn. If it drops to 0 hit points, you may move the curse to another creature within 30 feet as a bonus action at no cost. Only one creature can bear your Mark of Ruin at a time.
+- **Mask of Many Sins.** You can cast *Disguise Self* at will, without spending DPP.
+- **Voice of Dominion.** You gain proficiency in Intimidation, or add double your proficiency bonus to it if you are already proficient. A creature that is frightened of you understands the meaning of your spoken commands, even if you share no language.
+- **Dread Visage** *(7th level)*. While Malice Unbound or Apex Demon Form is active, the first time on each of your turns that you hit a creature with a melee attack, it must succeed on a Wisdom saving throw against your spell save DC or be frightened of you until the end of its next turn.
+- **Shadow Step** *(7th level)*. As a bonus action, you may spend **2 DPP** to teleport up to 30 feet to an unoccupied space you can see. The space you leave and the space you arrive in must both be in dim light or darkness.
+- **Twice-Cursed** *(7th level)*. You can use Malice Unbound twice per long rest instead of once.
+- **Barbed Malice** *(11th level)*. When a creature within 5 feet of you hits you with a melee attack, you may use your reaction and spend **2 DPP** to deal necrotic damage to it equal to your Blightbound level.
+- **Heart of Malice** *(11th level)*. You have resistance to necrotic damage, and your hit point maximum can't be reduced.
+- **Eyes That Judge** *(15th level)*. You see the true form of any shapechanger, and of any creature disguised by illusion or transformation magic, within 30 feet of you and in your line of sight.
+- **Sovereign's Chains** *(15th level)*. You can cast *Hold Monster* without spending DPP. Once you do, you can't do so again until you finish a long rest.
 
 ## Blightbound Spell List
 
@@ -3670,9 +3721,9 @@ The Blightbound draws on the dark pact power of the Demon King, a fusion of Warl
 **Spellcasting Ability:** Charisma
 **Spell Lists:** Warlock and Paladin
 
-Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendium; all others are drawn from the standard 5e spell list or named variants thereof, and use standard 5e statistics unless the compendium provides a Hyrule-flavored version.
+Spells marked with ✦ are **Hyrule versions**: renamed or original spells with their own entry in the Spell Compendium. Every spell on this list, marked or not, has an entry there.
 
-> **Spell Level Cap:** 6th level (Overchanneling required for spells above 5th level).
+> **Spell Level Cap:** 6th level.
 
 {{footnote Classes | Blightbound }}
 
@@ -3682,11 +3733,11 @@ Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendi
 
 {{spellList,wide
 ##### Cantrips (1 DPP)
-- Eldritch Blast ✦
-- Fire Bolt ✦
-- Mage Hand ✦
-- Minor Illusion ✦
-- Prestidigitation ✦
+- Eldritch Blast
+- Fire Bolt
+- Mage Hand
+- Minor Illusion
+- Prestidigitation
 - Withering Touch ✦
 - Voice of Ruin ✦
 - Toll the Dead
@@ -3695,12 +3746,12 @@ Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendi
 ##### 1st Level (2 DPP)
 - Abyssal Barrier ✦
 - Armor of Malevolence ✦
-- Burning Hands ✦
-- Charm Person ✦
-- Command ✦
-- Hellish Rebuke ✦
-- Hex ✦
-- Witch Bolt ✦
+- Burning Hands
+- Charm Person
+- Command
+- Hellish Rebuke
+- Hex
+- Witch Bolt
 - Bane
 - Compelled Duel
 - Divine Favor
@@ -3712,68 +3763,68 @@ Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendi
 - Darkmantle Shroud ✦
 - Dreadform Mask ✦
 ##### 2nd Level (3 DPP)
-- Blur ✦
-- Darkness ✦
-- Enthrall ✦
-- Hold Person ✦
+- Blur
+- Darkness
+- Enthrall
+- Hold Person
 - Mirror Curse ✦
-- Misty Step ✦
-- Scorching Ray ✦
-- Crown of Madness ✦
-- Suggestion ✦
+- Misty Step
+- Scorching Ray
+- Crown of Madness
+- Suggestion
 - Branding Smite
 - Find Steed
-- Invisibility ✦
-- Levitate ✦
+- Invisibility
+- Levitate
 - Shatter
 - Silence
-- Flaming Sphere ✦
+- Flaming Sphere
 ##### 3rd Level (4 DPP)
-- Animate Dead ✦
-- Bestow Curse ✦
-- Counterspell ✦
-- Dispel Magic ✦
-- Fear ✦
-- Hypnotic Pattern ✦
+- Animate Dead
+- Bestow Curse
+- Counterspell
+- Dispel Magic
+- Fear
+- Hypnotic Pattern
 - Hunger of Malice ✦
-- Vampiric Touch ✦
+- Vampiric Touch
 - Blinding Smite
 - Elemental Weapon
 - Remove Curse
 - Spirit Shroud
 - Summon Undead
-- Fly ✦
-- Slow ✦
+- Fly
+- Slow
 ##### 4th Level (5 DPP)
-- Confusion ✦
-- Dominate Beast ✦
-- Evard's Black Tentacles ✦
-- Fire Shield ✦
-- Greater Invisibility ✦
+- Confusion
+- Dominate Beast
+- Evard's Black Tentacles
+- Fire Shield
+- Greater Invisibility
 - Hall of Lies ✦
-- Ice Storm ✦
-- Phantasmal Killer ✦
-- Polymorph ✦
+- Ice Storm
+- Phantasmal Killer
+- Polymorph
 - Banishment
 - Death Ward
 - Dimension Door
 - Staggering Smite
-- Blight ✦
-- Wall of Fire ✦
+- Blight
+- Wall of Fire
 ##### 5th Level (6 DPP)
-- Cloudkill ✦
-- Dominate Person ✦
-- Dream ✦
-- Geas ✦
-- Hold Monster ✦
-- Insect Plague ✦
+- Cloudkill
+- Dominate Person
+- Dream
+- Geas
+- Hold Monster
+- Insect Plague
 - Antilife Shell
 - Destructive Wave
 - Dispel Evil and Good
 - Scrying
-- Telekinesis ✦
-- Wall of Force ✦
-- Wall of Stone ✦
+- Telekinesis
+- Wall of Force
+- Wall of Stone
 ##### 6th Level (7 DPP)
 - Blade Barrier
 - Circle of Death
@@ -3781,8 +3832,6 @@ Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendi
 - Globe of Invulnerability
 - Harm
 - True Seeing
-- Power Word Stun
-- Power Word Kill
 }}
 
 {{footnote Classes | Blightbound }}
@@ -3820,14 +3869,12 @@ Beginning at 3rd level, you gain the ability to cast spells.
 
 **Spellcasting Ability:** Charisma  
 **Spell Lists:** Cleric and Paladin  
-**Spell Level Cap:** 6th level (Overchanneling required for spells above 5th level).  
+**Spell Level Cap:** 6th level.  
 
 You cast spells by expending **Magic Points (MP)** equal to the spell's level + 1 (cantrips cost 1 MP).
 
 ### Starting Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-
-\column
 
 - (a) a martial weapon and a shield, or (b) two martial weapons  
 - (a) five javelins or (b) any simple melee weapon  
@@ -3909,8 +3956,6 @@ You carry the divine essence of the Golden Goddesses.
 #### 1st Level: Fighting Style
 Choose one Fighting Style:
 
-\column
-
 - **Defense.** +1 AC while wearing armor  
 - **Dueling.** +2 damage with a one-handed weapon  
 - **Great Weapon Fighting.** Reroll 1s and 2s on damage dice with two-handed weapons  
@@ -3918,7 +3963,7 @@ Choose one Fighting Style:
 - **Archery.** +2 bonus to attack rolls with ranged weapons  
 
 #### 2nd Level: Heroic Presence
-Twice per short rest, as a bonus action, choose one creature within 30 feet.  
+Twice per short rest, as a bonus action, choose one creature other than you within 30 feet.  
 That creature gains a bonus equal to your Charisma modifier on its next attack roll or saving throw.
 
 #### 3rd Level: Divine Mark
@@ -3933,13 +3978,13 @@ You dedicate yourself to one of the Golden Goddesses:
 - **Mantle of Nayru: Shield of Wisdom**
 - **Mantle of Farore: Grace of Courage**
 
+Your mantle grants features at 3rd, 6th, 10th, 14th, and 18th level.
+
 {{footnote Classes | Champion }}
 
 {{pageNumber,auto}}
 
 \page
-
-Your mantle grants features at 3rd, 6th, 10th, 14th, and 18th level.
 
 #### 5th Level: Extra Attack
 You can attack twice whenever you take the Attack action.
@@ -3947,10 +3992,10 @@ You can attack twice whenever you take the Attack action.
 #### 7th Level: Aura of the Chosen
 You project a divine aura in a 10-foot radius while conscious.
 
-As a bonus action, choose one mode. This aura uses **soft concentration** (see the Magic System chapter). It does not conflict with any concentration spell you are currently maintaining, but it ends if you are incapacitated or fail the DC 8 Constitution saving throw triggered by taking damage.
+As a bonus action, choose one mode to start the aura, or to restart it after it ends. This aura uses **soft concentration** (see the Magic System chapter). It does not conflict with any concentration spell you are currently maintaining, but it ends if you are incapacitated or fail the DC 8 Constitution saving throw triggered by taking damage, being shoved or being knocked prone.
 
-- **Aura of Resolve.** Allies gain +CHA to saving throws  
-- **Aura of Might.** Allies gain +CHA to damage rolls  
+- **Aura of Resolve.** You and allies gain +CHA to saving throws  
+- **Aura of Might.** Allies other than you gain +CHA to damage rolls  
 
 You may switch modes as a bonus action.
 
@@ -3981,8 +4026,6 @@ At 3rd level, a Champion swears themselves to one of the Golden Goddesses and ta
 Your mantle functions much like a paladin's oath: a living expression of belief rather than strict dogma.
 
 You gain features from your chosen mantle at **3rd, 6th, 10th, 14th, and 18th level**.
-
-\column
 
 ### Mantle of Din: Flame of Power
 *Goddess of Power*
@@ -4026,13 +4069,13 @@ Champions of Nayru stand immovable and defend allies through insight, patience, 
 #### 3rd Level: Sacred Shield
 When you or a creature within 5 feet of you takes damage, you may use your reaction to reduce that damage by **1d10 + your Charisma modifier**.
 
+- You may use this feature a number of times equal to your proficiency bonus per long rest.
+
 {{footnote Classes | Champion }}
 
 {{pageNumber,auto}}
 
 \page
-
-- You may use this feature a number of times equal to your proficiency bonus per long rest.
 
 #### 6th Level: Divine Bastion
 Your resilience deepens under pressure.
@@ -4042,7 +4085,7 @@ Your resilience deepens under pressure.
 #### 10th Level: Ward of Nayru
 Your protective presence bolsters allies.
 
-- While your **Aura of the Chosen** is active, allies within the aura gain a **+1 bonus to AC**.
+- While your **Aura of the Chosen** is active, you and allies within the aura gain a **+1 bonus to AC**.
 
 #### 14th Level: Still as Stone
 You are an unyielding bulwark.
@@ -4064,7 +4107,7 @@ Champions of Farore inspire hope and persistence. They pull allies back from the
 #### 3rd Level: Emerald Touch
 As an action, you may touch a creature to restore **1d8 + your Charisma modifier** hit points.
 
-- This ability costs **MP** and follows your Champion spellcasting rules.
+- This ability costs **2 MP** and counts as casting a 1st-level spell for the Magic System's rules.
 - This healing increases by **1d8** at 11th level.
 
 #### 6th Level: Vital Pulse
@@ -4075,10 +4118,11 @@ Your encouragement carries restorative power.
 #### 10th Level: Cleanse Spirit
 You can purge lingering afflictions.
 
-\column
-
 - As an action, you may touch a creature and end **one condition** affecting it (charmed, frightened, poisoned, blinded, deafened, or paralyzed).
 - This feature costs **2 MP**.
+
+
+\column
 
 #### 14th Level: Song of Restoration
 Your presence renews the battlefield.
@@ -4099,8 +4143,6 @@ Champions are warriors empowered by the goddesses to channel divine force in bat
 **Spellcasting Ability:** Charisma
 **Spell Lists:** Cleric and Paladin
 
-Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendium; all others are drawn from the standard 5e spell list or named variants thereof, and use standard 5e statistics unless the compendium provides a Hyrule-flavored version.
-
 {{footnote Classes | Champion }}
 
 {{pageNumber,auto}}
@@ -4119,6 +4161,7 @@ Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendi
 - Resistance
 ##### 1st Level (2 MP)
 - Bless
+- Guiding Bolt
 - Command
 - Cure Wounds
 - Divine Favor
@@ -4185,9 +4228,6 @@ Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendi
 - Heroes' Feast
 - Harm
 - True Seeing
-- Resurrection
-- Divine Word
-- Holy Aura
 }}
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/AoI_Sonia_Artwork.png' alt='Sonia' style='display:block;width:264px;height:330px;margin:6px auto 2px auto'/>
@@ -4234,7 +4274,7 @@ As a Goddess Chanter, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (a) mace or (b) shortsword  
-- (a) leather armor or (b) shield  
+- Leather armor and a dagger  
 - (a) harp, (b) ocarina, or (c) ceremonial bell  
 - (a) holy text or (b) prayer wheel  
 - Fine robes and a vial of sacred water  
@@ -4320,7 +4360,7 @@ Your magic is shaped through sacred music.
 
 #### 1st Level: Sacred Songs
 
-You learn divine songs that empower allies or weaken foes. Each Sacred Song is a sustained harmonic effect rather than a spell: a continuous expression of divine attunement that lasts as long as you maintain it.
+You learn divine songs that empower allies or weaken foes. Each Sacred Song is a sustained harmonic effect rather than a spell: a continuous expression of divine attunement that lasts for its duration while you maintain it. You know every song in the table below.
 
 {{footnote Classes | Goddess Chanter }}
 
@@ -4328,16 +4368,16 @@ You learn divine songs that empower allies or weaken foes. Each Sacred Song is a
 
 \page
 
-- Activating a Sacred Song costs **MP** as listed in the table below.
+- Activating a Sacred Song takes an **action** and costs **MP** as listed in the table below. A song lasts **1 minute** unless the table says otherwise.
 - Sacred Songs use **soft concentration** (see Magic System chapter). Unlike standard concentration, a Sacred Song does not conflict with a concentration spell you are also maintaining, so you may sustain one Sacred Song and one concentration spell at the same time. However, you may only maintain one Sacred Song at a time unless a class feature explicitly allows more.
-- A Sacred Song ends early if you are **incapacitated or silenced**, if you choose to end it as a **free action**, or if you fail the soft concentration saving throw triggered by taking damage (DC 8 Constitution).
+- A Sacred Song ends early if you are **incapacitated or silenced**, if you choose to end it as a **free action**, or if you fail the soft concentration saving throw triggered by taking damage, being shoved or being knocked prone (DC 8 Constitution).
 - You do not need to keep your instrument in hand once a Sacred Song is active, but you must have used it to activate the song.
 {{table,
 | Song | Effect | MP Cost |
 |:-----|:--------|:-------:|
-| Ballad of Nayru | Allies within 30 feet gain +1d4 to saving throws (10 min) | 1 |
-| Ballad of Farore | Allies within 30 feet gain +1d4 to attack rolls | 1 |
-| Ballad of Din | Allies within 30 feet gain +1d4 damage | 1 |
+| Ballad of Nayru | Allies within 30 feet gain +1d4 to saving throws (10 min) | 2 |
+| Ballad of Farore | Allies within 30 feet gain +1d4 to attack rolls | 2 |
+| Ballad of Din | Allies within 30 feet gain +1d4 damage | 2 |
 | Requiem of Twilight | Foes within 30 feet suffer −1d4 to saving throws | 2 |
 | Aria of the Storm | Allies within 30 feet ignore damage resistance (1 min) | 3 |
 }}
@@ -4353,7 +4393,7 @@ When you restore hit points to a creature with a spell, that creature regains an
 You know *Guidance* and *Sacred Flame*, and casting either costs no MP.
 
 #### 3rd Level: Choir of the Goddess
-At 3rd level, you choose a divine choir that shapes your sacred calling:
+At 3rd level, you choose a divine choir that shapes your sacred calling. Your choir grants you features at 3rd level and again at 6th, 10th, 14th, and 18th level:
 
 - **Keeper of Grace**
 - **Herald of Power**
@@ -4365,19 +4405,19 @@ Your healing echoes with divine resonance.
 - Blessed Refrain increases to **1d4 + your Charisma modifier**.
 - Sacred Songs affect creatures within **60 feet**.
 
+\column
+
 #### 7th Level: Divine Cadence
 Your rhythm steadies your magic.
 
-\column
-
-- Damage equal to or less than your Charisma modifier does not break concentration.
+- Damage equal to or less than your Charisma modifier doesn't break your concentration or soft concentration; you don't make the saving throw.
 - As a bonus action, you may spend **1 SP** to extend a Sacred Song by 1 minute.
 
 #### 9th Level: Celestial Chorus
 Once per long rest, you may cast *Mass Cure Wounds* or *Greater Restoration* without expending MP.
 
 #### 11th Level: Eternal Refrain
-- Blessed Refrain lasts **3 rounds**.
+- Blessed Refrain heals at the start of each of the creature's next **three** turns, instead of only the next one. A creature can have only one Blessed Refrain at a time; a new one replaces the old.
 - Sacred Songs grant **+1d6** instead of +1d4.
 
 #### 13th Level: Hylia's Benediction
@@ -4385,7 +4425,7 @@ Once per long rest, you may perform a 10-minute ritual to cast *Heroes' Feast* w
 
 #### 15th Level: Symphony of the Goddess
 - You may maintain **two Sacred Songs** simultaneously.
-- Blessed Refrain affects all allies within 30 feet.
+- When one of your spells triggers Blessed Refrain, every ally within 30 feet of you also gains it, even if the spell didn't heal them.
 
 #### 17th Level: Avatar of Song
 - Allies within 30 feet have advantage on death saving throws.
@@ -4407,8 +4447,12 @@ You embody divine harmony.
 
 Keepers of Grace are devoted healers and ritual singers who refuse to let hope die. Their songs linger like gentle echoes. They mend wounds and call lost souls back from the brink.
 
+#### 3rd Level: Grace Notes
+- When you cast a spell of 1st level or higher that restores hit points, one creature of your choice that regains hit points from it regains additional hit points equal to **2 + the spell's level**.
+- You can cast *Spare the Dying* without expending MP.
+
 #### 6th Level: Lullaby of Life
-- You may perform a **10-minute requiem** to cast *Revivify* without expending MP or material components.
+- Once per long rest, you may perform a **10-minute requiem** to cast *Revivify* without expending MP or material components. You can begin the requiem on a creature that died within the last **10 minutes**, rather than the last minute.
 - A creature restored this way regains additional hit points equal to your Charisma modifier.
 
 #### 10th Level: Gentle Continuance
@@ -4419,15 +4463,19 @@ Keepers of Grace are devoted healers and ritual singers who refuse to let hope d
 - Once per long rest, you may cast *True Resurrection* as a **1-hour ritual**, ignoring material components.
 - Creatures restored by this ritual are cured of all diseases, curses, and conditions affecting them.
 
+\column
+
 #### 18th Level: Mercy Beyond Death
 - When an ally within **30 feet** is reduced to 0 hit points, you may use your reaction to restore that ally to **half its maximum hit points**.
 - Once you use this feature, you cannot do so again until you finish a long rest.
 
-\column
-
 ### Herald of Power
 
 Heralds of Power sing of triumph, never of rest. Their voices harden resolve, sharpen blades, and turn courage into momentum.
+
+#### 3rd Level: Marching Cadence
+- You gain proficiency with medium armor, shields, and martial weapons.
+- When you activate a Sacred Song, one ally within its range can use its reaction to make one weapon attack. You can use this a number of times equal to your Charisma modifier (minimum 1), and you regain all expended uses when you finish a long rest.
 
 #### 6th Level: Aria of Victory
 - When a creature benefiting from your **Sacred Songs** scores a critical hit, it deals an additional **2d8 radiant damage**.
@@ -4460,9 +4508,13 @@ Heralds of Power sing of triumph, never of rest. Their voices harden resolve, sh
 
 Voices of Judgment channel the Goddess as a witness rather than a comfort. Their songs condemn the wicked, unravel defenses, and hold foes still under divine scrutiny.
 
+#### 3rd Level: Witness of the Goddess
+- You gain proficiency in the Intimidation skill, and you have advantage on Wisdom (Insight) checks made to tell whether a creature is lying.
+- When you cast a cantrip that forces a saving throw, such as *Sacred Flame*, you add your Charisma modifier to one damage roll of that cantrip.
+
 #### 6th Level: Requiem of Condemnation
-- You learn the Sacred Song **Requiem of Twilight**.
-- While this song is active, enemies within range suffer a **−1d4 penalty to saving throws**.
+- When you activate **Requiem of Twilight**, choose one creature within its range. That creature has disadvantage on the first saving throw it makes against one of your spells before the song ends.
+- While your Requiem of Twilight is active, a creature within its range that fails a saving throw against one of your spells can't take reactions until the start of its next turn.
 
 #### 10th Level: Judging Echo
 - When a creature fails a saving throw against one of your spells, it takes **radiant damage equal to your Charisma modifier**.
@@ -4474,7 +4526,7 @@ Voices of Judgment channel the Goddess as a witness rather than a comfort. Their
 - A restrained creature may repeat the saving throw at the end of each of its turns.
 
 #### 18th Level: Verdict of the Goddess
-- Once per long rest, when a creature fails a saving throw against your spell, you may treat the result as a **natural 1**.
+- Once per long rest, when a creature fails a saving throw against your spell, you may pass the Goddess's verdict: the creature is also **stunned** until the end of your next turn.
 - If the spell deals damage, it deals maximum damage instead.
 
 {{imageMaskCorner27,--offsetX:50%,--offsetY:-40%,--rotation:0
@@ -4491,109 +4543,107 @@ Voices of Judgment channel the Goddess as a witness rather than a comfort. Their
 
 The Goddess Chanter channels divine magic through music, voice, and sacred resonance. The list below is complete, and includes both Hyrule-original spells and standard 5e spells that fit the Chanter's sacred musical theme. Full entries for all of them are in the **Spell Compendium** chapter.
 
-\column
-
 **Spellcasting Ability:** Charisma
 **Spell Compendium:** see the **Spell Compendium** chapter of this book
 
-Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendium; all others are drawn from the standard 5e spell list or named variants thereof, and use standard 5e statistics unless the compendium provides a Hyrule-flavored version.
+Spells marked with ✦ are **Hyrule versions**: renamed or original spells with their own entry in the Spell Compendium. Every spell on this list, marked or not, has an entry there.
 
-> **Spell Level Cap:** 9th level (Overchanneling required for spells above 5th level).
+> **Spell Level Cap:** 9th level.
 
 {{spellList,wide
 ##### Cantrips (1 MP)
 - Sacred Flame
-- Guidance ✦
-- Light ✦
-- Mending ✦
-- Resistance ✦
-- Spare the Dying ✦
+- Guidance
+- Light
+- Mending
+- Resistance
+- Spare the Dying
 - Hymn of Shame ✦
 - Voice of the Goddess ✦
 - Toll the Dead
 - Word of Radiance
 ##### 1st Level (2 MP)
-- Bane ✦
-- Bless ✦
-- Charm Person ✦
-- Command ✦
-- Comprehend Languages ✦
-- Cure Wounds ✦
-- Detect Evil and Good ✦
-- Detect Magic ✦
-- Healing Word ✦
-- Heroism ✦
-- Identify ✦
+- Bane
+- Bless
+- Charm Person
+- Command
+- Comprehend Languages
+- Cure Wounds
+- Detect Evil and Good
+- Detect Magic
+- Healing Word
+- Heroism
+- Identify
 - Divine Alarm ✦
-- Protection from Evil and Good ✦
-- Purify Food and Drink ✦
-- Sanctuary ✦
-- Shield of Faith ✦
+- Protection from Evil and Good
+- Purify Food and Drink
+- Sanctuary
+- Shield of Faith
 - Speak with Animals
 - Dissonant Whispers
 - Hymn of Soaring ✦
 ##### 2nd Level (3 MP)
-- Calm Emotions ✦
-- Detect Thoughts ✦
-- Enhance Ability ✦
-- Enthrall ✦
-- Hold Person ✦
-- Lesser Restoration ✦
-- Locate Object ✦
+- Calm Emotions
+- Detect Thoughts
+- Enhance Ability
+- Enthrall
+- Hold Person
+- Lesser Restoration
+- Locate Object
 - Mirror Chorus ✦
-- Prayer of Healing ✦
-- See Invisibility ✦
-- Silence ✦
-- Warding Bond ✦
-- Zone of Truth ✦
+- Prayer of Healing
+- See Invisibility
+- Silence
+- Warding Bond
+- Zone of Truth
 - Spiritual Weapon
 - Shatter
-- Aid ✦
+- Aid
 ##### 3rd Level (4 MP)
-- Beacon of Hope ✦
-- Daylight ✦
-- Dispel Magic ✦
+- Beacon of Hope
+- Daylight
+- Dispel Magic
 - Hymn of Entrancement ✦
 - Judgment Hymn ✦
 - Luminous Vision ✦
-- Magic Circle ✦
-- Mass Healing Word ✦
+- Magic Circle
+- Mass Healing Word
 - Protection from the Elements ✦
-- Remove Curse ✦
-- Revivify ✦
-- Tongues ✦
-- Sending ✦
+- Remove Curse
+- Revivify
+- Tongues
+- Sending
 - Sanctum of Song ✦
 ##### 4th Level (5 MP)
-- Banishment ✦
-- Compulsion ✦
-- Control Water ✦
-- Death Ward ✦
-- Divination ✦
+- Banishment
+- Compulsion
+- Control Water
+- Death Ward
+- Divination
 - Divine Craft ✦
 - Divine Step ✦
 - Divine Veil ✦
-- Freedom of Movement ✦
-- Guardian of Faith ✦
-- Locate Creature ✦
+- Freedom of Movement
+- Guardian of Faith
+- Locate Creature
 - Sacred Transformation ✦
-- Stone Shape ✦
+- Stone Shape
 ##### 5th Level (6 MP)
-- Commune ✦
-- Dispel Evil and Good ✦
+- Commune
+- Dispel Evil and Good
 - Divine Will ✦
-- Dream ✦
+- Dream
 - Emotional Chorus ✦
-- Flame Strike ✦
-- Geas ✦
-- Greater Restoration ✦
-- Hallow ✦
-- Legend Lore ✦
-- Mass Cure Wounds ✦
-- Planar Binding ✦
-- Raise Dead ✦
-- Scrying ✦
-- Wall of Force ✦
+- Flame Strike
+- Geas
+- Greater Restoration
+- Hallow
+- Legend Lore
+- Mass Cure Wounds
+- Planar Binding
+- Raise Dead
+- Scrying
+- Wall of Force
 - Harmonic Communion ✦
 - Circle of Power
 - Destructive Wave
@@ -4654,12 +4704,10 @@ As an Interloper, you gain the following class features.
 - **Spellcasting Type:** Full caster  
 - **Spell List:** Interloper spell list (illusion, enchantment, force, psychic, control)  
 - You cast spells by spending **MP equal to the spell's level + 1** (cantrips cost 1 MP).
-- **Spell Level Cap:** 9th level (Overchanneling required for spells above 5th level).
+- **Spell Level Cap:** 9th level.
 
 ### Starting Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-
-\column
 
 - (a) a rapier or (b) a shortsword  
 - (a) leather armor or (b) scholar's robes and a component pouch  
@@ -4671,7 +4719,7 @@ You start with the following equipment, in addition to the equipment granted by 
 #### Interloper
 | Level | Prof. | Features | SP | MP |
 |:---:|:---:|:---|:---:|:---:|
-| 1st | +2 | Forbidden Arts, Hex of the Depths | 2 | 4 |
+| 1st | +2 | Forbidden Arts, Brand of the Depths | 2 | 4 |
 | 2nd | +2 | Eldritch Insight | 2 | 7 |
 | 3rd | +2 | Interloper Path | 3 | 12 |
 | 4th | +2 | Ability Score Improvement | 3 | 17 |
@@ -4681,9 +4729,9 @@ You start with the following equipment, in addition to the equipment granted by 
 | 8th | +3 | Ability Score Improvement | 5 | 37 |
 | 9th | +4 | Corrupted Knowledge | 6 | 46 |
 | 10th | +4 | Subclass Feature | 6 | 53 |
-| 11th | +4 | Master of Hexes | 7 | 64 |
+| 11th | +4 | Master of Brands | 7 | 64 |
 | 12th | +4 | Ability Score Improvement | 7 | 64 |
-| 13th | +5 | Arcane Defiance | 8 | 64 |
+| 13th | +5 | Arcane Defiance | 8 | 73 |
 | 14th | +5 | Subclass Feature | 8 | 73 |
 | 15th | +5 | Veilbreaker | 9 | 83 |
 | 16th | +5 | Ability Score Improvement | 9 | 83 |
@@ -4706,26 +4754,26 @@ You start with the following equipment, in addition to the equipment granted by 
 | Level | Proficiency | Features | Cantrips | —— Spell Slots Per Spell Level —— |||||||||
 |      ^| Bonus      ^|         ^| Known   ^| 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |   ^|
 |:-----:|:-----------:|:---------|:--------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1st  | +2 | Forbidden Arts, Hex of the Depths | 2 | 1 | — | — | — | — | — | — | — | — |
-| 2nd  | +2 | Eldritch Insight                  | 2 | 1 | 1 | — | — | — | — | — | — | — |
-| 3rd  | +2 | Interloper Path                   | 2 | 2 | 2 | — | — | — | — | — | — | — |
-| 4th  | +2 | Ability Score Improvement         | 3 | 2 | 2 | 1 | — | — | — | — | — | — |
-| 5th  | +3 | Malefic Surge                     | 3 | 2 | 2 | 2 | — | — | — | — | — | — |
-| 6th  | +3 | Subclass Feature                  | 3 | 2 | 2 | 2 | 1 | — | — | — | — | — |
-| 7th  | +3 | Shadow Pact                       | 3 | 2 | 2 | 2 | 1 | 1 | — | — | — | — |
-| 8th  | +3 | Ability Score Improvement         | 3 | 2 | 2 | 2 | 2 | 1 | — | — | — | — |
-| 9th  | +4 | Corrupted Knowledge               | 3 | 3 | 2 | 2 | 2 | 1 | 1 | — | — | — |
-| 10th | +4 | Subclass Feature                  | 4 | 3 | 2 | 2 | 2 | 2 | 1 | — | — | — |
-| 11th | +4 | Master of Hexes                   | 4 | 3 | 3 | 2 | 2 | 2 | 1 | 1 | — | — |
-| 12th | +4 | Ability Score Improvement         | 4 | 3 | 3 | 2 | 2 | 2 | 1 | 1 | — | — |
-| 13th | +5 | Arcane Defiance                   | 4 | 3 | 3 | 2 | 2 | 2 | 1 | 1 | — | — |
-| 14th | +5 | Subclass Feature                  | 4 | 3 | 3 | 2 | 2 | 2 | 1 | 1 | 1 | — |
-| 15th | +5 | Veilbreaker                       | 4 | 3 | 3 | 2 | 2 | 2 | 1 | 1 | 1 | 1 |
-| 16th | +5 | Ability Score Improvement         | 4 | 3 | 3 | 2 | 2 | 2 | 1 | 1 | 1 | 1 |
-| 17th | +6 | Twilight Ascension                | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18th | +6 | Subclass Feature                  | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 19th | +6 | Ability Score Improvement         | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 1 |
-| 20th | +6 | Master of the Twilight            | 4 | 3 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 1st  | +2 | Forbidden Arts, Brand of the Depths | 2 | 2 | — | — | — | — | — | — | — | — |
+| 2nd  | +2 | Eldritch Insight                  | 2 | 3 | — | — | — | — | — | — | — | — |
+| 3rd  | +2 | Interloper Path                   | 2 | 4 | 2 | — | — | — | — | — | — | — |
+| 4th  | +2 | Ability Score Improvement         | 3 | 4 | 3 | — | — | — | — | — | — | — |
+| 5th  | +3 | Malefic Surge                     | 3 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th  | +3 | Subclass Feature                  | 3 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th  | +3 | Shadow Pact                       | 3 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th  | +3 | Ability Score Improvement         | 3 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th  | +4 | Corrupted Knowledge               | 3 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | Subclass Feature                  | 4 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +4 | Master of Brands                  | 4 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | +4 | Ability Score Improvement         | 4 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 | Arcane Defiance                   | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | Subclass Feature                  | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 | Veilbreaker                       | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 | Ability Score Improvement         | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 | Twilight Ascension                | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 | Subclass Feature                  | 4 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | +6 | Ability Score Improvement         | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | +6 | Master of the Twilight            | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 }}
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/HWDE_Yuga_Artwork.webp' alt='Yuga' style='display:block;width:248px;height:330px;margin:6px auto 2px auto'/>
@@ -4737,27 +4785,25 @@ You wield arcane knowledge rejected by divine orthodoxy.
 - Choose **Intelligence or Charisma** as your spellcasting ability.
 - You may use a one-handed weapon as a spellcasting focus.
 
-\column
-
-#### 1st Level: Hex of the Depths (Soft Concentration)
-As a bonus action, you afflict a creature you can see within 60 feet.  
-The Hex lasts 1 minute and does not require full concentration.
+#### 1st Level: Brand of the Depths (Soft Concentration)
+As a bonus action, you afflict a creature you can see within 60 feet with a Brand. A Brand costs no MP and has no limit on uses. It is not a spell, so it doesn't count for Arcane Strain or Arcane Saturation.  
+The Brand lasts 1 minute and uses soft concentration rather than full concentration. You can have one Brand active at a time, and applying a new one ends the old one.
 
 Choose one effect:
-- **Binding Hex:** Target's speed is reduced by 10 feet.
-- **Fracturing Hex:** The first time each round the target fails a saving throw, it takes **Hex damage** (see below) as psychic damage.
-- **Withering Hex:** Target has disadvantage on the first attack it makes each round.
+- **Binding Brand:** Target's speed is reduced by 10 feet.
+- **Fracturing Brand:** The first time each round the target fails a saving throw, it takes **Brand damage** (see below) as psychic damage.
+- **Withering Brand:** Target has disadvantage on the first attack it makes each round.
 
-**Hex Damage.** Your Hex deals psychic damage that scales with your level, without spending anything further:
+**Brand Damage.** Your Brand deals psychic damage that scales with your level, without spending anything further:
 
-| Interloper level | Hex damage |
+| Interloper level | Brand damage |
 |:--:|:--:|
 | 1st–4th | 1d6 |
 | 5th–10th | 2d6 |
 | 11th–16th | 3d6 |
 | 17th–20th | 4d6 |
 
-Only the **Fracturing Hex** deals damage on its own. Path features and other abilities that refer to Hex damage use the same table.
+Only the **Fracturing Brand** deals damage on its own. Path features and other abilities that refer to Brand damage use the same table.
 
 {{footnote Classes | Interloper }}
 
@@ -4777,18 +4823,19 @@ At 3rd level, you choose a path that shapes your thirst for power:
 - **Twilight Dominator**
 
 #### 5th Level: Malefic Surge
-- Your Hexes may be moved to a new target as a bonus action.
-- Add your spellcasting modifier to Hex damage once per turn.
+- Your Brands may be moved to a new target as a bonus action.
+- Add your spellcasting modifier to Brand damage once per turn.
 
 #### 7th Level: Shadow Pact
-Once per long rest, you may summon a lesser arcane minion (spectral construct, animated shadow, or bound spirit) for 1 minute.  
-The minion obeys your commands and cannot harm your allies.
+Once per long rest, as an action, you may summon a **Twilight Minion** in an unoccupied space you can see within 30 feet. Choose its form when you summon it: spectral construct, animated shadow, or bound spirit. It uses the Twilight Minion stat block, lasts for 1 minute, and doesn't require concentration. It vanishes early if it drops to 0 hit points, if you are incapacitated, or if you dismiss it (no action required).
+
+The minion is friendly to you and your companions, obeys your commands (no action required by you), and cannot harm your allies. It acts on your turn, immediately after you. If you issue no command, it takes the Dodge action and moves to avoid danger.
 
 #### 9th Level: Corrupted Knowledge
 Once per long rest, when you fail an Intelligence, Wisdom, or Charisma saving throw, you may choose to succeed instead.
 
-#### 11th Level: Master of Hexes
-You may maintain **two Hexes simultaneously**.
+#### 11th Level: Master of Brands
+You may maintain **two Brands simultaneously**.
 
 #### 13th Level: Arcane Defiance
 You have advantage on concentration checks, and damage cannot break your concentration unless it exceeds your spellcasting modifier + proficiency bonus.
@@ -4801,16 +4848,48 @@ Once per long rest, as a bonus action, you enter a heightened arcane state for 1
 - Advantage on concentration checks  
 - Spells ignore resistance  
 - Once per turn, when a creature fails a save against your spell, it takes extra psychic or force damage equal to your spellcasting modifier  
-- Movement does not provoke opportunity attacks from Hexed creatures
-
-\column
+- Movement does not provoke opportunity attacks from Branded creatures
 
 #### 20th Level: Master of the Twilight
 - Twilight Ascension refreshes on a **short rest**
 - While ascended:
-  - Hexes cost 0 MP
-  - You may maintain **two Hexes**
+  - You may maintain **three Brands** simultaneously.
+  - Once on each of your turns, you may apply or move a Brand without using your bonus action.
   - Once per turn, when a creature fails a saving throw by 5 or more, you may **stun, restrain, or knock it prone**
+
+{{monster,frame
+## Twilight Minion
+*Medium construct*
+___
+**Armor Class** :: 11 + your proficiency bonus (natural armor)
+**Hit Points**  :: 5 + five times your Interloper level
+**Speed**       :: 30 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)|14 (+2)|14 (+2)|6 (-2)|12 (+1)|6 (-2)|
+___
+**Damage Immunities**    :: poison
+**Condition Immunities** :: charmed, exhaustion, frightened, poisoned
+**Senses**               :: darkvision 60 ft., passive Perception 11
+**Languages**            :: understands the languages you speak
+**Challenge**            :: — {{bonus **Proficiency Bonus** equals your bonus}}
+___
+***Form.*** The minion has the trait of the form you chose:
+- *Spectral Construct.* Its AC increases by 2, and its Twilight Strike deals force damage.
+- *Animated Shadow.* It can take the Hide action as a bonus action while in dim light or darkness, and its Twilight Strike deals necrotic damage.
+- *Bound Spirit.* It has a flying speed of 30 feet (hover) and no walking speed. It can move through creatures and objects as if they were difficult terrain, and takes 1d10 force damage if it ends its turn inside an object. Its Twilight Strike deals psychic damage.
+### Actions
+***Multiattack.*** The minion makes a number of Twilight Strike attacks equal to half your proficiency bonus (rounded down).
+:
+***Twilight Strike.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 1d8 + 3 + your proficiency bonus force, necrotic, or psychic damage (see Form).
+}}
+
+{{footnote Classes | Interloper }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Cyclone Tyrant
 
@@ -4829,12 +4908,6 @@ In addition, you have advantage on the Strength saving throw rolled to avoid bei
 Your mastery over force and air lets you sculpt your own devastation with precision. When you cast a spell that affects an area (a line, cone, cube, sphere, or cylinder), you may exclude a number of unoccupied or occupied spaces from the spell's effect equal to your spellcasting modifier (minimum 1). Excluded spaces are treated as if outside the spell's area entirely. Creatures within them take no damage or effect and are not considered targeted.
 
 You decide which spaces to exclude when you cast the spell, before any saving throws are rolled.
-
-{{footnote Classes | Interloper }}
-
-{{pageNumber,auto}}
-
-\page
 
 #### 10th Level: Arcane Overpressure
 
@@ -4856,8 +4929,6 @@ While your Twilight Ascension is active, you become the storm given purpose:
 - Whenever you deal force or thunder damage to a Large or smaller creature with a spell, that creature must succeed on a Strength saving throw against your spell save DC or be knocked prone, in addition to any push effects from Windlash or Arcane Overpressure.
 - Once per turn, when you push a creature into another creature using Windlash, both creatures take the force damage from the collision, and the second creature must also succeed on a Strength saving throw or be knocked prone.
 
-\column
-
 ### Bladebound Paragon
 
 *The blade does not tire. The blade does not hesitate. The blade is exactly as merciless as you ask it to be.*
@@ -4868,23 +4939,23 @@ Bladebound Paragons are masters of bound constructs and animated weaponry, Inter
 
 As a bonus action, you may summon one **Bound Weapon** (a spectral construct shaped from twilight energy and the memory of a real weapon) in an unoccupied space within 30 feet. When you summon it, choose one of the following forms. The Bound Weapon uses your spell attack modifier for its attack rolls and your spellcasting modifier where relevant.
 
+{{footnote Classes | Interloper }}
+
+{{pageNumber,auto}}
+
+\page
+
 | Form | Attack | Damage | Special |
 |:--|:--|:--|:--|
 | **Sword Spirit** | Melee, reach 5 ft. | 1d8 + spellcasting modifier slashing | Can make an attack as part of the action that summons it |
 | **Spear Spirit** | Melee, reach 10 ft. | 1d10 + spellcasting modifier piercing | Can attack two different creatures within reach once per round (one attack roll each) |
 | **Bow Spirit** | Ranged, 60 ft. | 1d8 + spellcasting modifier piercing | Does not require ammunition; ignores half and three-quarters cover |
 
-A Bound Weapon has AC 13 + your proficiency bonus, hit points equal to 5 × your Interloper level, and a flying or hovering speed of 20 feet (it has no need to touch the ground). It acts on your turn, immediately after you, and can move and attack each round on your command, which costs you no action. If it is destroyed, the link is severed and you cannot summon a new Bound Weapon until you finish a short or long rest, unless you spend 2 MP to resummon it early.
+A Bound Weapon has AC 13 + your proficiency bonus, hit points equal to 5 × your Interloper level, and a flying or hovering speed of 20 feet (it has no need to touch the ground). It acts on your turn, immediately after you, and can move and attack each round on your command, which costs you no action. If it is destroyed, the link is severed and you cannot summon a new Bound Weapon until you finish a short or long rest, unless you spend 2 MP to resummon it early. A Bound Weapon lasts until it is destroyed, you dismiss it (no action required), or you finish a long rest. Dismissing a Bound Weapon has the same effect as its destruction.
 
 #### 6th Level: Enhanced Pact
 
-Your bond with the twilight deepens enough to sustain a second presence. You may maintain two Bound Weapons (of the same or different forms) simultaneously, or one Bound Weapon and one minion summoned by Shadow Pact at the same time. Each acts on your turn and is directed independently, so you may give them different commands in the same round.
-
-{{footnote Classes | Interloper }}
-
-{{pageNumber,auto}}
-
-\page
+Your bond with the twilight deepens enough to sustain a second presence. You may maintain two Bound Weapons (of the same or different forms) simultaneously, or, once you gain Shadow Pact at 7th level, one Bound Weapon and your Twilight Minion at the same time. Each acts on your turn and is directed independently, so you may give them different commands in the same round.
 
 #### 10th Level: Living Armory
 
@@ -4894,7 +4965,10 @@ In addition, you may now switch a Bound Weapon's form (from Sword Spirit to Bow 
 
 #### 14th Level: Greater Constructs
 
-Your Shadow Pact minion and your Bound Weapons alike grow stronger as they draw on a deeper well of twilight power. Your Shadow Pact summon's hit points and damage dice both increase by 50% (round up), and it may now be maintained for 10 minutes instead of 1, without requiring concentration.
+Your Shadow Pact minion and your Bound Weapons alike grow stronger as they draw on a deeper well of twilight power. Your Twilight Minion's hit point maximum increases by half (round up), its Twilight Strike deals 2d8 damage instead of 1d8, and it may now be maintained for 10 minutes instead of 1, without requiring concentration.
+
+
+\column
 
 Your Bound Weapons gain a fourth available form:
 
@@ -4917,21 +4991,25 @@ While your Twilight Ascension is active, every construct bound to you (your Boun
 
 Twilight Dominators are masters of misdirection, doubling, and the unsettling space between what is real and what only appears to be. Where the Cyclone Tyrant overwhelms with raw force and the Bladebound Paragon fights through bound weapons, the Twilight Dominator rarely needs to be where the danger is at all. They scatter false images of themselves across the battlefield and punish enemies for striking the wrong one. At the height of their power they step out of reality altogether, leaving a perfect copy to finish the fight.
 
-\column
-
 #### 3rd Level: Veil of Many
 
 As a bonus action, you may conjure an illusory duplicate of yourself in an unoccupied space you can see within 30 feet. The duplicate is intangible, occupies its space, and lasts until the start of your next turn or until it is targeted by an attack or a spell that requires a check or save against it, whichever comes first.
 
 While at least one duplicate is active, attacks made against you by creatures that have not seen you act since the duplicate appeared are made with disadvantage, as the attacker is uncertain which image is real.
 
-You may have up to one duplicate active at a time. You may use this feature a number of times equal to your spellcasting modifier (minimum 1) per long rest, and you regain one use whenever you apply a Hex.
+You may have up to one duplicate active at a time. You may use this feature a number of times equal to your spellcasting modifier (minimum 1) per long rest, and you regain one use whenever you apply a Brand.
+
+{{footnote Classes | Interloper }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### 6th Level: Misdirection's Price
 
 When a creature targets your illusory duplicate with an attack, spell, or other harmful effect, you may use your reaction to cause the duplicate to immediately vanish and reappear in a new unoccupied space within 10 feet of its previous location. The triggering attack or effect automatically misses or fails against the duplicate, and the creature that was fooled has disadvantage on its next attack roll before the end of its next turn, as it struggles to relocate you.
 
-In addition, your Hexes may now be applied to a creature standing adjacent to your duplicate as if it were adjacent to you.
+In addition, when you apply or move a Brand, you may measure its range and line of sight from your duplicate instead of from yourself.
 
 #### 10th Level: Fractured Reality
 
@@ -4945,22 +5023,14 @@ Your duplicates are no longer purely decorative. Once per turn, when an enemy cr
 
 In addition, you may now have up to two duplicates active simultaneously.
 
-{{footnote Classes | Interloper }}
-
-{{pageNumber,auto}}
-
-\page
-
 #### 18th Level: Sovereign of the Unreal
 
 Once per long rest, as a bonus action, you step fully into the Twilight Realm for 1 minute while a perfect illusory copy of yourself continues to act in your place on the battlefield:
 
 - You become invisible and incorporeal, and you cannot be targeted, detected, or harmed by any means while in this state. You can still see, hear, and direct your duplicate's actions.
-- Your duplicate occupies your space, has your statistics, and acts on your turn exactly as you direct it. It can move, take the Attack action (using your weapon and spell attack bonus), cast your spells (expending your MP normally), and apply your Hexes.
+- Your duplicate occupies your space, has your statistics, and acts on your turn exactly as you direct it. It can move, take the Attack action (using your weapon and spell attack bonus), cast your spells (expending your MP normally), and apply your Brands.
 - If the duplicate would take damage that would reduce it to 0 hit points, it instead vanishes, you are immediately ejected from the Twilight Realm into the space it last occupied, and you take no damage from the triggering attack.
-- While ascended (Twilight Ascension active simultaneously), your duplicate's spells ignore resistance and its Hexed targets cannot benefit from cover against it.
-
-\column
+- While ascended (Twilight Ascension active simultaneously), your duplicate's spells ignore resistance and its Branded targets cannot benefit from cover against it.
 
 You may end this effect early as a free action. When the effect ends (by choice, duration, or your duplicate's defeat), you reappear in the space your duplicate last occupied, or the nearest unoccupied space.
 
@@ -4968,11 +5038,11 @@ You may end this effect early as a free action. When the effect ends (by choice,
 
 The Interloper draws from the art of the Twilight Realm: a blend of illusion, enchantment, teleportation, and subtle mind-bending magic. The list below is complete; full entries are in the **Spell Compendium** chapter.
 
-**Spellcasting Ability:** Intelligence
+**Spellcasting Ability:** Intelligence or Charisma (see Forbidden Arts)
 **Spell Compendium:** see the **Spell Compendium** chapter of this book
-**Spell Focus:** Illusion, Enchantment, Transmutation, Divination
+**Spell Focus:** Illusion, enchantment, force, psychic and control
 
-Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendium; all others are drawn from the standard 5e spell list or named variants thereof, and use standard 5e statistics unless the compendium provides a Hyrule-flavored version.
+Spells marked with ✦ are **Hyrule versions**: renamed or original spells with their own entry in the Spell Compendium. Every spell on this list, marked or not, has an entry there.
 
 {{footnote Classes | Interloper }}
 
@@ -4982,84 +5052,84 @@ Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendi
 
 {{spellList,wide
 ##### Cantrips (1 MP)
-- Chill Touch ✦
-- Eldritch Blast (Twilight Bolt) ✦
-- Friends ✦
-- Mage Hand ✦
-- Message ✦
-- Minor Illusion ✦
-- Prestidigitation ✦
+- Chill Touch
+- Eldritch Blast (Twilight Bolt)
+- Friends
+- Mage Hand
+- Message
+- Minor Illusion
+- Prestidigitation
 - Twilight Manifestation ✦
 - Twilight Wisps ✦
 ##### 1st Level (2 MP)
-- Charm Person ✦
-- Comprehend Languages ✦
-- Detect Magic ✦
-- Disguise Self ✦
-- Expeditious Retreat ✦
-- Mage Armor ✦
-- Magic Missile ✦
-- Protection from Evil and Good ✦
+- Charm Person
+- Comprehend Languages
+- Detect Magic
+- Disguise Self
+- Expeditious Retreat
+- Mage Armor
+- Magic Missile
+- Protection from Evil and Good
 - Shadow Disruption ✦
-- Shield ✦
-- Silent Image ✦
-- Sleep ✦
-- Unseen Servant ✦
-- Hex ✦
+- Shield
+- Silent Image
+- Sleep
+- Unseen Servant
+- Hex
 ##### 2nd Level (3 MP)
-- Arcane Lock ✦
-- Blur ✦
-- Enthrall ✦
-- Hold Person ✦
-- Invisibility ✦
-- Knock ✦
-- Levitate ✦
-- Locate Object ✦
-- Mirror Image ✦
-- Misty Step ✦
-- Phantasmal Force ✦
+- Arcane Lock
+- Blur
+- Enthrall
+- Hold Person
+- Invisibility
+- Knock
+- Levitate
+- Locate Object
+- Mirror Image
+- Misty Step
+- Phantasmal Force
 - Silence
-- Suggestion ✦
-- Shatter (Spatial Fracture) ✦
-- Detect Thoughts ✦
+- Suggestion
+- Shatter (Spatial Fracture)
+- Detect Thoughts
 ##### 3rd Level (4 MP)
-- Bestow Curse ✦
-- Clairvoyance ✦
-- Counterspell ✦
-- Dispel Magic ✦
-- Fear ✦
-- Fly ✦
-- Gaseous Form ✦
-- Hypnotic Pattern ✦
-- Nondetection ✦
-- Tongues ✦
-- Sending ✦
+- Bestow Curse
+- Clairvoyance
+- Counterspell
+- Dispel Magic
+- Fear
+- Fly
+- Gaseous Form
+- Hypnotic Pattern
+- Nondetection
+- Tongues
+- Sending
 ##### 4th Level (5 MP)
-- Banishment ✦
-- Blight ✦
-- Confusion ✦
-- Divination ✦
-- Greater Invisibility ✦
-- Hallucinatory Terrain ✦
-- Locate Creature ✦
-- Phantasmal Killer ✦
-- Polymorph ✦
+- Banishment
+- Blight
+- Confusion
+- Divination
+- Greater Invisibility
+- Hallucinatory Terrain
+- Locate Creature
+- Phantasmal Killer
+- Polymorph
 - Shadow-Forged Flesh ✦
-- Wall of Fire (Cyclone) ✦
-- Arcane Eye ✦
+- Wall of Fire (Cyclone)
+- Arcane Eye
 ##### 5th Level (6 MP)
-- Dominate Person ✦
-- Geas ✦
-- Hold Monster ✦
-- Mislead ✦
-- Modify Memory ✦
-- Animate Objects ✦
-- Scrying ✦
-- Seeming ✦
-- Wall of Stone ✦
-- Wall of Force ✦
+- Dominate Person
+- Geas
+- Hold Monster
+- Mislead
+- Modify Memory
+- Animate Objects
+- Scrying
+- Seeming
+- Wall of Stone
+- Wall of Force
 - Noctifex ✦
-- Dream ✦
+- Dream
 - Telekinesis
 ##### 6th Level (7 MP)
 - Chain Lightning
@@ -5138,8 +5208,6 @@ At 5th level and every 5 levels thereafter (10th, 15th, and 20th), you learn **o
 :
 **Available Masks:** Deku, Goron, Gerudo, Hylian, Rito, Sheikah, Twili, Zora.
 
-\column
-
 {{classTable,frame
 #### Masked Wanderer
 | Level | Prof. | Features | SP | Masks Known |
@@ -5168,30 +5236,38 @@ At 5th level and every 5 levels thereafter (10th, 15th, and 20th), you learn **o
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/hbvMrIc.png' alt='Masked Wanderer' style='display:block;width:328px;height:322px;margin:6px auto 2px auto'/>
 
-### Core Class Features
-
-#### 1st Level: Mask Transformation
-Starting at 1st level, you can assume the form granted by one of your known masks.
-
 {{footnote Classes | Masked Wanderer }}
 
 {{pageNumber,auto}}
 
 \page
 
+### Core Class Features
+
+#### 1st Level: Mask Transformation
+Starting at 1st level, you can assume the form granted by one of your known masks.
+
 - **Action:** Transform into a chosen mask  
 - **Duration:** Until you end it (no action required) or are incapacitated  
 - **Uses:** Unlimited  
 
 While transformed:
-- You gain **all racial traits** of the mask - size, speed, movement modes, senses and resistances - and these **replace** your own race's traits.
+- You gain **all racial traits** of the mask's race, including active ones such as Deku Spit, Goron Curl or Umbral Step, and these **replace** your own race's traits. You don't gain the race's languages, skill or tool proficiencies, or feats.
+- A trait with limited uses shares its uses between your own form and every mask, and changing form doesn't restore them. A cantrip granted by a mask costs you no MP. Any other spell a mask grants can be cast only in the free way its trait describes.
+- If the mask's race has subraces (Deku, Goron, Rito, Zora), choose one when you learn the mask. You gain that subrace's traits while wearing it. Whenever you gain a level, you may change the subrace chosen for one mask.
+- A racial trait that begins or improves at a certain level (such as the Rito's Flight, Deku Spit or Rolling Charge) uses your Masked Wanderer level.
 - Your **Strength, Dexterity and Constitution** use the mask race's increases in place of your own.
 - You keep your Intelligence, Wisdom, Charisma, alignment, personality, class features, proficiencies, hit points and Hit Dice.
-- Equipment **merges into the form**, cannot be used while transformed, and reappears unchanged when you revert.
+- Equipment **merges into the form** and reappears unchanged when you revert. Merged weapons, shields and held items (including Relics) can't be used, and merged armor grants no AC. Worn items keep granting their other benefits (weather protection, set bonuses, rings and amulets).
+- You can still use **bottles and consumables** (potions, elixirs, food, bottled fairies) while transformed, taking the normal action. Objects you pick up after transforming don't merge, and you can use them if your form can hold them.
+- If you drop to 0 hit points while transformed, your form ends first. Effects that trigger at 0 hit points, such as a Fairy in a Bottle, then apply to you in your own form.
 
 **Mask save DC** equals **8 + proficiency bonus + Strength or Dexterity modifier**, chosen when you transform.
 
 #### Unarmored Defense
+
+\column
+
 While not wearing armor or wielding a shield, your AC equals:
 
 **10 + Dexterity modifier + Wisdom modifier**
@@ -5216,8 +5292,6 @@ Learning a technique means choosing one row from the table below; you can use it
 - They do **not** cost SP
 - Saving throws use your Mask save DC
 
-\column
-
 #### 3rd Level: Wandering Discipline
 At 3rd level, you adopt a wandering discipline reflecting your philosophy of combat.
 Your discipline grants features at **3rd, 6th, 10th, 14th, and 18th level**.
@@ -5240,19 +5314,19 @@ You may do this a number of times equal to your proficiency bonus per long rest.
 #### Signature Techniques
 | Mask Equipped | Technique | 
 |:----------------|:----------------------|
-| **Deku** | Your jump-based movement increases by 10 feet. Once per turn, when you land after moving at least 15 feet, one creature within 5 feet must succeed on a Strength save or be pushed 10 feet. |
+| **Deku** | Your long jump distance increases by 10 feet (added after Deku Hop doubles it). Once per turn, when you land after a jump of at least 15 feet, one creature within 5 feet must succeed on a Strength save or be pushed 10 feet. |
 | **Goron** | You gain resistance to bludgeoning damage. When you use Dash, you may choose to move through enemy spaces; creatures you pass through must succeed on a Strength save or be knocked prone. | 
 | **Zora** | You may make a fin-blade throw as a ranged unarmed attack (30/60), dealing unarmed strike damage. If the attack hits, the blade returns to you automatically. | 
-| **Rito** | While flying, your movement does not provoke opportunity attacks. Once per turn, when you move at least 10 feet while airborne, your next attack deals +1d6 damage. | 
+| **Rito** | While flying or gliding, your movement does not provoke opportunity attacks. Once per turn, when you move at least 10 feet while airborne (flying, gliding, falling, or jumping), your next attack deals +1d6 damage. | 
 | **Sheikah** | You may Hide as a bonus action. When you attack a creature that has not taken a turn in combat yet, you deal extra damage equal to your proficiency bonus. | 
-| **Twili** | You gain resistance to necrotic damage. Once per turn, when you move from dim light into darkness (or vice versa), you gain advantage on your next attack or saving throw. |
+| **Twili** | You have advantage on saving throws against being frightened. Once per turn, when you move from dim light into darkness (or vice versa), you gain advantage on your next attack or saving throw. |
 | **Gerudo** | You gain resistance to fire damage. When you hit a creature with an unarmed strike, you may reduce its speed by 10 feet until the end of its next turn. |
 | **Hylian** | You gain a +1 bonus to all saving throws. Once per long rest, when you miss an attack, you may reroll it and take the new result. |
 }}
 
 #### 9th Level: Mask Mastery
 At 9th level:
-- You have advantage on Constitution saving throws to maintain concentration while transformed
+- While transformed, you have advantage on saving throws against being stunned or paralyzed (conditions that would incapacitate you and end your form)
 - Ending a transformation does not end grapples, movement modes, or stances you initiated
 
 #### 11th Level: Improved Extra Attack
@@ -5261,11 +5335,9 @@ At 11th level, while transformed, you may make **three attacks** instead of two 
 #### 13th Level: Deepened Masks
 At 13th level, every mask you know deepens. While transformed, you gain the benefit below in addition to that mask's racial traits and Signature Technique.
 
-\column
-
 - **Deku:** Your jump distance is doubled and you take no falling damage. The push from your technique becomes 20 feet, and a creature that fails the save is also knocked prone.
 - **Goron:** Your resistance to bludgeoning damage becomes immunity to nonmagical bludgeoning damage. As a bonus action you may curl and roll up to your speed in a straight line without provoking opportunity attacks.
-- **Zora:** Your fin-blade throw has a range of 60/120 and you may throw it twice as part of the same Attack action. You can breathe water, and your swim speed equals your walking speed plus 20 feet.
+- **Zora:** Your fin-blade throw has a range of 60/120 and you may throw it twice as part of the same Attack action. Your swimming speed increases by 20 feet.
 - **Rito:** Your flying speed increases by 10 feet, and the extra damage from your technique becomes 2d6.
 - **Sheikah:** While hidden you are also invisible, until you attack or move within 5 feet of a creature that can see you. The extra damage from your technique becomes twice your proficiency bonus.
 - **Twili:** Your resistance to necrotic damage becomes immunity. Once per turn you may teleport up to 15 feet as part of your movement, provided you begin or end that movement in dim light or darkness.
@@ -5275,16 +5347,16 @@ At 13th level, every mask you know deepens. While transformed, you gain the bene
 #### 13th Level: Instinctive Guard
 At 13th level, when you are hit by an attack, you may use your reaction and spend **1 SP** to reduce the damage by an amount equal to **1d10 + your Dexterity modifier**.
 
+#### 15th Level: Avatar of Termina
+At 15th level:
+- You gain a **+2 bonus to AC** while transformed
+- While transformed, you have advantage on Weather Exhaustion checks, and a failed check never gives you standard exhaustion.
+
 {{footnote Classes | Masked Wanderer }}
 
 {{pageNumber,auto}}
 
 \page
-
-#### 15th Level: Avatar of Termina
-At 15th level:
-- You gain a **+2 bonus to AC** while transformed
-- You are immune to exhaustion caused by forced movement or transformations
 
 #### 17th Level: Legendary Masks
 At 17th level, your Signature Techniques reach their fullest expression. Your Mask save DC increases by 2, and the technique of the mask you are wearing gains the effect below.
@@ -5292,7 +5364,7 @@ At 17th level, your Signature Techniques reach their fullest expression. Your Ma
 - **Deku:** The push affects every creature in a 15-foot cone rather than one creature within 5 feet.
 - **Goron:** Creatures you pass through with your Dash take 3d6 bludgeoning damage in addition to making the save against being knocked prone.
 - **Zora:** A creature hit by the fin-blade has its speed reduced by 10 feet until the end of its next turn.
-- **Rito:** You may make the airborne attack as a bonus action once on each of your turns.
+- **Rito:** Once on each of your turns, after you move at least 10 feet while airborne, you may make one unarmed strike as a bonus action, even if you haven't taken the Attack action. It deals the technique's extra damage.
 - **Sheikah:** The extra damage applies to any creature that has not yet taken a turn this round, not only in the first round of combat.
 - **Twili:** The advantage you gain applies to every attack and saving throw you make until the end of your turn.
 - **Gerudo:** The unarmed strike also deals 2d6 fire damage.
@@ -5312,12 +5384,10 @@ Masked Wanderers follow different philosophies in how they honor the memories wi
 ### Discipline of the Guardian
 *You stand between danger and those who cannot.*
 
-\column
-
 #### 3rd Level: Steadfast Presence
 While transformed:
 - You gain proficiency in Constitution saving throws.
-- When a creature within 5 feet of you is targeted by an attack, you may impose disadvantage on that attack roll.
+- When a creature within 5 feet of you is targeted by an attack, you may use your reaction to impose disadvantage on that attack roll.
 
 You may use this feature a number of times equal to your proficiency bonus per long rest.
 
@@ -5355,18 +5425,18 @@ You may spend **1 SP** to add this damage even if you did not move this turn.
 #### 10th Level: Evasive Shift
 When a creature misses you with an attack, you may use your reaction to move up to half your speed without provoking opportunity attacks.
 
-{{footnote Classes | Masked Wanderer }}
-
-{{pageNumber,auto}}
-
-\page
-
 If you spend **1 SP**, you may immediately make one unarmed strike against a creature you pass.
 
 #### 14th Level: Uncatchable
 While transformed:
 - You have advantage on Dexterity saving throws.
 - Difficult terrain does not slow your movement.
+
+{{footnote Classes | Masked Wanderer }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### 18th Level: Dance of Masks
 Once per long rest, for 1 minute:
@@ -5381,8 +5451,6 @@ Once per long rest, for 1 minute:
 While transformed:
 - You gain proficiency in Deception and Stealth.
 - Creatures have disadvantage on opportunity attacks against you.
-
-\column
 
 #### 6th Level: Masked Feint
 When you take the Attack action, you may spend **1 SP** to force a creature you hit to make a Wisdom saving throw.
@@ -5453,32 +5521,30 @@ You start with the following equipment, in addition to equipment granted by your
 - (a) explorer's pack or (b) dungeoneer's pack  
 - Herbalism kit  
 
-\column
-
 {{classTable,frame
 #### Ranger
-| Level | Prof. | Features | SP | MP | Focus Points |
-|:---:|:---:|:---------------------------|:---:|:---:|:---:|
-| 1st | +2 | Spellcasting, Hunter's Insight, Focus System | 2 | 4 | 3 |
-| 2nd | +2 | Ranger Techniques | 3 | 6 | 3 |
-| 3rd | +2 | Ranger Path Feature | 4 | 6 | 3 |
-| 4th | +2 | Ability Score Improvement | 4 | 11 | 3 |
-| 5th | +3 | Extra Attack | 5 | 16 | 3 |
-| 6th | +3 | Improved Hunter's Insight | 5 | 19 | 3 |
-| 7th | +3 | Ranger Path Feature | 6 | 19 | 3 |
-| 8th | +3 | Ability Score Improvement | 6 | 23 | 3 |
-| 9th | +4 | Survival Instinct | 8 | 27 | 3 |
-| 10th | +4 | Marked Precision | 8 | 31 | 3 |
-| 11th | +4 | Relentless Focus, Ranger Path Feature | 8 | 32 | 3 |
-| 12th | +4 | Ability Score Improvement | 10 | 37 | 3 |
-| 13th | +5 | Master Tracker | 10 | 37 | 3 |
-| 14th | +5 | Ranger Path Feature | 12 | 42 | 3 |
-| 15th | +5 | Perfect Focus | 12 | 42 | 4 |
-| 16th | +5 | Ability Score Improvement | 14 | 47 | 4 |
-| 17th | +6 | Apex Hunter | 14 | 53 | 4 |
-| 18th | +6 | Unerring Strike, Ranger Path Feature | 16 | 59 | 4 |
-| 19th | +6 | Ability Score Improvement | 16 | 59 | 4 |
-| 20th | +6 | Living Hunt | 18 | 65 | 4 |
+| Level | Prof. | Features | SP | MP | Techniques | Focus Points |
+|:---:|:---:|:---------------------------|:---:|:---:|:---:|:---:|
+| 1st | +2 | Spellcasting, Hunter's Insight, Focus System | 2 | 4 | — | 3 |
+| 2nd | +2 | Ranger Techniques | 3 | 6 | 3 | 3 |
+| 3rd | +2 | Ranger Path Feature | 4 | 6 | 3 | 3 |
+| 4th | +2 | Ability Score Improvement | 4 | 11 | 3 | 3 |
+| 5th | +3 | Extra Attack | 5 | 16 | 3 | 3 |
+| 6th | +3 | Improved Hunter's Insight | 5 | 19 | 3 | 3 |
+| 7th | +3 | Ranger Path Feature | 6 | 19 | 4 | 3 |
+| 8th | +3 | Ability Score Improvement | 6 | 23 | 4 | 3 |
+| 9th | +4 | Survival Instinct | 8 | 27 | 4 | 3 |
+| 10th | +4 | Marked Precision | 8 | 31 | 4 | 3 |
+| 11th | +4 | Relentless Focus, Ranger Path Feature | 8 | 32 | 5 | 3 |
+| 12th | +4 | Ability Score Improvement | 10 | 37 | 5 | 3 |
+| 13th | +5 | Master Tracker | 10 | 37 | 5 | 3 |
+| 14th | +5 | Ranger Path Feature | 12 | 42 | 5 | 3 |
+| 15th | +5 | Perfect Focus | 12 | 42 | 6 | 4 |
+| 16th | +5 | Ability Score Improvement | 14 | 47 | 6 | 4 |
+| 17th | +6 | Apex Hunter | 14 | 53 | 6 | 4 |
+| 18th | +6 | Unerring Strike, Ranger Path Feature | 16 | 59 | 6 | 4 |
+| 19th | +6 | Ability Score Improvement | 16 | 59 | 6 | 4 |
+| 20th | +6 | Living Hunt | 18 | 65 | 6 | 4 |
 }}
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/XwoUJlb.png' alt='Ranger' style='display:block;width:328px;height:292px;margin:6px auto 2px auto'/>
@@ -5523,8 +5589,6 @@ You start with the following equipment, in addition to equipment granted by your
 #### Spellcasting
 You gain the ability to cast spells using **Magic Points (MP)**.
 
-\column
-
 - **Spellcasting Ability:** Wisdom  
 - **Spell List:** Ranger spell list (utility-focused, exploration, control, enhancement)  
 - MP costs and MP recovery are the same as for every other caster: see the **Magic System** chapter. Your MP returns on a long rest, and a cantrip costs 1 MP.
@@ -5541,14 +5605,14 @@ You gain **Focus Points (FP)** representing battlefield awareness, timing, and p
 - You can spend Focus Points to enhance attacks, reactions, and special techniques
 - You regain Focus Points through combat performance (see below)
 
-#### Gaining Focus Points
-You regain Focus Points in the following ways, up to your maximum:
-
 {{footnote Classes | Ranger }}
 
 {{pageNumber,auto}}
 
 \page
+
+#### Gaining Focus Points
+You regain Focus Points in the following ways, up to your maximum:
 
 - Once per turn, when you hit a creature you have marked: **+1 FP**
 - When you score a critical hit: **+1 FP**
@@ -5569,10 +5633,12 @@ While marked, you learn one of the following (DM's choice or revealed gradually)
 
 Only one creature can be marked at a time.
 
+*Marked* in this class always means marked by Hunter's Insight. A target of the *Hunter's Mark* spell isn't marked for these features unless you have also marked it with Hunter's Insight.
+
 #### 2nd Level: Ranger Techniques
 At 2nd level, you learn specialized combat techniques fueled by Focus Points.
 
-You learn 3 techniques of your choice. You learn more at higher levels.
+You learn 3 techniques of your choice, and one more at 7th, 11th and 15th level, as shown in the **Techniques** column of the Ranger table. Whenever you gain a Ranger level, you can replace one technique you know with another.
 
 You can use only one technique per attack unless otherwise stated.
 
@@ -5592,6 +5658,8 @@ On hit:
 
 - Target must make a Strength saving throw or drop one held item
 
+\column
+
 ###### Precise Strike (1 FP)
 When you make an attack roll:
 
@@ -5601,8 +5669,6 @@ When you make an attack roll:
 After hitting a marked creature:
 
 - Deal additional weapon damage equal to your Wisdom modifier + proficiency bonus
-
-\column
 
 ###### Hunter's Burst (2 FP)
 After hitting a creature:
@@ -5641,17 +5707,17 @@ When you attack a marked creature:
 - You ignore half cover and three-quarters cover
 - You add +1d6 damage once per turn to the first hit against a marked target
 
-#### 11th Level: Relentless Focus
-Your Focus Points become more efficient in combat.
-
-- When you spend a Focus Point, you may roll a d6
-- On a 5–6, that Focus Point is not expended
-
 {{footnote Classes | Ranger }}
 
 {{pageNumber,auto}}
 
 \page
+
+#### 11th Level: Relentless Focus
+Your Focus Points become more efficient in combat.
+
+- When you spend a Focus Point, you may roll a d6
+- On a 5–6, that Focus Point is not expended
 
 #### 13th Level: Master Tracker
 You can track and predict movement with near-supernatural accuracy.
@@ -5663,17 +5729,15 @@ You can track and predict movement with near-supernatural accuracy.
 Your precision reaches its peak.
 
 - Your maximum Focus Points becomes **4 instead of 3**
-- When you start combat, you begin with maximum Focus Points
+- You can use two different techniques on the same attack, paying the Focus Point cost of each.
 
 #### 17th Level: Apex Hunter
-When you hit a marked creature:
-
-- You may spend 1 Focus Point to force it to reroll a saving throw it just made
+When a marked creature succeeds on a saving throw against one of your techniques, spells or Ranger features, you may spend 1 Focus Point (no action) to force it to reroll the save. It must use the new roll.
 
 #### 18th Level: Unerring Strike
 Your attacks rarely miss their mark.
 
-- Once per turn, if you miss an attack roll, you may add +10 to the roll, potentially turning it into a hit
+- Once per turn, when you miss with an attack roll, you may spend 1 Focus Point to add +10 to the roll, potentially turning it into a hit
 
 #### 20th Level: Living Hunt
 You become the embodiment of the hunt itself.
@@ -5687,19 +5751,53 @@ You become the embodiment of the hunt itself.
 Beastmasters fight alongside a bonded spirit companion, a manifestation of wilderness instinct rather than a permanent physical animal.
 
 #### 3rd Level: Spectral Companion
-You summon a spirit companion as a bonus action.
+As a bonus action, you summon your **Spectral Companion**, a spirit of the wild, in an unoccupied space within 30 feet of you. Choose its form from the Companion Forms table below. You may change its form when you finish a long rest.
 
-- The companion is a spectral beast (wolf, hawk, serpent, bear, etc.)
-- It acts on your initiative
-- It uses your proficiency bonus and scales with Ranger level
-- It does not require tracking or feeding
+- It is friendly to you and your allies and obeys your commands. It uses the stat block below, which scales with your Ranger level and uses your proficiency bonus.
+- In combat it acts on your initiative, immediately after you. It can move and use its reaction on its own, but the only action it takes is the Dodge action unless you use a bonus action to command it to take another action (Attack, Dash, Disengage, Help or Hide). From 5th level, when you take the Attack action, you can give up one of your attacks to command it to take the Attack action. If you are incapacitated, it acts on its own.
+- It does not require tracking or feeding, and it doesn't need to eat, drink or sleep.
+- It stays until you dismiss it (no action), it drops to 0 hit points, or you die. At 0 hit points it fades. You can summon it again when you finish a long rest, or sooner by using a bonus action and spending 2 MP.
 
-You may change its form during a long rest.
+{{monster,frame
+## Spectral Companion
+*Medium Beast (Spirit), Unaligned*
+___
+**Armor Class** :: 13 + your proficiency bonus (natural armor)
+**Hit Points**  :: 5 + five times your Ranger level (d8 Hit Dice equal to your Ranger level)
+**Speed**       :: by form (see Companion Forms)
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)|14 (+2)|13 (+1)|8 (-1)|14 (+2)|11 (+0)|
+___
+**Senses**               :: darkvision 60 ft., passive Perception 12 + your proficiency bonus
+**Languages**            :: understands the languages you speak
+**Challenge**            :: — {{bonus **Proficiency Bonus** equals yours}}
+___
+***Spirit Bond.*** Add your proficiency bonus to any ability check or saving throw the companion makes.
+:
+***Spectral.*** Its attacks count as magical for overcoming resistance and immunity to nonmagical attacks.
+### Actions
+***Spirit Strike.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 1d8 + 2 + your proficiency bonus damage of its form's type.
+}}
+
+{{footnote Classes | Ranger }}
+
+{{pageNumber,auto}}
+
+\page
+
+{{classTable,frame
+#### Companion Forms
+| Form | Speed | Damage | Trait |
+|:-----|:------|:-------|:------|
+| **Land** (wolf, bear, boar) | 40 ft., climb 40 ft. | Slashing | **Charge.** If it moves at least 20 feet straight toward a creature and then hits it with Spirit Strike on the same turn, the target takes an extra 1d6 damage and must succeed on a Strength saving throw against your spell save DC or be knocked prone. |
+| **Sky** (hawk, owl, Loftwing) | 10 ft., fly 60 ft. | Slashing | **Flyby.** It doesn't provoke opportunity attacks when it flies out of an enemy's reach. Its hit points are 4 + four times your Ranger level. |
+| **Water** (serpent, eel) | 30 ft., swim 60 ft. | Piercing | **Coil.** It can breathe air and water. When it hits a creature with Spirit Strike, the target is grappled (escape DC equals your spell save DC). It can grapple one creature at a time. |
+}}
 
 #### 7th Level: Coordinated Hunt
 When your companion hits a creature:
-
-\column
 
 - You gain 1 Focus Point (once per turn)
 - You may use your reaction to make one weapon attack against that creature
@@ -5709,7 +5807,7 @@ You and your companion act as one hunting unit.
 
 - While within 30 feet of your companion:
   - You both gain advantage on Perception and Stealth checks
-  - Your Focus Point gain triggers also apply to your companion's hits
+  - Your Focus Point gain triggers also apply to your companion's hits. A companion hit that grants FP through Coordinated Hunt doesn't also grant it through the marked-hit trigger, and you and your companion share that trigger's once-per-turn limit.
 
 #### 14th Level: Predator's Bond
 Your companion becomes more resilient.
@@ -5748,12 +5846,6 @@ You may teleport short distances.
 #### 14th Level: Deathmark
 When you mark a creature:
 
-{{footnote Classes | Ranger }}
-
-{{pageNumber,auto}}
-
-\page
-
 - It cannot benefit from invisibility against you
 - It cannot take reactions against you
 
@@ -5778,6 +5870,12 @@ When you hit a marked creature:
 
 - You may spend 1 Focus Point to impose disadvantage on its next saving throw
 
+{{footnote Classes | Ranger }}
+
+{{pageNumber,auto}}
+
+\page
+
 #### 11th Level: Hunter's Edge
 When a marked creature fails a saving throw:
 
@@ -5799,20 +5897,19 @@ Marked creatures cannot:
 Elemental Archers infuse their shots with primal elemental force.
 
 #### 3rd Level: Elemental Arrows
-You can change your damage type when you attack:
-
-- Fire, Cold, Lightning, Thunder, or Poison
-- Once per turn, change damage type without cost
+When you make a ranged weapon attack, you can choose for its damage to be **fire, cold, lightning, thunder or poison** instead of its normal type. This replaces the weapon's damage type; it doesn't add damage. You can choose a different element for each attack.
 
 #### 7th Level: Elemental Reaction
-When you hit a creature with elemental damage:
+When you hit a creature with an Elemental Arrow, it is **Primed** with that element until the end of your next turn. When you hit a Primed creature with a **different** element that forms a pair below, the Prime ends and the pairing takes effect. A creature can be affected by only one pairing per turn.
 
-\column
-
-- You may apply a secondary effect based on element pairing:
-  - Fire + Cold = Stun (1 turn)
-  - Lightning + Water/Cold = Paralysis (1 turn)
-  - Poison + Fire = Burst damage
+{{classTable
+| Pairing (either order) | Effect |
+|------------------------|--------|
+| Fire + Cold | Constitution save against your spell save DC or **Stunned** until the end of its next turn. Once per creature per combat. |
+| Lightning + Cold | Constitution save or **Paralyzed** until the end of its next turn. Once per creature per combat. A creature standing in water or soaked counts as Primed with cold for this pairing. |
+| Poison + Fire | The poison ignites: the target and each creature within 5 feet of it take fire damage equal to your Wisdom modifier + proficiency bonus. |
+| Thunder + any other | The target is pushed 10 feet away from you. |
+}}
 
 #### 11th Level: Arc Shot
 Your arrows can arc to additional targets.
@@ -5828,7 +5925,7 @@ Once per short rest:
 You embody elemental mastery.
 
 - Your attacks ignore resistance to elemental damage
-- Once per turn, you may apply two elemental effects on a single hit
+- Once per turn, a hit can carry two elements: its damage is the first, and it triggers the pairing with the second at once, as if the target were Primed with it.
 
 ## Ranger Spell List
 
@@ -5985,26 +6082,26 @@ You start with the following equipment, in addition to the equipment granted by 
 | Level | Proficiency | Features | Cantrips | —— Spell Slots Per Spell Level —— |||||||||
 |      ^| Bonus      ^|         ^| Known   ^| 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |   ^|
 |:-----:|:-----------:|:---------|:--------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1st  | +2 | Elemental Affinity, Invoke Blessings | 3 | 3 | — | — | — | — | — | — | — | — |
-| 2nd  | +2 | Sage Insight                         | 3 | 4 | — | — | — | — | — | — | — | — |
-| 3rd  | +2 | Oracle Path                          | 3 | 4 | 3 | — | — | — | — | — | — | — |
-| 4th  | +2 | Ability Score Improvement            | 4 | 4 | 4 | — | — | — | — | — | — | — |
-| 5th  | +3 | Empowered Blessings                  | 4 | 4 | 3 | 3 | — | — | — | — | — | — |
-| 6th  | +3 | Oracle Feature                       | 4 | 4 | 3 | 4 | — | — | — | — | — | — |
-| 7th  | +3 | Dual Affinity                        | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 8th  | +3 | Ability Score Improvement            | 4 | 4 | 3 | 3 | 3 | — | — | — | — | — |
-| 9th  | +4 | Triforce Resonance                   | 4 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 10th | +4 | Oracle Feature                       | 5 | 4 | 3 | 3 | 3 | 3 | — | — | — | — |
-| 11th | +4 | Master of Elements                   | 5 | 4 | 3 | 3 | 3 | 2 | 2 | — | — | — |
-| 12th | +4 | Ability Score Improvement            | 5 | 4 | 3 | 3 | 3 | 2 | 2 | — | — | — |
-| 13th | +5 | Arcane Apotheosis                    | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 2 | — | — |
-| 14th | +5 | Oracle Feature                       | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 2 | — | — |
-| 15th | +5 | Elemental Mastery                    | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 2 | — |
-| 16th | +5 | Ability Score Improvement            | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 2 | — |
-| 17th | +6 | Sage's Transcendence                 | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 2 |
-| 18th | +6 | Oracle Feature                       | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 2 |
-| 19th | +6 | Ability Score Improvement            | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 2 |
-| 20th | +6 | Avatar of the Sages                  | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 2 |
+| 1st  | +2 | Elemental Affinity, Invoke Blessings | 3 | 2 | — | — | — | — | — | — | — | — |
+| 2nd  | +2 | Sage Insight                         | 3 | 3 | — | — | — | — | — | — | — | — |
+| 3rd  | +2 | Oracle Path                          | 3 | 4 | 2 | — | — | — | — | — | — | — |
+| 4th  | +2 | Ability Score Improvement            | 4 | 4 | 3 | — | — | — | — | — | — | — |
+| 5th  | +3 | Empowered Blessings                  | 4 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th  | +3 | Oracle Feature                       | 4 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th  | +3 | Dual Affinity                        | 4 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th  | +3 | Ability Score Improvement            | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th  | +4 | Triforce Resonance                   | 4 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | Oracle Feature                       | 5 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +4 | Master of Elements                   | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | +4 | Ability Score Improvement            | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 | Arcane Apotheosis                    | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | Oracle Feature                       | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 | Elemental Mastery                    | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 | Ability Score Improvement            | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 | Sage's Transcendence                 | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 | Oracle Feature                       | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | +6 | Ability Score Improvement            | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | +6 | Avatar of the Sages                  | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 }}
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/HWAoC_Monk_Maz_Koshia_Artwork.webp' alt='Maz Koshia' style='display:block;width:292px;height:330px;margin:6px auto 2px auto'/>
@@ -6017,13 +6114,23 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Core Features
 
-#### 1st Level: Elemental Affinity
-At 1st level, choose one elemental affinity: **Fire, Water, Wind, Earth, Spirit, or Light**.
+#### Spellcasting
+You cast spells using **Magic Points (MP)**. MP costs and recovery are covered in the **Magic System** chapter.
+- **Spellcasting Ability:** Intelligence or Wisdom, chosen at 1st level. A scholar-Sage studies the elements; a mystic-Sage listens to them.
+- **Spell List:** Sage spell list, plus your affinity's bonus spells
+- **Spell Level Cap:** 9th level.
 
-You gain:
-- Resistance to the affinity's damage type  
-- Two affinity spells added to your class spell list  
-- **Elemental Shift:** Once per turn, when you cast a spell that deals damage, you may change its damage type to your affinity  
+#### 1st Level: Elemental Affinity
+At 1st level, choose one elemental affinity from the Elemental Affinities table. You gain:
+- Resistance to the affinity's damage type
+- The affinity's two bonus spells, added to your Sage spell list
+- **Elemental Shift:** Once per turn, when you cast a spell that deals damage, you may change its damage type to your affinity's damage type
+
+Your **affinity spells** are your affinity's two bonus spells, plus any spell on your list that deals your affinity's damage type as written (before Elemental Shift).
+
+{{imageMaskCorner27,--offsetX:40%,--offsetY:-30%,--rotation:0
+  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/oNiuhuv.png){Right:50px,top:350px,height:60%}
+}}
 
 #### 1st Level: Invoke Blessings (1 MP)
 As a bonus action, choose one:
@@ -6035,14 +6142,18 @@ As a bonus action, choose one:
 You have advantage on Arcana and History checks related to ancient magic, ruins, or divine artifacts.
 
 #### 5th Level: Empowered Blessings
-Starting at 5th level, Invoke Blessings can affect **two creatures** instead of one.
+Starting at 5th level, when you use Invoke Blessings, you may choose **two different** Blessings instead of one.
 
 #### 7th Level: Dual Affinity
 At 7th level, choose a second affinity.
 - You gain its bonus spells
+- Elemental Shift can use either affinity's damage type. You don't gain the second affinity's resistance or Avatar movement.
 - You may combine affinities narratively (fire + wind = lightning, etc.)
 
 #### 9th Level: Triforce Resonance
+
+\column
+
 At 9th level, once per long rest, choose one:
 - **Power:** +INT or WIS modifier to spell damage for 1 minute  
 - **Wisdom:** Regain MP equal to your proficiency bonus  
@@ -6053,13 +6164,29 @@ At 11th level:
 - Your spells ignore resistance to your affinity damage types  
 - Elemental Shift applies to **all** spells you cast  
 
+{{footnote Classes | Sage }}
+
+{{pageNumber,auto}}
+
+\page
+
 #### 13th Level: Arcane Apotheosis
 At 13th level, you may concentrate on one additional **affinity-based spell** that targets only enemies.
 
 #### 15th Level: Elemental Mastery
 At 15th level, when you cast an affinity spell, you may reduce its MP cost by 1 (minimum 1).
 
-\column
+{{classTable,frame
+#### Elemental Affinities
+| Affinity | Damage Type | Bonus Spells | Avatar Movement (20th level) |
+|:---------|:------------|:-------------|:-----------------------------|
+| Fire | Fire | *Hellish Rebuke* (1st), *Scorching Ray* (2nd) | **Ember Stride.** Your walking speed increases by 10 feet, and you can move across lava and burning ground without taking damage from it. |
+| Water | Cold | *Cure Wounds* (1st), *Water Breathing* (3rd) | **Tidewalker.** You gain a swimming speed of 60 feet, and you can breathe water. |
+| Wind | Thunder | *Feather Fall* (1st), *Whirlwind* (7th) | **Galeborne.** You gain a flying speed of 60 feet, and you can hover. |
+| Earth | Bludgeoning | *Barkskin* (2nd), *Destructive Wave* (5th) | **Stonewalk.** You gain a burrowing speed of 30 feet through earth, sand and loose stone. You leave no tunnel. |
+| Spirit | Necrotic | *Sanctuary* (1st), *Spirit Shroud* (3rd) | **Spirit Walk.** You can move through creatures and objects as if they were difficult terrain. You take 1d10 force damage if you end your turn inside an object. |
+| Light | Radiant | *Guiding Bolt* (1st), *Sunbeam* (6th) | **Radiant Step.** As a bonus action, you can teleport up to 60 feet to an unoccupied space you can see that is in bright light. |
+}}
 
 #### 17th Level: Sage's Transcendence
 At 17th level:
@@ -6068,14 +6195,10 @@ At 17th level:
 
 #### 20th Level: Avatar of the Sages
 At 20th level, you embody the ancient Sages:
-- Gain a permanent elemental movement feature based on your primary affinity  
+- Gain a permanent elemental movement feature: your first affinity's **Avatar Movement** (see the Elemental Affinities table)  
 - Once per long rest, for 1 minute:
   - All affinity spells cost 1 less MP  
   - You gain advantage on spell attack rolls and saving throws
-
-{{imageMaskCorner27,--offsetX:40%,--offsetY:-30%,--rotation:0
-  ![](https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/oNiuhuv.png){Right:50px,top:350px,height:60%}
-}}
 
 {{footnote Classes | Sage }}
 
@@ -6109,7 +6232,7 @@ Once per long rest, maximize the damage of one affinity spell.
 *Controllers of terrain, weather, and flow.*
 
 #### 3rd Level: Seasonal Shift
-When you cast an affinity spell, you may create difficult terrain in a 10-ft radius.
+When you cast an affinity spell, you may create difficult terrain in a 10-foot radius centred on a point within the spell's area or on one of its targets. It lasts for 1 minute, or until you use this feature again.
 
 #### 6th Level: Elemental Control
 Creatures that fail saves against your spells have their speed reduced by 10 feet until your next turn.
@@ -6147,11 +6270,9 @@ Allies within 30 feet gain advantage on saves while you maintain concentration.
 
 The Sage channels the ancient elemental and spiritual magic of Hyrule's sages, filtered through a chosen Elemental Affinity (Fire, Water, Wind, Earth, Spirit, or Light). The list below is complete; full entries are in the **Spell Compendium** chapter.
 
-**Spellcasting Ability:** Intelligence (or Wisdom, by Elemental Affinity)
+**Spellcasting Ability:** Intelligence or Wisdom (chosen at 1st level)
 **Spell Compendium:** see the **Spell Compendium** chapter of this book
-**Subclass Bonus:** A Sage's Elemental Affinity and Oracle Path may grant additional spells at the DM's discretion, drawn from anywhere in the Spell Compendium. See **Unassigned Spells** at the end of that chapter for a pool written for exactly this purpose.
-
-Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendium; all others are drawn from the standard 5e spell list or named variants thereof, and use standard 5e statistics unless the compendium provides a Hyrule-flavored version.
+**Subclass Bonus:** Your Elemental Affinity adds its two bonus spells to this list (see the Elemental Affinities table). Your Oracle Path may grant more at the DM's discretion, drawn from anywhere in the Spell Compendium. See **Unassigned Spells** at the end of that chapter for a pool written for exactly this purpose.
 
 {{footnote Classes | Sage }}
 
@@ -6161,7 +6282,7 @@ Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendi
 
 {{spellList,wide
 ##### Cantrips (1 MP)
-- Guidance ✦
+- Guidance
 - Fire Bolt
 - Ray of Frost
 - Thunderclap
@@ -6178,7 +6299,7 @@ Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendi
 - Mold Earth
 ##### 1st Level (2 MP)
 - Absorb Elements
-- Alarm (Spiritual Ward) ✦
+- Alarm (Spiritual Ward)
 - Burning Hands
 - Chromatic Orb
 - Color Spray
@@ -6202,7 +6323,7 @@ Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendi
 - Detect Thoughts
 - Dust Devil
 - Enlarge/Reduce
-- Flaming Sphere ✦
+- Flaming Sphere
 - Gust of Wind
 - Hold Person
 - Invisibility
@@ -6216,45 +6337,45 @@ Spells marked with ✦ are **Zelda-original spells** found in the Spell Compendi
 - Silence
 - Spider Climb
 - Spike Growth
-- Alter Self ✦
+- Alter Self
 ##### 3rd Level (4 MP)
-- Animate Dead ✦
+- Animate Dead
 - Bestow Curse
 - Call Lightning
-- Clairvoyance ✦
+- Clairvoyance
 - Counterspell
-- Daylight ✦
+- Daylight
 - Dispel Magic
 - Erupting Earth
 - Fireball
-- Fly ✦
+- Fly
 - Gaseous Form
 - Glyph of Warding
 - Haste
 - Hypnotic Pattern
 - Lightning Bolt
 - Meld into Stone
-- Remove Curse ✦
-- Sending ✦
-- Sleet Storm ✦
+- Remove Curse
+- Sending
+- Sleet Storm
 - Slow
 - Speak with Dead
 - Speak with Plants
-- Spirit Guardians ✦
+- Spirit Guardians
 - Thunder Step
 - Tongues
 - Wall of Water
 - Wind Wall
 ##### 4th Level (5 MP)
-- Arcane Eye ✦
-- Banishment ✦
-- Blight ✦
+- Arcane Eye
+- Banishment
+- Blight
 - Confusion
-- Control Water ✦
+- Control Water
 - Death Ward
-- Ice Storm ✦
+- Ice Storm
 - Polymorph
-- Stone Shape ✦
+- Stone Shape
 - Stoneskin
 - Wall of Fire
 ##### 5th Level (6 MP)
@@ -6354,8 +6475,6 @@ You start with the following equipment, in addition to the equipment granted by 
 - An explorer's pack  
 - An herbalism kit
 
-\column
-
 ### Magic Points (MP)
 
 You use **Magic Points (MP)** to cast Shaman spells.
@@ -6364,7 +6483,7 @@ You use **Magic Points (MP)** to cast Shaman spells.
 - **Exception to the general rule:** you also regain half your MP (rounded up) on a short rest. Every other caster in this book recovers MP only on a long rest. The Shaman draws from the elements around them rather than from a personal reserve, so their magic returns faster, and their spell list is built for sustained pressure rather than burst.
 - You cannot exceed your maximum MP.
 - Your spellcasting ability is **Wisdom**.
-- **Spell Level Cap:** 6th level (Overchanneling required for spells above 5th level).
+- **Spell Level Cap:** 9th level.
 
 {{classTable,frame
 #### Shaman
@@ -6405,10 +6524,10 @@ You use **Magic Points (MP)** to cast Shaman spells.
 | Level | Proficiency | Features | Cantrips | —— Spell Slots Per Spell Level —— |||||||||
 |      ^| Bonus      ^|         ^| Known   ^| 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:-----:|:-----------:|:---------|:--------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1st  | +2 | Elemental Channeling, Elemental Marks | 2 | 3 | — | — | — | — | — | — | — | — |
-| 2nd  | +2 | Elemental Ward                     | 2 | 4 | — | — | — | — | — | — | — | — |
+| 1st  | +2 | Elemental Channeling, Elemental Marks | 2 | 2 | — | — | — | — | — | — | — | — |
+| 2nd  | +2 | Elemental Ward                     | 2 | 3 | — | — | — | — | — | — | — | — |
 | 3rd  | +2 | Shaman Path                        | 2 | 4 | 2 | — | — | — | — | — | — | — |
-| 4th  | +2 | Ability Score Improvement          | 3 | 4 | 4 | — | — | — | — | — | — | — |
+| 4th  | +2 | Ability Score Improvement          | 3 | 4 | 3 | — | — | — | — | — | — | — |
 | 5th  | +3 | Elemental Flow                     | 3 | 4 | 3 | 2 | — | — | — | — | — | — |
 | 6th  | +3 | Shaman Path Feature                | 3 | 4 | 3 | 3 | — | — | — | — | — | — |
 | 7th  | +3 | Spirit Drift                       | 3 | 4 | 3 | 3 | 1 | — | — | — | — | — |
@@ -6429,7 +6548,16 @@ You use **Magic Points (MP)** to cast Shaman spells.
 
 #### 1st Level: Elemental Channeling
 
-When you cast a Shaman spell that deals elemental damage (fire, cold, lightning, thunder, or nature/poison), you may apply an **Elemental Mark** to one creature damaged by the spell.
+When you cast a Shaman spell that deals elemental damage, you may apply the matching **Elemental Mark** to one creature damaged by the spell. If the spell deals more than one of these types (such as *Ice Storm*), choose which Mark to apply.
+
+{{classTable
+| Mark | Applied by a spell that deals | Mark's damage type |
+|------|-------------------------------|--------------------|
+| Flame | fire | fire |
+| Frost | cold | cold |
+| Storm | lightning or thunder | lightning |
+| Root | poison, acid, bludgeoning or piercing | poison |
+}}
 
 A creature may only have **one Mark at a time** (until level 11).
 
@@ -6451,16 +6579,18 @@ Target has disadvantage on its next attack roll.
 - **Root Mark**
 Target must succeed on a Strength save or its speed becomes 0 until the end of its next turn.
 
+\column
+
 ### Elemental Reactions
 
-If you apply a Mark to a creature that already has a Mark you applied, trigger an **Elemental Reaction** instead.
+If you apply a Mark to a creature that already has a **different** Mark you applied, you trigger an **Elemental Reaction** instead:
 
-- The previous Mark is removed.
-- The reaction occurs.
-- No new Mark is applied.
-- A creature can only trigger one Elemental Reaction per turn. This is not the ordinary D&D reaction and does not use one.
+- The existing Mark is removed.
+- The Reaction in the tables below occurs.
+- The new Mark is not applied.
+- A creature can trigger only one Elemental Reaction per turn. This is not the ordinary D&D reaction and does not use one.
 
-\column
+If you apply a Mark the creature already has, no Reaction occurs; that Mark's duration restarts instead.
 
 ### Opposing Elements
 
@@ -6470,20 +6600,7 @@ If you apply a Mark to a creature that already has a Mark you applied, trigger a
 | Flame | Frost | Remove Flame. Target is **Stunned** until end of its next turn (1/combat per creature). |
 | Frost | Flame | Remove Frost. Target takes bonus fire damage equal to your proficiency bonus. |
 | Storm | Root | Target is knocked **Prone**. |
-| Root | Storm | Target is lifted 10 feet and falls, taking 1d6 damage. |
-}}
-
-### Synergistic Extensions
-
-{{classTable
-| Existing Mark | New Mark | Reaction |
-|---------------|----------|----------|
-| Flame | Storm | Burning increases to 1d6 and lasts 1 extra round. |
-| Flame | Root | Target becomes **Restrained** until end of its next turn. |
-| Frost | Root | Target becomes **Restrained** (ice binds). |
-| Frost | Storm | Target's speed is halved and it has disadvantage on Dexterity saves until end of next turn. |
-| Root | Flame | Target takes bonus damage and must succeed on STR save or fall prone. |
-| Storm | Flame | Target has disadvantage on its next saving throw against your spells. |
+| Root | Storm | Target is lifted 10 feet and falls, taking 1d6 bludgeoning damage. |
 }}
 
 {{footnote Classes | Shaman }}
@@ -6492,13 +6609,28 @@ If you apply a Mark to a creature that already has a Mark you applied, trigger a
 
 \page
 
+### Synergistic Extensions
+
+{{classTable
+| Existing Mark | New Mark | Reaction |
+|---------------|----------|----------|
+| Flame | Storm | Target takes 1d6 fire damage at the start of each of its next two turns. |
+| Flame | Root | Target becomes **Restrained** until the end of its next turn. |
+| Frost | Root | Target becomes **Restrained** until the end of its next turn (ice binds). |
+| Frost | Storm | Target's speed is halved and it has disadvantage on Dexterity saves until the end of its next turn. |
+| Root | Flame | Target takes bonus fire damage equal to your proficiency bonus and must succeed on a Strength saving throw against your spell save DC or fall **Prone**. |
+| Storm | Flame | Target has disadvantage on its next saving throw against your spells. |
+| Storm | Frost | Target's speed becomes 0, and it can't take reactions until the end of its next turn. |
+| Root | Frost | Target takes cold damage equal to your proficiency bonus and has disadvantage on Strength and Dexterity saving throws until the end of its next turn. |
+}}
+
 #### 2nd Level: Elemental Ward
 
 When you take damage, you may use your reaction and spend 1 MP to reduce the damage by:
 
 **1d10 + your Wisdom modifier**
 
-If the attacker has one of your Marks, you may immediately trigger a valid Elemental Reaction without spending additional MP.
+If the attacker has one of your Marks, you may also apply a different Mark of your choice to it, triggering an Elemental Reaction, without spending additional MP. This counts as the creature's one Elemental Reaction for the turn.
 
 #### 3rd Level: Shaman Path
 
@@ -6523,6 +6655,9 @@ As a bonus action, spend 2 MP to become semi-ethereal for 1 round:
 - You may move through creatures  
 - Your movement does not provoke opportunity attacks  
 
+
+\column
+
 #### 9th Level: Elemental Attunement
 The elements begin to answer before you call them.
 
@@ -6530,24 +6665,29 @@ The elements begin to answer before you call them.
 - When you cast a Shaman spell that damages more than one creature, you may apply your Mark to **two** creatures damaged by it instead of one.
 - You have resistance to the damage type of the Mark you most recently applied, until you apply a Mark of a different type.
 
-\column
-
 #### 11th Level: Dual Mark
 
-You may maintain **two Marks** on a creature at the same time.
+A creature can carry **two** of your Marks at once, of different types.
 
-If you would apply a third Mark, you choose which existing Mark ends.
+- When you apply a Mark to a creature that has one of your Marks, you choose: trigger an Elemental Reaction as normal, or add the new Mark alongside the existing one.
+- When you apply a Mark to a creature that already has two of your Marks, you trigger a Reaction with the existing Mark of your choice. That Mark is removed and the other stays. The new Mark is not applied.
 
 #### 13th Level: Twinned Reaction
 You can set two elements against each other at once.
 
-- When you trigger an Elemental Reaction against a creature carrying two of your Marks (see **Dual Mark**), you may spend **2 MP** to immediately trigger a second valid Elemental Reaction against that creature using its remaining Mark.
+- When you trigger an Elemental Reaction against a creature carrying two of your Marks (see **Dual Mark**), you may spend **2 MP** to immediately trigger a second valid Elemental Reaction against that creature, pairing its remaining Mark with the same new Mark. Both existing Marks are removed.
 - This is an exception to the rule that a creature can only trigger one Elemental Reaction per turn. A creature still cannot be affected by the *same* Elemental Reaction twice in a turn.
 - **Elemental Flow** refunds MP for only one Elemental Reaction per turn, as normal, so the second one always costs you 2 MP net.
 
 #### 15th Level: Elemental Cascade
 
 When you trigger an Elemental Reaction, you may apply one of the involved Marks to a different creature within 15 feet.
+
+{{footnote Classes | Shaman }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### 17th Level: Elemental Sovereignty
 The four elements no longer resist your hand.
@@ -6560,19 +6700,13 @@ The four elements no longer resist your hand.
 
 Once per long rest, as an action, you embody elemental harmony for 1 minute:
 
-- Marks last 2 rounds.
-- You may trigger one Elemental Reaction per creature per turn.
+- As a bonus action on each of your turns, you may apply a Mark of any type to one creature you can see within 60 feet, without casting a spell.
+- **Elemental Flow** restores MP for every Elemental Reaction you trigger, not just the first each turn.
 - At the start of your turn, if at least one creature has your Mark, regain 1 MP.
 
 ## Shaman Paths
 
 At 3rd level, you choose a path that defines how you channel elemental spirits and wield the Mark system in combat. Your path grants features at 3rd, 6th, 10th, 14th, and 18th level.
-
-{{footnote Classes | Shaman }}
-
-{{pageNumber,auto}}
-
-\page
 
 All four paths work with any combination of Elemental Marks. Your path defines *how* you fight, not which element you reach for.
 
@@ -6586,7 +6720,10 @@ Flamecallers are the most aggressive Shamans: high-risk, high-reward casters who
 
 When you trigger an Elemental Reaction, you may add your Wisdom modifier to the reaction's damage (if it deals damage) or increase a condition's duration by 1 round (if it does not).
 
-In addition, once per turn when you apply a Mark, you may spend 1 MP to **Ignite** the Mark, so that it takes effect at the start of the target's *current* turn rather than the next.
+In addition, once per turn when you apply a Flame Mark, you may spend 1 MP to **Ignite** it: the target immediately takes the Mark's 1d4 fire damage, as well as taking it at the start of its turn as normal.
+
+
+\column
 
 #### 6th Level: Chain Detonation
 
@@ -6608,8 +6745,6 @@ You become a conduit for raw elemental discharge. As a bonus action, you enter a
 - The first Reaction you trigger each round deals maximum damage dice.
 - If you trigger two or more Reactions on the same turn, you regain 1 MP for each Reaction after the first.
 
-\column
-
 #### 18th Level: Inferno Ascendant
 
 Once per long rest, as an action, you call a pillar of elemental fire down upon a point you can see within 60 feet.
@@ -6623,6 +6758,12 @@ Reactions triggered by any of these Marks occur immediately at the start of the 
 *You don't destroy your enemies. You make them destroy themselves.*
 
 Stormspeakers are the tacticians of the Shaman paths: masters of control, misdirection, and cascading debuffs. They use Marks to unravel what makes an enemy effective, one piece at a time, until the target has no speed, no accuracy, and no turn worth taking. By the time a Stormspeaker is done, their opponents are stumbling through a fog of their own making.
+
+{{footnote Classes | Shaman }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### 3rd Level: Stormweave
 
@@ -6639,16 +6780,10 @@ You may use Stormweave a number of times equal to your proficiency bonus per lon
 When a creature fails a saving throw against one of your spells or Marks, you may spend 1 MP to impose one of the following until the start of your next turn:
 
 - It cannot move toward you willingly.
-- It must spend its action on its next turn repeating the failed save or doing nothing (Wisdom save negates, DC equals your spell save DC).
+- It can't take an action on its next turn unless it succeeds on a Wisdom saving throw against your spell save DC. It can still move.
 - It has disadvantage on the next attack roll it makes.
 
 You choose the effect after seeing the failed save.
-
-{{footnote Classes | Shaman }}
-
-{{pageNumber,auto}}
-
-\page
 
 #### 10th Level: Pressure System
 
@@ -6666,6 +6801,8 @@ As a bonus action, you may spend 2 MP to unleash a wave of disrupting force. Eac
 
 On a success, the target's Marks are removed with no Reaction.
 
+You can use this feature a number of times equal to your proficiency bonus per long rest.
+
 #### 18th Level: The Storm Speaks
 
 Once per long rest, as an action, you channel the storm's voice directly. For 1 minute:
@@ -6680,8 +6817,6 @@ Once per long rest, as an action, you channel the storm's voice directly. For 1 
 
 Worldshapers are the heart of the Shaman tradition: nature-bonded mediums who channel the deep, patient power of root and soil. They favor the Root Mark above all others, but their real strength is in reshaping the battlefield. They raise barriers, coax growth, and heal allies through the same channels they turn against enemies.
 
-\column
-
 #### 3rd Level: Root Communion
 
 Your bond with the Root Mark deepens. When you apply a Root Mark, choose one additional effect:
@@ -6690,7 +6825,7 @@ Your bond with the Root Mark deepens. When you apply a Root Mark, choose one add
 - An ally of your choice within 30 feet regains hit points equal to your Wisdom modifier.
 - The target is outlined in faint bioluminescent growth. It cannot benefit from invisibility or half-cover until the Mark ends.
 
-In addition, while you are on natural ground (earth, stone, grass or sand, but not constructed floors), your Root Marks last until the end of your turn *after* your next, instead of until the end of your next turn.
+In addition, while you are on natural ground (earth, stone, grass or sand, but not constructed floors), your Root Marks last one turn longer than they otherwise would (until the end of your second turn after you apply them, or your third from 9th level).
 
 #### 6th Level: Living Terrain
 
@@ -6702,6 +6837,12 @@ As a bonus action, you may spend 2 MP to shape a 10-foot square of terrain you c
 
 You may use Living Terrain a number of times equal to your proficiency bonus per long rest.
 
+{{footnote Classes | Shaman }}
+
+{{pageNumber,auto}}
+
+\page
+
 #### 10th Level: Verdant Flow
 
 When you trigger an Elemental Reaction involving a Root Mark, you may choose one allied creature within 30 feet to gain one of the following until the start of your next turn:
@@ -6711,12 +6852,6 @@ When you trigger an Elemental Reaction involving a Root Mark, you may choose one
 - A climbing speed equal to their walking speed and the ability to move through difficult terrain without cost.
 
 You may only grant each option once per round, but different allies may receive different options.
-
-{{footnote Classes | Shaman }}
-
-{{pageNumber,auto}}
-
-\page
 
 #### 14th Level: Spirit of the Grove
 
@@ -6745,8 +6880,6 @@ Once per long rest, as an action, you plant your staff or hand into the ground a
 
 Frostbinders are the patient predators of the Shaman paths: methodical, cold, and relentless. They do not burst. They accumulate. They layer Frost Marks, slow everything around them to a crawl, and pick apart enemies who can no longer get away. Against a Frostbinder the only strategy is not to be caught, and once you have been caught it is already over.
 
-\column
-
 #### 3rd Level: Permafrost
 
 When you apply a Frost Mark to a creature, it must immediately make a Strength saving throw against your spell save DC. On a failure, its speed is reduced by an additional 10 feet until the Mark ends (stacking with the Mark's base 10-foot reduction, for a total of −20 feet).
@@ -6767,6 +6900,12 @@ When you reduce a creature's speed to 0 through any combination of Frost Mark ef
 
 A creature cannot be Paralyzed by this feature more than once per combat.
 
+{{footnote Classes | Shaman }}
+
+{{pageNumber,auto}}
+
+\page
+
 #### 14th Level: Encasing Cold
 
 As a bonus action, spend 2 MP to extend your frost through the battlefield. Choose up to three creatures you can see within 60 feet that are Frost-Marked. Each must make a Constitution saving throw against your spell save DC.
@@ -6777,12 +6916,6 @@ On a success: The creature takes half damage and its Frost Mark is removed.
 
 This feature may be used a number of times equal to your proficiency bonus per long rest.
 
-{{footnote Classes | Shaman }}
-
-{{pageNumber,auto}}
-
-\page
-
 #### 18th Level: The Long Winter
 
 Once per long rest, as an action, you call upon the oldest cold. For 1 minute:
@@ -6791,8 +6924,6 @@ Once per long rest, as an action, you call upon the oldest cold. For 1 minute:
 - Your Frost Marks stack. A single creature can carry up to two Frost Marks simultaneously, each applying their −10 ft. speed reduction separately (maximum −20 ft. total from Marks alone).
 - When a creature within 60 feet fails a saving throw against any of your spells or features, it cannot regain movement speed by any means until the start of its next turn.
 - When a creature within 60 feet drops to 0 hit points, you may immediately apply a Frost Mark to any other creature within 15 feet of it at no cost.
-
-\column
 
 ## Shaman Spell List
 
@@ -6935,7 +7066,7 @@ As a Veilblade, you gain the following class features.
 
 ### Proficiencies
 - **Armor:** Light armor  
-- **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords  
+- **Weapons:** Simple weapons, hand crossbows, broadswords, rapiers, shortswords, and martial one-handed swords with the finesse property  
 - **Tools:** Thieves' tools  
 - **Saving Throws:** Dexterity, Intelligence  
 - **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Investigation, Perception, Sleight of Hand, Stealth, Survival  
@@ -6949,8 +7080,6 @@ You start with the following equipment, in addition to equipment granted by your
 - (a) leather armor or (b) studded leather armor  
 - (a) a burglar's pack or (b) an explorer's pack  
 - Thieves' tools and a hooded cloak  
-
-\column
 
 {{classTable,frame
 #### Veilblade
@@ -6989,7 +7118,7 @@ You start with the following equipment, in addition to equipment granted by your
 ### Core Features
 
 #### Sneak Strike
-Once per turn, when you hit a creature with a finesse weapon and have advantage on the attack roll, or when an ally is within 5 feet of the target, you deal extra damage.
+Once per turn, when you hit a creature with a finesse or ranged weapon and have advantage on the attack roll, or when another enemy of the target is within 5 feet of it, isn't incapacitated, and you don't have disadvantage on the attack roll, you deal extra damage.
 
 This damage is shown in the Sneak Strike column of the Veilblade table. It rises by 1d6 every four levels, to a maximum of 5d6 at 17th.
 
@@ -7023,7 +7152,8 @@ You learn three Special Attacks of your choice.
 - Special Attacks require a weapon hit unless specified.
 - You learn additional Special Attacks at 5th, 9th, 13th, and 17th level.
 
-\column
+#### 5th Level: Extra Attack
+You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 #### 6th Level: Tactical Flow
 When you make an attack against a creature suffering from a condition you inflicted:
@@ -7031,11 +7161,23 @@ When you make an attack against a creature suffering from a condition you inflic
 - You have advantage on the attack roll.
 - On a hit, add your Tactician modifier to the damage.
 
+#### 7th Level: Evasion
+When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage on a success and half damage on a failure.
+
 #### 9th Level: Relentless Pressure
 You may use two Special Attacks on your turn, but they must target the same creature.
 
+#### 11th Level: Improved Flow
+Your Tactical Flow widens and feeds itself.
+
+- **Tactical Flow** now applies against a creature suffering from any condition, whoever inflicted it: prone from an ally's shove, restrained by a Shaman's Reaction, poisoned by a trap, and so on. (The Combo Condition Chart still counts only conditions you inflicted.)
+- Once per turn, when you hit a creature that Tactical Flow applies to, you regain 1 Energy.
+
 #### 13th Level: Exploit Weakness
 When a creature fails a saving throw against one of your Special Attacks, it has disadvantage on its next saving throw before the end of your next turn.
+
+#### 15th Level: Slippery Mind
+You gain proficiency in Wisdom saving throws.
 
 #### 17th Level: Master Execution
 When you reduce a creature to 0 hit points:
@@ -7046,9 +7188,15 @@ When you reduce a creature to 0 hit points:
 #### 20th Level: Apex Predator
 Once per long rest, as a bonus action, you enter a perfected state for 1 minute:
 
-- You regain 2 Energy at the start of each turn.
-- Special Attacks no longer require saving throws.
+- You regain 2 Energy at the start of each of your turns, instead of 1.
+- Creatures automatically fail saving throws against your Special Attacks.
 - You have advantage on attack rolls against creatures suffering a condition.
+
+{{footnote Classes | Veilblade }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Veilblade Combo Reference
 
@@ -7073,12 +7221,6 @@ Conditions only count if **you** applied them.
 - A creature cannot be stunned by Dazing Blow more than once per combat.
 - Energy regained from combos cannot exceed your maximum Energy.
 
-{{footnote Classes | Veilblade }}
-
-{{pageNumber,auto}}
-
-\page
-
 {{classTable,frame
 #### Combo Condition Chart
 | Applied Attack | If Target Already Has | Combo Result | Tactical Benefit |
@@ -7088,7 +7230,10 @@ Conditions only count if **you** applied them.
 | **Dazing Blow** | Dazed | Target becomes **Stunned** until end of its next turn (1/combat) | Add Tactician mod to damage |
 | **Venom Cut** | Poisoned | Target has disadvantage on its next saving throw before end of its next turn | You gain advantage on next attack |
 | **Shadow Feint** | Any Condition | Deal +1d6 additional damage | Does not count against 1/turn Special Attack limit |
-| **Mark for Death** | Any Condition | Target's resistances are suppressed for 2 rounds | Regain 1 Energy (max once per turn) |
+| **Mark for Death** | Any Condition | Until the end of your next turn, you and your allies ignore all of the target's damage resistances, not only to weapon damage | Regain 1 Energy (max once per turn) |
+| **Disarming Cut** | Dazed | Target automatically fails the save | If you have a free hand, you may catch the dropped object |
+| **Stifling Strike** | Poisoned | Target automatically fails the save | Regain 1 Energy |
+| **Guard Break** | Slowed | Every attack roll against the target has advantage until the start of your next turn | Add Tactician mod to damage |
 }}
 
 ### Special Attacks
@@ -7099,11 +7244,17 @@ The target's speed is reduced by 10 feet until the end of its next turn.
 If the target is already slowed, it must succeed on a Dexterity saving throw or fall prone.
 
 #### Hemorrhage
-The target takes 1d4 bleed damage at the start of its next turn.
+The target bleeds, taking 1d4 damage of your weapon's type at the start of its next turn.
 
 If the target is already bleeding, increase the damage to 1d6 and extend the duration by 1 round.
 
 Bleed does not stack beyond this increase.
+
+{{footnote Classes | Veilblade }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### Dazing Blow
 The target must succeed on a Constitution saving throw or have disadvantage on its next attack roll.
@@ -7112,11 +7263,9 @@ If the target is already dazed, it is stunned until the end of its next turn.
 A creature cannot be stunned this way more than once per combat.
 
 #### Shadow Feint
-You gain advantage on your next attack roll this turn.
+You gain advantage on your next attack roll before the end of your next turn.
 
 If you were hidden when activating this ability, the attack deals an additional 1d6 damage.
-
-\column
 
 #### Venom Cut
 The target must succeed on a Constitution saving throw or become poisoned until the end of its next turn.
@@ -7127,15 +7276,24 @@ If already poisoned, it has disadvantage on its next saving throw before the end
 Until the end of your next turn:
 
 - You ignore the target's resistance to weapon damage.
-- Allies add your proficiency bonus to damage against that target.
+- Allies add your proficiency bonus to weapon damage rolls against that target.
 
 If the target is suffering from a status condition when you hit it, you regain 1 Energy (cannot exceed maximum).
+
+#### Disarming Cut
+The target must succeed on a Strength saving throw or drop one weapon or other object it is holding (your choice). The object lands in an unoccupied space of your choice within 10 feet of the target.
+
+#### Stifling Strike
+The target must succeed on a Constitution saving throw or be unable to speak until the end of its next turn. While it can't speak, it can't cast spells with verbal components or use any feature that needs its voice, such as a song or a Wizzrobe's incantation.
+
+#### Guard Break
+Until the start of your next turn, the next attack roll made against the target by a creature other than you has advantage.
 
 ## Veilblade Rogue Paths
 
 At 3rd level, you choose a Rogue Path that defines your approach to the hunt. Your path grants features at 3rd, 6th, 10th, 14th, and 18th level.
 
-None of the paths below add new Special Attacks to the Veilblade Combo Reference chart. All three work by enhancing how you apply, trigger, and capitalize on the existing six Special Attacks (Crippling Strike, Hemorrhage, Dazing Blow, Venom Cut, Shadow Feint, Mark for Death) and the conditions they create.
+None of the paths below add new Special Attacks to the Veilblade Combo Reference chart. All three work by enhancing how you apply, trigger, and capitalize on your Special Attacks and the conditions they create.
 
 ---
 
@@ -7154,12 +7312,6 @@ In addition, you have advantage on initiative rolls.
 #### 6th Level: Marked for the End
 
 When you apply **Mark for Death** to a creature, you may immediately make one additional weapon attack against it as part of the same action, without expending an additional Special Attack or Energy. This bonus attack cannot itself apply a new Special Attack.
-
-{{footnote Classes | Veilblade }}
-
-{{pageNumber,auto}}
-
-\page
 
 #### 10th Level: No Second Chances
 
@@ -7181,6 +7333,12 @@ Once per long rest, as an action, choose one creature you can see within 60 feet
 
 If this attack reduces the target to 0 hit points, you regain all expended Energy.
 
+{{footnote Classes | Veilblade }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Path of the Saboteur
 
 *Poison does not need to be fast. It only needs to be thorough.*
@@ -7189,9 +7347,7 @@ Saboteurs are the patient corrupters: Veilblades who treat every condition they 
 
 #### 3rd Level: Lingering Toxin
 
-Conditions you inflict through Special Attacks last 1 round longer than normal before requiring a new save or instance to maintain (where applicable). In addition, when a creature succeeds on a saving throw against one of your Special Attacks, it still suffers the condition's effects until the end of its current turn before the condition ends.
-
-\column
+Conditions you inflict through Special Attacks last 1 round longer than normal before requiring a new save or instance to maintain (where applicable). In addition, when a creature succeeds on a saving throw against one of your Special Attacks, it still suffers the condition's effects until the start of its next turn before the condition ends.
 
 #### 6th Level: Compounding Affliction
 
@@ -7213,7 +7369,7 @@ Once per long rest, as a bonus action, choose one creature within 30 feet that y
 
 - Every condition you inflict on that creature lasts until the end of your next turn rather than its normal duration, and does not require maintenance to persist.
 - At the start of each of the target's turns, it takes necrotic damage equal to the number of distinct conditions you have currently inflicted on it (minimum 1).
-- If at any point the target is suffering from all four condition types you can inflict (Slowed, Bleeding, Dazed/Stunned, Poisoned) simultaneously, it must succeed on a Constitution saving throw at the start of each of its turns or fall unconscious until the effect ends or it takes damage.
+- If at any point the target is suffering from all four condition types you can inflict (Slowed, Bleeding, Dazed/Stunned, Poisoned) simultaneously, it must succeed on a Constitution saving throw at the start of each of its turns or fall unconscious until the effect ends or it takes damage. Damage from The Slow Collapse doesn't wake it.
 
 ### Path of the Shadowdancer
 
@@ -7221,19 +7377,13 @@ Once per long rest, as a bonus action, choose one creature within 30 feet that y
 
 Shadowdancers trade raw damage for total battlefield control of their own position. They are the hardest Veilblades to pin down, slipping between shadows, striking from impossible angles, and vanishing before a counterattack can land. A Shadowdancer doesn't win fights through attrition or burst. They win by never being where the danger is.
 
-{{footnote Classes | Veilblade }}
-
-{{pageNumber,auto}}
-
-\page
-
 #### 3rd Level: Step Between Shadows
 
 As a bonus action, you may teleport up to 15 feet to an unoccupied space you can see that is in dim light or darkness. You may use this feature a number of times equal to your proficiency bonus per long rest, regaining one use whenever you apply **Shadow Feint**.
 
 #### 6th Level: Dancing Strike
 
-When you use Shadow Feint, in addition to its normal effect, you may immediately use Step Between Shadows as part of the same bonus action at no additional cost (this does not expend a use of Step Between Shadows if you have none remaining; it instead requires you to wait until your next turn to use Shadow Feint this way again).
+When you apply Shadow Feint, you may immediately teleport as with Step Between Shadows, without using a bonus action or expending a use. You can do this once per turn.
 
 In addition, attacks of opportunity against you have disadvantage.
 
@@ -7241,13 +7391,17 @@ In addition, attacks of opportunity against you have disadvantage.
 
 When a creature misses you with an attack, you may use your reaction to immediately use Step Between Shadows, even if the light requirement is not met at your destination (you may teleport into a brightly lit space normally inaccessible to this feature).
 
-\column
-
 You regain one use of Step Between Shadows whenever you start combat undetected by all enemies.
 
 #### 14th Level: Where the Shadows Lead
 
 You may use Step Between Shadows to teleport to any unoccupied space within 15 feet of any creature you can see, regardless of light conditions at the destination, as long as the creature itself is in dim light or darkness. In addition, when you arrive adjacent to a creature this way, your next attack against it this turn has advantage.
+
+{{footnote Classes | Veilblade }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### 18th Level: One With the Dark
 
@@ -7303,8 +7457,6 @@ You and your companions can receive free healing and care at any temple, shrine,
 
 ---
 
-\column
-
 ### Charlatan
 
 You've always had a gift for telling people exactly what they want to hear. Maybe you ran a fortune-telling stall in Castle Town's market, sold "authentic" Zonai relics to gullible travelers, or talked your way out of more trouble than you've talked your way into.
@@ -7341,15 +7493,15 @@ You've made your living bringing joy to others: performing in Castle Town's plaz
 **Tool Proficiencies:** One type of musical instrument or disguise kit
 **Equipment:** A musical instrument of your choice, the favor of an admirer (love letter, lock of hair, or trinket), a costume, and a pouch containing 15 rupees
 
+#### Feature: By Popular Demand
+
+You can always find a place to perform (an inn, tavern, festival, or noble's court) and receive free lodging and modest meals in exchange for your nightly performance. In addition, your fame precedes you in some small way; common folk in the region may recognize your name or have heard tales of your talent.
+
 {{footnote Backgrounds }}
 
 {{pageNumber,auto}}
 
 \page
-
-#### Feature: By Popular Demand
-
-You can always find a place to perform (an inn, tavern, festival, or noble's court) and receive free lodging and modest meals in exchange for your nightly performance. In addition, your fame precedes you in some small way; common folk in the region may recognize your name or have heard tales of your talent.
 
 ### Folk Hero
 
@@ -7378,8 +7530,6 @@ You belong to one of Hyrule's craft guilds (perhaps the Goron Smiths' Circle, th
 As an established member of your guild, you can rely on certain benefits. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some regions, your guild has more formal political power: guild leaders may petition the Royal Court directly on guild business, and a guild membership marks you as a trustworthy tradesperson.
 
 ---
-
-\column
 
 ### Hermit
 
@@ -7420,12 +7570,6 @@ You grew up away from the safety of settled Hyrule: in the deep wilderness, the 
 **Languages:** One of your choice
 **Equipment:** A staff, a hunting trap, a trophy from an animal you killed, a set of traveler's clothes, and a pouch containing 10 rupees
 
-{{footnote Backgrounds }}
-
-{{pageNumber,auto}}
-
-\page
-
 #### Feature: Wanderer
 
 You have an excellent memory for maps and geography, and you can always recall the general layout of terrain, settlements, and other features around you. In addition, you can find food and fresh water for yourself and up to five other people each day, provided the land offers berries, small game, water, and so forth.
@@ -7437,6 +7581,12 @@ You have spent years in dedicated study: elemental lore, ancient Sheikah technol
 **Skill Proficiencies:** Arcana, History
 **Languages:** Two of your choice
 **Equipment:** A bottle of black or blue-black ink, a quill, a small knife, a letter from a deceased mentor posing a question you have not yet answered, a set of common clothes, and a pouch containing 10 rupees
+
+{{footnote Backgrounds }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### Feature: Researcher
 
@@ -7456,8 +7606,6 @@ You've spent years working the waters of Hyrule (the Lanayru Sea, the rivers tha
 
 When you need to, you can secure free passage on a sailing ship or river barge for yourself and your companions, in exchange for performing duties during the voyage. You might also be called upon to repay this generosity in some way if you later encounter the captain or crew who helped you.
 
-\column
-
 ### Soldier
 
 You served in an organized military force: the Hylian Royal Guard, a Gerudo warband, the Goron militia, or another formal fighting body. You learned discipline, tactics, and the particular camaraderie that comes from shared danger.
@@ -7471,6 +7619,8 @@ You served in an organized military force: the Hylian Royal Guard, a Gerudo warb
 You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. You can invoke your rank to exert influence over other soldiers and requisition simple equipment or horses for temporary use. You can also usually gain access to friendly military encampments and fortresses where your rank is recognized.
 
 ---
+
+\column
 
 ### Urchin
 
@@ -7488,11 +7638,7 @@ You know the secret patterns and flow of the settlement you grew up in and can f
 
 The six backgrounds below are original to this setting, built to reflect roles and histories specific to life in Hyrule. They follow the same structure as the backgrounds above: two skill proficiencies, tool or language proficiencies, a starting equipment package, and a unique feature.
 
-{{footnote Backgrounds }}
-
-{{pageNumber,auto}}
-
-\page
+Where a background below prints only some of the four characteristic tables, borrow the rest from the Player's Handbook background named here: **Shrine Keeper**, Acolyte; **Traveling Merchant**, Guild Artisan; **Ruins Delver**, Sage; **Castle Town Guard**, Soldier.
 
 ### Ranch Hand
 
@@ -7501,6 +7647,12 @@ You grew up working the land: tending cuccos, breaking in horses at a ranch like
 **Skill Proficiencies:** Animal Handling, Survival
 **Tool Proficiencies:** Vehicles (land)
 **Equipment:** A set of riding gear, a horse whistle or animal call, a coil of sturdy rope (50 feet), a set of common clothes, and a pouch containing 10 rupees
+
+{{footnote Backgrounds }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### Feature: Steady Hand with Beasts
 
@@ -7517,8 +7669,6 @@ You served as caretaker of a sacred shrine, Spirit Spring, or ancient temple: ma
 **Skill Proficiencies:** Insight, Religion
 **Languages:** One of your choice
 **Equipment:** A set of ceremonial robes, a small bell or chime used in your shrine's rites, a vial of water from your shrine (treat as holy water), a set of common clothes, and a pouch containing 12 rupees
-
-\column
 
 #### Feature: Keeper's Welcome
 
@@ -7551,12 +7701,6 @@ You made your living on the road: buying low in one region and selling high in a
 **Tool Proficiencies:** Navigator's tools, one type of gaming set
 **Equipment:** A merchant's scale, a ledger book, a set of fine traveler's clothes, a locked strongbox (no key; you lost it years ago), and a pouch containing 20 rupees
 
-{{footnote Backgrounds }}
-
-{{pageNumber,auto}}
-
-\page
-
 #### Feature: Trade Network
 
 You have established contacts among merchants in most major settlements across Hyrule. You can typically buy and sell goods at a fair price (your DM may grant a discount of 10–20% when purchasing common goods, at their discretion), and you always know where to find a legitimate buyer for unusual or hard-to-place items, even ones other merchants might be suspicious of. In addition, you can usually arrange safe passage for yourself and companions along established trade routes by traveling with or alongside a caravan.
@@ -7570,6 +7714,12 @@ You have established contacts among merchants in most major settlements across H
 | 4 | I'm an excellent judge of character. I had to be, to survive on the road. |
 | 5 | I collect small, unusual trinkets from every place I visit. |
 | 6 | I talk a great deal, filling silences that make me uncomfortable. |
+
+{{footnote Backgrounds }}
+
+{{pageNumber,auto}}
+
+\page
 
 | d6 | Bond |
 |:--|:--|
@@ -7587,8 +7737,6 @@ You've made a living tracking and eliminating dangerous creatures: Bokoblin camp
 **Skill Proficiencies:** Survival, Nature
 **Tool Proficiencies:** Herbalism kit
 **Equipment:** A trophy from your most dangerous kill (a fang, a horn, a scale; DM's choice or your own), a set of traveler's clothes, a hunting knife, a vial of monster-repelling herbs, and a pouch containing 15 rupees
-
-\column
 
 #### Feature: Bounty Board Reputation
 
@@ -7609,12 +7757,6 @@ You've spent your career exploring Hyrule's countless ancient ruins: Sheikah tec
 #### Feature: Ancient Eye
 
 You have a trained eye for the architecture and warning signs of ancient ruins. You automatically notice obvious structural hazards (unstable floors, collapsing ceilings, and similar dangers) without needing to make a check, and you have advantage on Investigation checks made to identify the purpose, age, or origin of ancient architecture, mechanisms, or inscriptions. In addition, you can often make an educated guess about a ruin's general layout or purpose based on its exterior architecture and surrounding terrain alone.
-
-{{footnote Backgrounds }}
-
-{{pageNumber,auto}}
-
-\page
 
 |**Suggested Characteristics**||
 | d6 | Personality Trait |
@@ -7643,11 +7785,15 @@ You served as a member of the watch in Castle Town or another major settlement: 
 **Tool Proficiencies:** One type of gaming set
 **Equipment:** A set of guard's manacles, a whistle or signal horn, an insignia marking your former post, a set of common clothes, and a pouch containing 10 rupees
 
+{{footnote Backgrounds }}
+
+{{pageNumber,auto}}
+
+\page
+
 #### Feature: Eyes of the Watch
 
 You know the rhythms of city life and can spot when something is wrong before most people notice. You have advantage on Insight checks made to detect suspicious behavior or lies in a settlement, and you have a working relationship with the local watch in any major settlement. Guards recognize you as one of their own (or as someone who once was), and are more inclined to share information, overlook minor infractions, or grant you access to restricted areas in the course of an investigation. This goodwill does not extend to settlements where you have a poor reputation or active conflict with local authority.
-
-\column
 
 |**Suggested Characteristics**||
 | d6 | Ideal |
@@ -7714,8 +7860,6 @@ You have honed your ability to mimic the speech and behavior of others.
 ### Alert
 **Prerequisite:** None
 
-\column
-
 Always on the lookout for danger, you gain the following benefits:
 
 - You gain a +5 bonus to initiative.
@@ -7751,13 +7895,13 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
 ### Defensive Duelist
 **Prerequisite:** Dexterity 13 or higher
 
+When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
+
 {{footnote Feats }}
 
 {{pageNumber,auto}}
 
 \page
-
-When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
 
 ### Dual Wielder
 **Prerequisite:** None
@@ -7796,8 +7940,6 @@ Spells you cast ignore resistance to damage of the chosen type. In addition, whe
 
 You can select this feat multiple times. Each time you do so, you must choose a different damage type.
 
-\column
-
 ### Grappler
 
 **Prerequisite:** Strength 13 or higher
@@ -7833,12 +7975,6 @@ You have trained to master the use of heavy armor, gaining the following benefit
 - Increase your Strength score by 1, to a maximum of 20.
 - You gain proficiency with heavy armor.
 
-{{footnote Feats }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Heavy Armor Master
 
 **Prerequisite:** Proficiency with heavy armor
@@ -7847,6 +7983,12 @@ You can use your armor to deflect strikes that would kill others. You gain the f
 
 - Increase your Strength score by 1, to a maximum of 20.
 - While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical attacks is reduced by 3.
+
+{{footnote Feats }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Inspiring Leader
 
@@ -7878,8 +8020,6 @@ You have trained to master the use of light armor, gaining the following benefit
 **Prerequisite:** None
 
 You have studied languages and codes, gaining the following benefits:
-
-\column
 
 - Increase your Intelligence score by 1, to a maximum of 20.
 - You learn three languages of your choice.
@@ -7915,19 +8055,19 @@ Choose a class from any caster in this document's class list. You learn two cant
 
 In addition, choose one 1st-level spell from that same list. You learn that spell.
 
-{{footnote Feats }}
-
-{{pageNumber,auto}}
-
-\page
-
 You gain an **MP pool of 3**, usable only for the spells this feat grants. It returns on a long rest. If you already have MP from a class, add 3 to your maximum instead, and you may spend MP from your normal pool on these spells as well.
 
 Casting these spells follows every ordinary rule in the **Magic System** chapter: a cantrip costs 1 MP, the 1st-level spell costs 2, and Arcane Strain applies if you repeat one.
 
 *Changed from the standard rules: this feat originally granted one casting per long rest at the spell's lowest level, which is spell slot language. This book has no spell slots, and a Veilblade or Masked Wanderer taking the feat had no MP to cast with.*
 
-Your spellcasting ability for these spells depends on the class you chose: Charisma for Adventurer (Minstrel path), Blightbound, Champion, or Goddess Chanter; Intelligence for Interloper or Sage (Interlopers may use Charisma instead if they chose it at 1st level; Sages may use Wisdom if their Elemental Affinity uses it); Wisdom for Adventurer (Wild Scout path), Ranger, or Shaman.
+Your spellcasting ability for these spells depends on the class you chose: Charisma for Adventurer (Minstrel path), Blightbound, Champion, or Goddess Chanter; Intelligence for Interloper or Sage (Interlopers may use Charisma instead if they chose it at 1st level; Sages use the ability they chose at 1st level); Wisdom for Adventurer (Wild Scout path), Ranger, or Shaman.
+
+{{footnote Feats }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Martial Adept ✦
 
@@ -7941,8 +8081,6 @@ You have martial training that allows you to perform special combat maneuvers. Y
 - Your save DC for these Special Attacks is **8 + your proficiency bonus + your Strength, Dexterity, or Intelligence modifier**, chosen when you take this feat.
 
 *Changed from the standard rules: this feat originally used Battle Master maneuvers and superiority dice, neither of which exists in this book. It now uses the Veilblade's Special Attacks and Energy.*
-
-\column
 
 ### Medium Armor Master
 
@@ -7990,12 +8128,6 @@ You are a dangerous foe to face while mounted. While you are mounted and aren't 
 ### Observant
 **Prerequisite:** None
 
-{{footnote Feats }}
-
-{{pageNumber,auto}}
-
-\page
-
 Quick to notice details others might miss, you gain the following benefits:
 
 - Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
@@ -8013,6 +8145,12 @@ You can keep your enemies at bay with reach weapons, gaining the following benef
 
 ---
 
+{{footnote Feats }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Resilient
 **Prerequisite:** None
 
@@ -8029,11 +8167,11 @@ Choose one ability score. You gain the following benefits:
 
 You have learned a number of spells that you can cast as rituals. Choose a class that has access to the ritual tag for spells in this document (any of the full casters at your DM's discretion). You learn two 1st-level spells of your choice from that class's spell list that have the ritual tag.
 
-You can cast these spells as rituals, but you can't cast them any other way unless you have learned them through other means. You can also add ritual spells to this collection as you find them throughout Hyrule. Copying a ritual into your book takes **2 hours and 50 rupees per spell level**, spent on rare inks and materials, and the spell must be one your chosen class can cast as a ritual.
+You acquire a ritual book holding these two spells. If you have no MP from a class, you gain an **MP pool equal to twice your proficiency bonus**, usable only for rituals from this book. It returns on a long rest.
 
-\column
+You can cast these spells as rituals, but you can't cast them any other way unless you have learned them through other means. You can also add ritual spells to this collection as you find them throughout Hyrule. A spell you add can be no higher in level than half your level (rounded up). Copying a ritual into your book takes **2 hours and 50 rupees per spell level**, spent on rare inks and materials, and the spell must be one your chosen class can cast as a ritual.
 
-*Changed from the standard rules only in currency: the cost is the Player's Handbook's, priced in rupees.*
+*Changed from the standard rules: a character without MP gains a small ritual-only pool, since this book's rituals cost MP; costs are priced in rupees.*
 
 ---
 
@@ -8067,22 +8205,22 @@ You have mastered ranged weapons and can make shots that others find impossible.
 
 You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a shield:
 
-{{footnote Feats }}
-
-{{pageNumber,auto}}
-
-\page
-
 - If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield. This is the only way to move a creature with a shield; the general **Shield Bash** rule in the Items chapter deals damage only.
 - If you aren't incapacitated, you can add **+2**, or your shield's Guard value if it is higher, as a bonus to Dexterity saving throws made against a spell or other harmful effect that targets only you.
+- If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
 
 *Changed from the standard rules: the Dexterity saving throw bonus can exceed +2 when you carry an exceptional shield.*
-- If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
 
 ### Skilled
 **Prerequisite:** None
 
 You gain proficiency in any combination of three skills or tools of your choice.
+
+{{footnote Feats }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Skulker
 
@@ -8103,8 +8241,6 @@ You have learned techniques to enhance your attacks with certain kinds of spells
 - When you cast a spell that requires you to make an attack roll, the spell's range is doubled.
 - Your ranged spell attacks ignore half cover and three-quarters cover.
 - You learn one cantrip that requires an attack roll, chosen from any caster class's spell list in this document. Your spellcasting ability for this cantrip depends on the class you choose it from. If you have no MP pool, you gain one of 1 MP, usable only for this cantrip, which returns on a long rest.
-
-\column
 
 *Changed from the standard rules: the cantrip may come from any caster class in this book rather than the Player's Handbook's four named lists, and a character with no MP is given just enough to cast it.*
 
@@ -8165,9 +8301,9 @@ ___
 
 # Zelda DnD Spell Compendium
 
-Spells in this compendium are listed alphabetically. Each spell includes its school, MP cost, casting time, range, duration, components, and full description with Hyrule-appropriate flavor. Spells marked ✦ are original to the Zelda DnD setting. Spells that have class-specific renamed versions note those variants at the end of their entry.
+Spells in this compendium are listed alphabetically. Each spell includes its school, MP cost, casting time, range, duration, components, and full description with Hyrule-appropriate flavor. Spells marked ✦ are Hyrule versions: a standard spell renamed for one class, or a spell original to Zelda DnD (the entry's first line says which). Spells that have class-specific renamed versions note those variants at the end of their entry.
 
-MP costs follow the Spell Chart Conversion: Cantrips 1 MP, 1st-level 2 MP, 2nd-level 3 MP, 3rd-level 4 MP, 4th-level 5 MP, 5th-level 6 MP, 6th-level 7 MP, 7th-level 8 MP, 8th-level 9 MP, 9th-level 10 MP. Overchanneling is an optional upcasting mechanic layered on top of any spell's normal cost, not a replacement cost for high-level spells, see the Magic System chapter for full Overchanneling rules.
+MP costs follow the Spell Chart Conversion: Cantrips 1 MP, 1st-level 2 MP, 2nd-level 3 MP, 3rd-level 4 MP, 4th-level 5 MP, 5th-level 6 MP, 6th-level 7 MP, 7th-level 8 MP, 8th-level 9 MP, 9th-level 10 MP. Overchanneling is an optional upcasting mechanic layered on top of any spell's normal cost. It never lets you cast a spell above your Spell Level Ceiling. See the Magic System chapter for the full rules.
 
 ---
 
@@ -8210,11 +8346,9 @@ The spell flares as a red or violet sigil in the air that pulses once before van
 **Duration:** 8 hours
 **Components:** V, S, M (a feather from a divine bird or blessed string)
 
-\column
-
 You bolster up to three creatures with divine encouragement. Each target's hit point maximum and current hit points increase by 5 for the duration.
 
-*Spend an additional 2 MP to increase the bonus by 5 or target one additional creature.*
+*Overchannel:* The bonus rises by 5 per tier (Minor +5, Major +10, Extreme +15).
 
 *A Goddess Chanter performs this as an empowerment verse; a Champion invokes it as a battle blessing.*
 
@@ -8231,7 +8365,9 @@ You bolster up to three creatures with divine encouragement. Each target's hit p
 
 You set a magical ward on a door, window, or area (a 20-foot cube). Choose mental (a ping in your mind) or audible (a chime or sacred tone). The alarm sounds when a Small or larger creature enters the protected area.
 
-*Sages bind a protective spirit to the threshold; Goddess Chanters use a softly glowing glyph that hums with harmonic pulse.*
+**Spiritual Ward (Sage variant):** A protective spirit is bound to the threshold and whispers when it is crossed.
+
+*Goddess Chanters use a softly glowing glyph that hums with harmonic pulse (see Divine Alarm).*
 
 ---
 
@@ -8262,13 +8398,13 @@ You reshape your physical form. Choose one of the following:
 
 You charm one beast of CR 1 or lower. The target must succeed on a Wisdom saving throw or be charmed by you for the duration. If you or your companions harm it, the spell ends.
 
+*Common among Wild Scout Adventurers and those who have spent time among the wildlife of Faron, Lanayru, or the Akkala highlands.*
+
 {{footnote Spell Compendium }}
 
 {{pageNumber,auto}}
 
 \page
-
-*Common among Wild Scout Adventurers and those who have spent time among the wildlife of Faron, Lanayru, or the Akkala highlands.*
 
 ### Animal Messenger
 **School:** Enchantment (Ritual)
@@ -8291,9 +8427,9 @@ You compel a Tiny beast (a bird, a rabbit, an insect) to carry a message to a re
 **Duration:** Instantaneous
 **Components:** V, S, M (a drop of blood and bone chip, or a bone/relic submerged in water)
 
-You raise the remains of a corpse within range as a skeleton or zombie under your control. On each of your turns, you may command the creature with a bonus action. You can raise or maintain control of up to four undead at once.
+You raise one pile of bones or corpse within range as a skeleton (from bones) or zombie (from a corpse). As a bonus action on each of your turns, you can command any creature you made with this spell that is within 60 feet of you. It obeys you for 24 hours, then stops. Casting the spell on up to four of your own undead before that time runs out reasserts your control over them for another 24 hours, instead of raising a new one.
 
-*Spend an additional 2 MP to animate or reassert control over additional creatures.*
+*Overchannel:* Animate or reassert control over two more undead per tier (Minor 2, Major 4, Extreme 6).
 
 **Drowned Servants (Zora variant):** The undead rise as bloated or coral-crusted spirits, their movements rippling unnaturally as though still underwater.
 
@@ -8309,11 +8445,9 @@ You raise the remains of a corpse within range as a skeleton or zombie under you
 **Duration:** Concentration, up to 1 minute
 **Components:** V, S
 
-You animate up to ten nonmagical objects you can see within range. Small and smaller objects have AC 18, 25 HP, +8 to hit, 1d4 + 4 damage; Medium objects AC 13, 40 HP, +6 to hit, 2d6 + 2; Large AC 10, 50 HP, +5 to hit, 2d10 + 2. Each has a walking speed of 30 feet.
+You animate up to ten nonmagical objects you can see within range that no one is wearing or carrying. A Medium object counts as two of the ten, a Large object as four and a Huge object as eight. Tiny: AC 18, 20 HP, +8 to hit, 1d4 + 4. Small: AC 16, 25 HP, +6 to hit, 1d8 + 2. Medium: AC 13, 40 HP, +5 to hit, 2d6 + 1. Large: AC 10, 50 HP, +6 to hit, 2d10 + 2. Huge: AC 10, 80 HP, +8 to hit, 2d12 + 4. Each has a walking speed of 30 feet, and you command any number of them with a bonus action.
 
 *Interlopers animate twisted dolls, floating masks, or levitating swords. Sages call forth ceremonial tools and carved stones guided by elemental spirits.*
-
-\column
 
 ### Antilife Shell
 **School:** Abjuration
@@ -8323,7 +8457,7 @@ You animate up to ten nonmagical objects you can see within range. Small and sma
 **Duration:** Concentration, up to 1 hour
 **Components:** V, S
 
-You conjure a shimmering barrier extending 10 feet outward from you that prevents living creatures from approaching. Undead, constructs, and plants are unaffected. Any living creature that attempts to move within 10 feet of you must succeed on a Strength saving throw or be pushed back to 10 feet.
+You conjure a shimmering barrier extending 10 feet outward from you. Undead, constructs and plants are unaffected. No other creature can move into the barrier or reach through it, and no saving throw applies. If you move so that a creature it blocks would end up inside, the spell ends.
 
 *Used in extreme circumstances by Blightbound who have fully embraced the corruption of the Calamity.*
 
@@ -8355,6 +8489,12 @@ You designate an object or area and choose to generate an **Antipathy** or **Sym
 
 *Used by Deku thornweavers to protect ancient groves and sacred trees.*
 
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Arcane Eye
 *(Also: Arcane Eye (Surveillance Orb))*
 **School:** Divination
@@ -8363,12 +8503,6 @@ You designate an object or area and choose to generate an **Antipathy** or **Sym
 **Range:** 30 feet
 **Duration:** Concentration, up to 1 hour
 **Components:** V, S, M (a small glass lens or shard of scrying stone)
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 You conjure an invisible magical eye that floats freely up to 30 feet per turn and can move through openings as small as 1 inch. You see through it using your normal senses (including darkvision). The eye cannot attack, but it can observe in magical darkness and transmit everything it sees back to you.
 
@@ -8416,8 +8550,6 @@ The armor appears as jagged shards of ice or a red-black aura wreathed in hate.
 
 You emanate an aura of divine vitality. Any non-hostile creature in the aura gains resistance to necrotic damage, and its hit point maximum cannot be reduced while it remains inside. Any non-hostile creature that starts its turn in the aura with 0 hit points regains 1 hit point.
 
-\column
-
 *Champions of Farore radiate this as a soft golden glow, the reassurance of the goddess's protection made manifest.*
 
 ### Aura of Purity
@@ -8456,6 +8588,12 @@ After spending 8 hours performing a ritual, you grant sentience to a plant or be
 
 *Deku thornweavers use this to awaken ancient trees as guardians or sages. It is said the Great Deku Tree itself was awakened in this way in Hyrule's earliest era.*
 
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Bane
 **School:** Enchantment
 **MP Cost:** 2
@@ -8467,13 +8605,7 @@ After spending 8 hours performing a ritual, you grant sentience to a plant or be
 
 Up to three creatures must make Charisma saving throws. On a failure, they subtract 1d4 from any attack rolls or saving throws they make for the duration.
 
-*Spend 2 additional MP to affect one additional creature.*
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
+*Overchannel:* One more creature per tier (Minor +1, Major +2, Extreme +3).
 
 *A Goddess Chanter performs this as a discordant hymn that disrupts focus; a Blightbound channels it as a whispered curse.*
 
@@ -8519,8 +8651,6 @@ You call upon the radiant hope of Hylia or the blessing of a divine spring. Choo
 
 Targets glow faintly with a golden aura, like light filtered through sacred water.
 
-\column
-
 ### Beast Bond
 **School:** Divination
 **MP Cost:** 2
@@ -8559,11 +8689,17 @@ You touch a creature and lay a curse upon it. On a failed Wisdom saving throw, c
 - Must make a Wisdom saving throw each turn or waste its action doing nothing.
 - You deal an extra 1d8 necrotic damage when you hit it.
 
-*Spend 2 additional MP to extend duration to 10 minutes; 4 additional MP for 1 hour without concentration.*
+*Overchannel:* The duration becomes concentration, up to 10 minutes (Minor), or 8 hours without concentration (Major or Extreme).
 
 **Judgment Hymn (Goddess Chanter variant):** Your voice carries a sacred decree. The curse glows in the air as a burning hymn visible only to the cursed.
 
 *Blightbound manifest this as a glowing rune beneath the target's skin; Interlopers project shifting twilight glyphs that bind body and mind.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Blade Barrier
 **School:** Evocation
@@ -8572,12 +8708,6 @@ You touch a creature and lay a curse upon it. On a failed Wisdom saving throw, c
 **Range:** 90 feet
 **Duration:** Concentration, up to 10 minutes
 **Components:** V, S
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 You create a vertical wall of whirling, razor-sharp blades made of magical force. The wall can be up to 100 feet long, 20 feet high, and 5 feet thick. When the wall appears, each creature in its area must make a Dexterity saving throw, taking 6d10 slashing damage on a failed save or half as much on a success. Any creature attempting to pass through takes the same damage.
 
@@ -8605,7 +8735,7 @@ You extend your hand and trace a sigil of warding in the air. Until the end of y
 
 You chant a hymn of divine favor, blessing up to three creatures. Each blessed target may add 1d4 to any attack roll or saving throw they make during the duration.
 
-*Spend an additional 2 MP to bless one additional creature.*
+*Overchannel:* One more creature per tier (Minor +1, Major +2, Extreme +3).
 
 *A Goddess Chanter performs this as a divine refrain; a Champion feels the warmth of the goddess's hand on their shoulder as they intone the blessing.*
 
@@ -8621,8 +8751,6 @@ You chant a hymn of divine favor, blessing up to three creatures. Each blessed t
 **Damage:** Necrotic
 
 You drain the moisture and vitality from a creature or plant. The target must make a Constitution saving throw, taking 8d8 necrotic damage on a failed save, or half as much on a success. Plants and plant creatures have disadvantage on the save and take maximum damage.
-
-\column
 
 **Blight (Venombark) (Deku variant):** The spell manifests as a surge of dark venom through wood and root. The spell wilts leaves, blackens bark, and withers flesh, as if aging the target by decades in seconds.
 
@@ -8659,7 +8787,7 @@ Your form distorts and shifts. For the duration, any creature has disadvantage o
 **Duration:** 1 round
 **Components:** S, M (a melee weapon worth at least 1 sp)
 
-You brandish the weapon used in the spell's casting and make a melee attack with it. On a hit, the target takes normal weapon damage, plus 1d8 thunder damage if it willingly moves before the start of your next turn. The thunder damage increases to 2d8 at 5th level, 3d8 at 11th, and 4d8 at 17th.
+You brandish the weapon used in the spell's casting and make a melee attack with it. On a hit, the target takes normal weapon damage, plus 1d8 thunder damage if it willingly moves before the start of your next turn. At 5th level the attack also deals an extra 1d8 thunder damage on a hit, and the damage for moving becomes 2d8. Both increase by 1d8 at 11th level (2d8 and 3d8) and 17th level (3d8 and 4d8).
 
 ### Branding Smite
 **School:** Evocation
@@ -8669,13 +8797,13 @@ You brandish the weapon used in the spell's casting and make a melee attack with
 **Duration:** Concentration, up to 1 minute
 **Components:** V
 
+The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if invisible, and the target sheds dim light in a 5-foot radius and cannot become invisible until the spell ends.
+
 {{footnote Spell Compendium }}
 
 {{pageNumber,auto}}
 
 \page
-
-The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if invisible, and the target sheds dim light in a 5-foot radius and cannot become invisible until the spell ends.
 
 ### Burning Hands
 **School:** Evocation
@@ -8689,8 +8817,6 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 
 You exhale a blast of flame. Each creature in a 15-foot cone must make a Dexterity saving throw. On a failed save, it takes 3d6 fire damage, or half as much on a success.
 
-*Spend an additional 2 MP to add 1d6 damage.*
-
 *Blightbound channel this as demonic hellfire; Gerudo sandreavers invoke Flames of Din, a focused burst of the goddess of power's sacred heat. Goron juggernauts release it as a gust of volcanic breath.*
 
 ### Call Lightning
@@ -8703,8 +8829,6 @@ You exhale a blast of flame. Each creature in a 15-foot cone must make a Dexteri
 **Damage:** Lightning
 
 A storm cell appears overhead (or a pre-existing storm intensifies). When you cast this spell, and as a bonus action on each subsequent turn, you can call a bolt of lightning to strike a point you can see within 60 feet of the storm cell. Creatures within 5 feet of that point must make a Dexterity saving throw, taking 3d10 lightning damage on a failed save or half as much on a success.
-
-*Spend 2 additional MP to increase the damage by 1d10.*
 
 *Wind and Spirit Sages invoke this through ancient elemental rituals; Rito marksmen channel it through the natural storm systems of Hyrule's high peaks.*
 
@@ -8720,8 +8844,6 @@ A storm cell appears overhead (or a pre-existing storm intensifies). When you ca
 Your voice carries a divine tranquility. Creatures in the area may choose to end charm or fright effects on themselves. Alternatively, targets that fail a Charisma saving throw become indifferent to hostile creatures until attacked or harmed.
 
 The sound of a Goddess Chanter's song mutes anger and stills chaos, like a sacred lullaby.
-
-\column
 
 ### Chain Lightning
 **School:** Evocation
@@ -8774,15 +8896,7 @@ The damage increases to 2d8 at 5th level, 3d8 at 11th level, and 4d8 at 17th lev
 **Components:** V, S, M (a diamond worth at least 50 rupees)
 **Damage:** Acid, cold, fire, lightning, poison, or thunder (your choice)
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 You hurl a 4-inch diameter sphere of energy at a creature. Make a ranged spell attack. On a hit, the target takes 3d8 damage of the chosen type.
-
-*Spend 2 additional MP to increase the damage by 1d8.*
 
 *Sages who command multiple affinities use this to deliver whatever element the moment demands.*
 
@@ -8799,6 +8913,12 @@ You hurl a 4-inch diameter sphere of energy at a creature. Make a ranged spell a
 A sphere of negative energy ripples out in a 60-foot-radius sphere from a point you choose. Each creature in that area must make a Constitution saving throw, taking 8d6 necrotic damage on a failed save or half as much on a success.
 
 *Blightbound who have fully embraced the Calamity's power can invoke this as a death-pulse from the void.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Circle of Power
 **School:** Abjuration
@@ -8824,8 +8944,6 @@ Divine energy radiates from you, distorting and diffusing magical effects within
 You create an invisible sensor at a location within range that you can see or have visited, or at a specific location you can accurately describe. You choose to see or hear through the sensor for the duration.
 
 **Scrying Pool Vision (Zora variant):** You conjure a vision through a reflective surface: a pool, tide basin, or water mirror. The sensor appears as an invisible presence in that water, and the vision appears in your watery focus.
-
-\column
 
 *Interlopers conjure a shadowy eye that appears briefly and fades into ethereal space. The world through it appears warped and dreamlike, as if watched through distant water.*
 
@@ -8870,15 +8988,9 @@ A dazzling array of flashing, colored light springs from your hand. Roll 6d10; t
 
 You issue a single-word command laced with authority. The target must succeed on a Wisdom saving throw or obey the command on its next turn. Common commands: Flee, Drop, Grovel, Halt, Approach.
 
-*Spend an additional 2 MP to affect one additional creature.*
+*Overchannel:* One more creature per tier (Minor +1, Major +2, Extreme +3).
 
 *When issued by a Blightbound, the command is curse-laced; a Goddess Chanter's command echoes as though from a higher realm; a Champion speaks with the weight of divine authority.*
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 ### Commune
 **School:** Divination (Ritual)
@@ -8905,6 +9017,12 @@ You issue a challenge that compels a creature to fight only you. On a failed Wis
 
 *Champions of Din use this to lock the most dangerous foe in a one-on-one battle.*
 
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Comprehend Languages
 **School:** Divination (Ritual)
 **MP Cost:** 2
@@ -8929,8 +9047,6 @@ You understand the literal meaning of any spoken language you hear and written t
 You sing or speak a hypnotic compulsion that controls movement. Creatures of your choice that fail a Wisdom saving throw must use their movement on each of their turns to move in a direction you choose. They cannot move into obviously dangerous terrain.
 
 *A Goddess Chanter performs this as a rhythm that stirs targets like leaves in wind, unable to resist the divine melody.*
-
-\column
 
 ### Confusion
 **School:** Enchantment
@@ -8981,12 +9097,6 @@ You throw a nonmagical weapon or fire a piece of nonmagical ammunition into the 
 
 You call forth an elemental servant. Choose an area of air, earth, fire, or water that fills a 10-foot cube. An elemental of challenge rating 5 or lower appropriate to the area emerges: an air elemental, earth elemental, fire elemental, or water elemental. If you lose concentration, the elemental is no longer bound and may become hostile.
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 *Sages of matching elemental affinities communicate with these spirits more naturally; a Fire Sage's summoned fire elemental arrives with less coercion required.*
 
 ### Conjure Woodland Beings
@@ -9001,6 +9111,12 @@ You call upon the forest's spiritual denizens. You summon up to eight woodland s
 
 *Deku thornweavers use this to call forest guardians and scout spirits. Ancient Koroks occasionally answer such calls from those they deem worthy.*
 
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Contagion
 *(Also: Contagion (Venombark))*
 **School:** Necromancy
@@ -9010,7 +9126,7 @@ You call upon the forest's spiritual denizens. You summon up to eight woodland s
 **Duration:** 7 days
 **Components:** V, S
 
-Your touch inflicts a disease. Make a melee spell attack. On a hit, the target is poisoned. At the end of each of the target's turns, it must make a Constitution saving throw. On three failures, the disease becomes permanent; on three successes, the target recovers.
+Your touch inflicts a disease. Make a melee spell attack. On a hit, the target is poisoned. At the end of each of its turns, it makes a Constitution saving throw. After three successes, it recovers and the spell ends. After three failures, it is no longer poisoned; instead it suffers one of the diseases below (your choice) for the spell's duration.
 
 Choose from: Blinding Sickness, Filth Fever, Flesh Rot, Mindfire, Seizure, or Slimy Doom.
 
@@ -9035,8 +9151,6 @@ A flame, equivalent in brightness to a torch, springs forth from an object you t
 **Range:** 300 feet
 **Duration:** Concentration, up to 10 minutes
 **Components:** V, S, M (a drop of water and a pinch of sea salt, or a sapphire and holy water)
-
-\column
 
 You take command of a massive volume of water in a 100-foot cube within range. Choose one of the following effects (as an action on each of your turns): **Redirect Flow.** Change the direction of water within the area. **Part Water.** Create a 100-foot trench. **Whirlpool.** Create a vortex that restrains creatures (Strength saving throw). **Flood Rise.** Raise the water level up to 20 feet.
 
@@ -9078,12 +9192,6 @@ You plant up to four pieces of nonmagical ammunition in the ground. Until the sp
 
 *Wild Scout Adventurers and Rito marksmen use this to secure campsites or funnel enemies through killzones.*
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Counterspell
 **School:** Abjuration
 **MP Cost:** 4
@@ -9094,7 +9202,15 @@ You plant up to four pieces of nonmagical ammunition in the ground. Until the sp
 
 You interrupt the casting of a spell. If the spell is 3rd level or lower, it fails automatically. For higher-level spells, make a spellcasting ability check (DC = 10 + the spell's level).
 
+*Overchannel:* Each tier raises the level you counter automatically by one (Minor: 4th or lower; Major: 5th or lower; Extreme: 6th or lower).
+
 *Interlopers unravel the moment before a spell completes, a thread pulled loose from a weave. Blightbound project a ripple of dark static. Goddess Chanters sever the arcane thread with a burst of harmonic light.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Create Bonfire
 **School:** Conjuration
@@ -9134,8 +9250,6 @@ You create 45 pounds of food and 30 gallons of water on the ground or in contain
 
 **Destroy Water:** You destroy up to 10 gallons of water within range, including fog or ice.
 
-\column
-
 *Water Sages and Zora tidecallers use this as a utility spell; in the Depths, it can clear patches of Gloom that rely on moisture.*
 
 ### Crown of Madness
@@ -9173,8 +9287,6 @@ Holy power radiates from you in a 30-foot aura. Each non-hostile creature in the
 
 A soothing prayer or radiant note heals the wounded. A creature you touch regains hit points equal to 1d8 + your spellcasting ability modifier.
 
-*Spend an additional 2 MP to increase the healing by 1d8.*
-
 *Goddess Chanters sing this into being; Champions lay a gauntleted hand on an ally's shoulder as golden light flows.*
 
 ### Dancing Lights
@@ -9188,12 +9300,6 @@ A soothing prayer or radiant note heals the wounded. A creature you touch regain
 You create up to four torch-sized lights within range. Each sheds dim light in a 10-foot radius. You can combine them into a glowing, vaguely humanoid form of Medium size. As a bonus action, you can move the lights up to 60 feet to a new location within range.
 
 *Minstrel Adventurers use these as performance elements; Sage Light Affinities summon sacred motes they can actually read by.*
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 ### Darkmantle Shroud ✦
 *(Renamed: Mage Armor, dark variant)*
@@ -9209,6 +9315,12 @@ You summon a mantle of cursed force around a creature that isn't wearing armor. 
 The armor takes the form of faint red light, drifting ash, or slow-shadowed smoke that clings to the wearer like an ancient curse.
 
 *Blightbound variant of Mage Armor, favored by those who move in shadow.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Darkness
 **School:** Evocation
@@ -9256,8 +9368,6 @@ The light is considered sunlight for the purposes of effects sensitive to it.
 **Duration:** 8 hours
 **Components:** V, S
 
-\column
-
 You place a divine seal of protection on a creature. The first time the target would drop to 0 hit points, it instead drops to 1 hit point and the spell ends. If the target is subjected to an effect that would kill it instantly without dealing damage, that effect is negated and the spell ends.
 
 A radiant sigil appears briefly over the heart of the target, a glowing mark of the Goddesses' favor.
@@ -9300,12 +9410,6 @@ You sense the presence of magic within 30 feet of you. As an action, you can see
 
 *A standard tool of nearly every caster in Hyrule. Goddess Chanters perceive golden rings; Sages sense elemental signatures; Interlopers detect glowing glyphs and cold pulses.*
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Detect Poison and Disease
 **School:** Divination (Ritual)
 **MP Cost:** 2
@@ -9317,6 +9421,12 @@ You sense the presence of magic within 30 feet of you. As an action, you can see
 You sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case.
 
 *Wild Scout Adventurers and Deku thornweavers use this frequently in poisoned swamps and caves.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Detect Thoughts
 **School:** Divination
@@ -9332,7 +9442,7 @@ You focus your will into a mental probe. Initially, you detect surface thoughts 
 *Interlopers hear thoughts as whispers behind veils. Goddess Chanters use melodic empathy: thoughts sound as if sung back to them.*
 
 ### Dimension Door
-*(Also: Dimension Door (Skybound Leap), Dimension Door (Volcanic Leap))*
+*(Also: Divine Step, Goddess Chanter variant; Dimension Door (Skybound Leap); Dimension Door (Volcanic Leap))*
 **School:** Conjuration
 **MP Cost:** 5
 **Casting Time:** 1 Action
@@ -9355,8 +9465,6 @@ You teleport yourself and optionally one willing creature to a location you can 
 **Range:** Self
 **Duration:** 1 hour
 **Components:** V, S
-
-\column
 
 You veil your form in shifting illusion, changing your appearance, including clothing and gear, for the duration. The illusion doesn't hold up to physical inspection (a DC 12 Investigation check reveals it). You can appear as any humanoid of similar height and build.
 
@@ -9384,6 +9492,8 @@ You sing a purifying chant that drives out corruption. Until the spell ends, fie
 
 You choose a creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends automatically. For each spell of 4th level or higher, make a spellcasting ability check (DC = 10 + the spell's level).
 
+*Overchannel:* Each tier raises the level you end automatically by one (Minor: 4th or lower; Major: 5th or lower; Extreme: 6th or lower).
+
 *One of the most universally useful spells in Hyrule. Each caster gives it a distinctive flavor: Goddess Chanters sever arcane threads with harmonic light; Interlopers crack magical auras like fractures in glass; Champions invoke it as a wave of rippling water.*
 
 ### Dissonant Whispers
@@ -9396,15 +9506,9 @@ You choose a creature, object, or magical effect within range. Any spell of 3rd 
 **Save:** Wisdom
 **Damage:** Psychic
 
-You whisper a discordant melody audible only to one creature of your choice within range. It must succeed on a Wisdom saving throw or take 3d6 psychic damage and immediately use its reaction to move as far away from you as it can. A creature that is deafened automatically succeeds.
+You whisper a discordant melody audible only to one creature of your choice within range. It must succeed on a Wisdom saving throw or take 3d6 psychic damage and immediately use its reaction to move as far away from you as it can. On a successful save, it takes half as much damage and doesn't have to move. A creature that is deafened automatically succeeds.
 
 *Minstrel Adventurers weaponize their musical training; Goddess Chanters deliver this as a sacred condemnation.*
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 ### Divination
 **School:** Divination (Ritual)
@@ -9417,6 +9521,12 @@ You whisper a discordant melody audible only to one creature of your choice with
 You pose a question about a specific goal, event, or activity occurring within the next 7 days. The Goddess or her spirits offer a truthful omen, often in the form of sacred music, a whispered verse, or a vision during song.
 
 The guidance is never deceptive but may be cryptic or symbolic. Interlopers receive answers from veiled beings, twilight echoes, or reflected versions of themselves.
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Divine Alarm ✦
 *(Renamed: Alarm, Goddess Chanter variant)*
@@ -9459,8 +9569,6 @@ A song of creation guides your hands, shaping light and matter into sacred form.
 Your prayer empowers your weapon strikes with divine energy. Until the spell ends, your weapon attacks deal an extra 1d4 radiant damage on a hit.
 
 *Champions channel the color of their goddess's domain: flame-red for Din, deep blue for Nayru, bright green for Farore.*
-
-\column
 
 ### Divine Step ✦
 *(Renamed: Dimension Door, Goddess Chanter variant)*
@@ -9515,13 +9623,7 @@ You utter a divine word, imbued with the power that shaped the world at the dawn
 - 30 HP or fewer: stunned, blinded, and deafened for 1 hour
 - 20 HP or fewer: killed instantly
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
-Celestials, fey, fiends, and undead automatically fail their saving throw and are banished to their native planes if not from this plane (not subject to concentration).
+Whatever its hit points, a celestial, elemental, fey or fiend that fails its save is sent back to its home plane (if it isn't already there) and can't return to this one for 24 hours by any means short of *wish*.
 
 ### Dominate Beast
 **School:** Enchantment
@@ -9534,7 +9636,13 @@ Celestials, fey, fiends, and undead automatically fail their saving throw and ar
 
 You reach into a beast's mind and override its will. The beast must make a Wisdom saving throw or be charmed by you. While charmed, you control its actions on each of its turns, using a telepathic link.
 
-*Blightbound tame Lizalfos guardians and Lynels for shock troops; dark warlocks turn loyal animal companions against their masters.*
+*Blightbound tame wolves, boars and war-horses as shock troops; dark warlocks turn loyal animal companions against their masters.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Dominate Monster
 **School:** Enchantment
@@ -9570,8 +9678,6 @@ The charm manifests as a dark glyph hovering over the victim's eyes, visible to 
 **Duration:** 1 hour
 **Components:** V, S
 
-\column
-
 You cloak yourself in a shifting illusion drawn from your patron's essence. You change your appearance, including clothing and gear, for the duration. You can appear as a noble, beast, or even a Yiga assassin: anything of similar height and build.
 
 The illusion flickers when touched, revealing a glimpse of your true form beneath, often accompanied by a whisper of dark laughter.
@@ -9600,7 +9706,7 @@ You send a message or illusion to a sleeping creature you are familiar with. You
 **Duration:** Instantaneous
 **Components:** V, S, M (a bone or relic submerged in water)
 
-You call upon the souls of the drowned or those claimed by abyssal tides. You raise one pile of bones or corpse within range as a drowned skeleton or zombie under your control for 24 hours. You may animate or reassert control over up to two creatures at once (three if you spend an additional 2 MP).
+You call upon the souls of the drowned or those claimed by abyssal tides. You raise one pile of bones or corpse within range as a drowned skeleton or zombie under your control for 24 hours. You may animate or reassert control over up to two creatures at once (three if you overchannel it).
 
 These servants resemble bloated or coral-crusted spirits, their movements rippling unnaturally as though still underwater.
 
@@ -9613,12 +9719,6 @@ These servants resemble bloated or coral-crusted spirits, their movements rippli
 **Range:** 30 feet
 **Duration:** Instantaneous
 **Components:** V, S
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 You channel a minor surge of nature magic, producing one of the following:
 - You create a tiny, harmless sensory effect that predicts the weather for the next 24 hours.
@@ -9642,6 +9742,12 @@ You conjure a 5-foot-tall, 5-foot-wide column of swirling sand and wind in a spa
 
 *Gerudo sandreavers and Wind Sages use this to harass and scatter enemy formations across open desert terrain.*
 
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Earth Tremor
 **School:** Evocation
 **MP Cost:** 2
@@ -9664,8 +9770,6 @@ You cause a tremor in the ground within range. Each creature other than you in t
 **Duration:** Concentration, up to 1 minute
 **Components:** V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)
 **Save:** Constitution / Dexterity (varied effects)
-
-\column
 
 You create a seismic disturbance at a point on the ground you choose within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The tremor creates difficult terrain, causes concentration checks (DC 15), and may open fissures.
 
@@ -9697,7 +9801,7 @@ You hurl a crackling beam of energy at a creature. Make a ranged spell attack. O
 
 You touch a nonmagical weapon and choose acid, cold, fire, lightning, or thunder. The weapon becomes magical for the duration, with a +1 bonus to attack rolls and damage rolls, and deals an extra 1d4 damage of the chosen type on a hit.
 
-*Spend 4 additional MP to increase to +2 to hit and 2d4 bonus damage; 6 additional for +3 to hit and 3d4.*
+*Overchannel (Major or Extreme):* The bonus becomes +2 to hit and 2d4 damage.
 
 *Champions imbue weapons with the energy of their patron goddess; Sages align it with their Elemental Affinity.*
 
@@ -9716,12 +9820,6 @@ You sing to a creature and reshape its memory with sacred influence. On a failed
 The spell is used sparingly by high priestesses to bless or ease suffering, or to seal away painful truths.
 
 *Goddess Chanter variant of Modify Memory.*
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 ### Enhance Ability
 **School:** Transmutation
@@ -9754,6 +9852,12 @@ You sing an aria that enhances a creature's natural gifts. Choose one ability sc
 
 *Earth Sages use this to grow stone constructs; Goron juggernauts occasionally enlarge themselves to maximum intimidating effect.*
 
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Entangle
 **School:** Conjuration
 **MP Cost:** 2
@@ -9775,8 +9879,6 @@ Grasping weeds and vines sprout from the ground in a 20-foot square within range
 **Duration:** 1 minute
 **Components:** V, S
 **Save:** Wisdom
-
-\column
 
 You unleash a speech, melody, or chant infused with charismatic power. Creatures of your choice within range that can hear you must succeed on a Wisdom saving throw or have disadvantage on Wisdom (Perception) checks and be unable to look away from you for the duration.
 
@@ -9808,8 +9910,7 @@ You step into the Border Ethereal, the faint, colorless space that overlaps the 
 
 *Overchannel (Minor):* You can bring up to three willing creatures you can see within 10 feet of you into the Ethereal Plane.
 
-### Evard's Black Tentacles ✦
-*(Renamed for flavor: Hunger of Malice, see Hunger of Malice entry)*
+### Evard's Black Tentacles
 **School:** Conjuration
 **MP Cost:** 5
 **Casting Time:** 1 Action
@@ -9819,17 +9920,11 @@ You step into the Border Ethereal, the faint, colorless space that overlaps the 
 **Save:** Dexterity
 **Damage:** Bludgeoning
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 You summon writhing black tentacles in a 20-foot square. Creatures in the area must make a Dexterity saving throw or take 3d6 bludgeoning damage and become restrained. Restrained creatures repeat the save each round, taking damage again on a failure.
 
 The tentacles emerge from the ground, twisting and snapping like living shadows drawn from a pit of malice.
 
-*See Hunger of Malice for the Blightbound version. This entry covers the generic conjuration form.*
+*Blightbound call the tentacles up from the Malice beneath the ground; Interlopers pull them out of their own shadows.*
 
 ### Expeditious Retreat
 **School:** Transmutation
@@ -9856,19 +9951,11 @@ You unleash a terrifying illusion, pulling each creature's deepest fear from its
 
 *Blightbound project a shadowy flaming silhouette of their patron; Interlopers show each target a looming shadow of their own failure; Minstrel Adventurers weaponize their knowledge of folk stories about Hyrule's worst horrors.*
 
-### Feeblemind
-**School:** Enchantment
-**MP Cost:** 9
-**Casting Time:** 1 Action
-**Range:** 150 feet
-**Duration:** Instantaneous
-**Components:** V, S, M (a handful of clay, crystal, glass, or mineral spheres)
+{{footnote Spell Compendium }}
 
-You blast the mind of a creature you can see within range. The target takes 4d6 psychic damage and must make an Intelligence saving throw. On a failure, the creature's Intelligence and Charisma scores become 1. It can't cast spells, activate magic items, understand language, or communicate intelligibly. Every 30 days, the creature can repeat the saving throw to end the effect.
+{{pageNumber,auto}}
 
-*Overchannel (Minor):* The psychic damage increases to 8d6.
-
-\column
+\page
 
 ### Feather Fall
 *(Also: Feather Fall (Dancer's Descent), Feather Fall (Skyguard Reflex))*
@@ -9886,6 +9973,18 @@ Up to five falling creatures descend at 60 feet per round and take no damage fro
 **Skyguard Reflex (Rito variant):** Triggered as pure muscle memory mid-dive, the Rito spreads invisible wings of compressed air and glides safely to a new position.
 
 *Also note: Hymn of Soaring is the Goddess Chanter's named version, five creatures descend on radiant wind currents trailing glimmers like feathers in sunlight.*
+
+### Feeblemind
+**School:** Enchantment
+**MP Cost:** 9
+**Casting Time:** 1 Action
+**Range:** 150 feet
+**Duration:** Instantaneous
+**Components:** V, S, M (a handful of clay, crystal, glass, or mineral spheres)
+
+You blast the mind of a creature you can see within range. The target takes 4d6 psychic damage and must make an Intelligence saving throw. On a failure, the creature's Intelligence and Charisma scores become 1. It can't cast spells, activate magic items, understand language, or communicate intelligibly. Every 30 days, the creature can repeat the saving throw to end the effect.
+
+*Overchannel (Minor):* The psychic damage increases to 8d6.
 
 ### Find Steed
 **School:** Conjuration
@@ -9919,12 +10018,6 @@ This spell allows you to find the shortest, most direct physical route to a spec
 **Duration:** Instantaneous
 **Components:** V, S
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 You sense the presence of any trap within range that is within line of sight. A trap is defined as anything that would inflict a sudden or unexpected effect that was intended by its creator. You learn the general nature of the danger but not the precise mechanism.
 
 *Wild Scout Adventurers use this before scouting ahead in ruins; Sheikah phantoms train this sense to near-reflex.*
@@ -9957,6 +10050,12 @@ The damage increases to 2d10 at 5th level, 3d10 at 11th, and 4d10 at 17th.
 
 *Blightbound channel this as infernal flame glowing with unholy crimson; Din's Fire Sages invoke the goddess's sacred heat; Goron juggernauts produce a dense lava blob that splatters on impact.*
 
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Fire Shield
 *(Also: Fire Shield (Shadowflame Version))*
 **School:** Evocation
@@ -9967,11 +10066,9 @@ The damage increases to 2d10 at 5th level, 3d10 at 11th, and 4d10 at 17th.
 **Components:** V, S, M (a bit of phosphorus or a branded blade)
 **Damage:** Fire or Cold
 
-You wreathe yourself in shadowfire or iceflame. When struck in melee, the attacker takes 2d8 fire or cold damage (your choice when casting). You also gain resistance to that damage type.
+You wreathe yourself in shadowfire or iceflame (your choice when you cast). A creature within 5 feet of you that hits you with a melee attack takes 2d8 damage: fire from shadowfire, cold from iceflame. Shadowfire also gives you resistance to cold damage; iceflame gives you resistance to fire damage.
 
 **Shadowflame Version (Interloper variant):** The aura resembles dark embers or inverted heat, flickering violet or black-blue, cold to the touch despite its fiery appearance.
-
-\column
 
 ### Fire Storm
 **School:** Evocation
@@ -9999,8 +10096,6 @@ You create an area of divine fire. You choose up to ten 10-foot cubes within ran
 
 You hurl a sphere of infernal fire that explodes in a 20-foot-radius blast. Each creature in the area must make a Dexterity saving throw, taking 8d6 fire damage on a failed save, or half as much on a success. The explosion ignites objects and leaves behind cinders.
 
-*Spend 2 additional MP to increase the damage by 1d6.*
-
 *Blightbound manifest this as crackling demonic fire tinted crimson or violet. Fire Sages invoke it as a pure elemental detonation.*
 
 ### Flame Strike
@@ -10019,12 +10114,6 @@ You call down a pillar of crackling fire from above. Each creature in a 10-foot 
 **Holy Light version (Goddess Chanter/Champion variant):** The column descends with a sacred gong, leaving a glowing mark on the earth. It deals 4d6 radiant and 4d6 fire damage exclusively.
 
 *Blightbound invoke this as burning divine judgment marked by crackling red light and screaming flame.*
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 ### Flaming Sphere
 *(Also: Flaming Sphere (Magma Orb))*
@@ -10071,6 +10160,12 @@ You grant the power of flight to a willing creature. The target gains a flying s
 
 *Interlopers appear suspended by invisible strings; Blightbound manifest wings of flame or a vortex of darkness; Wind Sages ride their own elemental current.*
 
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Fog Cloud
 **School:** Conjuration
 **MP Cost:** 2
@@ -10078,8 +10173,6 @@ You grant the power of flight to a willing creature. The target gains a flying s
 **Range:** 120 feet
 **Duration:** Concentration, up to 1 hour
 **Components:** V, S
-
-\column
 
 You create a 20-foot-radius sphere of fog centered on a point within range. The fog heavily obscures the area. A strong wind (at least 20 miles per hour) disperses it in 1 round.
 
@@ -10119,12 +10212,6 @@ You touch a willing creature and bestow a limited ability to see into the immedi
 Your song unbinds a target from all hindrance. The creature is unaffected by difficult terrain, spells can't reduce its speed or paralyze or restrain it, and underwater movement is completely unhindered. In addition, it can spend 5 feet of movement to escape nonmagical restraints or grapples.
 
 **Mountain Stride (Goron variant):** The Goron channels the mountain's unyielding nature through their body. No terrain, no magic, no grip can hold a mountain.
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 *The Goddess Chanter's melody flows like water, allowing the target to move with the grace of a Spirit Spring.*
 
@@ -10180,9 +10267,13 @@ The damage increases by 1d6 at 5th, 11th, and 17th levels.
 
 You transform a willing creature into a misty, smoke-like cloud. The target gains resistance to nonmagical damage, can pass through small openings, and cannot attack or cast spells. It has a flying speed of 10 feet and can hover.
 
-\column
-
 *Interlopers use this for infiltration, escape, or stalking prey. The form resembles drifting black mist or glowing red vapor. Gerudo use it to slip through palace walls.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Gate
 **School:** Conjuration
@@ -10218,15 +10309,9 @@ You issue a magical command bound by power. The target must succeed on a Wisdom 
 **Duration:** Concentration, up to 1 minute
 **Components:** V, S, M (a glass or crystal bead that shatters when the spell ends)
 
-An immobile, faintly shimmering barrier springs into existence in a 10-foot radius around you. Any spell of 5th level or lower that targets a creature in the sphere (other than you) has no effect within it.
+An immobile, faintly shimmering barrier springs into existence in a 10-foot radius around you. A spell of 5th level or lower cast from outside the barrier has no effect on anything inside it, you included, even when it is overchanneled. Such a spell can still target creatures inside, and an area that covers the globe simply leaves out the space within it. Spells cast inside the barrier work normally.
 
 *An extreme protective measure used by Champions and high-level Goddess Chanters when facing overwhelming magical assault.*
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 ### Glyph of Warding
 **School:** Abjuration
@@ -10265,22 +10350,6 @@ Slick grease covers a 10-foot square within range, turning it into difficult ter
 
 *Water and Earth Sages use slick variants appropriate to their affinity, wet mud for Earth, slick ice for Water.*
 
-### Guiding Bolt
-**School:** Evocation
-**MP Cost:** 2
-**Casting Time:** 1 Action
-**Range:** 120 feet
-**Duration:** 1 round
-**Components:** V, S
-
-A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
-
-\column
-
-*Zonai light-writing produces this as a side effect of a targeting glyph, which is why so many Zonai know it without ever having been taught to cast.*
-
----
-
 ### Greater Invisibility
 *(Also: Divine Veil, Goddess Chanter variant)*
 **School:** Illusion
@@ -10293,6 +10362,12 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 You touch a creature and shroud it in pure invisibility, even if it attacks or casts spells. This deeper concealment leaves behind no trace, not even breath, sound, or scent.
 
 *Interlopers cloak themselves in sustained void-born silence; Blightbound manifest as a brief unraveling into shadow or flame before total vanishing.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Greater Restoration
 **School:** Abjuration
@@ -10328,12 +10403,6 @@ At 5th level, both the hit target and second creature take an additional 1d8 fir
 **Components:** V
 **Damage:** Radiant
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 You summon a radiant guardian (a luminous avatar, sage spirit, or echo of a deity) in an unoccupied space you choose within range. Any hostile creature that enters or starts its turn within 10 feet must make a Dexterity saving throw, taking 20 radiant damage on a failure or half as much on a success. The guardian vanishes after dealing a total of 60 damage.
 
 **Guardian of the Spring (Zora variant):** An ethereal Zora spirit, temple guardian, or water elemental protector hovers in place, glowing with deep-blue divine energy.
@@ -10351,6 +10420,18 @@ You summon a radiant guardian (a luminous avatar, sage spirit, or echo of a deit
 You hum or whisper a divine refrain, guiding a creature through the song of destiny. Once before the spell ends, the target may roll a d4 and add the number to one ability check of its choice.
 
 *The divine melody fades after use, like the echo of a forgotten hymn. A Goddess Chanter's guidance is felt as a warm pulse at the wrist; a Sage's manifests as elemental intuition.*
+
+### Guiding Bolt
+**School:** Evocation
+**MP Cost:** 2
+**Casting Time:** 1 Action
+**Range:** 120 feet
+**Duration:** 1 round
+**Components:** V, S
+
+A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
+
+*Zonai light-writing produces this as a side effect of a targeting glyph, which is why so many Zonai know it without ever having been taught to cast.*
 
 ### Gust
 **School:** Transmutation
@@ -10378,7 +10459,11 @@ A line of strong wind 60 feet long and 10 feet wide blasts from you in a directi
 
 *Rito marksmen use this for crowd control and aerial repositioning; Wind Sages channel it as sustained elemental expression.*
 
-\column
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Hall of Lies ✦
 *(Renamed: Hallucinatory Terrain, Blightbound variant)*
@@ -10404,7 +10489,7 @@ The illusion may flicker with crimson light when under strain.
 **Duration:** Permanent
 **Components:** V, S, M (rare incense and materials worth 1,000 rupees)
 
-You sanctify an area with divine song, binding it to light or darkness. Choose one creature type to be affected: cannot enter the area; are frightened while inside; cannot possess or charm within the area. You may also bind a spell like Silence or Tongues to the space.
+You sanctify an area with divine song, binding it to light or darkness. **Celestials, elementals, fey, fiends and undead** (leave out any types you choose) can't enter the area, and can't charm, frighten or possess anyone inside it. A creature already under such an effect is freed when it enters. You can also bind **one** of the Player's Handbook's Hallow effects to the area (for example *Silence*, *Tongues*, *Daylight* or *Energy Protection*), affecting either everyone there or only creatures of types you choose.
 
 The sanctified zone glows with faint runes and carries a sacred stillness.
 
@@ -10423,6 +10508,8 @@ You make natural terrain in a 150-foot cube within range look, sound, and smell 
 
 *Interlopers find this hauntingly convincing, especially in twilight or silence. Gerudo sandreavers can make desert terrain appear passable when it isn't.*
 
+\column
+
 ### Harm
 **School:** Necromancy
 **MP Cost:** 7
@@ -10432,12 +10519,6 @@ You make natural terrain in a 150-foot cube within range look, sound, and smell 
 **Components:** V, S
 **Save:** Constitution
 **Damage:** Necrotic
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 You unleash a virulent disease on a creature within range. The target must make a Constitution saving throw, taking 14d6 necrotic damage on a failed save, or half as much on a success. The target's hit point maximum is reduced by the amount of necrotic damage dealt, and this lasts until the target finishes a long rest. This spell cannot reduce hit point maximum below 1.
 
@@ -10478,6 +10559,12 @@ You choose a creature within range. It regains 70 hit points, and all diseases a
 
 *A Champion's highest act of divine mercy. When a Goddess Chanter invokes this, the sound of the spell is felt as a full-body harmonic resonance.*
 
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Healing Word
 **School:** Evocation
 **MP Cost:** 2
@@ -10486,11 +10573,7 @@ You choose a creature within range. It regains 70 hit points, and all diseases a
 **Duration:** Instantaneous
 **Components:** V
 
-\column
-
 You speak a short chant or melodic phrase that heals the wounded. A creature you can see regains hit points equal to 1d4 + your spellcasting ability modifier.
-
-*Spend an additional 2 MP to increase the healing by 1d4.*
 
 *A Goddess Chanter can deliver this mid-combat without breaking a second's stride; Champions speak it in a low, urgent tone to pull a fallen comrade back to their feet.*
 
@@ -10506,8 +10589,6 @@ You speak a short chant or melodic phrase that heals the wounded. A creature you
 **Damage:** Fire
 
 You lash out in wrathful flame when struck. The creature that harmed you must make a Dexterity saving throw, taking 2d10 fire damage on a failed save, or half as much on a success.
-
-*Spend 2 additional MP to add 1d10 damage.*
 
 **Eruption (Goron variant):** The retaliation manifests as a volcanic burst, a geyser of lava and superheated steam erupting from where the Goron was struck.
 
@@ -10533,12 +10614,6 @@ You bring forth a great feast, including magnificent food and drink. The feast t
 **Duration:** Concentration, up to 1 minute
 **Components:** V, S
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 You imbue a creature with courage through divine music or spiritual fortitude. The target is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns.
 
 *Champions and Goddess Chanters both access this; the Champion fills the target with a warrior's unyielding resolve; the Chanter wraps them in a melody that drowns out fear.*
@@ -10554,7 +10629,7 @@ You imbue a creature with courage through divine music or spiritual fortitude. T
 
 You mark a creature with a hex from your patron. Until the spell ends, you deal an additional 1d6 necrotic damage whenever you hit the target with a weapon or spell attack. You also choose one ability; the target has disadvantage on ability checks using that ability. If the target dies, you can move the curse to another creature as a bonus action.
 
-*Spend additional MP to extend duration: 4 MP for 8 hours, 6 MP for 24 hours.*
+*Cast it for 4 MP in total to last up to 8 hours, or 6 MP in total for up to 24 hours.*
 
 *A fundamental combat spell for the Blightbound.*
 
@@ -10582,11 +10657,15 @@ You target a creature of any type and bind its body in place with invisible tend
 
 You halt a humanoid's movements with sacred or arcane force. The target must succeed on a Wisdom saving throw or be paralyzed. At the end of each of its turns, it may make another saving throw to end the effect.
 
-*Spend 2 additional MP to target one additional creature.*
-
-\column
+*Overchannel:* One more creature per tier (Minor +1, Major +2, Extreme +3).
 
 *A Goddess Chanter's target glows with a faint binding aura, frozen as if mid-prayer. An Interloper's version leaves the victim suspended in a stuttering moment, held by invisible hands.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Holy Aura
 **School:** Abjuration
@@ -10625,15 +10704,9 @@ You tear open a rift to a starless void. A 20-foot-radius sphere of shadow manif
 
 You designate a creature as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on Wisdom (Perception) and Wisdom (Survival) checks made to find it. If the target dies, you can move the mark to a new creature as a bonus action.
 
-*Spend additional MP to extend duration: 4 MP for 8 hours, 6 MP for 24 hours.*
+*Cast it for 4 MP in total to last up to 8 hours, or 6 MP in total for up to 24 hours.*
 
 *A Wild Scout Adventurer's primary combat spell, invoking ancient Hylian tracking rituals.*
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 ### Hymn of Entrancement ✦
 *(Renamed: Hypnotic Pattern, Goddess Chanter variant)*
@@ -10691,9 +10764,13 @@ You sing a fragment of the Hymn of Soaring, causing up to five falling creatures
 
 You weave a twisting pattern of light and shadow in a 30-foot cube. Each creature in the area who sees it must make a Wisdom saving throw or be charmed, becoming incapacitated and unable to move. The effect ends if the creature takes damage or is shaken awake.
 
-\column
-
 *Interlopers create fractal twilight shapes or alien constellations burned into the air. Blightbound pull creatures into a dreamlike trance with an ever-twisting pattern of cursed energy.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Ice Knife
 **School:** Conjuration
@@ -10730,12 +10807,6 @@ A hail of cursed ice pelts a 20-foot-radius, 40-foot-high cylinder. Each creatur
 
 *Blightbound's version howls with demonic screams and freezes the air with malevolent intent.*
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Identify
 **School:** Divination (Ritual)
 **MP Cost:** 2
@@ -10747,6 +10818,8 @@ A hail of cursed ice pelts a 20-foot-radius, 40-foot-high cylinder. Each creatur
 Through divine insight or arcane analysis, you learn the properties and lore of a magic item. You know what it does, how to use it, whether it requires attunement, and if it's cursed. You also learn what spells (if any) are currently affecting the object.
 
 *Sacred hymns illuminate ancient relics and reveal hidden blessings or dangers; Sage scrollwork reveals the elemental or spiritual nature of the enchantment.*
+
+\column
 
 ### Incendiary Cloud
 **School:** Conjuration
@@ -10787,11 +10860,15 @@ You summon a 20-foot-radius swarm of biting insects. The cloud heavily obscures 
 
 You touch a creature and shroud it in a cloak of shadowy invisibility. Until the spell ends, the target is invisible. Anything the target is wearing or carrying is invisible as long as it is on the target. The spell ends early if the creature attacks or casts a spell.
 
-\column
-
-*Spend 4 additional MP to affect a second creature as well.*
+*Overchannel:* One more creature per tier (Minor +1, Major +2, Extreme +3).
 
 *Interlopers phase into the veil between worlds, the subject simply steps between veils, existing just out of sync with light and sound. Sheikah phantoms train this until it's as natural as breathing.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Judgment Hymn ✦
 *(Renamed: Bestow Curse, Goddess Chanter variant)*
@@ -10847,15 +10924,11 @@ You conjure a writhing tendril of animated kelp or water-vine at a point you can
 **Duration:** Instantaneous
 **Components:** V
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 You speak a command word or tap the air, and a locked object unlocks with a metallic ring or echo audible within 300 feet. Arcane Locks are suppressed for 10 minutes. Any other lock on it, mundane or magical (DC up to 30), opens.
 
 *Interlopers often disguise the sound as a dull pulse or echo, the ripple of spatial dominance overriding material resistance.*
+
+\column
 
 ### Laughing Pressure Point ✦
 *(Renamed: Tasha's Hideous Laughter, Sheikah variant)*
@@ -10894,11 +10967,15 @@ You chant an ancient ballad or invoke a relic's name. The Goddesses grant you vi
 **Duration:** Instantaneous
 **Components:** V, S
 
-You sing a healing chord and touch a creature. The target is cured of one condition: blinded, deafened, paralyzed, or poisoned.
+You sing a healing chord and touch a creature. You end one disease or one condition afflicting it: blinded, deafened, paralyzed, or poisoned.
 
 *The song may sound like the notes of a harp, echoing in the body as the affliction fades, or a sharp, firm snap of sound for a Goron juggernaut clearing battle-shock from an ally.*
 
-\column
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Levitate
 **School:** Transmutation
@@ -10939,8 +11016,6 @@ You call upon the light of the Golden Goddesses to make an object glow. It emits
 
 You release a crackling bolt of lightning in a 100-foot line, 5 feet wide. Each creature in the line must make a Dexterity saving throw, taking 8d6 lightning damage on a failed save, or half as much on a success.
 
-*Spend 2 additional MP to add 1d6 damage.*
-
 **Stormpiercer's Strike (Rito variant):** Fired from altitude, this bolt drops straight down from the caster's position, piercing through any number of targets in a vertical line below them.
 
 *When cast by a Blightbound, the lightning may be tinted red or violet and echoes with distorted whispers.*
@@ -10953,15 +11028,11 @@ You release a crackling bolt of lightning in a 100-foot line, 5 feet wide. Each 
 **Duration:** Instantaneous
 **Components:** V, S, M (a bit of fur from a bloodhound)
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 You describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles.
 
 *Essential for Wild Scout Adventurers tracking quarry, finding rare ingredients, or locating the Korok Seeds that indicate Korok presence.*
+
+\column
 
 ### Locate Creature
 **School:** Divination
@@ -11008,11 +11079,15 @@ You touch a creature. Its walking speed increases by 10 feet until the spell end
 **Duration:** Concentration, up to 10 minutes
 **Components:** V, S, M (a silver flute or harp string)
 
-\column
-
 You create an illusory scene (music, imagery, light, and even temperature) that fits within a 20-foot cube. The image can move and respond to your guidance. Your illusions are often radiant and symbolic, divine messengers, ancestral spirits, or visions of the Sacred Realm.
 
 *Goddess Chanter variant of Major Image.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Mage Armor
 *(Also: Armor of Malevolence, Darkmantle Shroud)*
@@ -11059,12 +11134,6 @@ You inscribe a 10-foot radius, 20-foot-tall cylinder that wards against one crea
 **Duration:** Until dispelled
 **Components:** V, S, M (a gem, crystal, or reliquary worth at least 500 rupees)
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 You transfer your soul into a prepared vessel (the magic jar) within 100 feet. While in the vessel, you can sense your surroundings and attempt to possess humanoids that come within 100 feet.
 
 *Spirit Sages who study deep soul-magic regard this as the most dangerous of their traditions, the vessel must be guarded at all costs while the soul is absent.*
@@ -11080,7 +11149,7 @@ You transfer your soul into a prepared vessel (the magic jar) within 100 feet. W
 
 You conjure three glowing darts of magical force, each automatically striking a target and dealing 1d4 + 1 force damage. You can distribute them freely.
 
-*Spend 2 additional MP to add one additional dart.*
+*Overchannel:* One more dart per tier (Minor +1, Major +2, Extreme +3).
 
 **Spirits of Light (Sage Light Affinity variant):** The darts manifest as tiny bolts of radiant sacred light, each one emitting a brief harmonic chime on impact.
 
@@ -11096,7 +11165,7 @@ You conjure three glowing darts of magical force, each automatically striking a 
 
 You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.
 
-*Spend 4 additional MP to increase the bonus to +2; 8 additional for +3.*
+*Overchannel (Major or Extreme):* The bonus becomes +2.
 
 *Champions use this as a battlefield improvisation when facing enemies resistant to normal weapons.*
 
@@ -11115,8 +11184,6 @@ You create an image of an object, creature, or scene no larger than a 20-foot cu
 
 *Interlopers craft illusions as twisted memories, forgotten ruins, or mockeries of divine symbols. Blightbound summon flaming serpents or demonic avatars.*
 
-\column
-
 ### Mass Cure Wounds
 **School:** Evocation
 **MP Cost:** 6
@@ -11127,9 +11194,13 @@ You create an image of an object, creature, or scene no larger than a 20-foot cu
 
 You sing a powerful healing hymn that echoes across the battlefield. Choose a point within range; up to six creatures within a 30-foot radius regain hit points equal to 3d8 + your spellcasting ability modifier.
 
-*Spend 2 additional MP to increase the healing by 1d8.*
-
 *Each healed creature feels a warmth in their chest, like the blessing of the Goddesses woven through a Chanter's voice.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Mass Heal
 **School:** Evocation
@@ -11151,8 +11222,6 @@ A flood of healing energy flows from you. You restore up to 700 hit points, divi
 
 You sing a divine chord that carries across the battlefield. Up to six creatures of your choice that you can see regain hit points equal to 1d4 + your spellcasting ability modifier.
 
-*Spend 2 additional MP to increase the healing by 1d4.*
-
 *Used mid-combat to keep multiple allies standing without interrupting a Chanter's position.*
 
 ### Mass Polymorph
@@ -11163,13 +11232,7 @@ You sing a divine chord that carries across the battlefield. Up to six creatures
 **Duration:** Concentration, up to 1 hour
 **Components:** V, S, M (a caterpillar cocoon)
 
-You transform up to ten creatures of your choice you can see within range. Unwilling targets make a Wisdom saving throw to resist. Each target assumes a beast form of your choice with a challenge rating equal to or less than the target's CR or level, using the beast's statistics in place of the target's.
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
+You transform up to ten creatures of your choice you can see within range. Unwilling targets make a Wisdom saving throw to resist. Each target assumes a beast form of your choice with a challenge rating no higher than the target's CR, or half its level if it has no CR, using the beast's statistics in place of the target's.
 
 ### Maze
 **School:** Conjuration
@@ -11218,8 +11281,6 @@ You channel divine energy to repair a break or tear in an object you touch. A br
 **Duration:** 1 round
 **Components:** V, S, M (a short piece of copper wire or whispered breath into a clawed finger)
 
-\column
-
 You point your finger toward a creature within range and whisper a message. The target, and only the target, hears the message and can reply in a whisper that only you can hear.
 
 *Interlopers flavor this as a cold wind delivery; Sheikah phantoms train it as a precision infiltration tool.*
@@ -11237,6 +11298,12 @@ You point your finger toward a creature within range and whisper a message. The 
 Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius sphere centered on each point must make a Dexterity saving throw, taking 20d6 fire damage and 20d6 bludgeoning damage on a failed save, or half as much on a success.
 
 *The most catastrophic spell available, wielded only in legend, by Fire and Earth Sages who have mastered the most ancient magics of the goddess Din.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Minor Illusion
 **School:** Illusion
@@ -11271,12 +11338,6 @@ You make terrain in an area up to 1 mile square look, sound, smell, and feel lik
 **Duration:** 1 minute
 **Components:** V, S
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 You sing a protective harmony, and radiant illusions of yourself echo and swirl around you. Three illusory versions shimmer with light, shifting like reflections in sacred water. When a creature targets you, roll to see if the attack hits an illusion or the real you. Duplicates vanish when hit.
 
 *Goddess Chanter variant of Mirror Image.*
@@ -11290,11 +11351,13 @@ You sing a protective harmony, and radiant illusions of yourself echo and swirl 
 **Duration:** 1 minute
 **Components:** V, S
 
-Three illusionary copies of yourself shimmer into being, warped by demonic energy. These cursed reflections dance around you, confusing your foes. Each time a creature targets you, roll a d20 to determine if the attack hits a duplicate. The AC of each duplicate is 13 + your Dexterity modifier. Duplicates vanish when hit.
+Three illusory copies of yourself shimmer into being, warped by demonic energy. Each time a creature targets you with an attack while a copy remains, roll a d20: on 6 or higher with three copies, 8 or higher with two, or 11 or higher with one, the attack targets a copy instead. A copy has AC 10 + your Dexterity modifier and vanishes when hit. A creature that can't see, or that relies on blindsight or truesight, isn't fooled.
 
 The copies laugh silently and flicker with red or violet light, mimicking your every movement with malice.
 
 *Blightbound variant of Mirror Image.*
+
+\column
 
 ### Mirror Image
 *(Also: Mirror Chorus, Chanter variant; Mirror Curse, Blightbound variant)*
@@ -11305,7 +11368,7 @@ The copies laugh silently and flicker with red or violet light, mimicking your e
 **Duration:** 1 minute
 **Components:** V, S
 
-Three illusory duplicates of yourself appear in your space. Whenever a creature targets you, roll a d20 to determine if the attack hits you or a duplicate. Each duplicate has an AC equal to 10 + your Dexterity modifier. A duplicate is destroyed when it is hit by an attack.
+Three illusory duplicates of yourself appear in your space. Each time a creature targets you with an attack while a duplicate remains, roll a d20: on 6 or higher with three duplicates, 8 or higher with two, or 11 or higher with one, the attack targets a duplicate instead. Each duplicate has an AC equal to 10 + your Dexterity modifier. A duplicate is destroyed when it is hit by an attack. A creature that can't see, or that relies on blindsight or truesight, isn't fooled.
 
 *The generic form. Interlopers produce fractured shadow echoes; Gerudo sandreavers dance their duplicates to confuse enemies mid-combat.*
 
@@ -11329,11 +11392,15 @@ You become invisible and simultaneously create an illusory double that appears w
 **Duration:** Instantaneous
 **Components:** V
 
-\column
-
 You teleport in a flash of shadow, light, or vapor, reappearing in an unoccupied space you can see within 30 feet.
 
 *Blightbound vanish in a puff of ash, crimson mist, or a spiral of dark flame. Interlopers fold into shadow and appear from another shadow. Goddess Chanters dissolve in a shimmer of light and music. Gerudo sandreavers blur through a burst of hot sand.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Modify Memory
 *(Also: Emotional Chorus, Goddess Chanter variant)*
@@ -11382,13 +11449,7 @@ You choose an area of terrain no larger than 40 feet on a side within range. You
 **Duration:** Varies (1 day or less depending on material)
 **Components:** V, S, M (a scrap of the intended material)
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
-You pull physical matter from shadow or memory. You create an object of vegetable matter, stone, crystal, or metal, the more refined, the shorter its duration (refined metal lasts 1 round; vegetable matter lasts 24 hours; stone lasts 1 hour).
+You pull physical matter from shadow or memory: an object of vegetable matter, stone, crystal or metal, no larger than a 5-foot cube. The more refined the material, the shorter it lasts: vegetable matter 24 hours; stone or crystal 1 hour; metal 1 minute; refined metal 1 round.
 
 The object must be something you have held or studied closely. You cannot create living matter, magical items, or currency that functions as actual value.
 
@@ -11432,8 +11493,6 @@ You bind a creature to a sacred tidal covenant, a hymn written in divine law, et
 
 *Zora variant of Geas. The oath is witnessed by the ocean's eternal memory.*
 
-\column
-
 ### Pass Without Trace
 **School:** Abjuration
 **MP Cost:** 3
@@ -11445,6 +11504,12 @@ You bind a creature to a sacred tidal covenant, a hymn written in divine law, et
 A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you gains a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by magical means. A creature that benefits from this spell leaves behind no tracks.
 
 *The premier stealth spell of Wild Scout Adventurers, as if the Kokiri Forest itself swallows all sound and sign of your passage.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Phantasmal Force
 **School:** Illusion
@@ -11470,15 +11535,9 @@ You create an illusion in the mind of one creature. It takes on a form you choos
 **Save:** Wisdom
 **Damage:** Psychic
 
-You tap into your target's deepest fear and make it real. The creature must succeed on a Wisdom saving throw or become frightened for the duration. Each round, it takes 4d10 psychic damage and can repeat the saving throw at the end of its turn.
+You tap into your target's deepest fear and make it real. The creature must succeed on a Wisdom saving throw or become frightened for the duration. At the end of each of its turns, it repeats the save: on a failure it takes 4d10 psychic damage, and on a success the spell ends.
 
 The hallucination is visible only to the target, often taking the form of a burning Sheikah eye, ghost of a victim, or demonic beast from their past.
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 **Storm Terror (Rito variant):** The hallucination takes the form of the one thing all flying beings fear, a storm of infinite violence from which there is no escape, no updraft, no shelter.
 
@@ -11496,7 +11555,6 @@ You summon a Large quasi-real horselike creature that moves without sound. The s
 *Sheikah variant of Phantom Steed, a silent, shadow-touched mount suited for infiltration rather than open battle.*
 
 ### Planar Binding
-*(Also: Binding Seal, Goddess Chanter variant)*
 **School:** Abjuration
 **MP Cost:** 6
 **Casting Time:** 1 Hour
@@ -11507,7 +11565,7 @@ You summon a Large quasi-real horselike creature that moves without sound. The s
 
 You bind a celestial, elemental, fey, or fiend to your service. The creature must be within a magic circle when the spell is cast. On a failed Charisma save, it is magically compelled to obey you for the duration.
 
-*Spend additional MP to extend duration: extend it by 1 day for each additional 2 MP spent (up to a maximum of 1 year with 10 additional MP).*
+*Overchannel:* The duration becomes 10 days (Minor), 30 days (Major) or 180 days (Extreme).
 
 *A Goddess Chanter may sing the contract, an old hymn written in divine law, etched into the air as glowing script.*
 
@@ -11522,8 +11580,6 @@ You bind a celestial, elemental, fey, or fiend to your service. The creature mus
 You and up to eight willing creatures who link hands are transported to a different plane of existence, appearing near a destination you specify in general terms. Alternatively, you can use this spell as an attack: make a melee spell attack against one creature within reach. On a hit, the creature must make a Charisma saving throw or be transported to a random location on a plane you specify.
 
 *Overchannel (Minor):* You may specify your destination with precise accuracy rather than general terms.
-
-\column
 
 ### Plant Growth
 **School:** Transmutation
@@ -11555,6 +11611,12 @@ The damage increases by 1d12 at 5th, 11th, and 17th levels.
 
 *Deku Scrubs produce this naturally; Wild Scout Adventurers mix toxic plant compounds for the same effect.*
 
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Polymorph
 *(Also: Sacred Transformation, Goddess Chanter variant)*
 **School:** Transmutation
@@ -11578,12 +11640,6 @@ You transform a creature into a beast with CR equal to or lower than its level. 
 **Range:** Touch
 **Duration:** Instantaneous
 **Components:** V
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 A wave of healing energy washes over the creature you touch. The target regains all its hit points. Any charmed, frightened, paralyzed, or stunned condition on it ends. If the creature is prone, it can use its reaction to stand up. No effect on undead or constructs.
 
@@ -11611,6 +11667,8 @@ You speak a word of power that overwhelms the mind of one creature you can see w
 
 *Spirit Sages who have mastered mind-over-matter speak this as a single resonant syllable that bypasses all physical defense.*
 
+\column
+
 ### Prayer of Healing
 **School:** Evocation
 **MP Cost:** 3
@@ -11621,20 +11679,15 @@ You speak a word of power that overwhelms the mind of one creature you can see w
 
 You perform a divine song of healing. Up to six creatures of your choice within range regain hit points equal to 2d8 + your spellcasting ability modifier.
 
-*Spend an additional 2 MP to increase the healing by 1d8.*
-
 *Used between encounters, in the aftermath of battle, or during camp rituals by Champions and Goddess Chanters alike.*
 
 ### Prestidigitation
-*(Also: Druidcraft, Ranger variant; Thaumaturgy, divine display; Voice of Ruin, Blightbound variant; Voice of the Goddess, Chanter variant; Twilight Manifestation, Interloper variant; Thaumaturgy (Desert Power), Gerudo variant)*
 **School:** Transmutation
 **MP Cost:** 1 (Cantrip)
 **Casting Time:** 1 Action
 **Range:** 10 feet
 **Duration:** Up to 1 hour
 **Components:** V, S
-
-\column
 
 You perform a minor magical trick. You may have up to three effects active at once, chosen from:
 - Cause a harmless sensory effect (sparkles, a puff of wind, a faint music note)
@@ -11668,6 +11721,12 @@ Eight rays of light flash from your hand. Each creature in a 60-foot cone must m
 
 A shimmering multicolored wall, up to 90 feet long, 30 feet high, 1 inch thick, or a 30-foot-diameter sphere forms at a point you choose. The wall sheds bright light 100 feet and dim light a further 100 feet. Creatures you designate pass through harmlessly. Other creatures within 20 feet must make a Constitution saving throw or be blinded for 1 minute. The wall has seven colored layers, each with a different effect and each destroyed by a specific damage type.
 
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Produce Flame
 **School:** Conjuration
 **MP Cost:** 1 (Cantrip)
@@ -11682,12 +11741,6 @@ A flickering flame appears in your hand. The flame sheds bright light in a 10-fo
 The damage increases by 1d8 at 5th, 11th, and 17th levels.
 
 *Common among Wild Scout Adventurers who need a reliable light source and a ranged option in emergencies.*
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 ### Protection from Energy
 *(Also: Protection from the Elements, Goddess Chanter variant)*
@@ -11745,8 +11798,6 @@ See **Protection from Energy** above. This is the Goddess Chanter variant with d
 **Duration:** Instantaneous
 **Components:** S
 
-\column
-
 You blast the intellect of up to ten creatures you can see within range (those with Intelligence 2 or lower are unaffected). Each target makes an Intelligence saving throw, taking 14d6 psychic damage and becoming stunned on a failure, or half damage on a success. A stunned target can repeat the saving throw at the end of each of its turns to end the stun.
 
 ### Purify Food and Drink
@@ -11767,7 +11818,7 @@ All nonmagical food and drink within a 5-foot-radius sphere are cleansed of pois
 **Duration:** Instantaneous
 **Components:** V, S, M (diamonds worth 500 rupees)
 
-You call a soul back to its body with a sacred song of rebirth. A creature that died within the last 10 days is returned to life with 1 hit point, provided its body is intact and its soul willing to return. The target suffers temporary penalties to attacks and saves until they finish a long rest. The spell restores life, but not missing limbs.
+You call a soul back to its body with a sacred song of rebirth. A creature that died within the last 10 days is returned to life with 1 hit point, provided its body is intact and its soul willing to return. The target has a −4 penalty to attack rolls and saving throws until it finishes a long rest. The spell restores life, but not missing limbs.
 
 *A Goddess Chanter's ultimate act of compassion, the resurrected creature awakens to the sound of sacred music echoing in their ears.*
 
@@ -11784,6 +11835,12 @@ A black beam of enervating energy springs from your finger toward a creature wit
 
 *Earth Sages use this to drain physical strength from Goron and Moblin enemies.*
 
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Ray of Frost
 **School:** Evocation
 **MP Cost:** 1 (Cantrip)
@@ -11799,12 +11856,6 @@ The damage increases by 1d8 at 5th, 11th, and 17th levels.
 
 *Water Sages invoke this as a precise needle of Hebra's deepest cold; Blightbound channel it as a ray of shadow-laced ice.*
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Regenerate
 **School:** Transmutation
 **MP Cost:** 8
@@ -11817,18 +11868,6 @@ You touch a creature and stimulate its natural healing. The target regains 4d8 +
 
 *Overchannel (Minor):* The target regains 2 hit points at the start of each of its turns instead of 1.
 
-### Revivify
-**School:** Necromancy
-**MP Cost:** 4
-**Casting Time:** 1 Action
-**Range:** Touch
-**Duration:** Instantaneous
-**Components:** V, S, M (diamonds worth 300 rupees)
-
-You sing a desperate prayer and restore life to a creature that died within the last minute. The soul is pulled back from the brink, so long as it is willing and not blocked by unnatural forces. The creature returns to 1 hit point.
-
-*A Goddess Chanter's most urgent miracle, the prayer is brief, the flash of light instantaneous, and the chest of the fallen rises once more.*
-
 ### Reincarnate
 *(Also: Reincarnate (Bloomshaper))*
 **School:** Transmutation
@@ -11838,7 +11877,7 @@ You sing a desperate prayer and restore life to a creature that died within the 
 **Duration:** Instantaneous
 **Components:** V, S, M (rare oils worth 1,000 rupees)
 
-You touch a dead humanoid. The soul returns to a new body, roll or choose from the Reincarnate table to determine the creature's new race. The creature retains its memories, personality, class levels, and ability scores. Its physical appearance and racial traits are entirely new.
+You touch a dead humanoid. The soul returns to a new body. Roll a d10 to determine its new race (or the DM chooses): **1** Deku, **2** Gerudo, **3** Goron, **4** Hylian, **5** Kokiri, **6** Rito, **7** Sheikah, **8** Twili, **9** Zonai, **10** Zora. The DM may reroll a result that doesn't fit the campaign. The creature retains its memories, personality, class levels, and ability scores. Its physical appearance and racial traits are entirely new.
 
 **Reincarnate (Bloomshaper) (Deku variant):** The body is grown from the forest itself, bark and leaf weaving into form, wildflowers blooming as the soul settles. The new form has a connection to the Kokiri Forest regardless of the race generated.
 
@@ -11893,7 +11932,27 @@ This spell also neutralizes any poisons and cures diseases that were affecting t
 
 This spell reverses gravity in a 50-foot-radius, 100-foot high cylinder centered on a point within range. All creatures and objects not somehow anchored to the ground in the area fall upward. When the spell ends, affected creatures and objects fall back down.
 
+A creature that can reach a fixed object as it falls, such as a pillar, a ledge or a branch, can make a Dexterity saving throw; on a success, it grabs hold and doesn't fall.
+
 *Wind Sages in complete command of their element can extend this concept; Interlopers occasionally flip gravity locally as a disorienting trap.*
+
+### Revivify
+**School:** Necromancy
+**MP Cost:** 4
+**Casting Time:** 1 Action
+**Range:** Touch
+**Duration:** Instantaneous
+**Components:** V, S, M (diamonds worth 300 rupees)
+
+You sing a desperate prayer and restore life to a creature that died within the last minute. The soul is pulled back from the brink, so long as it is willing and not blocked by unnatural forces. The creature returns to 1 hit point.
+
+*A Goddess Chanter's most urgent miracle, the prayer is brief, the flash of light instantaneous, and the chest of the fallen rises once more.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Sacred Flame
 **School:** Evocation
@@ -11910,12 +11969,6 @@ A beam of divine light descends upon a target you can see. The creature must suc
 The damage increases by 1d8 at 5th, 11th, and 17th levels.
 
 *A Goddess Chanter's most basic offensive prayer, a burst of holy fire guided by celestial harmony, leaving behind faint golden embers in the air.*
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 ### Sacred Transformation ✦
 *(Renamed: Polymorph, Goddess Chanter variant)*
@@ -11971,9 +12024,7 @@ The dome often appears as a gentle golden glow or a mosaic of divine symbols sus
 
 You conjure three rays of cursed fire and hurl them at one or more targets. Make a ranged spell attack for each ray. On a hit, each ray deals 2d6 fire damage.
 
-*Spend 2 additional MP to conjure one additional ray.*
-
-\column
+*Overchannel:* One more ray per tier (Minor +1, Major +2, Extreme +3).
 
 *Blightbound project these as beams carrying an echo of their wrath; Fire Sages focus them as precise lances of divine flame.*
 
@@ -12005,6 +12056,12 @@ The next time you hit a creature with a melee weapon attack during this spell's 
 
 *A Champion of Din's preferred opening strike, the fire burns with the goddess's holy heat.*
 
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### See Invisibility
 **School:** Divination
 **MP Cost:** 3
@@ -12024,12 +12081,6 @@ For the duration, you see invisible creatures and objects as if they were visibl
 **Range:** 30 feet
 **Duration:** 8 hours
 **Components:** V, S
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 You alter the appearance of any number of creatures within range for the duration. Each may be disguised as someone else of the same size category. The illusions hold up to basic interaction but not to touch or close inspection.
 
@@ -12076,18 +12127,6 @@ The target's flesh hardens like crystallized shadow, granting resistance to nonm
 
 *This rare Interloper technique binds the strength of ancient Twilight stones into the body itself.*
 
-\column
-
-### Shapechange
-**School:** Transmutation
-**MP Cost:** 10
-**Casting Time:** 1 Action
-**Range:** Self
-**Duration:** Concentration, up to 1 hour
-**Components:** V, S, M (a jade circlet worth at least 1,500 rupees)
-
-You assume the form of a different creature with a CR equal to or lower than your character level. The creature must be a non-construct, non-undead creature you have seen. Your statistics are replaced by the creature's, though you retain your alignment and mental scores. You can use your action to change form again at any time.
-
 ### Shape Coral ✦
 *(Renamed: Stone Shape, Zora variant)*
 **School:** Transmutation
@@ -12117,6 +12156,22 @@ You choose an area of water that fits within a 5-foot cube. You can manipulate i
 
 *Water Sages and Zora use this constantly, sculpting currents and ice shapes as naturally as breathing.*
 
+### Shapechange
+**School:** Transmutation
+**MP Cost:** 10
+**Casting Time:** 1 Action
+**Range:** Self
+**Duration:** Concentration, up to 1 hour
+**Components:** V, S, M (a jade circlet worth at least 1,500 rupees)
+
+You assume the form of a different creature with a CR equal to or lower than your character level. The creature must be a non-construct, non-undead creature you have seen. Your statistics are replaced by the creature's, though you retain your alignment and mental scores. You can use your action to change form again at any time.
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Shatter
 *(Also: Shatter (Sonic Arrowburst), Shatter (Spatial Fracture))*
 **School:** Evocation
@@ -12127,12 +12182,6 @@ You choose an area of water that fits within a 5-foot cube. You can manipulate i
 **Components:** V, S, M (a sliver of broken mask, a shard of mica, or a chip of glass)
 **Save:** Constitution
 **Damage:** Thunder
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature within 10 feet must make a Constitution saving throw, taking 3d8 thunder damage on a failed save or half as much on a success. A creature made of inorganic material (stone, crystal, metal) has disadvantage on the save. Nonmagical objects that aren't being worn or carried in the area take 3d8 thunder damage.
 
@@ -12174,8 +12223,6 @@ The wood of a club or quarterstaff you are holding is imbued with nature's power
 
 *Wild Scout Adventurers who prefer melee combat find this indispensable for keeping pace with martial characters.*
 
-\column
-
 ### Shocking Grasp
 **School:** Evocation
 **MP Cost:** 1 (Cantrip)
@@ -12215,6 +12262,12 @@ You create a visual illusion of an object, creature, or other visible phenomenon
 
 *Interlopers stitch these from shadow and dream; Sheikah phantoms create false exits, sleeping guards, and decoy doors.*
 
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Sleep
 **School:** Enchantment
 **MP Cost:** 2
@@ -12226,12 +12279,6 @@ You create a visual illusion of an object, creature, or other visible phenomenon
 This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until it takes damage or someone uses an action to wake it.
 
 *Interlopers invoke a wave of shadow or the absence of sound; Minstrel Adventurers hum a folk melody that is older than memory.*
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 ### Sleet Storm
 **School:** Conjuration
@@ -12283,8 +12330,6 @@ You press a hand to a creature at death's door and whisper a line of sacred pray
 
 A soft pulse of light glows briefly beneath your hand, the spirit held in place by divine song.
 
-\column
-
 ### Speak with Animals
 **School:** Divination (Ritual)
 **MP Cost:** 2
@@ -12295,7 +12340,7 @@ A soft pulse of light glows briefly beneath your hand, the spirit held in place 
 
 You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but they can give information about nearby locations and monsters.
 
-*Wild Scout Adventurers and Forest Sages use this constantly. In Hyrule, many animals carry ancient memories of the kingdom's history.*
+*Wild Scout Adventurers and Shamans use this constantly. In Hyrule, many animals carry ancient memories of the kingdom's history.*
 
 ### Speak with Dead
 **School:** Necromancy
@@ -12321,7 +12366,13 @@ You imbue plants within 30 feet with limited sentience and animation, giving the
 
 In addition, you can turn difficult terrain caused by plant growth into ordinary terrain for the duration, or vice versa.
 
-*Deku thornweavers commune with ancient trees; Forest Sages discover that the most ancient of Hyrule's trees remember events stretching back to the Calamity.*
+*Deku thornweavers commune with ancient trees; Shamans discover that the most ancient of Hyrule's trees remember events stretching back to the Calamity.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Spider Climb
 **School:** Transmutation
@@ -12334,12 +12385,6 @@ In addition, you can turn difficult terrain caused by plant growth into ordinary
 You touch a willing creature. For the duration, it can move up, down, and across vertical surfaces and ceilings at normal speed. It also gains the ability to climb while keeping its hands free.
 
 *Earth Sages use this to scale dungeon walls; Sheikah phantoms train a form of this through Sheikah acrobatic techniques.*
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 ### Spike Growth
 **School:** Transmutation
@@ -12380,8 +12425,6 @@ You summon divine spirits, ancestral sages or angelic guardians, to circle you. 
 
 You call forth spirits of the dead, which flit around you for the spell's duration. Whenever you hit with an attack, the spirits lash out at the target: it takes 1d8 necrotic, radiant, or cold damage (your choice) once per turn. In addition, any creature that takes damage from this spell has its speed reduced by 10 feet until the start of your next turn, and it can't regain hit points until then.
 
-\column
-
 *Spirit Sages and Blightbound summon fallen spirits as weapons; the spirits resent the living and gladly aid the caster.*
 
 ### Spirits of the Sea ✦
@@ -12409,7 +12452,7 @@ See **Spirit Guardians** above for full statistics. The spirits appear as ghostl
 
 You summon a spectral weapon of divine song, a harp-blade, radiant sigil, or shining lance. On casting, you may make a melee spell attack against a creature within 5 feet of it, dealing 1d8 + your spellcasting ability modifier in force or radiant damage. As a bonus action each turn, you can move the weapon up to 20 feet and repeat the attack.
 
-*Spend 2 additional MP to increase the damage by 1d8.*
+*Overchannel (Major or Extreme):* +1d8 damage, instead of the usual extra dice.
 
 *Champions and Goddess Chanters manifest this differently: Champions call a glowing sword or spear; Chanters produce a harp-blade or musical weapon made of golden light.*
 
@@ -12425,6 +12468,12 @@ The next time you hit a creature with a melee weapon attack during this spell's 
 
 *A Champion's divine strike. It breaks the body and the will to fight at the same time.*
 
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Stone Shape
 *(Also: Shape Coral, Zora variant)*
 **School:** Transmutation
@@ -12435,12 +12484,6 @@ The next time you hit a creature with a melee weapon attack during this spell's 
 **Components:** V, S, M (soft clay or a sacred chisel)
 
 You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape you like. Stone doors, walls, passages, and crude weapons are all possible.
-
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
 
 *Earth Sages use this as naturally as potters work clay. Goron juggernauts shape walls and weapons on the fly from dungeon stone.*
 
@@ -12484,8 +12527,6 @@ You speak a phrase imbued with magical authority. One creature that can hear and
 
 *A Blightbound whispers a dark suggestion that slides into the target's mind like an idea they already believe. An Interloper frames the suggestion so perfectly, the target forgets it wasn't their own thought.*
 
-\column
-
 ### Summon Undead
 **School:** Conjuration
 **MP Cost:** 4
@@ -12494,9 +12535,62 @@ You speak a phrase imbued with magical authority. One creature that can hear and
 **Duration:** Concentration, up to 1 hour
 **Components:** V, S, M (a gilded skull worth 300 rupees)
 
-You call forth an undead spirit. It manifests as a skeleton, zombie, or ghostly form (your choice). The spirit has statistics that scale with the MP spent.
+You call forth an undead spirit, which appears in an unoccupied space you can see within range as a **Poe**, a **Stalfos** or a **Gibdo** (your choice). It uses the Undead Spirit stat block; the form you choose decides which of its traits and attacks it has. It vanishes when it drops to 0 hit points or when the spell ends.
+
+The spirit is friendly to you and your companions. In combat it shares your initiative count and takes its turn right after yours. It obeys your spoken commands (no action required by you). If you give it none, it takes the Dodge action and moves away from danger.
+
+**Paying more.** You can pay more than 4 MP (or DPP) for this spell. The spell's level is the amount you pay minus 1: 5 MP casts it at 4th level, 6 MP at 5th, up to 10 MP at 9th. The spirit uses that level wherever its stat block says "the spell's level". The extra MP is part of the spell's cost, not Overchanneling, and this spell can't be Overchanneled. You can't raise it above your Spell Level Ceiling or your Spell Level Cap.
 
 *Blightbound who have fully embraced necromantic power can summon these spirits instead of, or in addition to, physically raised dead.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
+
+{{monster,frame
+## Undead Spirit
+*Medium Undead*
+___
+**Armor Class** :: 11 + the spell's level (Stalfos: +2 more, from its shield)
+**Hit Points**  :: Poe or Stalfos: 30 + 10 for each spell level above 3rd. Gibdo: 40 + 10 for each spell level above 3rd.
+**Speed**       :: 30 ft. (Poe: also fly 40 ft., hover. Gibdo: 20 ft.)
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)|14 (+2)|14 (+2)|5 (-3)|10 (+0)|8 (-1)|
+___
+**Damage Immunities** :: necrotic, poison
+**Condition Immunities** :: exhaustion, frightened, paralyzed, poisoned
+**Senses** :: darkvision 60 ft., passive Perception 10
+**Languages** :: understands the languages you speak
+**Challenge** :: — {{bonus **Proficiency Bonus** equals your bonus}}
+___
+***Lantern Drift (Poe Only).*** The spirit can move through creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+:
+***Grave Chill (Gibdo Only).*** Any creature other than you that starts its turn within 5 feet of the spirit must succeed on a Constitution saving throw against your spell save DC or have its speed halved until the start of its next turn.
+### Actions
+***Multiattack.*** The spirit makes a number of attacks equal to half the spell's level (rounded down).
+:
+***Lantern Touch (Poe Only).*** *Melee Spell Attack:* your spell attack modifier to hit, reach 5 ft., one creature. *Hit:* 1d8 + 3 + the spell's level necrotic damage, and the target must succeed on a Wisdom saving throw against your spell save DC or be frightened of the spirit until the end of the target's next turn.
+:
+***Bone Blade (Stalfos Only).*** *Melee Spell Attack:* your spell attack modifier to hit, reach 5 ft., one creature. *Hit:* 1d10 + 3 + the spell's level slashing damage.
+:
+***Mummy's Grasp (Gibdo Only).*** *Melee Spell Attack:* your spell attack modifier to hit, reach 5 ft., one creature. *Hit:* 1d6 + 3 + the spell's level bludgeoning damage, and a Medium or smaller target is grappled (escape DC equals your spell save DC). The spirit can grapple one creature at a time.
+}}
+
+##### Undead Spirit by MP Paid
+
+| MP | Spell Level | AC (Stalfos) | HP Poe/Stalfos | HP Gibdo | Attacks | Avg. Hit (Poe / Stalfos / Gibdo) |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 4 | 3rd | 14 (16) | 30 | 40 | 1 | 10 / 11 / 9 |
+| 5 | 4th | 15 (17) | 40 | 50 | 2 | 11 / 12 / 10 |
+| 6 | 5th | 16 (18) | 50 | 60 | 2 | 12 / 13 / 11 |
+| 7 | 6th | 17 (19) | 60 | 70 | 3 | 13 / 14 / 12 |
+| 8 | 7th | 18 (20) | 70 | 80 | 3 | 14 / 15 / 13 |
+| 9 | 8th | 19 (21) | 80 | 90 | 4 | 15 / 16 / 14 |
+| 10 | 9th | 20 (22) | 90 | 100 | 4 | 16 / 17 / 15 |
 
 ### Sunbeam
 **School:** Evocation
@@ -12534,13 +12628,13 @@ Brilliant sunlight flashes in a 60-foot-radius sphere. Each creature in that lig
 
 You inscribe a harmful glyph on a surface or inside an object. When triggered, the glyph affects all creatures within 60 feet, requiring a Constitution or Wisdom saving throw (DC = your spell save DC). Choose the effect: Death, Discord, Fear, Hopelessness, Insanity, Pain, Sleep, or Stunning.
 
+*Overchannel (Major):* The glyph is undetectable by magical means unless the detecting spell exceeds 8th level.
+
 {{footnote Spell Compendium }}
 
 {{pageNumber,auto}}
 
 \page
-
-*Overchannel (Major):* The glyph is undetectable by magical means unless the detecting spell exceeds 8th level.
 
 ### Tasha's Hideous Laughter
 *(Also: Laughing Pressure Point, Sheikah variant; Shadow Disruption, Interloper variant)*
@@ -12588,8 +12682,6 @@ You instantly transport yourself and up to eight willing creatures you can see w
 **Range:** 120 feet
 **Duration:** 24 hours
 **Components:** V, S, M (a holy symbol worth at least 5 rupees)
-
-\column
 
 A temple dedicated to a deity you choose shimmers into existence in an open space within range, up to 120 feet on a side. The interior is illuminated, comfortable, furnished, and supplied with food and water. Fiends and undead must make a Charisma saving throw (DC = your spell save DC) to enter. Healing spells cast within the temple restore an additional 2d6 hit points.
 
@@ -12694,11 +12786,9 @@ The first time you hit with a melee weapon attack during this spell's duration, 
 
 You release a concussive wave of force. Each creature in a 15-foot cube must make a Constitution saving throw. On a failed save, it takes 2d8 thunder damage and is pushed 10 feet away. On a successful save, it takes half damage and is not pushed. Objects in the area are pushed automatically.
 
-*Spend 2 additional MP to add 1d8 damage.*
+*The Deku version sounds like cracking wood; the Goron version sounds like an avalanche; the Blightbound version echoes with a demonic roar.*
 
 \column
-
-*The Deku version sounds like cracking wood; the Goron version sounds like an avalanche; the Blightbound version echoes with a demonic roar.*
 
 ### Time Stop
 **School:** Transmutation
@@ -12749,15 +12839,15 @@ You touch a creature and allow them to speak and understand all spoken languages
 **Duration:** 1 round
 **Components:** V, S
 
+This spell creates a magical link between a Large or larger inanimate plant within range and another plant at any distance on the same plane of existence. You must have seen or touched the destination plant at least once. For the duration, any creature can step into the target plant and exit from the destination plant.
+
+*Deku thornweavers use this to travel instantly between the ancient groves of Hyrule's forests, stepping into a Deku Tree in Kokiri Forest and emerging from a giant root in Faron.*
+
 {{footnote Spell Compendium }}
 
 {{pageNumber,auto}}
 
 \page
-
-This spell creates a magical link between a Large or larger inanimate plant within range and another plant at any distance on the same plane of existence. You must have seen or touched the destination plant at least once. For the duration, any creature can step into the target plant and exit from the destination plant.
-
-*Deku thornweavers use this to travel instantly between the ancient groves of Hyrule's forests, stepping into a Deku Tree in Kokiri Forest and emerging from a giant root in Faron.*
 
 ### Tree Stride
 **School:** Conjuration
@@ -12800,8 +12890,6 @@ You give the willing creature you touch the ability to see things as they actual
 **Range:** 30 feet
 **Duration:** Concentration, up to 1 round
 **Components:** S
-
-\column
 
 You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target's defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn't ended.
 
@@ -12848,15 +12936,15 @@ You tap into primal twilight energy to produce brief but unnerving effects. You 
 
 You conjure four faint, flickering lights resembling wisps, glowing eyes, or shadowy orbs. They float, drift, or merge into a glowing humanoid silhouette. As a bonus action, you can move them up to 30 feet.
 
+The lights cast a soft purple or blue radiance in a 5-foot radius and leave behind trails of lingering afterglow. Unlike Dancing Lights, Twilight Wisps cast dim light only, and a creature must succeed on a DC 10 Wisdom save to enter their space voluntarily; they have an unsettling, repellent quality.
+
+*Interlopers use them as bait, distraction, or eerie ambiance. Each wisp resembles a trapped spirit that almost speaks.*
+
 {{footnote Spell Compendium }}
 
 {{pageNumber,auto}}
 
 \page
-
-The lights cast a soft purple or blue radiance in a 5-foot radius and leave behind trails of lingering afterglow. Unlike Dancing Lights, Twilight Wisps cast dim light only, and a creature must succeed on a DC 10 Wisdom save to enter their space voluntarily; they have an unsettling, repellent quality.
-
-*Interlopers use them as bait, distraction, or eerie ambiance. Each wisp resembles a trapped spirit that almost speaks.*
 
 ### Unseen Servant
 *(Also: Servant of Malice, Blightbound variant)*
@@ -12895,8 +12983,6 @@ The effect resembles a clawed hand of shadow wrapping around your own, siphoning
 **Range:** Touch
 **Duration:** Concentration, up to 1 hour
 **Components:** V, S, M (a vial of black deep-sea water)
-
-\column
 
 You touch a willing creature and shroud it in the visual and sensory properties of deep ocean darkness, cold, silent, undetectable. For the duration, the target is invisible and produces no sound. In addition, darkvision cannot pierce this concealment; creatures relying on darkvision perceive only a vague shape, not details. Truesight pierces the veil normally.
 
@@ -12953,12 +13039,6 @@ You invoke a divine presence, causing harmless but awe-inspiring effects. Up to 
 
 *Goddess Chanter variant of Thaumaturgy.*
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Wall of Fire
 *(Also: Wall of Fire (Cyclone Flame), Interloper/Vaati variant)*
 **School:** Evocation
@@ -12970,7 +13050,13 @@ You invoke a divine presence, causing harmless but awe-inspiring effects. Up to 
 **Save:** Dexterity
 **Damage:** Fire
 
-You create a 60-foot-long, 20-foot-high wall of flame on a solid surface. Creatures within 10 feet of the side you choose take 5d8 fire damage on a failed save (half on success). Creatures that enter or start a turn within the wall take 5d8 fire damage.
+You create a wall of fire on a solid surface: up to 60 feet long, 20 feet high and 1 foot thick, or a ring up to 20 feet across. When it appears, each creature in its area makes a Dexterity saving throw, taking 5d8 fire damage on a failure or half on a success. One side of the wall (your choice) burns: a creature that ends its turn within 10 feet of that side or inside the wall takes 5d8 fire damage, as does a creature that enters the wall for the first time on a turn. The other side is harmless.
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 **Cyclone Flame, Vaati Variant (Interloper variant):** The wall manifests as a swirling vortex of flame, a ring 20 feet in diameter that spirals upward like a tornado of fire, sucking in air and roaring with unnatural force.
 
@@ -13000,8 +13086,6 @@ You conjure an invisible wall of hardened arcane energy. The wall is immune to a
 You conjure a wall of deep ocean pressure in an area you choose, up to 30 feet long, 10 feet wide, and 10 feet tall. The wall acts as a barrier of intensely compressed water. Ranged weapon attacks that pass through the wall are made with disadvantage. Fire spells that pass through it deal only half damage. Creatures pushed into the wall take 2d8 bludgeoning damage and must make a Strength save or be pushed back.
 
 *Zora variant of Wall of Water, flavored as the crushing pressure of the deep sea rather than a simple water barrier.*
-
-\column
 
 ### Wall of Stone
 **School:** Evocation
@@ -13052,12 +13136,6 @@ You conjure a wall of water up to 30 feet long, 10 feet wide, and 10 feet tall. 
 
 You create a divine tether between yourself and a willing creature. While bonded, the target gains +1 AC and saving throws, and resistance to all damage, but you take half of all damage they receive. A shimmering band of light connects your hearts and pulses when tested.
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 *Goddess Chanters who have sworn to protect a charge use this; it is a binding of profound trust.*
 
 ### Water Breathing
@@ -13071,6 +13149,12 @@ You create a divine tether between yourself and a willing creature. While bonded
 This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
 
 *Essential for exploring Zora's Domain, the submerged ruins beneath Lake Hylia, and the Depths' flooded sections.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Water Walk
 **School:** Transmutation (Ritual)
@@ -13106,8 +13190,6 @@ A 10-foot-radius, 30-foot-tall cylinder of howling wind forms at a point you cho
 
 *Overchannel (Major):* The radius increases to 20 feet and height to 60 feet.
 
-\column
-
 ### Wind Wall
 **School:** Evocation
 **MP Cost:** 4
@@ -13122,6 +13204,8 @@ A wall of strong wind rises from the ground at a point you choose, up to 50 feet
 
 *Rito marksmen use this to deflect arrows and prevent pursuit; Wind Sages maintain it as a natural extension of their elemental mastery.*
 
+\column
+
 ### Wish
 **School:** Conjuration
 **MP Cost:** 10
@@ -13132,7 +13216,7 @@ A wall of strong wind rises from the ground at a point you choose, up to 50 feet
 
 The mightiest spell a mortal can cast. By speaking aloud, you alter reality. You may duplicate any spell of 8th level or lower without meeting its requirements, or produce one of these effects: create an object worth up to 25,000 rupees; restore up to 20 creatures to full hit points and cure all conditions; grant up to 10 creatures resistance to a damage type; grant up to 10 creatures immunity to one spell for 8 hours; or force a reroll of any roll made in the last round.
 
-The greater the wish, the greater the risk, the DM determines what goes wrong. After casting, your Strength drops to 3 for 2d4 days, and you cannot cast Wish again for 30 days.
+Duplicating a spell of 8th level or lower carries no risk. Any other use is dangerous: the DM decides what goes wrong, your Strength drops to 3 for 2d4 days, and you can't cast *wish* again for 30 days.
 
 ### Witch Bolt
 **School:** Evocation
@@ -13144,8 +13228,6 @@ The greater the wish, the greater the risk, the DM determines what goes wrong. A
 **Damage:** Lightning or Necrotic (Blightbound choice)
 
 You hurl a crackling beam of cursed energy that latches onto a target. Make a ranged spell attack; on a hit, the target takes 1d12 lightning (or necrotic, for Blightbound) damage. On subsequent turns, you can use your action to deal 1d12 damage again automatically, as long as the beam isn't interrupted.
-
-*Spend 2 additional MP to add 1d12 damage.*
 
 *The energy flickers between your hand and the creature, crackling with unstable malice.*
 
@@ -13159,17 +13241,17 @@ You hurl a crackling beam of cursed energy that latches onto a target. Make a ra
 **Components:** V, S
 **Damage:** Necrotic
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 You conjure a spectral skeletal hand or claw of malice to strike at a creature within range. Make a ranged spell attack. On a hit, it takes 1d8 necrotic damage and cannot regain hit points until the start of your next turn. If the target is undead, it has disadvantage on attack rolls against you until the end of your next turn.
 
 The hand is wreathed in black or reddish energy, whispering infernal curses.
 
 *Blightbound variant of Chill Touch.*
+
+{{footnote Spell Compendium }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Word of Radiance
 **School:** Evocation
@@ -13214,8 +13296,6 @@ You create an aura of divine honesty. Creatures who fail a Charisma saving throw
 
 The air hums with sacred harmony, falsehood falters beneath divine tone.
 
-\column
-
 ## Unassigned Spells
 
 The thirteen spells below appear in this compendium but on no class's spell list. That is deliberate, and it is worth explaining, because a caster in this book can normally use anything on their class list and these are the only spells nobody can reach that way.
@@ -13242,23 +13322,15 @@ An earlier draft of Zelda DnD used **Racial Classes**: a rule under which only o
 
 **Ways to use them.** Any of these is a good reason for a party to go somewhere.
 
-{{footnote Spell Compendium }}
-
-{{pageNumber,auto}}
-
-\page
-
 - **A spell tome.** The classic. A book in a ruin that teaches its reader one spell permanently, regardless of class. This is the closest thing this book has to a scroll, and it is a fine dungeon reward.
 - **An item that casts it.** A coral rod that casts *Shape Coral* once per long rest. A Sheikah pressure-seal that casts *Laughing Pressure Point*. Attach the spell to an object and the spell becomes a treasure rather than a rules exception.
 - **A subclass bonus.** Give a Sage's Elemental Affinity or Oracle Path one of these as a signature. A Water-affinity Sage who knows *Wall of Pressure* feels different from one who does not, and nothing in the rules breaks.
 - **A teacher.** An NPC who will teach one of these in exchange for something. Slower than a tome and better for a campaign.
 - **An enemy's trick.** Nothing says a spell has to be available to players at all. *Drowned Servants* in the hands of a river-cult necromancer is a whole adventure.
 
-\column
-
 Balance them as you would any spell of their level. They were written for characters who had given up a great deal of flexibility to reach them, so if you hand one out freely, expect it to feel slightly stronger than a spell of the same level that everybody already has.
 
-{{footnote Spell Compendium | Unassigned Spells }}
+{{footnote Spell Compendium }}
 
 {{pageNumber,auto}}
 
@@ -13311,8 +13383,6 @@ Blins are omnivorous scavengers with a preference for:
 
 Cannibalism is rare but not unheard of during extreme famine or after internal power struggles.
 
-\column
-
 ### Camps and Architecture
 
 Blin camps are highly recognizable:
@@ -13350,12 +13420,6 @@ Bokoblins are the most frequently encountered Blins. Shorter than Moblins but qu
 - Easily distracted by food or noise
 - Celebrate victories with dancing, shouting, and crude music
 
-{{footnote Enemies | The Blin }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Variants
 
 - **Red Bokoblins**: The weakest and most common. Poorly trained but numerous.
@@ -13367,6 +13431,12 @@ Bokoblins are the most frequently encountered Blins. Shorter than Moblins but qu
 ## The Moblins
 
 *Brutes and Enforcers*
+
+{{footnote Enemies | The Blin }}
+
+{{pageNumber,auto}}
+
+\page
 
 Towering over Bokoblins, Moblins are living battering rams. Their immense strength allows them to wield massive weapons, and even use smaller Blins as improvised projectiles.
 
@@ -13382,6 +13452,7 @@ Moblin loyalty is usually purchased through violence or fear rather than respect
 ### Variants
 
 - **Red Moblins**: Strong but relatively simple-minded.
+- **Green Moblins**: Rare moblin shamans; the same wild magic as Green Bokoblins, in a much bigger body.
 - **Blue Moblins**: More tactical, often armed with heavy polearms.
 - **Black Moblins**: Extremely resilient; often serve as champions or lieutenants.
 - **Silver Moblins**: Rare, terrifying juggernauts infused with overwhelming demonic magic.
@@ -13401,8 +13472,6 @@ Boss Bokoblins are unmistakable: massive frames, razor-sharp horns, and an air o
 - Execute subordinates publicly to assert dominance
 
 Boss Bokoblins often hoard the best weapons and armor and surround themselves with elite guards.
-
-\column
 
 ### Variants
 
@@ -13455,7 +13524,7 @@ Blins are capable of cooperation, but betrayal is common, especially when leader
 
 {{monster,frame
 ## Red Bokoblin
-*Small Humanoid (Blin), Neutral Evil*
+*Small humanoid (blin), chaotic evil*
 ___
 **Armor Class** :: 15 (leather armor, shield)
 **Hit Points**  :: 21 (6d6)
@@ -13486,7 +13555,7 @@ ___
 
 {{monster,frame
 ## Green Bokoblin
-*Small Humanoid (Blin), Neutral Evil*
+*Small humanoid (blin), chaotic evil*
 ___
 **Armor Class** :: 15 (leather armor, shield)
 **Hit Points**  :: 31 (9d6) {{bonus **Magic Points** 12}}
@@ -13497,7 +13566,7 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |10 (+0)|14 (+2)|10 (+0)|10 (+0)|14 (+2)|10 (+0)|
 ___
-**Skills**               :: Stealth +4, Survival +2
+**Skills**               :: Stealth +4, Survival +4
 **Senses**               :: darkvision 60 ft., passive Perception 12
 **Languages**            :: Blin
 **Challenge**            :: 1/2 (100 XP) {{bonus **Proficiency Bonus** +2}}
@@ -13508,7 +13577,7 @@ ___
 ### Actions
 ***Staff.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage.
 :
-***Spellcasting.*** The green bokoblin is a spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following spells prepared:
+***Spellcasting.*** The green bokoblin is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following spells prepared:
 - Fire Bolt (1 MP)
 - Poison Spray (1 MP)
 - Ray of Frost (1 MP)
@@ -13553,7 +13622,7 @@ ___
 **Skills**               :: Athletics +5, Stealth +4
 **Senses**               :: darkvision 60 ft., passive Perception 10
 **Languages**            :: Blin
-**Challenge**            :: 1 (200 XP) {{bonus **Proficiency Bonus** +2}}
+**Challenge**            :: 2 (450 XP) {{bonus **Proficiency Bonus** +2}}
 ___
 ***Aggressive.*** As a bonus action, the bokoblin moves up to its speed toward a hostile creature it can see.
 :
@@ -13634,7 +13703,7 @@ ___
 **Damage Resistances** :: bludgeoning, piercing, and slashing from nonmagical attacks
 **Senses**             :: darkvision 60 ft., passive Perception 11
 **Languages**          :: Blin
-**Challenge**          :: 6 (2,300 XP) {{bonus **Proficiency Bonus** +3}}
+**Challenge**          :: 7 (2,900 XP) {{bonus **Proficiency Bonus** +3}}
 ___
 ***Ganon's Empowerment.*** The silver bokoblin's weapon attacks are magical.
 :
@@ -13680,7 +13749,7 @@ ___
 ___
 ***Bokoblin Toss.*** The moblin can throw a willing or grappled Small blin creature up to 30 feet. The thrown creature makes one melee attack against a creature within range as part of the throw.
 :
-***Brutal Enforcer.*** While within 10 feet of a Boss Bokoblin or Silver Blin, the moblin has advantage on Strength checks and saving throws.
+***Brutal Enforcer.*** While within 10 feet of a Boss Bokoblin or any silver blin, the moblin has advantage on Strength checks and saving throws.
 ### Actions
 ***Greatclub.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
 :
@@ -13710,11 +13779,11 @@ ___
 ___
 ***Bokoblin Toss.*** The moblin can throw a willing or grappled Small blin creature up to 30 feet. The thrown creature makes one melee attack against a creature within range as part of the throw.
 :
-***Brutal Enforcer.*** While within 10 feet of a Boss Bokoblin or Silver Blin, the moblin has advantage on saving throws against being charmed and frightened.
+***Brutal Enforcer.*** While within 10 feet of a Boss Bokoblin or any silver blin, the moblin has advantage on saving throws against being charmed and frightened.
 ### Actions
 ***Greatstaff.*** *Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 7 (1d10 + 2) bludgeoning damage.
 :
-***Spellcasting.*** The green moblin is a spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following spells prepared:
+***Spellcasting.*** The green moblin is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following spells prepared:
 - Fire Bolt (1 MP)
 - Poison Spray (1 MP)
 - Ray of Frost (1 MP)
@@ -13772,8 +13841,6 @@ ___
 **Critical:** The moblin is stunned until the end of its next turn.
 }}
 
-\column
-
 {{monster,frame
 ## Black Moblin
 *Large humanoid (blin), chaotic evil*
@@ -13790,7 +13857,7 @@ ___
 **Damage Resistances** :: bludgeoning, piercing, and slashing from nonmagical attacks
 **Senses**             :: darkvision 60 ft., passive Perception 10
 **Languages**          :: Blin
-**Challenge**          :: 7 (2,900 XP) {{bonus **Proficiency Bonus** +3}}
+**Challenge**          :: 10 (5,900 XP) {{bonus **Proficiency Bonus** +4}}
 ___
 ***Relentless Brute (1/Day).*** When the moblin is reduced to 0 hit points, it instead drops to 1 hit point.
 :
@@ -13798,9 +13865,9 @@ ___
 ### Actions
 ***Multiattack.*** The moblin makes three attacks.
 :
-***War Club.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 19 (2d12 + 6) bludgeoning damage.
+***War Club.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19 (2d12 + 6) bludgeoning damage.
 :
-***Gore.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage.
+***Gore.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage.
 ### Called Shot (Snout)
 **Hit:** The moblin has disadvantage on its next attack roll before the end of its next turn.
 :
@@ -13826,13 +13893,13 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|24 (+7)|12 (+1)|24 (+7)|10 (+0)|12 (+1)|10 (+0)|
+|24 (+7)|12 (+1)|24 (+7)|10 (+0)|12 (+1)|18 (+4)|
 ___
 **Damage Resistances** :: bludgeoning, piercing, and slashing from nonmagical attacks
 **Condition Immunities** :: frightened
 **Senses**               :: darkvision 60 ft., passive Perception 11
 **Languages**            :: Blin
-**Challenge**            :: 10 (5,900 XP) {{bonus **Proficiency Bonus** +4}}
+**Challenge**            :: 12 (8,400 XP) {{bonus **Proficiency Bonus** +4}}
 ___
 ***Ganon's Empowerment.*** The silver moblin's weapon attacks are magical.
 :
@@ -13850,8 +13917,6 @@ ___
 :
 **Critical:** The moblin's Ganon's Empowerment is suppressed until the end of its next turn, and it has disadvantage on its next attack roll.
 }}
-
-\column
 
 {{monster,frame
 ## Boss Bokoblin
@@ -13918,7 +13983,7 @@ ___
 :
 ***Warlord's Command.*** As a bonus action, the Silver Boss Bokoblin can direct up to two allied blins within 30 feet that can hear it. Each can immediately use its reaction to make one weapon attack.
 :
-***Demonic Presence.*** Each hostile creature that starts its turn within 15 feet of the Silver Boss Bokoblin must succeed on a DC 17 Wisdom saving throw or have disadvantage on attack rolls until the start of its next turn.
+***Demonic Presence.*** Each hostile creature that starts its turn within 15 feet of the Silver Boss Bokoblin must succeed on a DC 16 Wisdom saving throw or have disadvantage on attack rolls until the start of its next turn.
 ### Actions
 ***Multiattack.*** The Silver Boss Bokoblin makes three attacks.
 :
@@ -13926,14 +13991,12 @@ ___
 :
 ***Annihilating Horns.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 15 (2d8 + 6) piercing damage.
 :
-***Demonic Roar (Recharge 5–6).*** Each creature within 20 feet must succeed on a DC 17 Constitution saving throw or take 27 (6d8) thunder damage and be pushed 10 feet away, or half as much damage and no push on a success.
+***Demonic Roar (Recharge 5–6).*** Each creature within 20 feet must succeed on a DC 16 Constitution saving throw or take 27 (6d8) thunder damage and be pushed 10 feet away, or half as much damage and no push on a success.
 ### Called Shot (Glowing Crown Horn)
 **Hit:** The Silver Boss Bokoblin's Demonic Presence aura is suppressed until the end of its next turn.
 :
 **Critical:** The Silver Boss Bokoblin's Ganon's Empowerment is suppressed until the end of its next turn, and Demonic Roar's recharge is reset to unavailable until its next short or long rest.
 }}
-
-\column
 
 {{monster,frame
 ## Horriblin
@@ -13951,7 +14014,7 @@ ___
 **Skills**               :: Athletics +5, Stealth +5
 **Senses**               :: darkvision 90 ft., passive Perception 11
 **Languages**            :: Blin
-**Challenge**            :: 1 (200 XP) {{bonus **Proficiency Bonus** +2}}
+**Challenge**            :: 2 (450 XP) {{bonus **Proficiency Bonus** +2}}
 ___
 ***Spider Climb.*** The horriblin can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 :
@@ -14011,8 +14074,6 @@ ___
 **Critical:** The horriblin is knocked prone and stunned until the end of its next turn.
 }}
 
-\column
-
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TotK_Black_Horriblin_Model_2.png' alt='Black Horriblin' style='display:block;width:203px;height:225px;margin:6px auto 2px auto'/>
 
 {{footnote Enemies | The Blin }}
@@ -14069,7 +14130,7 @@ Massive guardian constructs responsible for protecting the most sacred locations
 
 ### Relic Guardians
 
-Rare constructs designed to protect specific treasures or royal tombs.
+Rare constructs designed to protect specific treasures or royal tombs. No stat block is given: build one from the Armos Knight or Death Armos with **Boss Numbers by CR**.
 
 Most adventurers encounter only Armos and Beamos. Surviving encounters with stronger Guardian Constructs is considerably less common.
 
@@ -14119,9 +14180,7 @@ Most Armos are carved from enchanted stone and reinforced with powerful magical 
 
 Though their forms vary between regions, most share several traits:
 
-\column
-
-- Heavy stone bodies resistant to mundane weapons
+- Heavy stone bodies that shrug off glancing blows
 - Glowing magical cores that animate their movements
 - Exceptional resistance to hostile magic
 - Limited intelligence focused entirely on defense
@@ -14268,10 +14327,8 @@ ___
 ### Called Shot (Twin Core Runes)
 **Hit:** The Armos Knight loses its Magic Resistance until the start of its next turn.
 :
-**Critical:** The Armos Knight is stunned until the end of its next turn, and its Guardian Leap cannot be used again until the end of its next turn.
+**Critical:** The Armos Knight is stunned until the end of its next turn, and it can't use Guardian Leap for 1 minute.
 }}
-
-\column
 
 {{monster,frame
 ## Death Armos
@@ -14296,14 +14353,14 @@ ___
 ***Magic Resistance.*** The Death Armos has advantage on saving throws against spells and magical effects.
 :
 ***Corrupted Core.*** The Death Armos's weapon attacks are magical.
+:
+***Death Burst.*** When the Death Armos is reduced to 0 hit points, each creature within 15 feet must make a DC 16 Dexterity saving throw, taking 22 (4d10) force damage on a failed save, or half as much on a success.
 ### Actions
 ***Multiattack.*** The Death Armos makes three attacks.
 :
 ***Crushing Slam.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 17 (2d10 + 6) bludgeoning damage.
 :
-***Dark Pulse (Recharge 5-6).*** Magical energy erupts from the Death Armos. Creatures within 20 feet must make a DC 17 Constitution saving throw, taking 31 (7d8) necrotic damage on a failed save, or half as much on a success.
-:
-***Death Burst.*** When the Death Armos is reduced to 0 hit points, each creature within 15 feet must make a DC 17 Dexterity saving throw, taking 22 (4d10) force damage on a failed save, or half as much on a success.
+***Dark Pulse (Recharge 5-6).*** Magical energy erupts from the Death Armos. Creatures within 20 feet must make a DC 16 Constitution saving throw, taking 31 (7d8) necrotic damage on a failed save, or half as much on a success.
 ### Called Shot (Corrupted Core)
 **Hit:** The Death Armos loses its Magic Resistance and its damage resistances to necrotic and radiant damage until the start of its next turn.
 :
@@ -14321,7 +14378,7 @@ ___
 *Huge Construct, Unaligned*
 ___
 **Armor Class** :: 21
-**Hit Points**  :: 246 (17d12 + 136)
+**Hit Points**  :: 188 (13d12 + 104)
 **Speed**       :: 30 ft.
 **Weak Point**  :: Sealed Core
 ___
@@ -14346,7 +14403,7 @@ ___
 :
 ***Titanic Slam.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 24 (3d10 + 8) bludgeoning damage.
 :
-***Temple Quake (Recharge 5-6).*** The Sentinel slams the ground. Each creature within 30 feet must make a DC 20 Dexterity saving throw, taking 36 (8d8) bludgeoning damage and falling prone on a failure, or half damage on a success.
+***Temple Quake (Recharge 5-6).*** The Sentinel slams the ground. Each creature on the ground within 30 feet must make a DC 20 Dexterity saving throw, taking 36 (8d8) bludgeoning damage and falling prone on a failure, or half damage on a success.
 :
 ***Guardian Advance.*** The Sentinel moves up to its speed without provoking opportunity attacks.
 ### Called Shot (Sealed Core)
@@ -14354,8 +14411,6 @@ ___
 :
 **Critical:** The Sentinel is stunned until the end of its next turn, and Temple Quake's recharge is reset to unavailable until its next short or long rest.
 }}
-
-\column
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/EoW_Armos_Model_2.png' alt='Armos' style='display:block;width:128px;height:157px;margin:6px auto 2px auto'/>
 
@@ -14415,8 +14470,6 @@ Many experienced adventurers learn to focus their attacks on the eye before atte
 **Critical:** The Beamos is blinded for 1 minute.
 
 ---
-
-\column
 
 ### Variants
 
@@ -14524,9 +14577,9 @@ ___
 :
 ***Disintegrating Ray.*** Any object the Death Beamos's Focused Beam attack reduces to 0 hit points is disintegrated into ash.
 ### Actions
-***Focused Beam.*** *Ranged Spell Attack:* +8 to hit, range 150 ft., one target. *Hit:* 38 (7d8 + 7) necrotic damage.
+***Focused Beam.*** *Ranged Spell Attack:* +8 to hit, range 150 ft., one target. *Hit:* 35 (7d8 + 4) necrotic damage.
 :
-***Withering Sweep (Recharge 5-6).*** The Death Beamos sweeps a corrupted beam in a 90-foot-long, 10-foot-wide line. Creatures in the line must make a DC 17 Constitution saving throw, taking 45 (10d8) necrotic damage on a failure, or half on a success. A creature reduced to 0 hit points by this damage has its hit point maximum reduced by an amount equal to the excess damage until it finishes a long rest.
+***Withering Sweep (Recharge 5-6).*** The Death Beamos sweeps a corrupted beam in a 90-foot-long, 10-foot-wide line. Creatures in the line must make a DC 16 Constitution saving throw, taking 45 (10d8) necrotic damage on a failure, or half on a success. A creature reduced to 0 hit points by this damage has its hit point maximum reduced by an amount equal to the excess damage until it finishes a long rest.
 ### Called Shot (Corrupted Eye)
 **Hit:** The Death Beamos cannot use Focused Beam or Withering Sweep until the end of its next turn.
 :
@@ -14559,18 +14612,18 @@ ___
 **Damage Immunities** :: poison, psychic
 **Condition Immunities** :: charmed, frightened, poisoned
 **Senses** :: darkvision 120 ft., truesight 30 ft., passive Perception 14
-**Languages** :: understands Hylian and Sheikah but cannot speak
+**Languages** :: understands Hylian but can't speak
 **Challenge** :: 8 (3,900 XP) {{bonus **Proficiency Bonus** +3}}
 ___
 ***Immutable Form.*** The Beamos Overseer is immune to any effect that would alter its form.
 :
 ***Network Sight.*** The Beamos Overseer can see through the eye of any other Guardian Construct within 1 mile that shares its activation network (DM's discretion based on the dungeon's design).
 :
-***Coordinating Pulse.*** At the start of each of its turns, the Beamos Overseer may grant one Guardian Construct within 60 feet advantage on its next attack roll, or allow it to immediately use a recharge ability without rolling for it (if that ability is currently unavailable, this has no effect).
+***Coordinating Pulse.*** At the start of each of its turns, the Beamos Overseer may grant one Guardian Construct within 60 feet advantage on its next attack roll, or let it regain one expended recharge ability, which it can use on its next turn.
 ### Actions
 ***Focused Beam.*** *Ranged Spell Attack:* +7 to hit, range 150 ft., one target. *Hit:* 31 (6d8 + 4) radiant damage.
 :
-***Command Burst (Recharge 6).*** The Beamos Overseer emits a pulse of coordinating energy. Up to three Guardian Constructs within 60 feet may each immediately use their action to make one attack.
+***Command Burst (Recharge 6).*** The Beamos Overseer emits a pulse of coordinating energy. Up to three Guardian Constructs within 60 feet that can see the overseer may each use its reaction to make one attack.
 ### Called Shot (Command Eye)
 **Hit:** The Beamos Overseer cannot use Coordinating Pulse or Command Burst until the end of its next turn.
 :
@@ -14580,8 +14633,6 @@ ___
 ## Bubble
 
 Bubbles are cursed floating skulls surrounded by magical flames. Merely touching one can bring terrible afflictions.
-
-\column
 
 ### Weak Point: Flame
 
@@ -14607,7 +14658,7 @@ ___
 **Damage Resistances** :: fire, necrotic
 **Senses** :: darkvision 60 ft., passive Perception 10
 **Languages** :: —
-**Challenge** :: 2 (450 XP) {{bonus **Proficiency Bonus** +2}}
+**Challenge** :: 1 (200 XP) {{bonus **Proficiency Bonus** +2}}
 ___
 ***Flaming Aura.*** A creature that touches the bubble or hits it with a melee attack takes 3 (1d6) fire damage.
 ### Actions
@@ -14646,8 +14697,6 @@ ChuChu colonies follow a clear progression, and understanding it is the key to u
 
 This distinction matters a great deal to anyone who studies (or fights) ChuChus. A Green ChuChu's transformation is sudden, individual, and irreversible the moment it happens. A Red, Yellow, or Purple ChuChu was simply born that way, the inherited legacy of a colony that has lived beside fire, storm, or curse for longer than any single ChuChu's lifespan.
 
-\column
-
 ## Biology of the ChuChu
 
 ChuChus possess no bones, organs, or recognizable anatomy.
@@ -14666,17 +14715,17 @@ Over many generations, an isolated ChuChu colony can slowly take on the characte
 
 **Green ChuChus are the one known exception.** Rather than waiting for generations of inherited adaptation, a Green ChuChu can absorb a burst of elemental energy directly from a single attack and be permanently transformed by it, on the spot, mid-battle. No other variant has ever been observed doing this. Once transformed, the change cannot be undone, and a ChuChu that has already transformed once will never transform again. Whatever element claims it first is the element it carries for the rest of its life.
 
-### Splitting
-
-Every ChuChu in this family (Blue, Green, any of Green's elemental-transformed forms, Red, Yellow, Purple, and Dark alike) shares the following trait, summarized in each stat block below:
-
 {{footnote Enemies | ChuChus }}
 
 {{pageNumber,auto}}
 
 \page
 
-> ***Splitting.*** Whenever the ChuChu takes slashing damage and has 2 or more hit points remaining afterward, it immediately splits into two new ChuChus of the same type. Each new ChuChu has hit points equal to half the parent's remaining hit points (rounded down), Armor Class 12, and uses the Hop action (*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage) in place of its normal attacks, but otherwise retains all of the parent's traits, resistances, and immunities. If the ChuChu's remaining hit points after taking slashing damage would be 1 or fewer, it dies instead and does not split.
+### Splitting
+
+Every ChuChu in this family (Blue, Green, any of Green's elemental-transformed forms, Red, Yellow, Purple, and Dark alike) shares the following trait, summarized in each stat block below:
+
+> ***Splitting.*** Whenever the ChuChu takes slashing damage and has 2 or more hit points remaining afterward, it immediately splits into two new ChuChus of the same type. Each new ChuChu has hit points equal to half the parent's remaining hit points (rounded down), Armor Class 12, and uses the Hop action (*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) bludgeoning damage) in place of its normal attacks, but otherwise retains all of the parent's traits, resistances, and immunities. If the ChuChu's remaining hit points after taking slashing damage would be 1 or fewer, it dies instead and does not split. A new ChuChu with only 1 hit point is a **Tiny ChuChu** instead: use that stat block, keeping its parent's damage resistances, immunities and vulnerabilities.
 >
 > A split ChuChu's reduced form can itself split again under the same rules, provided it still has 2 or more hit points remaining after taking slashing damage. There is no limit to how many times a single ChuChu lineage can split beyond this hit point floor.
 
@@ -14716,8 +14765,6 @@ Many scholars believe the value of Chu Jelly is the primary reason ChuChus have 
 
 The color of a ChuChu is usually the easiest way to determine its abilities and, increasingly, its place in the family's tier structure.
 
-\column
-
 ### Blue ChuChus
 
 The most common variety, and the family's base form.
@@ -14726,15 +14773,15 @@ Blue ChuChus are found in temperate regions: forests, grasslands, lakes, rivers,
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/659px-TotK_Ice_Chuchu_Model.png' alt='Ice ChuChu' style='display:block;width:328px;height:298px;margin:6px auto 2px auto'/>
 
+### Green ChuChus
+
+Thriving in the same forests and grasslands as their Blue cousins, Green ChuChus carry one extraordinary trait no other variant possesses: the ability to absorb raw elemental magic directly from an attack and be instantly, permanently transformed by it. A Green ChuChu struck by fire, frost, or lightning may, without warning and mid-combat, reform itself into an Ember, Frost, or Spark ChuChu before the fight is even over. Once this happens, it cannot happen again; whichever element claims a Green ChuChu first is the one it carries for the rest of its life.
+
 {{footnote Enemies | ChuChus }}
 
 {{pageNumber,auto}}
 
 \page
-
-### Green ChuChus
-
-Thriving in the same forests and grasslands as their Blue cousins, Green ChuChus carry one extraordinary trait no other variant possesses: the ability to absorb raw elemental magic directly from an attack and be instantly, permanently transformed by it. A Green ChuChu struck by fire, frost, or lightning may, without warning and mid-combat, reform itself into an Ember, Frost, or Spark ChuChu before the fight is even over. Once this happens, it cannot happen again; whichever element claims a Green ChuChu first is the one it carries for the rest of its life.
 
 ### Ember, Frost, and Spark ChuChus
 
@@ -14747,8 +14794,6 @@ Where Ember ChuChus are individuals transformed in a single moment, Red ChuChus 
 ### Yellow ChuChus
 
 Like the Red ChuChu, the Yellow ChuChu's lightning resistance is inherited rather than individually acquired, the legacy of colonies that have lived for generations in deserts, thunderstorm-wracked highlands, and regions saturated with electrical magic. When threatened, a Yellow ChuChu discharges bursts of lightning through its gelatinous body. Many inexperienced adventurers learn quickly that striking one with a metal weapon is a painful mistake.
-
-\column
 
 ### Purple ChuChus
 
@@ -14763,7 +14808,7 @@ Among the rarest known variants, and the only one not born from environmental ad
 *Tiny Ooze, Unaligned*
 ___
 **Armor Class** :: 12
-**Hit Points**  :: 1
+**Hit Points**  :: 2 (1d4)
 **Speed**       :: 20 ft.
 **Weak Point**  :: Nucleus
 ___
@@ -14823,8 +14868,6 @@ ___
 :
 **Critical:** The Blue ChuChu immediately splits as though it had taken slashing damage, even though this was not a slashing attack, as the precise strike ruptures its core.
 }}
-
-\column
 
 {{monster,frame
 ## Green ChuChu
@@ -14895,8 +14938,6 @@ ___
 :
 **Critical:** The Ember ChuChu immediately splits as though it had taken slashing damage, even though this was not a slashing attack. The strike ruptures its overheated core.
 }}
-
-\column
 
 {{monster,frame
 ## Frost ChuChu
@@ -14973,8 +15014,6 @@ ___
 **Critical:** The Spark ChuChu immediately splits as though it had taken slashing damage, even though this was not a slashing attack. The strike short-circuits its core in a small shower of sparks.
 }}
 
-\column
-
 {{monster,frame
 ## Red ChuChu
 *Small Ooze, Unaligned*
@@ -15045,8 +15084,6 @@ ___
 **Critical:** The Yellow ChuChu immediately splits as though it had taken slashing damage, even though this was not a slashing attack.
 }}
 
-\column
-
 {{monster,frame
 ## Purple ChuChu
 *Small Ooze, Unaligned*
@@ -15102,19 +15139,19 @@ ___
 **Condition Immunities** :: prone, charmed
 **Senses** :: blindsight 60 ft., passive Perception 10
 **Languages** :: —
-**Challenge** :: 4 (1,100 XP) {{bonus **Proficiency Bonus** +2}}
+**Challenge** :: 5 (1,800 XP) {{bonus **Proficiency Bonus** +3}}
 ___
 ***Amorphous.*** The ChuChu can move through a space as narrow as 1 inch wide without squeezing.
 :
-***Splitting.*** Whenever the ChuChu takes slashing damage (including magical slashing damage, which bypasses its resistance for this purpose) and has 2 or more hit points remaining afterward, it immediately splits into two new Dark ChuChus, each with hit points equal to half the parent's remaining hit points (rounded down), AC 12, and using the Hop action in place of its normal attacks, but otherwise retaining the parent's traits (including necrotic and physical resistance). If remaining hit points would be 1 or fewer, it dies instead unless radiant damage was dealt as part of the same turn (see Dark Division, below).
+***Splitting.*** Whenever the ChuChu takes slashing damage (including magical slashing damage, which bypasses its resistance for this purpose) and has 2 or more hit points remaining afterward, it immediately splits into two new Dark ChuChus, each with hit points equal to half the parent's remaining hit points (rounded down), AC 12, and using the Hop action in place of its normal attacks, but otherwise retaining the parent's traits (including necrotic and physical resistance). If remaining hit points would be 1 or fewer, it drops to 0 hit points instead (see Dark Division, below).
 :
-***Dark Division.*** When reduced to 0 hit points, the Dark ChuChu splits into two Green ChuChus (each with hit points equal to a full Green ChuChu, not a fraction) unless it takes radiant damage during the same turn it is reduced to 0, in which case it dies outright with no further splitting.
+***Dark Division.*** This triggers once for each original Dark ChuChu, not once per piece. When the last Dark ChuChu split from the same original drops to 0 hit points (or the original itself, if it never split), it bursts into two Green ChuChus, each with a full Green ChuChu's hit points. If that last piece took radiant damage during the turn it dropped, it dies outright and no Green ChuChus appear.
 ### Actions
 ***Multiattack.*** The Dark ChuChu makes two Dark Slam attacks.
 :
-***Dark Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) bludgeoning damage plus 7 (2d6) necrotic damage.
+***Dark Slam.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) bludgeoning damage plus 7 (2d6) necrotic damage.
 :
-***Corrupting Burst (Recharge 5-6).*** Each creature within 10 feet must make a DC 13 Constitution saving throw, taking 14 (4d6) necrotic damage on a failure, or half as much on a success.
+***Corrupting Burst (Recharge 5-6).*** Each creature within 10 feet must make a DC 14 Constitution saving throw, taking 14 (4d6) necrotic damage on a failure, or half as much on a success.
 ### Called Shot (Corrupted Nucleus)
 **Hit:** The Dark ChuChu's damage resistance to nonmagical bludgeoning, piercing, and slashing damage is suppressed until the start of its next turn.
 :
@@ -15146,7 +15183,7 @@ Darknuts are heavily armored warriors that stand among the most feared soldiers 
 ## Darknut
 *Medium Humanoid, Lawful Evil*
 ___
-**Armor Class** :: 18 (plate armor)
+**Armor Class** :: 18 (half plate, shield)
 **Hit Points**  :: 75 (10d8 + 30)
 **Speed**       :: 30 ft.
 **Weak Point**  :: Armor Joints
@@ -15160,15 +15197,15 @@ ___
 **Languages**            :: Hylian
 **Challenge**            :: 4 (1,100 XP) {{bonus **Proficiency Bonus** +2}}
 ___
-***Armored Veteran.*** Critical hits against the darknut become normal hits.
+***Armored Veteran.*** Critical hits against the darknut become normal hits, but a critical on a called shot at its Armor Joints still applies that weak point's Critical effect.
 :
 ***Shield Master.*** While wielding a shield, the darknut has advantage on Dexterity saving throws against effects it can see.
 ### Actions
-***Multiattack.*** The darknut makes two attacks.
+***Multiattack.*** The darknut makes three attacks: two with its Longsword and one Shield Bash.
 :
-***Greatsword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
+***Longsword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) slashing damage.
 :
-***Shield Bash.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) bludgeoning damage. The target must succeed on a DC 14 Strength saving throw or be knocked prone.
+***Shield Bash.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) bludgeoning damage. The target must succeed on a DC 14 Strength saving throw or be knocked prone.
 }}
 
 {{footnote Enemies | ChuChus & Darknut }}
@@ -15221,8 +15258,6 @@ ___
 }}
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/OoT_Deku_Baba_Model_2.png' alt='Deku Baba' style='display:block;width:81px;height:183px;margin:6px auto 2px auto'/>
-
-\column
 
 ## Deku Scrub
 
@@ -15323,16 +15358,49 @@ ___
 :
 ***Tail Slam.*** *Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:* 15 (2d8 + 6) bludgeoning damage.
 :
-***Fire Breath (Recharge 5-6).*** The dodongo exhales fire in a 30-foot cone. Creatures within the area make a DC 15 Dexterity save, taking 28 (8d6) fire damage on a failure or half on a success.
+***Fire Breath (Recharge 5-6).*** The dodongo exhales fire in a 30-foot cone. Creatures within the area make a DC 16 Dexterity save, taking 28 (8d6) fire damage on a failure or half on a success.
 }}
-
-\column
 
 {{note
 ##### Running a Dodongo
 A Dodongo is a puzzle with teeth. It swallows what it is given, so the fight turns on what the party can get into its mouth rather than on what they can do to its hide, and a group that works that out should be rewarded for it quickly.
 
 Give them the means: a bomb flower growing in the chamber, a keg left by miners, a brazier they can tip. If nothing in the room can be fed to it, the encounter becomes a slog against a resistant monster, which is the one shape this creature should never take.
+}}
+
+{{footnote Enemies | Dodongo & Floormaster }}
+
+{{pageNumber,auto}}
+
+\page
+
+{{monster,frame
+## Juvenile Dodongo
+*Medium Monstrosity, Unaligned*
+___
+**Armor Class** :: 14 (natural armor)
+**Hit Points**  :: 32 (5d8 + 10)
+**Speed**       :: 20 ft.
+**Weak Point**  :: Mouth
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)|8 (-1)|15 (+2)|2 (-4)|10 (+0)|4 (-3)|
+___
+**Damage Resistances** :: fire
+**Senses**               :: darkvision 60 ft., passive Perception 10
+**Languages**            :: —
+**Challenge**            :: 1/2 (100 XP) {{bonus **Proficiency Bonus** +2}}
+___
+***Bomb Eater.*** When a placed bomb that hasn't gone off is within 10 feet of the juvenile, the juvenile can use its reaction to move to it and swallow it. The bomb goes off in its belly when it would have detonated: the juvenile drops to 0 hit points, and no one else is harmed.
+### Actions
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage.
+:
+***Ember Spit (Recharge 6).*** The juvenile spits embers in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much on a success.
+### Called Shot (Mouth)
+**Hit:** The juvenile can't use Ember Spit until the end of its next turn.
+:
+**Critical:** The juvenile is stunned until the end of its next turn.
 }}
 
 ## Floormaster
@@ -15372,11 +15440,37 @@ ___
 **Languages**            :: —
 **Challenge**            :: 5 (1,800 XP) {{bonus **Proficiency Bonus** +3}}
 ___
-***Split Hand.*** When reduced below half its hit points, the floormaster creates two Small Floormasters with 15 hit points each.
+***Split Hand (1/Day).*** The first time the floormaster drops below half its hit points, two Small Floormasters break away from it and act immediately after it in the initiative order. The floormaster remains. Small Floormasters are part of the floormaster's challenge and are worth no extra XP.
 ### Actions
 ***Multiattack.*** The floormaster makes two Slam attacks.
 :
 ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
+}}
+
+{{monster,frame
+## Small Floormaster
+*Small Monstrosity, Neutral Evil*
+___
+**Armor Class** :: 13
+**Hit Points**  :: 16 (3d6 + 6)
+**Speed**       :: 30 ft.
+**Weak Point**  :: Palm
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)|14 (+2)|14 (+2)|3 (-4)|10 (+0)|5 (-3)|
+___
+**Senses**               :: darkvision 60 ft., passive Perception 10
+**Languages**            :: —
+**Challenge**            :: 1/4 (50 XP) {{bonus **Proficiency Bonus** +2}}
+___
+***Drag.*** The small floormaster's speed isn't halved while it moves a creature it is grappling.
+### Actions
+***Grasp.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The small floormaster can grapple only one creature at a time.
+### Called Shot (Palm)
+**Hit:** The small floormaster releases any creature it is grappling and can't grapple until the end of its next turn.
+:
+**Critical:** The small floormaster drops to 0 hit points.
 }}
 
 {{footnote Enemies | Dodongo & Floormaster }}
@@ -15420,7 +15514,7 @@ ___
 **Skills**               :: Athletics +6
 **Senses**               :: darkvision 60 ft., passive Perception 10
 **Languages**            :: —
-**Challenge**            :: 4 (1,100 XP) {{bonus **Proficiency Bonus** +2}}
+**Challenge**            :: 2 (450 XP) {{bonus **Proficiency Bonus** +2}}
 ___
 ***Spider Climb.*** The wallmaster can move across ceilings and walls without making ability checks.
 ### Actions
@@ -15439,8 +15533,6 @@ Wrapped in ancient burial cloth, Gibdos are undead horrors animated by curses an
 - Ignores pain
 - Drawn to life energy
 - Found in tombs and crypts
-
-\column
 
 ### Weak Point: Wrappings
 
@@ -15518,7 +15610,7 @@ ___
 **Languages** :: —
 **Challenge** :: 5 (1,800 XP) {{bonus **Proficiency Bonus** +3}}
 ___
-***Armored Head.*** Critical hits against the helmasaur become normal hits.
+***Armored Head.*** Critical hits against the helmasaur become normal hits, but a critical on a called shot at its Faceplate still applies that weak point's Critical effect.
 ### Actions
 ***Multiattack.*** The helmasaur makes two attacks.
 :
@@ -15528,8 +15620,6 @@ ___
 }}
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TP_Helmasaur_Model.png' alt='Helmasaur' style='display:block;width:210px;height:176px;margin:6px auto 2px auto'/>
-
-\column
 
 ## Keese
 
@@ -15625,7 +15715,12 @@ ___
 ***Slash.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage.
 }}
 
-\column
+{{note
+##### Running a Like Like
+A Like Like threatens a party's gear, not its hit points, and the fun is in the scramble to get a shield back. Telegraph it: describe the ring of muscle working at the mouth before anything is grabbed, so a called shot on the Gullet Ring feels like the obvious play rather than a lucky guess.
+
+When Digest Equipment lands, prefer damaging an item to destroying it. A cracked shield the party carries to the next smith is better at the table than an empty slot, and it keeps the Like Like from reading as a punishment for losing initiative.
+}}
 
 {{monster,frame
 ## Like Like
@@ -15642,27 +15737,22 @@ ___
 ___
 **Senses** :: tremorsense 30 ft., passive Perception 10
 **Languages** :: —
-**Challenge** :: 3 (700 XP) {{bonus **Proficiency Bonus** +2}}
+**Challenge** :: 2 (450 XP) {{bonus **Proficiency Bonus** +2}}
 ___
 ***Adhesive Flesh.*** Creatures grappled by the Like Like have disadvantage on checks made to escape the grapple.
+:
+***Swallowed.*** A swallowed creature is no longer grappled. It is blinded and restrained, has total cover against attacks and effects from outside, and can attack only the Like Like. It takes no damage: the Like Like wants its gear, not its flesh. At the end of the Like Like's second turn after swallowing it, the Like Like spits it out prone in an unoccupied space within 5 feet. It also spits it out if it takes 10 or more damage in one turn from the swallowed creature. If the Like Like dies, the creature can crawl out using 5 feet of movement, exiting prone.
 ### Actions
 ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
 *Hit:* 11 (2d6 + 4) piercing damage, and the target is grappled (escape DC 14).
 :
-***Swallow.*** One Medium or smaller creature grappled by the Like Like must succeed on a DC 14 Dexterity saving throw or be swallowed.
+***Swallow.*** One Medium or smaller creature grappled by the Like Like must succeed on a DC 14 Dexterity saving throw or be swallowed. The Like Like can hold only one swallowed creature at a time.
 :
-***Digest Equipment.*** At the start of its turn, the Like Like may damage one nonmagical item possessed by a swallowed creature.
+***Digest Equipment.*** At the start of its turn, the Like Like chooses one nonmagical weapon, shield or suit of armor the swallowed creature carries. That item takes a cumulative −1 penalty (to the AC it grants, or to attack and damage rolls made with it). At −3 it is ruined until a smith repairs it, for half its price.
 ### Called Shot (Gullet Ring)
 **Hit:** The Like Like releases one creature or item it has swallowed, which falls prone in an unoccupied space within 5 feet of it, and it cannot use Digest Equipment until the end of its next turn.
 :
 **Critical:** The Like Like disgorges everything it has swallowed and cannot use Swallow again for 1 minute.
-}}
-
-{{note
-##### Running a Like Like
-A Like Like threatens a party's gear, not its hit points, and the fun is in the scramble to get a shield back. Telegraph it: describe the ring of muscle working at the mouth before anything is grabbed, so a called shot on the Gullet Ring feels like the obvious play rather than a lucky guess.
-
-When Digest Equipment lands, prefer damaging an item to destroying it. A cracked shield the party carries to the next smith is better at the table than an empty slot, and it keeps the Like Like from reading as a punishment for losing initiative.
 }}
 
 {{footnote Enemies | Leever & Like Like }}
@@ -15690,8 +15780,6 @@ Each represents a different evolutionary adaptation of the same reptilian lineag
 ---
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/OoT_Leever_Model_2.png' alt='Leever' style='display:block;width:285px;height:330px;margin:6px auto 2px auto'/>
-
-\column
 
 ### Physiology
 
@@ -15745,12 +15833,6 @@ Tribal disputes are often settled through ritual combat rather than outright war
 
 ---
 
-{{footnote Enemies | Lizalfos }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Weapons and Combat
 
 Lizalfos are among the most skilled natural combatants among Hyrule's monsters.
@@ -15771,6 +15853,12 @@ They are known for adapting to an opponent's fighting style and exploiting weakn
 
 Certain Lizalfos tribes absorb environmental energies much like ChuChus.
 
+{{footnote Enemies | Lizalfos }}
+
+{{pageNumber,auto}}
+
+\page
+
 Known variants include:
 
 - Fire Lizalfos
@@ -15778,6 +15866,16 @@ Known variants include:
 - Electric Lizalfos
 
 These elemental subspecies are particularly common in regions saturated with magical energies, including volcanic mountains, frozen wastes, and storm-prone deserts.
+
+{{note
+##### Elemental Lizalfos
+To build a Fire, Ice or Electric Lizalfos, or a Flame Dinolfos, take any Lizalfos or Dinolfos stat block and add:
+
+- **Fire:** immunity to fire, vulnerability to cold. **Ice:** immunity to cold, vulnerability to fire. **Electric:** immunity to lightning; melee attacks against it with a metal weapon have disadvantage.
+- ***Elemental Breath (Recharge 5-6).*** (Action.) A 15-foot cone. Each creature in it makes a Dexterity saving throw (DC 8 + its proficiency bonus + its Constitution modifier), taking 3d6 damage of its element on a failure, or half as much on a success. Add 1d6 for every 2 CR above 3. *Ice:* a creature that fails has its speed reduced by 10 feet until the end of its next turn. *Electric:* a creature that fails can't take reactions until the start of its next turn.
+
+Its CR doesn't change.
+}}
 
 ---
 
@@ -15800,8 +15898,6 @@ They are fast, disciplined, and deadly.
 
 Unlike Bokoblins, a lone Lizalfos remains dangerous even when isolated.
 
-\column
-
 ### Behavioral Traits
 
 - Patient ambushers
@@ -15809,6 +15905,8 @@ Unlike Bokoblins, a lone Lizalfos remains dangerous even when isolated.
 - Skilled climbers
 - Frequently attack from concealment
 - Rarely fight to the death if escape is possible
+
+\column
 
 ### Variants
 
@@ -15833,7 +15931,7 @@ ___
 **Skills** :: Acrobatics +5, Stealth +5
 **Senses** :: darkvision 60 ft., passive Perception 11
 **Languages** :: Lizalfos, Blin
-**Challenge** :: 3 (700 XP) {{bonus **Proficiency Bonus** +2}}
+**Challenge** :: 2 (450 XP) {{bonus **Proficiency Bonus** +2}}
 ___
 ***Skirmisher.*** When a creature ends its turn within 5 feet of the lizalfos, the lizalfos may move up to half its speed.
 ### Actions
@@ -15859,7 +15957,7 @@ ___
 *Medium Humanoid (Lizalfos), Chaotic Evil*
 ___
 **Armor Class** :: 16
-**Hit Points**  :: 85 (10d8 + 40)
+**Hit Points**  :: 93 (11d8 + 44)
 **Speed**       :: 30 ft., climb 30 ft.
 **Weak Point**  :: Tail
 ___
@@ -15887,8 +15985,6 @@ ___
 **Critical:** The tail is severed. The lizalfos loses Tail Sweep for the rest of the combat and its speed is halved.
 }}
 
-\column
-
 {{monster,frame
 ## Black Lizalfos
 *Medium Humanoid (Lizalfos), Chaotic Evil*
@@ -15905,7 +16001,7 @@ ___
 **Skills** :: Acrobatics +8, Athletics +8, Stealth +8
 **Senses** :: darkvision 60 ft., passive Perception 11
 **Languages** :: Lizalfos, Blin
-**Challenge** :: 8 (3,900 XP) {{bonus **Proficiency Bonus** +3}}
+**Challenge** :: 7 (2,900 XP) {{bonus **Proficiency Bonus** +3}}
 ___
 ***Skirmisher.*** When a creature ends its turn within 5 feet of the lizalfos, it may move up to half its speed.
 :
@@ -15942,8 +16038,6 @@ Many scholars believe Dinolfos represent an elite caste within Lizalfos society 
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TotK_Blue_Lizalfos_Model_2.png' alt='Blue Lizalfos' style='display:block;width:188px;height:330px;margin:6px auto 2px auto'/>
 
-\column
-
 ### Characteristics
 
 - Larger frames
@@ -15958,12 +16052,6 @@ Some varieties have even demonstrated the ability to breathe fire.
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TotK_Black_Lizalfos_Model_2.png' alt='Black Lizalfos' style='display:block;width:231px;height:330px;margin:6px auto 2px auto'/>
 
-{{footnote Enemies | Lizalfos }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Behavioral Traits
 
 - Aggressive duelists
@@ -15976,6 +16064,12 @@ Some varieties have even demonstrated the ability to breathe fire.
 - **Dinolfos:** Veteran warriors and champions.
 - **Black Dinolfos:** Tribal warlords and elite commanders.
 - **Flame Dinolfos:** Rare warriors capable of exhaling fire.
+
+{{footnote Enemies | Lizalfos }}
+
+{{pageNumber,auto}}
+
+\page
 
 {{monster,frame
 ## Dinolfos
@@ -16005,8 +16099,6 @@ ___
 :
 **Critical:** The jaw is broken. The dinolfos has disadvantage on attack rolls for 1 minute.
 }}
-
-\column
 
 {{monster,frame
 ## Black Dinolfos
@@ -16060,8 +16152,6 @@ Many historians believe they evolved from isolated Lizalfos populations that ada
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/OoT_Dinolfos_Model.png' alt='Dinolfos' style='display:block;width:196px;height:330px;margin:6px auto 2px auto'/>
 
-\column
-
 ### Behavioral Traits
 
 - Territorial aerial predators
@@ -16082,12 +16172,6 @@ They frequently:
 - Coordinate attacks with ground forces
 
 Aeralfos are often encountered as leaders among reptilian warbands or as guardians of ancient skyborne ruins.
-
-{{footnote Enemies | Lizalfos }}
-
-{{pageNumber,auto}}
-
-\page
 
 {{monster,frame
 ## Aeralfos
@@ -16172,11 +16256,11 @@ Unlike Blins or Lizalfos, Octoroks possess no true society and do not organize i
 
 ---
 
-\column
-
 ## The Great Defense Mechanism
 
 Across nearly every appearance throughout Hyrule's history, Octoroks possess one famous weakness:
+
+\column
 
 ### Reflected Projectiles
 
@@ -16217,17 +16301,17 @@ Masters of camouflage.
 
 Forest Octoroks disguise themselves as bushes, grass clumps, or vegetation until prey approaches. They remain nearly motionless for hours before attacking.
 
-{{footnote Enemies | Octoroks }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Water Octoroks
 
 Aquatic hunters found in lakes, rivers, and coastlines.
 
 Unlike land-based species, Water Octoroks spend most of their lives submerged and emerge only long enough to launch attacks.
+
+{{footnote Enemies | Octoroks }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Rock Octoroks
 
@@ -16255,8 +16339,6 @@ Using leaf-like membranes and buoyant gas sacs, Sky Octoroks drift among floatin
 - Most monsters view Octoroks as nuisances rather than allies.
 
 Because of their solitary nature, Octoroks rarely participate in organized monster armies.
-
-\column
 
 {{monster,frame
 
@@ -16345,8 +16427,6 @@ Octoroks are terrain, not opponents. One on its own is a speed bump; three sprea
 Rock Spit is also the party's weapon. A shield bash, a Gust Jar, a well-timed deflection - anything that sends the rock back - should work, and the siphon called shot exists so that players who look for the weak spot are rewarded for it rather than told to keep rolling attacks.
 }}
 
-\column
-
 {{monster,frame
 ## Forest Octorok
 *Small Monstrosity, Chaotic Evil*
@@ -16400,7 +16480,7 @@ ___
 **Skills** :: Perception +2
 **Senses** :: darkvision 60 ft., passive Perception 12
 **Languages** :: —
-**Challenge** :: 1 (200 XP) {{bonus **Proficiency Bonus** +2}}
+**Challenge** :: 1/2 (100 XP) {{bonus **Proficiency Bonus** +2}}
 ___
 ***Water Camouflage.*** The water octorok has advantage on Dexterity (Stealth) checks made while submerged.
 :
@@ -16412,8 +16492,6 @@ ___
 :
 **Critical:** The siphon ruptures. The octorok loses Rock Spit for the rest of the combat and its swim speed is halved.
 }}
-
-\column
 
 {{monster,frame
 ## Rock Octorok
@@ -16475,7 +16553,7 @@ ___
 **Damage Resistances** :: cold
 **Senses** :: darkvision 60 ft., passive Perception 10
 **Languages** :: —
-**Challenge** :: 1 (200 XP) {{bonus **Proficiency Bonus** +2}}
+**Challenge** :: 1/2 (100 XP) {{bonus **Proficiency Bonus** +2}}
 ___
 ***Snow Camouflage.*** The snow octorok has advantage on Dexterity (Stealth) checks made in snowy terrain.
 ### Actions
@@ -16485,8 +16563,6 @@ ___
 :
 **Critical:** The siphon ruptures and freezes. The octorok loses Snowball Spit for the rest of the combat.
 }}
-
-\column
 
 {{monster,frame
 ## Sky Octorok
@@ -16552,8 +16628,6 @@ ___
 **Critical:** The peahat drops to the ground, lands prone, and cannot fly for 1 minute.
 }}
 
-\column
-
 {{monster,frame
 ## Poe
 *Medium Undead, Neutral Evil*
@@ -16601,8 +16675,6 @@ ReDeads are undead remnants of ancient civilizations. Their horrifying gaze free
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/EoW_Peahat_Model_2.png' alt='Peahat' style='display:block;width:144px;height:159px;margin:6px auto 2px auto'/>
 
-\column
-
 ### Behavior
 
 - Slow and relentless
@@ -16620,12 +16692,6 @@ ReDeads are undead remnants of ancient civilizations. Their horrifying gaze free
 
 **Critical:** The ReDead is stunned until the end of its next turn.
 
-{{footnote Enemies | ReDead }}
-
-{{pageNumber,auto}}
-
-\page
-
 {{monster,frame
 ## ReDead
 *Medium Undead, Lawful Evil*
@@ -16642,7 +16708,7 @@ ___
 **Damage Resistances**   :: necrotic
 **Senses**               :: darkvision 60 ft., passive Perception 10
 **Languages**            :: understands Hylian but cannot speak
-**Challenge**            :: 2 (450 XP) {{bonus **Proficiency Bonus** +2}}
+**Challenge**            :: 1 (200 XP) {{bonus **Proficiency Bonus** +2}}
 ___
 ***Undead Fortitude.*** If damage reduces the redead to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken. On a success, it drops to 1 hit point instead.
 ### Actions
@@ -16657,7 +16723,11 @@ ___
 
 Skulltulas are giant spiders covered by a hard skull-like shell. They prefer dark forests, caves, and dungeons.
 
-\column
+{{footnote Enemies | ReDead }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Behavior
 
@@ -16694,7 +16764,7 @@ ___
 ___
 ***Wall Climber.*** The skulltula can climb difficult surfaces, including ceilings.
 :
-***Natural Armor.*** While facing a creature, the skulltula gains +2 AC.
+***Natural Armor.*** Its AC includes +2 from its skull shell. It loses that +2 against a creature it can't see, while it is prone, and while it clings to a ceiling (its underside faces the floor).
 ### Actions
 ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage.
 }}
@@ -16786,7 +16856,9 @@ ___
 **Critical:** The tektite is flipped onto its back. It is prone, and it must use an action to right itself.
 }}
 
-<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/OoT3D_Stalfos_Model_2.png' alt='Stalfos' style='display:block;width:250px;height:330px;margin:6px auto 2px auto'/>
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/OoT3D_Stalfos_Model_2.png' alt='Stalfos' style='display:block;width:150px;height:198px;margin:6px auto 2px auto'/>
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/EoW_Tektite_Model_2.png' alt='Tektite' style='display:block;width:197px;height:188px;margin:6px auto 2px auto'/>
 
 {{footnote Enemies | Stalfos & Tektite }}
 
@@ -16798,16 +16870,12 @@ ___
 
 Wizzrobes are powerful spellcasters that travel through dimensions. They delight in confusing, tormenting, and destroying intruders through magic and illusion.
 
-<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/EoW_Tektite_Model_2.png' alt='Tektite' style='display:block;width:328px;height:313px;margin:6px auto 2px auto'/>
-
 ### Behavior
 
 - Teleport constantly
 - Avoid melee combat
 - Use elemental magic
 - Fight from cover whenever possible
-
-\column
 
 ### Weak Point: Spell Focus
 
@@ -16839,7 +16907,7 @@ ___
 ___
 ***Phase Step.*** As a bonus action, the wizzrobe teleports up to 30 feet to an unoccupied space it can see.
 ### Actions
-***Spellcasting.*** The wizzrobe is a spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following spells prepared:
+***Spellcasting.*** The wizzrobe is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following spells prepared:
 - Fire Bolt (1 MP)
 - Burning Hands (2 MP)
 - Scorching Ray (3 MP)
@@ -16859,12 +16927,6 @@ Wolfos are cunning lupine predators found in forests, mountains, and wilderness 
 - Circles opponents
 - Targets weakened prey
 - Avoids obvious traps
-
-{{footnote Enemies | Wizzrobe & Wolfos }}
-
-{{pageNumber,auto}}
-
-\page
 
 ### Weak Point: Flank
 
@@ -16901,11 +16963,9 @@ ___
 ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage.
 }}
 
-\column
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/MM_White_Wolfos_Model_3.png' alt='Wolfos' style='display:block;width:173px;height:238px;margin:6px auto 2px auto'/>
 
-<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/MM_White_Wolfos_Model_3.png' alt='Wolfos' style='display:block;width:240px;height:330px;margin:6px auto 2px auto'/>
-
-{{footnote Enemies | Wolfos }}
+{{footnote Enemies | Wizzrobe & Wolfos }}
 
 {{pageNumber,auto}}
 
@@ -16913,7 +16973,7 @@ ___
 
 {{insideCover}}
 
-# Bosses {{pageNumber,auto}}
+# Bosses
 
 ___
 
@@ -16922,6 +16982,8 @@ ___
 }}
 
 {{logo ![](/assets/naturalCritLogoRed.svg)}}
+
+{{pageNumber,auto}}
 
 \page
 
@@ -16967,7 +17029,7 @@ Unlike the Thornheart Sanctum (a sealed ruin reclaimed by corruption), the Hollo
 
 \page
 
-### Phase 1. The Watching Eye (100% → 60% HP)
+### Phase 1, The Watching Eye (100% → 60% HP, or the first eye hit)
 
 *Gohma clings to the underside of the great taproot, a segmented horror of chitin and too many legs, motionless except for a single massive eye that swivels to track movement below. It has not yet engaged. It is deciding whether you are food.*
 
@@ -16976,14 +17038,15 @@ Unlike the Thornheart Sanctum (a sealed ruin reclaimed by corruption), the Hollo
 **Behavior:** Gohma remains anchored to the ceiling-taproot for this entire phase, periodically dropping small **Larval Spawn** (use Keese statistics, reflavored as parasite young) onto the lower shelves to harass the party while it watches.
 
 **Attacks:**
-- *Acid Spit* (Recharge 5–6): Ranged attack against one target within 60 feet, +5 to hit. On hit: 2d6 acid damage.
+- *Acid Spit* (Recharge 5–6): Ranged attack against one target within 60 feet, +5 to hit. On hit: 2d6 acid damage. While Gohma is anchored to the ceiling, Acid Spit has no recharge (it can use it every turn).
 - *Summon Larval Spawn:* No action cost, triggers automatically at the start of Gohma's turn if fewer than 2 Larval Spawn are present. One new Larval Spawn drops onto a random shelf.
 
 **Exploitation:** Gohma's eye is only struck effectively by **ranged attacks** while it remains anchored to the ceiling. It is too high and too well-armored along its body for melee to reach the eye directly. A successful ranged attack roll against AC 14, specifically called as a Called Shot (Eye), forces a reaction.
 
-**Vulnerability Window:** On a successful Called Shot (Eye) hit, Gohma shrieks and **releases its grip on the taproot, falling to the nearest root-shelf** (DM's choice of the closest unoccupied shelf to the party). It takes 2d6 fall damage and is **stunned until the end of its next turn**. This transition triggers Phase 2 automatically, regardless of remaining HP. *Gohma's connection to height is itself a kind of structural weak point.*
+**Vulnerability Window:** On a successful Called Shot (Eye) hit, Gohma shrieks and **releases its grip on the taproot, falling to the nearest root-shelf** (DM's choice of the closest unoccupied shelf to the party). It takes 2d6 fall damage and is **stunned until the end of its next turn**. This transition triggers Phase 2 automatically, regardless of remaining HP. If Gohma drops below 60% HP before anyone hits the eye, it loses its grip anyway: it falls and takes the fall damage, but is not stunned. *Gohma's connection to height is itself a kind of structural weak point.*
 
 > **DM note. Hint Roll:** If the party hasn't attempted a ranged attack against the eye after three rounds, allow a DC 10 Wisdom (Perception) check. Success: *"The creature's eye swivels constantly to track movement, but it never seems to anticipate attacks from a distance the way it does melee."*
+
 
 \column
 
@@ -16996,7 +17059,7 @@ Unlike the Thornheart Sanctum (a sealed ruin reclaimed by corruption), the Hollo
 **Attacks:**
 - *Claw* (×2): Melee attack, +5 to hit, reach 10 ft. On hit: 1d10 + 3 slashing damage.
 - *Acid Spit* (Recharge 5–6): As Phase 1.
-- *Skittering Charge:* Once per turn, Gohma may move up to its full speed (30 ft.) toward a creature and make one Claw attack at the end of the movement without provoking opportunity attacks.
+- *Skittering Charge:* As a bonus action, Gohma may move up to its full speed (30 ft.) toward a creature and make one Claw attack at the end of the movement without provoking opportunity attacks.
 
 **Exploitation:** Now grounded, Gohma's eye can be targeted by **melee or ranged Called Shots** equally. However, it actively tries to keep its body angled away from melee attackers, favoring whichever character it perceives as the greatest ranged threat. A melee Called Shot (Eye) requires the attacker to either flank Gohma (advantage from positioning) or wait for it to complete a Claw attack (its eye is more exposed mid-lunge, treat the round after any Skittering Charge as granting advantage on Called Shots against the eye).
 
@@ -17032,8 +17095,6 @@ The parasite's body dissolves into the root-wood within minutes, leaving behind 
 
 ---
 
-\column
-
 ### Reward
 
 **Mechanical:**
@@ -17056,7 +17117,7 @@ The parasite's body dissolves into the root-wood within minutes, leaving behind 
 **Recommended Party Level:** 4–6
 **Recommended Party Size:** 3–5
 **CR:** 7 (2,900 XP)
-**Dungeon Item:** Bombs (found in the dungeon's mid-section, guarded by a Dodongo nest; see arena notes)
+**Dungeon Item:** Bombs (Bomb Flowers growing near the boss cavern's entrance; see arena notes)
 **Central Mechanic:** A timed breath-attack interrupt, the fight's signature mechanic and its primary exploitation method.
 
 ---
@@ -17076,7 +17137,7 @@ Goron elders speak of King Dodongo with a strange mix of irritation and respect.
 **Arena features:**
 - **Loose volcanic rocks** are scattered throughout the chamber (effectively unlimited improvised throwable ammunition, 1d4 bludgeoning damage if thrown as a weapon, range 20/60).
 - **Heat fissures** (3–4 scattered across the floor) count as difficult terrain and deal 1d4 fire damage to any creature that ends its turn adjacent to one.
-- **A Dodongo nest** sits along one wall: two or three dormant juvenile Dodongos (use a weaker reskinned Lizalfos statline, CR 1/2) that wake and join the fight if the party makes excessive noise near them (DM's discretion, or automatically at the start of Phase 2).
+- **A Dodongo nest** sits along one wall: two or three dormant juvenile Dodongos (see **Juvenile Dodongo** in the Enemies chapter, CR 1/2) that wake and join the fight if the party makes excessive noise near them (DM's discretion, or automatically at the start of Phase 2).
 - **A scattering of inert Bomb Flowers** grow near the cavern's entrance. These are the dungeon item. Each can be picked (no action cost beyond movement) and functions as a standard Bomb (see Adventuring Gear) once picked.
 
 {{imageMaskCenter1,--offsetX:0%,--offsetY:0%,--rotation:0
@@ -17093,19 +17154,17 @@ Goron elders speak of King Dodongo with a strange mix of irritation and respect.
 
 This fight's entire identity is built around interrupting King Dodongo's breath attack before it goes off. Explain this clearly to your players the first time it happens. This is meant to be a puzzle they solve through repetition, not a secret.
 
-**On King Dodongo's first turn each cycle**, narrate clearly: *"King Dodongo plants its feet and begins to inhale. Smoke curls from its nostrils. Heat builds visibly in its throat. It will exhale violently next turn, unless something stops it first."* No mechanical effect occurs yet. This is a telegraph, not an attack.
+**On King Dodongo's first turn each cycle**, narrate clearly: *"King Dodongo plants its feet and begins to inhale. Smoke curls from its nostrils. Heat builds visibly in its throat. It will exhale violently next turn, unless something stops it first."* The inhale takes its bonus action and roots it in place for the turn, but it can still Stomp and Sweep. The breath itself comes next turn.
 
 **On King Dodongo's second turn (the cycle's payoff turn)**, one of three things happens, depending on what the party did in between:
 
-**Outcome A: Nothing thrown into its mouth.** King Dodongo releases its breath attack. Each creature in a 30-foot cone must succeed on a DC 15 Dexterity saving throw, taking 4d8 fire damage on a failure or half as much on a success. The cone originates from King Dodongo's mouth and can be aimed at any direction the DM deems reasonable based on its facing.
+**Outcome A: Nothing thrown into its mouth.** King Dodongo releases its breath attack. Each creature in a 30-foot cone must succeed on a DC 15 Dexterity saving throw, taking 6d8 fire damage on a failure or half as much on a success. The cone originates from King Dodongo's mouth and can be aimed at any direction the DM deems reasonable based on its facing.
 
 **Outcome B: A non-explosive object thrown into its mouth.** If a player successfully throws an object (a rock, a pot, debris, or similar; treat as a ranged attack against AC 8, because its mouth is wide open and easy to hit while it inhales) into King Dodongo's open mouth during the turn between its telegraph and its payoff turn, the breath attack is interrupted. King Dodongo coughs, sputters, and loses its action for that turn instead of breathing fire. No damage is dealt to it, but the cycle resets. It will begin inhaling again on a future turn.
 
-**Outcome C: An explosive thrown into its mouth.** If a player throws a Bomb, Bomb Arrow, or similar explosive into King Dodongo's open mouth (same AC 8 attack roll as Outcome B) during the turn between telegraph and payoff, the explosive lodges in its throat. **Nothing happens immediately.** At the start of King Dodongo's next turn, the turn it would have unleashed its breath attack, the explosive detonates instead. King Dodongo takes 4d10 fire damage (explosives deal full, undiscounted damage when detonated from inside a creature), is **knocked onto its side**, and is **stunned until the end of its next turn**. This is the fight's primary Vulnerability Window, see Exploitation below.
+**Outcome C: An explosive thrown into its mouth.** If a player throws a Bomb, Bomb Arrow, or similar explosive into King Dodongo's open mouth (same AC 8 attack roll as Outcome B) during the turn between telegraph and payoff, the explosive lodges in its throat. **Nothing happens immediately.** At the start of King Dodongo's next turn, the turn it would have unleashed its breath attack, the explosive detonates instead. King Dodongo takes 4d10 fire damage (explosives deal full, undiscounted damage when detonated from inside a creature), is **knocked onto its side**, loses this turn, and is **stunned until the start of its next turn**: the party gets one full round at its stomach. A swallowed explosive never goes off on impact, not even a Bomb Flower; the heat of its throat holds it until then. This is the fight's primary Vulnerability Window, see Exploitation below.
 
 > **Running this clearly:** Players will quickly learn the rhythm: telegraph turn, then a single turn to act, then payoff. Make sure the telegraph is impossible to miss narratively (smoke, glowing throat, audible inhale) so the mechanic reads as a puzzle the party is solving, not a gotcha.
-
-\column
 
 ### Phase 1: The Slumbering Wall (100% → 60% HP)
 
@@ -17116,16 +17175,12 @@ This fight's entire identity is built around interrupting King Dodongo's breath 
 > **Hint roll (if needed):** DC 10 Intelligence or Wisdom check after the first uninterrupted breath attack. Success: *"You notice scorch marks circling a wide ring on the cavern floor near its mouth, as if something has been thrown in there before, and stopped working."*
 
 **Attacks (outside the breath cycle):**
-- *Stomp:* Melee attack, +7 to hit, reach 10 ft. On hit: 2d10 + 4 bludgeoning damage, and the target must succeed on a DC 14 Strength save or be knocked prone.
-- *Tail Sweep:* Once per turn as a bonus action if a creature is within reach behind it, +7 to hit, reach 10 ft. On hit: 1d8 + 4 bludgeoning damage.
+- *Stomp:* Melee attack, +9 to hit, reach 10 ft. On hit: 2d10 + 6 bludgeoning damage, and the target must succeed on a DC 15 Strength save or be knocked prone.
+- *Tail Sweep:* Part of its Multiattack (one Stomp and one Tail Sweep, or two Stomps if nothing is within reach of its tail), +9 to hit, reach 10 ft. On hit: 1d8 + 6 bludgeoning damage.
 
 **Exploitation:** As described in the Breath Attack Cycle above. In Phase 1, King Dodongo's breath cycle repeats roughly every 2 rounds (telegraph, payoff, brief pause, telegraph again).
 
-**Vulnerability Window:** Triggered by Outcome C (explosive swallowed). King Dodongo is knocked prone and stunned. Called Shots against its exposed underside (its true weak point; see below) made during this window automatically succeed on the attack roll and deal double damage dice.
-
-### The Real Weak Point: The Stomach
-
-King Dodongo's hide is thick, scaled, and almost entirely immune to called shots everywhere except one place: its **underbelly**, soft and vulnerable, normally pressed flush against the ground or angled away from attackers at all times. This is why the explosive-swallow mechanic matters beyond simple damage. **It is the only reliable way to expose the stomach at all.**
+**Vulnerability Window:** Triggered by Outcome C (explosive swallowed). King Dodongo is knocked prone and stunned. Called Shots against its exposed underside (its true weak point; see below) made during this window automatically succeed on the attack roll and double their weapon damage dice, including the Called Shot's extra die (see below).
 
 {{footnote Bosses | King Dodongo }}
 
@@ -17133,9 +17188,13 @@ King Dodongo's hide is thick, scaled, and almost entirely immune to called shots
 
 \page
 
+### The Real Weak Point: The Stomach
+
+King Dodongo's hide is thick, scaled, and almost entirely immune to called shots everywhere except one place: its **underbelly**, soft and vulnerable, normally pressed flush against the ground or angled away from attackers at all times. This is why the explosive-swallow mechanic matters beyond simple damage. **It is the only reliable way to expose the stomach at all.**
+
 - While King Dodongo stands normally, its stomach cannot be targeted by any means. There is no opening for an attack to find.
 - The instant it is knocked onto its side (Outcome C), its stomach becomes fully exposed for the duration of the stun.
-- A Called Shot (Stomach) during this window deals normal Called Shot bonus dice *in addition to* the automatic-hit and double-damage-dice benefit of the Vulnerability Window itself. This is intentionally the single best damage opportunity in the entire fight.
+- A Called Shot (Stomach) during this window hits automatically and doubles its weapon damage dice, including the Called Shot's extra die. This is intentionally the single best damage opportunity in the entire fight.
 
 ---
 
@@ -17146,11 +17205,9 @@ King Dodongo's hide is thick, scaled, and almost entirely immune to called shots
 **What changed:** The Dodongo nest activates: two or three juvenile Dodongos join the fight (see Arena features). King Dodongo's breath cycle accelerates: each new telegraph now follows the previous payoff with no pause between, giving the party less breathing room to react.
 
 **New attack:**
-- *Charge:* Once per turn, in place of its normal movement, King Dodongo may move up to 40 feet in a straight line toward a creature. Any creature in its path must succeed on a DC 15 Dexterity save or take 3d8 bludgeoning damage and be knocked prone.
+- *Charge:* Once per turn, in place of its normal movement (never on a turn it inhales), King Dodongo may move up to 40 feet in a straight line toward a creature. Any creature in its path must succeed on a DC 15 Dexterity save or take 3d8 bludgeoning damage and be knocked prone.
 
 **Exploitation:** Unchanged in method, but the accelerated breath cycle and the additional juvenile Dodongos create real time pressure. A party that's been comfortably managing the interrupt rhythm in Phase 1 needs to start coordinating who handles the juveniles and who handles the throw.
-
-\column
 
 ### Phase 3: Last Stand (25% → 0 HP), Transition: Environmental
 
@@ -17168,12 +17225,6 @@ The cavern falls silent except for the settling of loose rock and the distant dr
 
 **Failure State:** If the party fails to interrupt three consecutive breath attacks (Outcome A occurring three times in a row), King Dodongo's confidence grows. It gains a permanent +2 to its breath attack DC for the rest of the encounter, representing the party's mounting exhaustion and its growing aggression. This is recoverable (a single successful interrupt resets it) but should make clear that ignoring the core mechanic has real consequences.
 
-{{footnote Bosses | King Dodongo }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Reward
 
 **Mechanical:**
@@ -17182,7 +17233,11 @@ The cavern falls silent except for the settling of loose rock and the distant dr
 - **Rupee Cache:** 220 rupees in heat-fused mineral deposits, plus 3 additional Bomb Flowers (replenished from the nest area, usable as standard Bombs).
 - **Sealed Chamber Access:** The upper chamber King Dodongo was guarding opens. DM's discretion on contents, but this is a natural hook into whatever the campaign's Death Mountain storyline requires next (a Sage shrine, a Goron historical site, or a fragment of a larger relic).
 
-\column
+{{footnote Bosses | King Dodongo }}
+
+{{pageNumber,auto}}
+
+\page
 
 **Narrative:** Goron witnesses (if any were nearby, or word reaching Goron City regardless) treat the party with immediate, considerable respect. Felling King Dodongo is the kind of deed that gets carved into mountain stone and repeated for generations.
 
@@ -17256,9 +17311,7 @@ This is the default, safer path to victory. Sustained damage forces the Talus of
 
 **Trigger:** Whenever the Stone Talus takes 15 or more damage from a single attack, or whenever cumulative damage since its last knockdown crosses a threshold of 25 damage, it staggers and rears backward, exposing its chest.
 
-**Vulnerability Window:** When staggered this way, the Talus's core is exposed and its Stone Hide resistance does not apply to attacks targeting the core specifically. The window lasts until the end of the Talus's next turn, after which it rights itself and the core seals again. A Called Shot (Core) during this window deals normal Called Shot bonus dice and ignores Stone Hide resistance entirely (this is true any time the core is exposed, by either method).
-
-\column
+**Vulnerability Window:** When staggered this way, the Talus's core is exposed and its Stone Hide resistance does not apply to attacks targeting the core specifically. The window lasts until the end of the Talus's next turn, after which it rights itself and the core seals again. A Called Shot (Core) during this window doubles its weapon damage dice and ignores Stone Hide resistance entirely. The core ignores Stone Hide any time it is exposed, by either method, but a climber's Called Shot (Method B) deals only the normal extra die.
 
 **Discovery:** Self-evident the moment it first happens. When the Talus staggers, narrate it clearly: *"The impact rocks the Talus backward. For a moment, a crack splits open across its chest, and you can see something bright and crystalline pulsing within."* After that, players should understand the pattern.
 
@@ -17286,8 +17339,6 @@ A bolder option exists for parties willing to take a physical risk: climbing dir
 
 **Failure State:** Stone Talus does not have a traditional "failure state" in the sense of escalating danger. It is not a scripted encounter with narrative stakes, and a party that finds the fight too difficult can simply disengage and leave (the Talus's Slow trait makes this a viable option at any point). If you want to add pressure for a party that's struggling, consider having the Talus's Ground Slam recharge more frequently after the first 2 rounds (Recharge 4-6 instead of 5-6), but this fight is intentionally meant to be skippable or retreatable without major consequence.
 
-\column
-
 ### Reward
 
 **Mechanical:**
@@ -17310,7 +17361,7 @@ A bolder option exists for parties willing to take a physical risk: climbing dir
 **Recommended Party Level:** 6–8
 **Recommended Party Size:** 3–5
 **CR:** 9 (5,000 XP)
-**Dungeon Item:** Zora Trident or equivalent aquatic gear (granting swim speed and underwater combat capability; see the Items chapter for reference equipment)
+**Dungeon Item:** Zora Trident (as in the Phantom of Lanayru example), the Lightscale Trident, Zora's Flippers, or similar aquatic gear (see the Items and Relics chapters)
 **Central Mechanic:** Rising and falling water levels combined with a surface/submerge attack rhythm.
 
 ---
@@ -17353,42 +17404,40 @@ It does not appear to be intelligent in any meaningful sense. It is closer to a 
 - *Submerged Tail Slam:* Once per turn, if a creature is in the Submerged Zone, Morpheel may strike with its tail without surfacing. Melee attack, +9 to hit, reach 10 ft. On hit: 2d10 + 5 bludgeoning damage.
 - *Surface and Bite* (see below): Morpheel's main offensive action and the fight's core rhythm mechanic.
 
-**The Surface Cycle:** On a recurring basis (roughly every 2 rounds, DM's discretion based on pacing), Morpheel surfaces fully to attack. When it does:
+**The Surface Cycle:** On a recurring basis (roughly every 2 rounds, DM's discretion based on pacing), Morpheel surfaces fully to attack. Surfacing costs it no action. When it does:
 
 > *"The water erupts as Morpheel breaches fully, its head and the first ten feet of its body rising clear of the surface, eye blazing, jaws opening wide."*
 
-While surfaced (lasting until the end of its next turn), Morpheel makes a **Bite** attack: +9 to hit, reach 15 ft., 3d10 + 5 piercing damage, and on a hit, the target is **grappled** (escape DC 16) and may be swallowed if already grappled at the start of Morpheel's next turn (see Swallowed, below).
+While surfaced (lasting until the end of its next turn), Morpheel makes a **Bite** attack: +9 to hit, reach 15 ft., 3d10 + 5 piercing damage, and on a hit, the target is **grappled** (escape DC 16) and a later Bite that hits it can swallow it (see Swallowed, below). A creature Morpheel is grappling when it submerges goes under with it and must hold its breath (PHB suffocation rules).
 
 **Exploitation:** Morpheel's eye can only be targeted **while it is surfaced**. At all other times it is submerged in murky water and cannot be seen well enough to target directly, regardless of any special senses a character might have (the water itself, not darkness, is what obscures it). A successful Called Shot (Eye) against AC 14 while Morpheel is surfaced is the only way to create a Vulnerability Window.
 
-\column
-
-**Vulnerability Window:** A successful Called Shot (Eye) while surfaced causes Morpheel to recoil and **thrash wildly for one round**. It cannot take its normal action on its next turn (it instead makes a single, less accurate Tail Slam against a random creature, or nothing if none are in range), and any creature within 15 feet of it that hasn't acted yet this round has advantage on attacks against it for the rest of the round.
+**Vulnerability Window:** A successful Called Shot (Eye) while surfaced causes Morpheel to recoil and **thrash wildly for one round**. At the start of its next turn it dives beneath the surface and can only lash out with a single Tail Slam against a random creature (or nothing if none are in range). Any creature within 15 feet of it that hasn't acted yet this round has advantage on attacks against it for the rest of the round. Its eye can make it recoil only once per surfacing.
 
 > **Hint roll (if needed):** DC 12 Wisdom (Perception) or Intelligence (Nature) check after the second uninterrupted Surface Cycle. Success: *"You realize Morpheel's eye is far more vulnerable than the rest of its hide, but you can only get a clean look at it for the brief moments it's fully surfaced."*
 
 ### Swallowed
 
-If a creature is already grappled by Morpheel at the start of its turn, it is pulled into Morpheel's body and the **Swallowed** condition applies instead of a second Bite attack:
+If Morpheel's Bite hits a creature it is already grappling, that creature is swallowed instead of taking the Bite's damage:
 
 - The swallowed creature is blinded and restrained, and takes 2d8 acid damage at the start of each of its turns.
-- The swallowed creature can attempt to escape by dealing 15 damage to Morpheel from the inside (no AC bonus or penalty applies; this damage threshold represents tearing through soft internal tissue) as an action, ending the swallowed condition and depositing the creature in the Submerged Zone adjacent to Morpheel, prone.
+- The swallowed creature attacks Morpheel from inside, and those attacks hit automatically. If it deals 15 or more damage to Morpheel in a single turn, it tears free and surfaces in the Submerged Zone next to Morpheel.
 - **Notably, internal damage dealt this way always counts as having struck a vital area**. For the purposes of this fight only, damage dealt to escape from inside Morpheel also counts toward its total HP as normal damage, giving a swallowed character a meaningful way to contribute to the fight even while trapped.
 
 ### Phase 2: The Rising Tide (65% → 30% HP), Transition: Environmental
 
 *Morpheel's thrashing becomes violent enough to disturb the sanctum's ancient sluice mechanisms. Water floods upward through cracks in the floor. The platforms you were standing on moments ago begin to vanish beneath the rising tide.*
 
+**What changed:** The water level rises permanently (see Arena features). Roughly half of the previously-dry Platform Zone is now under 4 feet of water: Medium creatures there wade (difficult terrain, and Submerged Zone rules for their attacks), and Small creatures must swim. Characters without aquatic capability now have meaningfully less safe ground to retreat to. Morpheel's Surface Cycle becomes more frequent (every 1–2 rounds instead of every 2).
+
+**New attack:**
+- *Wake Surge:* When Morpheel submerges after a Surface Cycle, it may immediately create a wave. Each creature in the Submerged Zone must succeed on a DC 17 Strength saving throw or be knocked prone and pushed 10 feet in a random direction (roll or DM's choice).
+
 {{footnote Bosses | Morpheel }}
 
 {{pageNumber,auto}}
 
 \page
-
-**What changed:** The water level rises permanently (see Arena features). Roughly half of the previously-dry Platform Zone is now submerged. Characters without aquatic capability now have meaningfully less safe ground to retreat to. Morpheel's Surface Cycle becomes more frequent (every 1–2 rounds instead of every 2).
-
-**New attack:**
-- *Wake Surge:* When Morpheel submerges after a Surface Cycle, it may immediately create a wave. Each creature in the Submerged Zone must succeed on a DC 15 Strength saving throw or be knocked prone and pushed 10 feet in a random direction (roll or DM's choice).
 
 **Exploitation:** Unchanged in method. The eye is still only targetable during surfacing, but the reduced dry ground and increased Surface Cycle frequency raise the tactical stakes considerably.
 
@@ -17405,8 +17454,6 @@ If a creature is already grappled by Morpheel at the start of its turn, it is pu
 
 **Exploitation:** Unchanged. By this phase, the fight is a matter of capitalizing on whatever Vulnerability Windows the party can get, with the d4 unpredictability adding genuine tension to a fight that's otherwise been rhythmic and learnable.
 
-\column
-
 ### Defeat
 
 *Morpheel's final surface is its longest. Its body rising fully from the water, eye dimming, before it crashes back down in a wave that washes across every remaining platform. The water stills. Cloudy red fades slowly into the dark, and then, gradually, the bioluminescent algae's glow is the only light left in the sanctum.*
@@ -17417,11 +17464,13 @@ If a creature is already grappled by Morpheel at the start of its turn, it is pu
 
 ### Reward
 
+\column
+
 **Mechanical:**
 - **Morpheel's Eye:** A rare crafting component or relic-tier reagent. Usable by a Water-affinity Sage or appropriate crafter to create an item granting darkvision underwater equal to normal darkvision range, or sold to the right collector or Zonai Researcher for a substantial rupee sum.
 - **Heart of the Depths:** Each player gains +2 to their maximum hit points (permanent).
 - **Rupee Cache:** 340 rupees recovered from the sanctum's submerged offering chests, plus one rare-tier piece of Zora-crafted equipment (DM's choice from the Items chapter).
-- **Sanctum Access:** The Lakebed Sanctum's deeper chambers, previously sealed by Morpheel's presence, become explorable, a natural hook for a Zora-aligned relic, a Sage Medallion fragment, or simply a quiet, sacred space the party has reclaimed.
+- **Sanctum Access:** The Lakebed Sanctum's deeper chambers, previously sealed by Morpheel's presence, become explorable, a natural hook for a Zora-aligned relic, the trail to a Sage who can forge a Medallion, or simply a quiet, sacred space the party has reclaimed.
 
 **Narrative:** If any Zora settlements are nearby, news of Morpheel's defeat spreads with real reverence. This is a creature that has haunted Zora oral history for generations, and the party's role in ending its reign over the lakebed is the kind of deed that earns lasting goodwill with Zora's Domain as a faction (see Hyrule Factions & NPCs).
 
@@ -17437,14 +17486,18 @@ These four stat blocks support the full encounter write-ups found in the Bosses 
 
 Where a boss's mechanics depend on its phase (such as King Dodongo's breath cycle or Morpheel's surface/submerge rhythm), the stat block notes the phase transitions directly in its traits and actions, condensed from the full encounter text.
 
+### Boss Resolve
+
+Every boss in this book has **Boss Resolve**. While it has a phase left to play, an effect that would kill it, banish it, seal it, petrify it or turn it into another creature, without reducing its hit points to 0, instead **ends its current phase**. Drop its hit points to the next phase threshold and run the transition as normal. In its final phase, the effect works as written. The **Stone Talus** has no numbered phases: for it, the effect instead knocks it down, as a successful Method A knockdown (its Staggering Impact), and exposes its Ore Core.
+
 ---
 
 ## Gohma, Parasite of the Deep Root
 
 *Large Aberration (Parasite), Unaligned*
 
-**Armor Class** 14 (15 while anchored to the ceiling)
-**Hit Points** 65 (10d10 + 10)
+**Armor Class** 14
+**Hit Points** 104 (16d10 + 16)
 **Speed** 30 ft., climb 30 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -17460,21 +17513,23 @@ Where a boss's mechanics depend on its phase (such as King Dodongo's breath cycl
 
 **Spawning.** At the start of its turn, if fewer than 2 Larval Spawn (use Keese statistics) are present, Gohma summons one onto a random nearby surface. This costs no action.
 
-**Phase Transition: The Fall.** The first time Gohma's eye is successfully struck by a Called Shot, it loses its grip and falls to the nearest lower surface, taking 7 (2d6) fall damage and becoming **stunned** until the end of its next turn. This transition occurs regardless of remaining HP and only once per combat.
+**Phase Transition: The Fall.** The first time Gohma's eye is successfully struck by a Called Shot, it loses its grip and falls to the nearest lower surface, taking 7 (2d6) fall damage and becoming **stunned** until the end of its next turn. This transition occurs regardless of remaining HP and only once per combat. If it drops below 60% of its hit point maximum first, it falls the same way but isn't stunned.
 
 **Phase Transition: Death Throes.** The third time Gohma's eye is struck by a Called Shot after the Fall (or when reduced to 25% of its max HP, whichever comes first), its eye's AC drops to 10 and any successful attack against it ends the encounter immediately.
 
-\column
+**Boss Resolve.** See Boss Resolve at the start of the Boss Compendium.
 
 ### Actions
 
 **Multiattack.** Gohma makes two Claw attacks (only while grounded; while ceiling-anchored, it cannot make Claw attacks).
 
+**Frenzied Claws (Phase 3).** Multiattack becomes three Claw attacks that each deal 7 (1d8 + 3) slashing damage, and Gohma stops using Skittering Charge.
+
 **Claw.** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 8 (1d10 + 3) slashing damage.
 
-**Acid Spit (Recharge 5–6).** *Ranged Attack:* +5 to hit, range 60 ft., one target. *Hit:* 7 (2d6) acid damage.
+**Acid Spit (Recharge 5–6).** *Ranged Attack:* +5 to hit, range 60 ft., one target. *Hit:* 7 (2d6) acid damage. While Gohma is anchored to the ceiling, Acid Spit has no recharge (it can use it every turn).
 
-**Skittering Charge (Grounded Only).** Once per turn, Gohma may move up to its speed toward a creature and make one Claw attack at the end of that movement without provoking opportunity attacks. The round after using this action, attacks against Gohma's eye are made with advantage.
+**Skittering Charge (Grounded Only; Bonus Action).** Gohma moves up to its speed toward a creature and makes one Claw attack at the end of that movement without provoking opportunity attacks. Until the end of its next turn, Called Shots against its eye have advantage.
 
 **Final Acid Burst (1/Combat, Phase 3 Only).** When reduced below 10% of its maximum hit points, Gohma releases a burst of caustic fluid. Each creature within 15 feet must succeed on a DC 13 Dexterity saving throw or take 10 (3d6) acid damage, or half as much on a success.
 
@@ -17490,20 +17545,12 @@ Where a boss's mechanics depend on its phase (such as King Dodongo's breath cycl
 *Huge Monstrosity, Unaligned*
 
 **Armor Class** 16 (natural armor)
-**Hit Points** 152 (16d12 + 48)
+**Hit Points** 168 (16d12 + 64)
 **Speed** 30 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:--|:--|:--|:--|:--|:--|
-| 22 (+6) | 10 (+0) | 17 (+3) | 4 (−3) | 10 (+0) | 8 (−1) |
-
-**Damage Resistances** fire
-**Damage Immunities** none
-**Senses** darkvision 60 ft., passive Perception 10
-**Languages** —
-**Challenge** 7 (2,900 XP) | **Proficiency Bonus** +3
-
-**Open Mouth (AC 8).** While inhaling for its breath attack (see Breath Cycle below), King Dodongo's mouth is a viable target for a ranged attack roll against AC 8, representing how easy it is to throw something into its open maw. This is not a Called Shot and costs no extra resource. It is a standard attack roll using a thrown weapon or improvised object.
+| 22 (+6) | 10 (+0) | 18 (+4) | 4 (−3) | 10 (+0) | 8 (−1) |
 
 {{footnote Bosses | Stat Blocks }}
 
@@ -17511,44 +17558,58 @@ Where a boss's mechanics depend on its phase (such as King Dodongo's breath cycl
 
 \page
 
-**Breath Cycle.** On King Dodongo's first turn of a cycle, it begins inhaling (no effect; a clear telegraph). On its next turn, one of three things happens:
+**Damage Resistances** fire
+**Senses** darkvision 60 ft., passive Perception 10
+**Languages** —
+**Challenge** 7 (2,900 XP) | **Proficiency Bonus** +3
+
+**Open Mouth (AC 8).** While inhaling for its breath attack (see Breath Cycle below), King Dodongo's mouth is a viable target for a ranged attack roll against AC 8, representing how easy it is to throw something into its open maw. This is not a Called Shot and costs no extra resource. It is a standard attack roll using a thrown weapon or improvised object.
+
+**Breath Cycle.** On the first turn of a cycle, King Dodongo uses its bonus action to begin inhaling (a clear telegraph). It plants its feet and can't move that turn, but it can still take its action. On its next turn, one of three things happens:
 - If nothing was thrown into its mouth: it exhales fire (see Fiery Breath, below).
-- If a non-explosive object was thrown into its mouth (against AC 8) during the turn between, the breath attack is interrupted; King Dodongo loses its action this turn instead.
-- If an explosive (Bomb, Bomb Arrow, or similar) was thrown into its mouth during the turn between, nothing happens immediately, but at the start of this turn, the explosive detonates (see Swallowed Explosive, below) instead of King Dodongo taking its turn normally.
+- If a non-explosive object was thrown into its mouth (against AC 8) in between, the breath is interrupted and King Dodongo loses its action this turn.
+- If an explosive was thrown into its mouth in between, it detonates at the start of this turn (see Swallowed Explosive, below).
 
 **Stomach (Exposed Only When Prone).** King Dodongo's underbelly cannot be targeted at all while it is standing. It can only be targeted by a Called Shot while it has been knocked prone by a Swallowed Explosive (see below).
 
-### Actions
+**Charge (Phase 2+).** Once per turn, in place of its movement (not on a turn it inhales), King Dodongo moves up to 40 feet in a straight line. Each creature in its path must succeed on a DC 15 Dexterity saving throw or take 13 (3d8) bludgeoning damage and be knocked prone.
 
-**Multiattack.** King Dodongo makes two attacks: one Stomp and one Tail Sweep, or two Stomps if no creature is within reach of its tail.
-
-**Stomp.** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10 + 4) bludgeoning damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone.
-
-**Tail Sweep.** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 8 (1d8 + 4) bludgeoning damage.
-
-**Fiery Breath.** King Dodongo exhales fire in a 30-foot cone (40-foot cone in Phase 3, see below). Each creature in the area must make a DC 15 Dexterity saving throw, taking 18 (4d8) fire damage on a failure, or half as much on a success.
-
-**Charge (Phase 2+, Replaces One Stomp).** King Dodongo moves up to 40 feet in a straight line. Each creature in its path must succeed on a DC 15 Dexterity saving throw or take 13 (3d8) bludgeoning damage and be knocked prone.
-
-**Phase 2 (60% HP).** The Dodongo nest activates (2–3 juvenile Dodongos, use weakened CR 1/2 Lizalfos statistics, join the fight). King Dodongo's Breath Cycle accelerates: a new telegraph follows each payoff at once.
+**Phase 2 (60% HP).** 2–3 Juvenile Dodongos join the fight. The Breath Cycle accelerates: a new telegraph follows each payoff at once.
 
 **Phase 3 (25% HP).** Fiery Breath's cone widens to 40 feet. At the start of each of King Dodongo's turns, roll a d6: on a 5–6, it attempts an immediate, untelegraphed breath attack this turn instead of following the normal cycle (still interruptible by the same AC 8 attack roll, but with only the current turn to react).
 
-\column
+**Boss Resolve.** See Boss Resolve at the start of the Boss Compendium.
+
+### Actions
+
+**Multiattack.** King Dodongo makes one Stomp and one Tail Sweep, or two Stomps if no creature is within reach of its tail.
+
+**Stomp.** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) bludgeoning damage, and the target must succeed on a DC 15 Strength saving throw or be knocked prone.
+
+**Tail Sweep.** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 10 (1d8 + 6) bludgeoning damage.
+
+**Fiery Breath.** 30-foot cone (40 feet in Phase 3). Each creature in the cone makes a DC 15 Dexterity saving throw, taking 27 (6d8) fire damage on a failed save, or half as much on a success.
+
+### Legendary Actions (Five or More PCs)
+
+Against five or more PCs, King Dodongo can take 1 legendary action, choosing from the options below. It takes it at the end of another creature's turn and regains it at the start of its own turn. It can't take legendary actions while it is stunned or while a Vulnerability Window is open.
+
+**Tail Sweep.** King Dodongo makes one Tail Sweep attack.
+
+**Lumber.** King Dodongo moves up to 15 feet without provoking opportunity attacks. It can't do this while it is inhaling.
 
 ### Weak Point: Stomach (Conditional)
 
-**Swallowed Explosive.** When an explosive is thrown into King Dodongo's open mouth and the cycle completes, it takes 22 (4d10) fire damage (ignoring its fire resistance), is knocked prone, and is stunned until the end of its next turn. Its stomach is exposed for the duration.
+**Swallowed Explosive.** An explosive thrown into King Dodongo's open mouth lodges in its throat and doesn't go off on impact (even a Bomb Flower). At the start of its next turn it detonates: King Dodongo takes 22 (4d10) fire damage (ignoring its fire resistance), is knocked prone, loses that turn, and is stunned until the start of its next turn. Its stomach is exposed while it is stunned.
 
-**Called Shot (Stomach), while exposed**
-*Hit:* The attack automatically succeeds and deals double damage dice, in addition to normal Called Shot bonus dice.
+**Called Shot (Stomach), while exposed.** The attack hits automatically and doubles the weapon's damage dice, including the Called Shot's extra die (not dice from spells, features or items).
 
 ## Stone Talus
 
 *Large Elemental (Earth), Unaligned*
 
 **Armor Class** 17 (natural armor)
-**Hit Points** 76 (9d10 + 27)
+**Hit Points** 68 (8d10 + 24)
 **Speed** 20 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -17566,7 +17627,17 @@ Where a boss's mechanics depend on its phase (such as King Dodongo's breath cycl
 
 **Stone Hide.** Stone Talus has resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons, except against its exposed ore core (see Weak Point, below).
 
+{{footnote Bosses | Stat Blocks }}
+
+{{pageNumber,auto}}
+
+\page
+
 **Staggering Impact.** Whenever Stone Talus takes 15 or more damage from a single attack, or accumulates 25 damage since its last stagger, it rears backward and its core is exposed until the end of its next turn.
+
+**Climb Resistance.** At the start of Stone Talus's turn, if a creature is climbing on it, that creature must succeed on a DC 12 Strength (Athletics) check or be thrown off, landing prone in an adjacent unoccupied space and taking 3 (1d6) bludgeoning damage.
+
+**Boss Resolve.** See Boss Resolve at the start of the Boss Compendium.
 
 ### Actions
 
@@ -17574,22 +17645,12 @@ Where a boss's mechanics depend on its phase (such as King Dodongo's breath cycl
 
 **Ground Slam (Recharge 5–6).** Stone Talus slams both fists into the ground. Each creature within 10 feet must succeed on a DC 13 Strength saving throw or take 7 (2d6) bludgeoning damage and be knocked prone. *Cannot be used while a creature is climbing on Stone Talus.*
 
-### Reactions
-
-**Climb Resistance.** At the start of Stone Talus's turn, if a creature is climbing on it, that creature must succeed on a DC 12 Strength (Athletics) check or be thrown off, landing prone in an adjacent unoccupied space and taking 3 (1d6) bludgeoning damage.
-
-{{footnote Bosses | Stat Blocks }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Weak Point: Ore Core
 
 The core cannot be targeted unless exposed by Staggering Impact, or unless a creature has successfully climbed onto Stone Talus (DC 13 Strength (Athletics) check as an action to initiate the climb; immune to Boulder Fist and Ground Slam while climbing).
 
 **Called Shot (Core), while exposed or while climbing**
-*Hit:* Ignores Stone Hide resistance entirely, and deals normal Called Shot bonus dice.
+*Hit:* Ignores Stone Hide resistance entirely. During the Staggering Impact window it also doubles its weapon damage dice; while you are climbing, it deals the normal extra die.
 
 ## Morpheel
 
@@ -17614,6 +17675,10 @@ The core cannot be targeted unless exposed by Staggering Impact, or unless a cre
 
 **Water Disturbance.** Morpheel's movement underwater does not provoke opportunity attacks.
 
+**Surface Cycle.** Surfacing and submerging take no action. At the start of its turn, a submerged Morpheel surfaces automatically if it spent its whole previous turn submerged; otherwise it surfaces on a d6 roll of 5–6 (4–6 in Phase 2). It stays surfaced until the end of its next turn, then submerges. While surfaced it can Bite, and its eye can be targeted by Called Shots. A creature Morpheel is grappling when it submerges goes under with it and must hold its breath (PHB suffocation rules).
+
+**Boss Resolve.** See Boss Resolve at the start of the Boss Compendium.
+
 ### Actions
 
 **Multiattack.** Morpheel makes one Bite attack and one Tail Slam attack (Tail Slam only usable if a creature is in the Submerged Zone and not the target of the Bite).
@@ -17622,26 +17687,36 @@ The core cannot be targeted unless exposed by Staggering Impact, or unless a cre
 
 **Tail Slam.** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16 (2d10 + 5) bludgeoning damage.
 
-**Surface (Recharge 5–6, or automatically every 2nd turn).** Morpheel breaches the surface fully. It remains surfaced until the end of its next turn, during which its Bite attack becomes available and its eye can be targeted by Called Shots.
+**Wake Surge (Phase 2+, On Submerging After a Surface).** Each creature in the Submerged Zone must succeed on a DC 17 Strength saving throw or be knocked prone and pushed 10 feet in a random direction.
 
-**Wake Surge (Phase 2+, On Submerging After a Surface).** Each creature in the Submerged Zone must succeed on a DC 15 Strength saving throw or be knocked prone and pushed 10 feet in a random direction.
-
-**Phase 2 (65% HP).** The arena's water level rises permanently, submerging roughly half of any dry platforms. Morpheel's Surface action recharges on a 4–6 instead of 5–6.
-
-\column
+**Phase 2 (65% HP).** The arena's water level rises permanently, submerging roughly half of any dry platforms. Morpheel surfaces on a 4–6 instead of 5–6.
 
 **Phase 3 (30% HP).** At the start of its turn, roll a d4: on a 1–2, Morpheel remains submerged and uses only Tail Slam attacks; on a 3–4, it surfaces as normal. Frenzied Lash (below) replaces Wake Surge.
 
 **Frenzied Lash (Phase 3, While Surfaced).** As a bonus action, Morpheel makes one additional Tail Slam attack against a different target than its Bite.
 
+### Legendary Actions (Five or More PCs)
+
+Against five or more PCs, Morpheel can take 1 legendary action, choosing from the options below. It takes it at the end of another creature's turn and regains it at the start of its own turn. It can't take legendary actions while it is stunned, while it is recoiling from an eye hit, or while a Vulnerability Window is open.
+
+**Tail Slam.** Morpheel makes one Tail Slam attack.
+
+**Circle.** Morpheel swims up to 25 feet.
+
 ### Swallowed
 
-A creature swallowed by Morpheel is blinded and restrained, and takes 9 (2d8) acid damage at the start of each of its turns. It can escape by dealing 15 damage to Morpheel from inside (no AC bonus or penalty) as an action, ending the condition and placing it prone in the Submerged Zone adjacent to Morpheel. Damage dealt this way counts toward Morpheel's total hit points.
+A creature swallowed by Morpheel is blinded and restrained, and takes 9 (2d8) acid damage at the start of each of its turns. It attacks Morpheel from inside, and those attacks hit automatically. If it deals 15 or more damage to Morpheel in a single turn, it tears free and surfaces in the Submerged Zone next to Morpheel. Damage dealt this way counts toward Morpheel's total hit points.
+
+{{footnote Bosses | Stat Blocks }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Weak Point: Eye
 
 **Called Shot (Eye), while surfaced**
-*Hit:* Morpheel recoils and cannot take its normal action on its next turn (it makes one Tail Slam against a random target instead, if any are in range). Creatures within 15 feet that haven't acted yet this round gain advantage on attacks against Morpheel for the rest of the round.
+*Hit:* Morpheel recoils. Creatures within 15 feet that haven't acted yet this round have advantage on attacks against it for the rest of the round. At the start of its next turn it dives: it submerges, can't Bite that turn, and makes one Tail Slam against a random creature in reach instead (nothing if none is). Once it has recoiled, further eye hits deal their Called Shot damage but cause no new recoil until it surfaces again.
 
 {{footnote Bosses | Stat Blocks }}
 
@@ -17651,7 +17726,7 @@ A creature swallowed by Morpheel is blinded and restrained, and takes 9 (2d8) ac
 
 {{insideCover}}
 
-# Items{{pageNumber,auto}}
+# Items
 
 ___
 
@@ -17660,6 +17735,8 @@ ___
 }}
 
 {{logo ![](/assets/naturalCritLogoRed.svg)}}
+
+{{pageNumber,auto}}
 
 \page
 
@@ -17696,21 +17773,21 @@ Weapons in this chapter use the standard 5e properties (ammunition, finesse, hea
 - **On a weapon:** you gain a +1 bonus to damage rolls made with it.
 - **On a shield:** you gain a +1 bonus to the damage of a shield bash made with it, and the shield does not break from the **fragile** property on a natural 1 (extreme force can still destroy it at the DM's discretion).
 
-\column
-
-***Fragile.*** The item is powerful but poorly built. It is destroyed if you roll a 1 on an attack roll made with it, and the DM may destroy it when it is subjected to extreme force. A fragile item cannot be repaired in the field.
+***Fragile.*** The item is powerful but poorly built. It is destroyed if you roll a 1 on an attack roll made with it (1–3 for the Royal Guard's weapons), and the DM may destroy it when it is subjected to extreme force. A fragile item cannot be repaired in the field.
 
 ***Improvised.*** The item was not made to be used this way. You do not add your proficiency bonus when using it, and the DM may rule that it breaks on any hit.
 
-***Legendary.*** The item is unique or nearly so, and requires attunement. A legendary item cannot be bought under normal circumstances.
+***Legendary.*** The item is unique or nearly so, and requires attunement. A legendary item cannot be bought under normal circumstances; a price in its row is what its people's master smiths charge to reforge one that was lost or destroyed.
 
-***Multi-shot (N).*** The weapon fires N projectiles with a single attack roll. Each projectile rolls damage separately against the target. Firing consumes N pieces of ammunition.
+***Multi-shot (N).*** The weapon fires N projectiles with a single attack roll and consumes N pieces of ammunition. On a hit, roll the weapon's damage die N times and add your ability modifier once; any other bonus or extra die (fine, Water Warrior, a Called Shot) is also added only once. You can choose to fire fewer projectiles. Firing more than one projectile costs **1 SP for each extra projectile**. Without SP, the weapon fires one. *Example: a multi-shot (3) bow with a 1d8 die deals 3d8 + your Dexterity modifier.*
 
-***Quick-draw.*** Drawing or stowing this weapon does not use your free object interaction, and you may do so as part of any attack you make with it.
+***Quick-draw.*** Drawing or stowing this weapon, or drawing ammunition for it, does not use your free object interaction, and you can do it as part of any attack you make with it. A quick-draw **bow** also gives you advantage on the first ranged attack you make with it each turn while you are at least 10 feet above your target.
 
 ***Returning.*** When thrown, the weapon returns to your hand immediately after the attack, whether or not it hit.
 
 ***Special.*** The item has a rule written out in the text below its table. Read that entry before using it.
+
+***Enchanted weapons.*** The magic weapons in the *Dungeon Master's Guide* (+1, +2 and +3 weapons and the rest) exist in Hyrule unchanged, and any weapon in these tables can carry an enchantment. They are found, not bought: a +1 weapon is uncommon, +2 rare, +3 very rare. An enchantment replaces the **fine** bonus rather than stacking with it.
 
 ---
 
@@ -17720,7 +17797,7 @@ Weapons in this chapter use the standard 5e properties (ammunition, finesse, hea
 
 ***Perfect Parry.*** If a parry reduces the incoming damage to 0, it is a **perfect parry**. Some shields and magic items key an additional effect off one; the Hylian Shield is the clearest example.
 
-***Shield Bash.*** If you are wielding a shield and take the Attack action, you may use your bonus action to make a melee weapon attack with the shield. It deals **1d4 bludgeoning damage plus your Strength modifier**. A **fine** shield adds +1 to this damage.
+***Shield Bash.*** If you are wielding a shield and take the Attack action, you may use your bonus action to make a melee weapon attack with the shield. It deals **1d4 bludgeoning damage plus your Strength modifier**. A **fine** shield adds +1 to this damage. You are proficient with a shield bash if you are proficient with shields.
 
 Shield Bash does not shove, trip, or push. Moving a creature with your shield requires the **Shield Master** feat.
 
@@ -17748,6 +17825,8 @@ Blades of every length are carried across Hyrule, from simple village shortsword
 | Shortsword | 10 gp | 1d6 piercing | 2 lbs. | Finesse, light |
 | Rusty Broadsword | 3 gp | 1d6 slashing | 3 lbs. | Fragile |
 
+*Descriptions for both one-handed tables follow.*
+
 ***Traveler's Swords*** are the most common blade in Hyrule: simple, unadorned, and wielded by anyone from wandering merchants to aspiring adventurers. They're easy to come by and easy to lose.
 
 ***Rusty Broadswords*** have been worn down by time or neglect. A rusty broadsword breaks if you roll a 1 on an attack roll with it; it becomes useless scrap.
@@ -17757,8 +17836,6 @@ Blades of every length are carried across Hyrule, from simple village shortsword
 ***Knight's Broadswords*** are carried by Hyrule's commissioned knights. Their superior balance allows for a versatile grip, effective both one- and two-handed.
 
 ***Royal Broadswords*** are finely crafted weapons once issued to the royal family's closest guard detail. They are rare outside Castle Town and the ruins of Hyrule Castle.
-
-\column
 
 ***Gerudo Scimitars*** bear the signature desert curve of Gerudo bladesmithing: ground for slashing rather than stabbing, ideal for mounted combat or the wide, sweeping footwork of Gerudo fighting styles. Most Gerudo are proficient with this weapon from childhood.
 
@@ -17787,15 +17864,9 @@ Blades of every length are carried across Hyrule, from simple village shortsword
 | Eightfold Blade | 20 gp | 1d6 slashing | 2 lbs. | Finesse, light |
 | Forest Dweller's Sword | 25 gp | 1d6 slashing | 2 lbs. | Finesse, light |
 | Zora Sword | 20 gp | 1d6 piercing | 2 lbs. | Finesse, special |
-| Feathered Edge | 20 gp | 1d6 slashing | 1 lb. | Finesse, light |
+| Feathered Edge | 20 gp | 1d6 slashing | 1 lb. | Finesse, light, quick-draw |
 | Rapier | 25 gp | 1d8 piercing | 2 lbs. | Finesse |
 | Royal Guard's Sword | 200 gp | 1d10 slashing | 3 lbs. | Fine, fragile |
-
-{{footnote Items | Weapons }}
-
-{{pageNumber,auto}}
-
-\page
 
 #### Simple Two-Handed Swords (Claymores & Greatswords)
 
@@ -17803,6 +17874,12 @@ Blades of every length are carried across Hyrule, from simple village shortsword
 |:--|:--:|:--|:--:|:--|
 | Traveler's Claymore | 10 gp | 1d10 slashing | 6 lbs. | Heavy, two-handed |
 | Rusty Claymore | 3 gp | 1d10 slashing | 7 lbs. | Heavy, two-handed |
+
+{{footnote Items | Weapons }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### Martial Two-Handed Swords
 
@@ -17826,18 +17903,18 @@ Blades of every length are carried across Hyrule, from simple village shortsword
 
 ***Royal Guard's Claymore*** is a two-handed version of the Royal Guard's Sword, built with the same ancient Sheikah technology. It is **fragile**: it breaks on any attack roll of 1–3.
 
-\column
-
 ### Daggers & Short Blades
 
 | Name | Cost | Damage | Weight | Properties |
 |:--|:--:|:--|:--:|:--|
 | Dagger | 2 gp | 1d4 piercing | 1 lb. | Finesse, light, thrown (range 20/60) |
-| Sheikah Kunai | 5 gp | 1d4 piercing | 1/2 lb. | Finesse, light, thrown (range 20/60) |
+| Sheikah Kunai | 5 gp | 1d4 piercing | 1/2 lb. | Finesse, light, quick-draw, thrown (range 20/60) |
 | Vicious Sickle | 15 gp | 1d4 slashing | 1 lb. | Finesse, light, special |
 | Demon Carver | 80 gp | 1d6 slashing | 1 lb. | Finesse, special |
 
-***Sheikah Kunai*** are slim throwing blades. You can draw and throw a kunai as part of the same attack if you have a free hand.
+*The dagger, Sheikah kunai and vicious sickle are simple melee weapons; the demon carver is a martial melee weapon.*
+
+***Sheikah Kunai*** are slim Sheikah throwing blades.
 
 ***Vicious Sickles*** are curved Yiga Clan blades: seemingly ceremonial, deceptively lethal. When you land an attack with a vicious sickle on a creature that is surprised, you deal an additional 1d4 slashing damage.
 
@@ -17854,10 +17931,16 @@ Boomerangs are unique weapons that return to the wielder's hand after being thro
 | Lizal Tri-Boomerang | 60 gp | 1d8 slashing | 3 lbs. | Thrown (range 30/90), returning, special |
 | Sea-Breeze Boomerang | 40 gp | 1d6 bludgeoning | 1 lb. | Thrown (range 40/120), returning, fine |
 
+*The boomerang and sea-breeze boomerang are simple ranged weapons; the three Lizal boomerangs are martial ranged weapons.*
+
 >### New Property: Returning
 >A weapon with the **returning** property flies back to the wielder's hand immediately after a ranged attack, hit or miss. If you have no free hand to catch it, the weapon falls at your feet.
 
 ***Lizal Boomerangs*** are Lizalfos-made blades sharpened along one edge, more dangerous than their Hylian counterparts and capable of slashing rather than merely bludgeoning.
+
+***Lizal Forked and Tri-Boomerangs*** have two or three blades joined at a central grip, spinning in complex patterns that are harder to dodge. When you throw a forked or tri-boomerang, you can target two creatures within 10 feet of each other with a single attack. Make a separate attack roll for each target.
+
+***Sea-Breeze Boomerangs*** are finely balanced Rito-crafted boomerangs, designed for aerial throwing, with exceptional range.
 
 {{footnote Items | Weapons }}
 
@@ -17865,26 +17948,21 @@ Boomerangs are unique weapons that return to the wielder's hand after being thro
 
 \page
 
-***Lizal Forked and Tri-Boomerangs*** have two or three blades joined at a central grip, spinning in complex patterns that are harder to dodge. When you throw a forked or tri-boomerang, you can target two creatures within 10 feet of each other with a single attack. Make a separate attack roll for each target.
-
-***Sea-Breeze Boomerangs*** are finely balanced Rito-crafted boomerangs, designed for aerial throwing, with exceptional range.
-
 ### Spears & Polearms
 Polearms are common across Hyrule's militias and among the Zora, who favor their reach in both above and below water.
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/lozbotw-hylian-gear_soft.png' alt='Hylian weapons and shields' style='display:block;width:192px;height:257px;margin:6px auto 2px auto'/>
-
-\column
 
 #### Simple Spears
 
 | Name | Cost | Damage | Weight | Properties |
 |:--|:--:|:--|:--:|:--|
 | Traveler's Spear | 3 gp | 1d6 piercing | 3 lbs. | Thrown (range 20/60), versatile (1d8) |
-| Woodcutter's Axe | 5 gp | 1d8 slashing | 5 lbs. | Heavy, versatile (1d10), special |
 | Drillshaft | 8 gp | 1d6 piercing | 4 lbs. | Reach, special |
 
 ***Drillshafts*** are Goron-made polearms with a spiraling metal tip used for mining as well as combat. A drillshaft can be used as mining tools; when used to dig through rock, it is treated as a miner's pick.
+
+\column
 
 #### Martial Spears & Polearms
 
@@ -17892,33 +17970,33 @@ Polearms are common across Hyrule's militias and among the Zora, who favor their
 |:--|:--:|:--|:--:|:--|
 | Soldier's Spear | 5 gp | 1d8 piercing | 3 lbs. | Reach, two-handed |
 | Knight's Halberd | 20 gp | 1d10 slashing | 6 lbs. | Heavy, reach, two-handed |
-| Royal Halberd | 50 gp | 1d10 slashing | 6 lbs. | Heavy, reach, two-handed, fine |
+| Royal Halberd | 50 gp | 1d10 slashing | 6 lbs. | Heavy, reach, two-handed, fine, special |
 | Forest Dweller's Spear | 15 gp | 1d6 piercing | 2 lbs. | Reach, two-handed, special |
 | Zora Spear | 20 gp | 1d8 piercing | 3 lbs. | Reach, two-handed, special |
 | Ceremonial Trident | 40 gp | 1d8 piercing | 3 lbs. | Reach, two-handed, special |
-| Lightscale Trident | 400 gp | 1d10 piercing | 3 lbs. | Reach, two-handed, fine, special |
+| Lightscale Trident | 400 gp | 1d10 piercing | 3 lbs. | Reach, two-handed, fine, special, legendary |
 | Flamespear | 200 gp | 1d8 fire | 4 lbs. | Reach, two-handed, elemental (fire) |
 | Frostspear | 200 gp | 1d8 cold | 4 lbs. | Reach, two-handed, elemental (cold) |
 | Thunderspear | 200 gp | 1d8 lightning | 4 lbs. | Reach, two-handed, elemental (lightning) |
 | Royal Guard's Spear | 250 gp | 1d10 piercing | 4 lbs. | Reach, two-handed, fine, fragile |
 
-***Royal Halberds*** were the signature weapons of knights guarding the most critical areas of Hyrule Castle. While wielding a royal halberd, you have advantage on attack rolls made as part of a Flurry Rush (an action using your bonus action to make additional attacks after a dodge).
+***Royal Halberds*** were the signature weapons of knights guarding the most critical areas of Hyrule Castle. **Flurry Rush.** Once per short rest, when a creature within your reach misses you with a melee attack, you can use your reaction to make one melee attack with the halberd against it, with advantage.
 
-***Forest Dweller's Spears*** are entirely wooden, Korok-made for Hylian travelers. They catch fire if exposed to flame. **Recycle:** when you fuse a material to a Forest Dweller's Spear, you can detach it as a bonus action without destroying the material, letting you swap fused components freely.
+***Forest Dweller's Spears*** are entirely wooden, Korok-made for Hylian travelers. They catch fire if exposed to flame.
 
 ***Zora Spears and Tridents.*** Water Warrior: while you are wet or fully submerged, a Zora Spear or Trident deals one additional die of damage on a hit. The Zora Spear deals 2d8 piercing damage while wet; the Lightscale Trident deals 2d10.
-
-{{footnote Items | Weapons }}
-
-{{pageNumber,auto}}
-
-\page
 
 ***The Lightscale Trident*** was the weapon of Zora Champion Mipha, a weapon of peerless grace, crafted from shimmering blue metal. It requires attunement. While attuned, you gain proficiency in Athletics if you don't already have it, and you can breathe underwater. The Lightscale Trident can be reforged by Zora smiths if destroyed, given sufficient materials.
 
 ***Elemental Spears (Flamespear, Frostspear, Thunderspear).*** Magical polearms forged in places of raw elemental power. They function as their claymore counterparts above (see **Elemental Claymores**), but apply to spear attacks. They require attunement.
 
 ***Royal Guard's Spear*** is a Sheikah-engineered polearm built to fight the Calamity. It is **fragile**: breaks on attack rolls of 1–3.
+
+{{footnote Items | Weapons }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Clubs & Hammers
 Monster-made clubs and Goron sledges are common on battlefields where finesse gives way to raw power.
@@ -17931,15 +18009,15 @@ Monster-made clubs and Goron sledges are common on battlefields where finesse gi
 | Moblin Club | 1 sp | 1d6 bludgeoning | 5 lbs. | Heavy, two-handed |
 | Spiked Moblin Club | 2 sp | 1d8 bludgeoning | 6 lbs. | Heavy, two-handed |
 | Dragonbone Moblin Club | 5 gp | 1d10 bludgeoning | 8 lbs. | Heavy, two-handed |
-| Boulder Breaker | 500 gp | 2d6 bludgeoning | 15 lbs. | Heavy, two-handed, special |
+| Boulder Breaker | 500 gp | 2d6 bludgeoning | 15 lbs. | Heavy, two-handed, special, legendary |
 | Warhammer | 15 gp | 1d8 bludgeoning | 2 lbs. | Versatile (1d10) |
 | Maul | 10 gp | 2d6 bludgeoning | 10 lbs. | Heavy, two-handed |
+
+*Boko and Moblin clubs of every kind (plain, spiked and dragonbone) are simple melee weapons; the Boulder Breaker, warhammer and maul are martial.*
 
 ***Boko and Moblin Clubs*** are crude weapons made from whittled trees and, in spiked versions, animal bone. Dragonbone versions are reinforced with fossilized ancient bone.
 
 ***The Boulder Breaker*** was the signature weapon of Goron Champion Daruk. It is an immense two-handed hammer of volcanic iron that requires a Strength score of 18 or higher to wield without disadvantage; smaller races simply lack the leverage to swing it effectively. The Boulder Breaker deals double damage to objects, stone constructs, and Stone Taluses. It can be reforged by Goron smiths if destroyed. This weapon requires attunement.
-
-\column
 
 ### Axes
 
@@ -17950,28 +18028,18 @@ Monster-made clubs and Goron sledges are common on battlefields where finesse gi
 | Greataxe | 30 gp | 1d12 slashing | 7 lbs. | Heavy, two-handed |
 | Woodcutter's Axe | 5 gp | 1d8 slashing | 5 lbs. | Versatile (1d10), special |
 
+*The handaxe and woodcutter's axe are simple melee weapons; the battleaxe and greataxe are martial.*
+
 ***Woodcutter's Axes*** serve double duty; they can be used as carpenter's tools for the purpose of checks related to felling or shaping timber.
 
 ### Bows
 Bows are among the most iconic weapons of Hyrule. Arrows are sold separately (see *Arrows & Ammunition* under Adventuring Gear). Special arrow types (fire arrows, ice arrows, shock arrows) exist as magical consumables.
-
->### Multi-Shot Bows
->Some bows fire **two** or **three arrows** simultaneously with each attack. When a multi-shot bow fires multiple arrows, it consumes one arrow per arrow fired. Each arrow beyond the first adds the bow's base damage die once to the total (no additional modifiers). For example, a triple-shot bow with base damage 1d8 deals 3d8 + modifier on a hit.
-
-#### New Property: Quick-Draw 
-You do not have to spend your movement to draw ammunition or load this weapon before making a ranged attack. In addition, while in an elevated position (at least 10 feet above your target), you have advantage on the first ranged attack you make with a quick-draw bow each turn.
 
 #### Forest Dweller's Bows
 Korok-crafted from flexible wood and sinew vine. They fire three arrows at once and are made entirely of wood. They catch fire if exposed to flame.
 
 #### Swallow and Falcon Bows
 Rito-made, engineered for aerial combat where speed of draw can mean life or death. They are fast to nock and fire, ideal for attackers swooping past targets.
-
-{{footnote Items | Weapons }}
-
-{{pageNumber,auto}}
-
-\page
 
 #### The Great Eagle Bow
 The weapon of Rito Champion Revali. It is the finest bow ever crafted in Rito Village: triple-shot, fast, and perfectly balanced for flight. It requires attunement. While attuned, you gain proficiency in Acrobatics if you don't already have it, and your ranged attack rolls against targets more than 30 feet below you have advantage. It can be reforged in Rito Village by master craftsmen.
@@ -17991,28 +18059,28 @@ An ancient-technology Sheikah prototype: extraordinary firepower, poor durabilit
 ### Crossbows
 Crossbows are rare in Hyrule and almost never made by Hylians, who consider them clumsy beside a good bow. The Sheikah build them anyway, because a crossbow can be aimed for as long as you like, fired from cover, and used by someone who has never trained a draw arm. The Yiga Clan favors the hand crossbow for the same reasons.
 
-| Name | Cost | Damage | Weight | Properties |
-|:--|:--:|:--|:--:|:--|
-| Hand Crossbow | 75 gp | 1d6 piercing | 3 lbs. | Ammunition (range 30/120), light, loading |
-| Light Crossbow | 25 gp | 1d8 piercing | 5 lbs. | Ammunition (range 80/320), loading, two-handed |
-| Heavy Crossbow | 50 gp | 1d10 piercing | 18 lbs. | Ammunition (range 100/400), heavy, loading, two-handed |
-| Sheikah Repeater | 200 gp | 1d8 piercing (×2) | 6 lbs. | Ammunition (range 80/320), multi-shot (2), two-handed, fine |
-
-\column
-
-***Loading.*** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
-
-***Sheikah Repeaters*** hold a paired bolt magazine wound by a clockwork spring. Reloading the magazine takes an action, and a repeater that has fired twice must be rewound before it can fire again.
-
-Crossbows use bolts rather than arrows. Bolts cost the same as arrows and are sold in the same places; special arrow types (fire, ice, shock) are made in bolt form wherever crossbows are sold at all.
-
-<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/lozbotw-hyrulean-gear_soft.png' alt='Hyrulean weapons' style='display:block;width:328px;height:219px;margin:6px auto 2px auto'/>
-
 {{footnote Items | Weapons }}
 
 {{pageNumber,auto}}
 
 \page
+
+| Name | Cost | Damage | Weight | Properties |
+|:--|:--:|:--|:--:|:--|
+| Hand Crossbow | 75 gp | 1d6 piercing | 3 lbs. | Ammunition (range 30/120), light, loading |
+| Light Crossbow | 25 gp | 1d8 piercing | 5 lbs. | Ammunition (range 80/320), loading, two-handed |
+| Heavy Crossbow | 50 gp | 1d10 piercing | 18 lbs. | Ammunition (range 100/400), heavy, loading, two-handed |
+| Sheikah Repeater | 200 gp | 1d8 piercing | 6 lbs. | Ammunition (range 80/320), two-handed, fine, special |
+
+*The light crossbow is a simple ranged weapon; the hand crossbow, heavy crossbow and Sheikah repeater are martial.*
+
+***Loading.*** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
+
+***Sheikah Repeaters*** hold a two-bolt magazine wound by a clockwork spring. A repeater does not have the loading property: it fires one bolt with each attack you make, up to two, before the magazine is empty. Refilling and rewinding it takes a bonus action.
+
+Crossbows use bolts rather than arrows. Bolts cost the same as arrows and are sold in the same places; special arrow types (fire, ice, shock) are made in bolt form wherever crossbows are sold at all.
+
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/lozbotw-hyrulean-gear_soft.png' alt='Hyrulean weapons' style='display:block;width:328px;height:219px;margin:6px auto 2px auto'/>
 
 #### Simple Bows
 
@@ -18033,10 +18101,10 @@ Crossbows use bolts rather than arrows. Bolts cost the same as arrows and are so
 | Soldier's Bow | 20 gp | 1d8 piercing | 2 lbs. | Ammunition (range 100/400), two-handed |
 | Knight's Bow | 40 gp | 1d8 piercing (×3) | 2 lbs. | Ammunition (range 100/400), two-handed, multi-shot (3) |
 | Royal Bow | 80 gp | 1d8 piercing | 2 lbs. | Ammunition (range 120/480), two-handed, fine |
-| Forest Dweller's Bow | 30 gp | 1d6 piercing (×3) | 2 lbs. | Ammunition (range 80/240), two-handed, multi-shot (3), special |
+| Forest Dweller's Bow | 30 gp | 1d6 piercing (×3) | 2 lbs. | Ammunition (range 80/320), two-handed, multi-shot (3), special |
 | Swallow Bow | 25 gp | 1d6 piercing | 1 lb. | Ammunition (range 120/480), two-handed, quick-draw |
 | Falcon Bow | 60 gp | 1d8 piercing | 2 lbs. | Ammunition (range 120/480), two-handed, quick-draw |
-| Great Eagle Bow | 300 gp | 1d10 piercing (×3) | 2 lbs. | Ammunition (range 120/480), two-handed, fine, multi-shot (3), quick-draw |
+| Great Eagle Bow | 300 gp | 1d10 piercing (×3) | 2 lbs. | Ammunition (range 120/480), two-handed, fine, multi-shot (3), quick-draw, legendary |
 | Golden Bow | 50 gp | 1d8 piercing | 2 lbs. | Ammunition (range 120/480), two-handed, fine |
 | Phrenic Bow | 30 gp | 1d6 piercing | 2 lbs. | Ammunition (range 120/480), two-handed, special |
 | Gerudo Bow | 60 gp | 1d8 piercing | 2 lbs. | Ammunition (range 100/400), two-handed, fine |
@@ -18067,8 +18135,6 @@ Shields in Hyrule range from crude Bokoblin bark to the legendary Hylian Shield 
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/lozbotw-rito-gear_soft.png' alt='Bows and quivers' style='display:block;width:167px;height:224px;margin:6px auto 2px auto'/>
 
-\column
-
 #### Simple Shields
 
 | Name | Cost | Guard | Weight | Properties |
@@ -18083,6 +18149,7 @@ Shields in Hyrule range from crude Bokoblin bark to the legendary Hylian Shield 
 ***Spiked and Dragonbone Boko Shields*** deal 1d4 piercing damage to attackers who strike the wielder with an unarmed strike or natural weapon (the attacker's attack still lands normally).
 
 #### Martial Shields
+*Proficiency with shields covers both simple and martial shields; the split only marks common gear from military make.*
 
 | Name | Cost | Guard | Weight | Properties |
 |:--|:--:|:--:|:--:|:--|
@@ -18097,12 +18164,16 @@ Shields in Hyrule range from crude Bokoblin bark to the legendary Hylian Shield 
 | Royal Shield | 100 gp | +3 | 6 lbs. | Parry, fine |
 | Savage Lynel Shield | 400 gp | +3 | 6 lbs. | Parry, special |
 | Daybreaker | 400 gp | +3 | 4 lbs. | Fine, parry, legendary |
-| Royal Guard's Shield | 300 gp | +4 | 6 lbs. | Parry, fine, fragile |
+| Royal Guard's Shield | 300 gp | +4 | 6 lbs. | Parry, fragile |
 | Hylian Shield | — | +4 | 5 lbs. | Parry, fine, legendary |
 
 ***Royal Guard's Shield*** is a Sheikah-engineered shield of exceptional stopping power but poor structural integrity. It is **fragile**: it shatters if you roll a 1 on an attack roll made as part of a shield bash, or at DM discretion when subjected to extreme force. Both the fragile property and the shield bash action are defined at the front of this chapter.
 
-***The Hylian Shield*** is the most legendary shield in Hyrule, passed down through the royal family alongside the legend of the chosen hero. Its Guard bonus of +4 is matched only by the Royal Guard's Shield, and unlike that shield it is not fragile. It requires attunement. While attuned, you cannot be disarmed of the Hylian Shield, and a perfect parry made with it deals 1d8 force damage to the attacker. If destroyed, it can be purchased from Granté in Tarrey Town for 3,000 rupees, assuming he has found one.
+***The Hylian Shield*** is the most legendary shield in Hyrule, passed down through the royal family alongside the legend of the chosen hero. Its Guard bonus of +4 is matched only by the Royal Guard's Shield, and unlike that shield it is not fragile. It requires attunement. While attuned, you cannot be disarmed of the Hylian Shield, and every parry you make with it deals 1d8 force damage to the attacker (2d8 on a perfect parry). If destroyed, it can be purchased from Granté in Tarrey Town for 3,000 rupees, assuming he has found one.
+
+***Gerudo Shields*** are finely adorned, metal-rimmed shields common in the desert. Because they are metal, they draw lightning: while you carry a Gerudo Shield outdoors in a thunderstorm, you have disadvantage on saving throws against lightning damage.
+
+***Daybreaker*** was the champion's shield of Gerudo warrior Urbosa. This magnificent shield, paired with her scimitar the Scimitar of the Seven, was her weapon against the Calamity. It requires attunement. While attuned, you gain resistance to lightning damage. When a creature within 5 feet of you misses you with a melee attack, you can use your reaction to deal 2d6 lightning damage to that creature (Daybreaker's charge). If destroyed, it can be reforged by Gerudo smiths.
 
 {{footnote Items | Weapons }}
 
@@ -18110,28 +18181,24 @@ Shields in Hyrule range from crude Bokoblin bark to the legendary Hylian Shield 
 
 \page
 
-***Gerudo Shields*** are finely adorned, metal-rimmed shields common in the desert. Because they are metal, they attract lightning; while wearing a Gerudo Shield in a thunderstorm, you are subject to the rules for metallic objects and lightning strikes.
-
-***Daybreaker*** was the champion's shield of Gerudo warrior Urbosa. This magnificent shield, paired with her scimitar the Scimitar of the Seven, was her weapon against the Calamity. It requires attunement. While attuned, you gain resistance to lightning damage. When a creature within 5 feet of you misses you with a melee attack, you can use your reaction to deal 2d6 lightning damage to that creature (Daybreaker's charge). If destroyed, it can be reforged by Gerudo smiths.
-
 ***Lynel Shields*** are as much weapons as shields. Their bladed outer rims slash attackers who make contact. When a creature within 5 feet makes a melee attack against you, that creature takes 1d6 slashing damage (Mighty: 1d8; Savage: 1d10). This damage occurs whether the attack hits or misses.
 
 ### Exotic Weapons
-Exotic weapons require specialized training. A creature without the appropriate proficiency that attacks with an exotic weapon does so with disadvantage and does not add its proficiency bonus.
+Exotic weapons require specialized training. A creature without the appropriate proficiency that attacks with an exotic weapon does so with disadvantage and does not add its proficiency bonus. Gerudo are proficient with all three (see **Gerudo**); anyone else can learn one through the **Weapon Master** feat.
 
 | Name | Cost | Damage | Weight | Properties |
 |:--|:--:|:--|:--:|:--|
 | Double-Bladed Scimitar | 100 gp | 1d6 slashing | 6 lbs. | Two-handed, special |
-| Gerudo War Fan | 20 gp | 1d4 slashing | 1 lb. | Finesse, light, thrown (range 20/60), special |
+| Gerudo War Fan | 20 gp | 1d4 slashing | 1 lb. | Finesse, light, returning, thrown (range 20/60), special |
 | Desert Whip | 2 gp | 1d4 slashing | 3 lbs. | Finesse, reach, special |
 
 ***Double-Bladed Scimitars.*** When you take the Attack action, you can make one extra attack with the second blade as a bonus action. Both ends deal 1d6 slashing damage. Most Gerudo are proficient with this weapon.
 
+***Gerudo War Fans*** are steel-ribbed dancing fans with ground edges, carried shut like a baton and snapped open to strike. A thrown war fan curves in flight: attacks with it ignore half cover.
+
 ***Desert Whips.*** Attack with Dexterity. Reach 10 feet; cannot attack creatures within 5 feet. Does not damage creatures with AC 13 or higher from rigid armor.
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/lozbotw-monster-gear_soft.png' alt='Monster weapons and shields' style='display:block;width:128px;height:157px;margin:6px auto 2px auto'/>
-
-\column
 
 ## Armor
 
@@ -18144,29 +18211,33 @@ Many armor pieces belong to a **Set**, a matching collection of headgear, tunic,
 > **Your chest piece sets your Armor Class.** The tunic, mail, or breastplate you wear determines your AC exactly as armor does in standard 5e, using the value printed in its row. Headgear and greaves **do not add to your AC**; they contribute their listed effect, and they count toward the Set Bonus.
 >
 > Armor Class from set pieces never stacks. If you are wearing three pieces that each list an AC, use the chest piece's value and ignore the other two.
+>
+> **Buying set pieces.** Headgear and greaves have the same armor category as their set's chest piece and need the same proficiency. Unless the entry says otherwise, each costs half the chest piece's price and weighs 1 lb. (light), 2 lbs. (medium) or 4 lbs. (heavy). If the chest piece is marked with an asterisk, so are the other two.
 
 Wearing individual set pieces grants each piece's listed **effect**. Wearing the **complete set** additionally grants the **Set Bonus** listed at the end of each set's entry. Set bonuses are passive and always active when all three pieces are worn; they do not require attunement unless the set itself does.
 
-Some sets are **environmental**. Their individual pieces grant stacking protection against a specific environmental hazard (extreme heat, extreme cold, lightning, etc.). See the **Temperature** chapter for rules on how these interact with Weather Exhaustion and Hyrule's climate.
+Some sets are **environmental**. Their pieces grant levels of Heat or Cold Protection, or another listed defence against a hazard such as lightning. See **Heat and Cold Protection** in the Temperature chapter for how levels work against Weather Exhaustion.
 
 > #### Upgrading Armor at Great Fairy Fountains
-> Armor can be permanently upgraded at a **Great Fairy Fountain** in exchange for materials. Each piece can be upgraded up to four times (★ through ★★★★). The materials required are unique to each set and grow increasingly rare at higher tiers. A set must be upgraded to at least ★★ on every piece before its Set Bonus activates (except sets marked **Set Bonus (always active)**).
+> Armor can be permanently upgraded at a **Great Fairy Fountain** in exchange for materials. Each piece can be upgraded up to four times (★ through ★★★★). The DM chooses the materials, which grow increasingly rare at higher tiers (see **Great Fairy Fountains**). A set must be upgraded to at least ★★ on every piece before its Set Bonus activates (except sets marked **Set Bonus (always active)**).
 >
-> **Upgrades add +1 AC per tier to your chest piece only,** to a maximum of +4 at ★★★★. Upgrading headgear and greaves does not raise your AC; it is what unlocks the Set Bonus and, for some sets, strengthens that piece's listed effect. So a fully upgraded three-piece set is worth **+4 AC over its printed value**, not +12.
+> **Upgrades add +1 AC per tier to your chest piece only,** to a maximum of +4 at ★★★★. Upgrading headgear and greaves does not raise your AC; it is what unlocks the Set Bonus and, for some sets, strengthens that piece's listed effect. So a fully upgraded three-piece set is worth **+4 AC over its printed value**, not +12. Jewelry and shields cannot be upgraded.
 >
 > Full rules for finding a fountain, what upgrades cost, and what the Great Fairies can do are in **Great Fairy Fountains** later in this chapter.
 
 ---
+
+### Clothing & Light Armor
+
+Light armor favors mobility. You can add your full Dexterity modifier to your AC while wearing it.
+
+*\* Denotes armor obtained through quests, special circumstances, or Great Fairy upgrades rather than standard purchase.*
 
 {{footnote Items | Weapons }}
 
 {{pageNumber,auto}}
 
 \page
-
-### Clothing & Light Armor
-
-Light armor favors mobility. You can add your full Dexterity modifier to your AC while wearing it.
 
 | Name | AC | Set | STR | Stealth | Cost | Weight |
 |:--|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -18191,9 +18262,12 @@ Light armor favors mobility. You can add your full Dexterity modifier to your AC
 | Frostbite Shirt | 11 + Dex | Frostbite | — | — | * | 1 lb. |
 | Miner's Top | 11 + Dex | Miner's | — | — | * | 2 lbs. |
 | Tunic of the Wild | 12 + Dex | Wild | — | — | * | 2 lbs. |
-| Yiga Armor | 11 + Dex | Yiga | — | Adv. | * | 2 lbs. |
-
-*\* Denotes armor obtained through quests, special circumstances, or Great Fairy upgrades rather than standard purchase.*
+| Yiga Armor | 11 + Dex | Yiga | — | — | * | 2 lbs. |
+| Salvager Vest | 12 + Dex | Salvager | — | — | * | 3 lbs. |
+| Kokiri Tunic | 11 + Dex | — | — | — | * | 1 lb. |
+| Zora Tunic (Classic) | 12 + Dex | — | — | — | * | 2 lbs. |
+| Evil Spirit Armor | 11 + Dex | Evil Spirit | — | — | * | 2 lbs. |
+| Mystic Robe | 11 + Dex | Mystic | — | — | * | 1 lb. |
 
 \column
 
@@ -18208,8 +18282,11 @@ Medium armor balances protection and mobility. You can add your Dexterity modifi
 | Soldier's Armor | 14 + Dex (max 2) | Soldier's | — | Disadv. | 80 gp | 6 lbs. |
 | Royal Guard Uniform | 14 + Dex (max 2) | Royal Guard | — | Disadv. | * | 6 lbs. |
 | Ancient Cuirass | 14 + Dex (max 2) | Ancient | — | Disadv. | * | 8 lbs. |
-| Salvager Vest | 13 + Dex (max 2) | Salvager | — | — | * | 3 lbs. |
 | Zonaite Waistguard | 13 + Dex (max 2) | Zonaite | — | — | * | 4 lbs. |
+| Goron Tunic | 13 + Dex (max 2) | — | — | — | * | 5 lbs. |
+| Magic Armor | 13 + Dex (max 2) | — | — | Disadv. | * | 12 lbs. |
+| Fierce Deity Armor | 14 + Dex (max 2) | Fierce Deity | — | — | * | 6 lbs. |
+| Tunic of the Depths | 13 + Dex (max 2) | Depths | — | — | * | 4 lbs. |
 
 ---
 
@@ -18219,8 +18296,8 @@ Heavy armor provides the most protection but restricts mobility. You do not add 
 
 | Name | AC | Set | STR | Stealth | Cost | Weight |
 |:--|:--:|:--:|:--:|:--:|:--:|:--:|
-| Goron Tunic (Chainmail) | 16 | — | Str 13 | Disadv. | 75 gp | 55 lbs. |
-| Flamebreaker Full Plate | 18 | — | Str 15 | Disadv. | 1,500 gp | 65 lbs. |
+| Goron Chain Mail | 16 | — | Str 13 | Disadv. | 75 gp | 55 lbs. |
+| Flamebreaker Full Plate | 18 | Flamebreaker | Str 15 | Disadv. | 1,500 gp | 65 lbs. |
 
 ### Jewelry & Accessories
 
@@ -18234,19 +18311,19 @@ These items occupy the **head slot** of armor but do not form a full set indepen
 
 Because they fill the head slot, a piece of jewelry is worn **instead of** a set's headgear, not in addition to it. A set worn with jewelry in place of its headgear is not a complete set, so its **Set Bonus** does not apply.
 
-**You can benefit from only one piece of jewelry at a time.** Two circlets, or a circlet and a pair of earrings, do not stack, and neither do their AC bonuses. A piece of jewelry's AC bonus is added to your Armor Class the way a shield's Guard is, on top of the AC your chest piece sets.
+**You can benefit from only one piece of jewelry at a time.** Two circlets, or a circlet and a pair of earrings, do not stack, and neither do their AC bonuses. A piece of jewelry's AC bonus is added to your Armor Class the way a shield's Guard is, on top of the AC your chest piece sets. No piece of jewelry grants more than +1 AC.
 
 A DM who would rather let earrings be worn under a hood is free to allow it; the entry is written the strict way so that the default is unambiguous.
 
 | Name | AC Bonus | Effect | Cost |
 |:--|:--:|:--|:--:|
 | Amber Earrings | +1 | Resistance to bludgeoning from falling | 200 gp |
-| Ruby Circlet | +1 | Cold resistance (1 level) | 300 gp |
-| Sapphire Circlet | +1 | Heat resistance (1 level) | 300 gp |
-| Topaz Earrings | +1 | Lightning resistance (1 level) | 300 gp |
+| Ruby Circlet | +1 | Cold Protection (1 level) | 300 gp |
+| Sapphire Circlet | +1 | Heat Protection (1 level) | 300 gp |
+| Topaz Earrings | +1 | Advantage on saves against lightning damage | 300 gp |
 | Opal Earrings | +1 | Swim speed increased by 10 ft. | 250 gp |
-| Diamond Circlet | +2 | Guardian resistance; reduce damage from constructs by 1d6 | 1,000 gp |
-| Thunder Helm | +2 | Lightning immunity while attuned (requires attunement) | * |
+| Diamond Circlet | +1 | Guardian resistance; reduce damage from constructs by 1d6 | 1,000 gp |
+| Thunder Helm | +1 | Lightning immunity while attuned (requires attunement) | * |
 
 The **Thunder Helm** is an heirloom of the Gerudo chiefs, passed through the line of leaders who have earned the trust of the tribe. It grants complete immunity to lightning damage and the paralyzed condition caused by electrical attacks while attuned. It cannot be purchased; it must be earned.
 
@@ -18261,7 +18338,7 @@ Each set's individual-piece effects and full set bonus are described below. Piec
 ---
 
 #### Hylian Set
-*Well-Worn Clothes / Hylian Hood / Hylian Tunic / Hylian Trousers*
+*Hylian Hood / Hylian Tunic (or Well-Worn Clothes) / Hylian Trousers*
 
 Standard Hylian clothing, sold across Kakariko Village and Hateno Village. Serviceable and unobtrusive.
 
@@ -18285,15 +18362,10 @@ Sheikah-crafted dark garments designed for infiltration, woven from shadow-silk 
 
 Rito-crafted garments woven from the down feathers of snow-birds and studded with Rubies that channel warmth from within.
 
-- **Individual Piece Effect:** Each piece grants 1 level of **Cold Resistance**. Up to 3 levels can be stacked, negating moderate, severe, and extreme cold environments respectively (see Temperature).
-- **Set Bonus (★★):** You are completely immune to cold environmental damage and the exhaustion it causes. You also have advantage on saving throws against being restrained or slowed by ice or magical cold effects.
+- **Individual Piece Effect:** Each piece grants 1 level of **Cold Protection**: one piece covers Moderate cold, two Severe, three Extreme (see Temperature).
+- **Set Bonus (★★):** You automatically succeed on Weather Exhaustion checks caused by cold, at every severity. You also have advantage on saving throws against being restrained or slowed by ice or magical cold effects.
 
 ---
-
-#### Flamebreaker Set
-*Flamebreaker Helm / Flamebreaker Armor / Flamebreaker Boots*
-
-Goron-forged stone and volcanic-metal equipment treated with Fireproof Lizard extract. Absolutely essential for visiting Death Mountain.
 
 {{footnote Items | Armor }}
 
@@ -18301,8 +18373,13 @@ Goron-forged stone and volcanic-metal equipment treated with Fireproof Lizard ex
 
 \page
 
-- **Individual Piece Effect:** Each piece grants 1 level of **Heat Resistance**. Two pieces provide complete environmental fireproofing; you no longer take damage from Scorched temperature.
-- **Set Bonus (★★):** You are completely immune to fire environmental damage and fire damage from non-magical sources (campfires, lava splashes, burning terrain). You may move through non-magical flames without taking damage.
+#### Flamebreaker Set
+*Flamebreaker Helm / Flamebreaker Armor / Flamebreaker Boots*
+
+Goron-forged stone and volcanic-metal equipment treated with Fireproof Lizard extract. Absolutely essential for visiting Death Mountain. Goron City sells the Helm and Boots for 300 gp each. The heavier **Flamebreaker Full Plate** counts as this set's chest piece.
+
+- **Individual Piece Effect:** Each piece grants 1 level of **Heat Protection** (see Temperature). Two pieces are enough for Death Mountain's lower slopes; the upper caldera needs all three.
+- **Set Bonus (★★):** You automatically succeed on Weather Exhaustion checks caused by heat, at every severity, and you are immune to fire damage from nonmagical sources (campfires, lava splashes, burning terrain). You may move through non-magical flames without taking damage.
 
 ---
 
@@ -18321,8 +18398,18 @@ Gifted to honored friends of the Zora, this shimmering blue-silver armor was sha
 
 Close-fitted garments sold discreetly through the Gerudo Secret Club. The Gerudo name these "voe" garments, practical clothing for men traveling in desert heat.
 
-- **Individual Piece Effect:** Each piece grants 1 level of **Heat Resistance**. Up to 3 levels protect against increasingly severe desert heat.
-- **Set Bonus (★★):** You are immune to the effects of extreme heat environments and have resistance to lightning damage.
+- **Individual Piece Effect:** Each piece grants 1 level of **Heat Protection** (see Temperature).
+- **Set Bonus (★★):** You automatically succeed on Weather Exhaustion checks caused by heat, at every severity, and have resistance to lightning damage.
+
+---
+
+#### Gerudo Set
+*Gerudo Veil / Gerudo Top / Gerudo Sirwal*
+
+Light desert silks cut in the Gerudo style. They are sold in Gerudo Town to anyone already inside it, and worn by every traveller who wants to get in.
+
+- **Individual Piece Effect:** Each piece grants 1 level of **Heat Protection** (see Temperature).
+- **Set Bonus (always active):** Gerudo townsfolk and guards take you for a Gerudo vai. You may enter Gerudo Town, and a suspicious Gerudo must succeed on a DC 14 Wisdom (Insight) check to see through the disguise.
 
 ---
 
@@ -18334,14 +18421,12 @@ Unusual armor made from a rare, naturally occurring rubber discovered in Hyrule.
 - **Individual Piece Effect:** Each piece grants advantage on saving throws against lightning damage and the stunned condition from electrical attacks.
 - **Set Bonus (★★):** You are immune to lightning damage and cannot be stunned, paralyzed, or incapacitated by electrical attacks or spells.
 
-\column
-
 #### Climbing Set
 *Climber's Bandanna / Climbing Gear / Climbing Boots*
 
 Purpose-built explorer's gear with hooked fingertips, toe grips, and a padded bandanna for focus.
 
-- **Individual Piece Effect:** Each piece reduces the movement cost of climbing by 5 feet (normally costs 2 feet of movement per 1 foot climbed). With all three pieces, climbing costs no extra movement.
+- **Individual Piece Effect:** Each piece lets you climb 10 feet per turn at no extra movement cost (climbing normally costs 1 extra foot per foot). With all three pieces, climbing never costs extra movement.
 - **Set Bonus (★★):** You can climb on any natural surface, including overhangs and ceilings, without making Athletics checks. In addition, rain and wet surfaces do not hinder your climbing.
 
 ---
@@ -18352,9 +18437,15 @@ Purpose-built explorer's gear with hooked fingertips, toe grips, and a padded ba
 Ancient warrior garb found in the ruins of Akkala: savage, blood-red, and imbued with a primal aggression that seems to sharpen the wearer's fury.
 
 - **Individual Piece Effect:** Each piece increases your damage rolls with melee weapons by +1.
-- **Set Bonus (★★):** The stamina cost of charge attacks is halved (spend half as many Stamina Points to power-attack). In addition, your critical hit range expands by 1 (you score a critical hit on a roll of 19 or 20).
+- **Set Bonus (★★):** Your **Called Shots** with melee weapons cost 1 SP instead of 2. In addition, your critical hit range expands by 1 (you score a critical hit on a roll of 19 or 20).
 
 ---
+
+{{footnote Items | Armor }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### Soldier's Set
 *Soldier's Helm / Soldier's Armor / Soldier's Greaves*
@@ -18366,18 +18457,22 @@ Standard military-issue steel plate armor of the Hylian Royal Army, once distrib
 
 ---
 
+#### Royal Guard Set (medium)
+*Royal Guard Cap / Royal Guard Uniform / Royal Guard Boots*
+
+The dress uniform of the pre-Calamity Royal Guard, cut to be worn with the Sheikah-built weapons the guard was issued. Few survive intact.
+
+- **Individual Piece Effect:** Each piece grants a +1 bonus to damage rolls made with Royal Guard's weapons.
+- **Set Bonus (★★):** Your Royal Guard's weapons break only on a roll of 1, rather than 1–3. (The Royal Guard's Shield already breaks only on a 1.)
+
+---
+
 #### Radiant Set
 *Radiant Mask / Radiant Shirt / Radiant Tights*
 
 Exotic Gerudo armor adorned with glowing gemstones and luminous material. Its eerie glow has an unusual effect on skeletal undead.
 
-{{footnote Items | Armor }}
-
-{{pageNumber,auto}}
-
-\page
-
-- **Individual Piece Effect (★★ required):** Each piece has a hidden secondary effect. It draws the attention of undead skeletons (Stalfos, Stalchildren, Stalkoblins). While wearing 1 or 2 pieces without the full set at ★★, undead skeletons are aware of your location even if you are hidden or invisible.
+- **Individual Piece Effect (drawback):** Until you wear the full set at ★★, each piece draws undead skeletons (Stalfos, Stalchildren, Stalkoblins): they know your location even if you are hidden or invisible.
 - **Set Bonus (★★):** Undead skeletons treat you as a fellow skeleton and do not attack you unless you attack first (Charisma DC 15 to bluff if they otherwise grow suspicious). Your attacks deal +1d6 additional damage against undead creatures.
 
 ---
@@ -18407,10 +18502,8 @@ Armor styled after the Phantom Ganon, found in the ruins of Hyrule Castle. It ca
 
 Reverse-engineered Sheikah armor built from Ancient Guardian components at the Akkala Ancient Tech Lab. It marks the wearer as something between an adventurer and a walking Guardian.
 
-\column
-
 - **Individual Piece Effect:** Each piece grants resistance to damage from construct-type enemies (Guardians, Guardian Scouts, Ancient Blades).
-- **Set Bonus (★★):** You gain **Ancient Proficiency**: your attacks with Ancient weapons and Sheikah-tech gear deal an additional 1d8 force damage. You also have advantage on saving throws against effects produced by construct enemies.
+- **Set Bonus (★★):** You gain **Ancient Proficiency**: your attacks with Royal Guard's weapons, the Sheikah Repeater and Ancient Arrows deal an additional 1d8 force damage. You also have advantage on saving throws against effects produced by construct enemies.
 
 #### Champion's Tunic
 *Single piece, no set*
@@ -18419,6 +18512,20 @@ A blue tunic bearing the crest of Hyrule's Champions, gifted to those who have p
 
 - **Effect:** While wearing this tunic, you can see the current hit point total of any creature you can see, displayed in your mind's eye as a rough numerical sense. In addition, you have advantage on saving throws against effects that reduce your maximum hit points.
 
+---
+
+{{footnote Items | Armor }}
+
+{{pageNumber,auto}}
+
+\page
+
+#### Archaic Tunic
+*Single piece, no set*
+
+A threadbare shirt of a style nobody has woven in a hundred years. It is what a hero wakes up wearing, before the adventure has given them anything better.
+
+- **Effect:** None. Its Armor Class is the same as wearing no armor.
 
 ---
 
@@ -18427,8 +18534,8 @@ A blue tunic bearing the crest of Hyrule's Champions, gifted to those who have p
 
 Bright red garments found in the caves around Death Mountain, woven from heat-treated fire-lizard hide and volcanic thread.
 
-- **Individual Piece Effect:** Each piece grants **Hot Weather Attack**: your melee weapon damage rolls gain +1 in hot weather environments (Scorched or higher).
-- **Set Bonus (★★):** Your charge attacks wind up twice as fast in hot weather. In addition, you are immune to the discomforts of hot environments (you don't suffer the early exhaustion stages of heat, though extreme conditions still affect you).
+- **Individual Piece Effect:** Each piece grants **Hot Weather Attack**: your melee weapon damage rolls gain +1 in hot weather environments (heat of Moderate severity or worse).
+- **Set Bonus (★★):** In hot weather, your Called Shots with melee weapons cost 1 SP instead of 2. In addition, you have 1 level of Heat Protection.
 
 ---
 
@@ -18436,12 +18543,6 @@ Bright red garments found in the caves around Death Mountain, woven from heat-tr
 *Charged Headdress / Charged Shirt / Charged Trousers*
 
 Mysterious electrical garments found near the Ring Ruins of Akkala, threaded with Zonai lightning-conducting material.
-
-{{footnote Items | Armor }}
-
-{{pageNumber,auto}}
-
-\page
 
 - **Individual Piece Effect:** Each piece grants **Stormy Weather Attack**: your melee weapon damage rolls gain +1 during thunderstorms or in environments charged with electricity.
 - **Set Bonus (★★):** During thunderstorms, you can call down a bolt of lightning as an action (1/day). One creature within 60 feet that you can see must succeed on a DC 14 Dexterity saving throw or take 4d10 lightning damage (half on a success). You are immune to the lightning damage from this effect.
@@ -18453,17 +18554,19 @@ Mysterious electrical garments found near the Ring Ruins of Akkala, threaded wit
 
 Ice-thread garments found in Hyrule's coldest caves, woven from frost-silk and set with Sapphires that emanate a biting chill.
 
-- **Individual Piece Effect:** Each piece grants **Cold Weather Attack**: your melee weapon damage rolls gain +1 in cold weather environments (Chilly or colder).
-- **Set Bonus (★★):** Your charge attacks wind up twice as fast in cold weather. Your melee attacks deal +1d4 cold damage.
+- **Individual Piece Effect:** Each piece grants **Cold Weather Attack**: your melee weapon damage rolls gain +1 in cold weather environments (cold of Moderate severity or worse).
+- **Set Bonus (★★):** In cold weather, your Called Shots with melee weapons cost 1 SP instead of 2. Your melee attacks deal +1d4 cold damage.
 
 ---
+
+\column
 
 #### Froggy Set
 *Froggy Hood / Froggy Sleeve / Froggy Leggings*
 
 A strange, slimy-textured set of garments rewarded by the Lucky Clover Gazette for investigative service. The material is inspired by Evermeans and tree frogs.
 
-- **Individual Piece Effect:** Each piece reduces the penalty for climbing in rain by 1 step (one piece removes disadvantage, two pieces allow normal climbing, three pieces grant advantage on wet surface Athletics checks).
+- **Individual Piece Effect:** Rain and wet surfaces normally give disadvantage on Strength (Athletics) checks to climb. One piece removes that disadvantage; with all three pieces you have advantage on those checks instead. Each piece also grants advantage on Weather Exhaustion checks caused by rain or humidity.
 - **Set Bonus (★★):** You can move across wet, icy, or otherwise slippery surfaces at full speed without any check and without falling prone. You also gain a swimming speed of 20 feet.
 
 ---
@@ -18472,8 +18575,6 @@ A strange, slimy-textured set of garments rewarded by the Lucky Clover Gazette f
 *Glide Mask / Glide Shirt / Glide Tights*
 
 Sleek, aerodynamic garments found on Sky Islands above Hyrule, crafted by the Zonai for skydiving between the floating ruins.
-
-\column
 
 - **Individual Piece Effect:** Each piece grants improved maneuverability while falling. You can change direction by up to 45 degrees per 10 feet fallen, and your fall speed is reduced (you fall 60 feet per round instead of the standard 500 feet).
 - **Set Bonus (★★):** You are immune to falling damage. You also gain a gliding speed of 60 feet: when you fall, you can move horizontally up to 60 feet for every 10 feet you descend (instead of falling straight down).
@@ -18487,6 +18588,12 @@ Sturdy cave-exploration gear enchanted to emit soft bioluminescent light, invalu
 
 - **Individual Piece Effect:** Each piece causes you to emit dim light in a 5-foot radius. Each additional piece extends this by 5 feet (maximum 15 feet from all three).
 - **Set Bonus (★★):** While in the Depths or underground environments, your footsteps leave faintly glowing marks that last 1 hour, making it nearly impossible to become lost. You also have advantage on Wisdom (Perception) checks in darkness.
+
+{{footnote Items | Armor }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### Yiga Set
 *Yiga Mask / Yiga Armor / Yiga Tights*
@@ -18503,14 +18610,8 @@ Authentic Yiga Clan garb, somehow acquired outside the Hideout. Wearing it allow
 
 The iconic green outfit of Hyrule's destined hero, the garb passed down through countless ages, always finding its way back to a chosen champion.
 
-{{footnote Items | Armor }}
-
-{{pageNumber,auto}}
-
-\page
-
 - **Individual Piece Effect:** Each piece grants a +1 bonus to saving throws.
-- **Set Bonus (★★):** The legendary hero's garb resonates with the Master Sword. While wearing this full set and wielding the Master Sword, you can fire a **Sword Beam** as a bonus action (requires full hit points): it is a ranged spell attack (+5 to hit) that deals 2d6 radiant damage and travels up to 60 feet.
+- **Set Bonus (★★):** The legendary hero's garb resonates with the Master Sword. While wearing this full set, you can use the Master Sword's **Sword Beam** at any hit point total, and its range becomes 120 feet.
 
 ---
 
@@ -18534,7 +18635,7 @@ The forest-green tunic of the Kokiri people: soft, breathable, and touched with 
 
 A thick, fire-resistant tunic crafted by Goron artisans using volcanic fiber and Goron spice-treated materials. The original Goron Tunic was a gift to the legendary hero for braving Death Mountain.
 
-**Effect:** You have immunity to environmental heat damage and resistance to fire damage. You can enter and move through actively burning terrain (campfires, lava-adjacent areas, fire-filled corridors) without suffering environmental damage, though truly extreme sources (direct lava submersion) still harm you.
+**Effect:** You have 3 levels of Heat Protection and resistance to fire damage. You can enter and move through actively burning terrain (campfires, lava-adjacent areas, fire-filled corridors) without suffering environmental damage, though truly extreme sources (direct lava submersion) still harm you.
 
 ---
 
@@ -18550,8 +18651,6 @@ The blue tunic of Zora tradition, distinct from the full BotW Zora Armor set. In
 #### Magic Armor (Twilight Princess)
 *Medium armor, AC 13 + Dex (max 2); requires attunement*
 
-\column
-
 A golden, jewel-studded suit of armor that channels the wearer's wealth into magical protection. Every rupee spent on this armor's protection is rupees literally burned away.
 
 **Effect:** While attuned, whenever you take damage, you can choose to reduce that damage to 0. Each time you do so, you lose rupees equal to the damage prevented (1 rupee per 1 point of damage). If you have no rupees, this effect does not function and the armor becomes ordinary medium armor until you carry rupees again.
@@ -18559,14 +18658,22 @@ A golden, jewel-studded suit of armor that channels the wearer's wealth into mag
 ---
 
 #### Fierce Deity Armor
+*Fierce Deity Mask / Fierce Deity Armor / Fierce Deity Boots*  
 *Medium armor, AC 14 + Dex (max 2); requires attunement*
 
 Ceremonial plate styled after the Fierce Deity, the ancient, wrathful spirit whose power eclipses even Majora's Mask. This armor carries a trace of that divine fury.
 
-- **Individual Piece Effect:** Each piece of the three-piece set grants +1 to melee attack and damage rolls.
-- **Set Bonus (★★):** Your melee attacks deal +1d6 force damage. In addition, once per long rest you can invoke the Fierce Deity's fury: for 1 minute, your melee weapon attacks score critical hits on a roll of 18–20, and you deal an additional 2d6 force damage on each hit.
+- **Individual Piece Effect:** Each piece of the three-piece set grants +1 to melee damage rolls.
+- **Set Bonus (★★):** **Once per turn**, when you hit with a melee attack, you deal an extra 1d6 force damage. In addition, once per long rest you can invoke the Fierce Deity's fury: for 1 minute, your melee weapon attacks score critical hits on a roll of 18–20, and the set's extra force damage becomes 3d6.
 
-#### Evil Spirit Set (Phantom Armor)
+{{footnote Items | Armor }}
+
+{{pageNumber,auto}}
+
+\page
+
+#### Evil Spirit Set
+*Evil Spirit Mask / Evil Spirit Armor / Evil Spirit Greaves*  
 *Light armor, AC 11 + Dex; requires attunement for Set Bonus*
 
 Labyrinthine armor found by braving Hyrule's three great labyrinths: the North, South, and East Labyrinths. It carries the spiritual resonance of ancient warrior kings.
@@ -18577,15 +18684,10 @@ Labyrinthine armor found by braving Hyrule's three great labyrinths: the North, 
 ---
 
 #### Salvager Set
+*Salvager Headwear / Salvager Vest / Salvager Trousers*  
 *Light armor, AC 12 + Dex*
 
 A specialized diver's outfit designed for underwater exploration and treasure recovery, connected to Zora traditions of ocean exploration.
-
-{{footnote Items | Armor }}
-
-{{pageNumber,auto}}
-
-\page
 
 - **Individual Piece Effect:** Each piece improves your ability to perceive objects underwater: disadvantage on Perception checks underwater is reduced to normal, then to advantage with all three pieces.
 - **Set Bonus (★★):** You can hold your breath indefinitely while concentrating on nothing else. You have tremorsense 15 feet while fully submerged.
@@ -18593,39 +18695,46 @@ A specialized diver's outfit designed for underwater exploration and treasure re
 ---
 
 #### Depths Set (Armor of the Depths / Tunic of the Depths)
+*Hood of the Depths / Tunic of the Depths / Gaiters of the Depths*  
 *Medium armor, AC 13 + Dex (max 2)*
 
-Salvaged from the murky Depths beneath Hyrule, this corroded-looking armor carries the power of gloom-resistance, the Depths' most dangerous property.
+Salvaged from the murky Depths beneath Hyrule, this corroded-looking armor wards off **Gloom**, the Depths' most dangerous property.
 
-- **Individual Piece Effect:** Each piece grants resistance to the gloom condition (your maximum hit points are reduced by half the normal amount by gloom damage sources).
-- **Set Bonus (★★):** You are immune to the gloom condition. In addition, in the Depths or similarly lightless underground environments, you can see in magical darkness out to 60 feet.
+- **Individual Piece Effect:** Each piece grants advantage on Weather Exhaustion checks caused by Gloom (see the Depths rows of the Weather Exhaustion reference table).
+- **Set Bonus (★★):** You automatically succeed on Weather Exhaustion checks caused by Gloom. In addition, in the Depths or similarly lightless underground environments, you can see in magical darkness out to 60 feet.
 
 ---
 
 #### Zonaite Set
+*Zonaite Helm / Zonaite Waistguard / Zonaite Shin Guards*  
 *Medium armor, AC 13 + Dex (max 2)*
 
 Armor fashioned from Zonaite ore harvested from the Sky Islands, connected to the ancient Zonai civilization. Its crystalline surface hums faintly.
 
-- **Individual Piece Effect:** Each piece reduces the Zonai Energy cost of Zonai Devices you use by 1 (minimum 1).
-- **Set Bonus (★★):** Zonai Devices you activate last twice as long before expiring. You also have advantage on checks to understand or interface with ancient Zonai constructions and mechanisms.
+- **Individual Piece Effect:** Each piece grants advantage on ability checks made to understand, operate, repair or disable ancient mechanisms and traps, whether Zonai or Sheikah work.
+- **Set Bonus (★★):** Once per long rest, as an action, you can touch a dormant construct or ancient mechanism and power it for 10 minutes. A mechanism (lift, fan, rail cart, sealed door) runs as it was built to. A dormant construct of CR 2 or lower wakes and obeys your simple spoken commands for the duration.
 
 ---
 
 #### Mystic Set
+*Mystic Headpiece / Mystic Robe / Mystic Trousers*  
 *Light armor, AC 11 + Dex*
 
 Otherworldly, diaphanous garments of unknown origin. In Tears of the Kingdom, wearing these robes has an astonishing property: monsters ignore you entirely, as if you simply aren't there.
 
 **Effect (requires attunement):** While attuned and wearing the full Mystic Set, hostile monsters with Intelligence 6 or lower do not notice you unless you attack them, use a noisy magic item, or move within 5 feet. Intelligent monsters (Intelligence 7+) may make a DC 15 Wisdom (Perception) check to notice you. This effect ends for 1 minute if you make an attack or cast a spell that deals damage.
 
-\column
-
 ## Great Fairy Fountains
 
 A Great Fairy Fountain is a spring of still water in a place nobody built, sheltered by a bud the size of a cottage. The bud is closed. Something enormous is asleep inside it, and it has been asleep for a long time.
 
 Great Fairies are the oldest sanctioned magic left in Hyrule that is willing to help you. They heal, they restore what magic has cost you, and they will rebuild your armor into something the person who forged it could not have made. What they want in return is rupees and rare things, and they are not shy about the rupees.
+
+{{footnote Items | Armor }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Finding a Fountain
 
@@ -18654,12 +18763,6 @@ Once woken, a Great Fairy stays woken. She is available to that party for the re
 
 **Restoration.** Bathing also restores all **Magic Points** and all **Stamina Points**, and removes **one Arcane Wound**. Removing further Arcane Wounds costs 500 rupees each, and she will explain, at length, that this is a bargain.
 
-{{footnote Items | Armor }}
-
-{{pageNumber,auto}}
-
-\page
-
 **Upgrading Armor.** This is what parties come for. A Great Fairy can raise one piece of armor by one star, from ★ up to ★★★★, in exchange for rupees and materials.
 
 | Tier | Rupees | Materials |
@@ -18687,8 +18790,6 @@ Unless noted, consumable items are used as an **action**. Items marked *bonus ac
 
 ---
 
-\column
-
 ### Potions & Elixirs
 
 Hyrulean potions are brewed from the natural materials abundant across the kingdom: monster parts, critters, and the magical flora found in every region. Most potions are bought from traveling merchants, apothecaries in larger settlements, or brewed at a **Cooking Pot** with the right ingredients.
@@ -18706,12 +18807,18 @@ A vivid crimson potion drawn from Hyrule's most plentiful healing herbs. The ori
 
 ---
 
+{{footnote Items | Armor }}
+
+{{pageNumber,auto}}
+
+\page
+
 #### Blue Potion (Life Elixir)
 *Potion, uncommon*
 
 A richer, more concentrated brew than the Red Potion. Often the result of added Blue Fire essence or rarer reagents. Restores more vitality and can lift some negative conditions.
 
-**Effect:** You regain 4d4 + 4 hit points. In addition, you end one of the following conditions affecting you: poisoned, frightened, or blinded.
+**Effect:** You regain 4d4 + 4 hit points. In addition, choose one: end one condition affecting you (poisoned, frightened, or blinded), or remove one **Arcane Wound**.
 
 **Cost:** 150 gp &emsp; **Brewing Materials:** Premium healing herb + Sunset Firefly + monster part
 
@@ -18736,12 +18843,6 @@ A golden, richly flavored brew that temporarily swells the drinker's vitality be
 **Effect:** You gain 10 temporary hit points, which last for 1 hour.
 
 **Cost:** 200 gp &emsp; **Brewing Materials:** Hearty Lizard or Hearty Truffle + monster part
-
-{{footnote Items | Great Fairy Fountains }}
-
-{{pageNumber,auto}}
-
-\page
 
 #### Mighty Elixir (Attack Up)
 *Potion, uncommon*
@@ -18785,25 +18886,23 @@ A fizzing, tingly potion that quickens the legs and sharpens the reflexes.
 
 **Cost:** 100 gp &emsp; **Brewing Materials:** Hot-Footed Frog + monster part
 
-#### Spicy Elixir (Cold Resistance)
+#### Spicy Elixir (Cold Protection)
 *Potion, common*
 
 A fiery, pepper-flavored brew that warms the body from within, essential for travel in Hebra's mountains or Lanayru's snowfields.
 
-**Effect:** For 30 minutes, you gain 1 level of Cold Resistance (see Temperature).
+**Effect:** You gain 1 level of Cold Protection (see Temperature). It lasts until you have made one Weather Exhaustion check caused by cold, or for 12 hours, whichever comes first.
 
 **Cost:** 60 gp &emsp; **Brewing Materials:** Sizzlefin Trout or Warm Darner + monster part
 
 ---
 
-#### Chilly Elixir (Heat Resistance)
+#### Chilly Elixir (Heat Protection)
 *Potion, common*
 
 A cool, mint-tinged tincture that lowers the body's temperature and protects against scorching heat.
 
-\column
-
-**Effect:** For 30 minutes, you gain 1 level of Heat Resistance (see Temperature).
+**Effect:** You gain 1 level of Heat Protection (see Temperature). It lasts until you have made one Weather Exhaustion check caused by heat, or for 12 hours, whichever comes first.
 
 **Cost:** 60 gp &emsp; **Brewing Materials:** Winterwing Butterfly or Cold Darner + monster part
 
@@ -18825,11 +18924,17 @@ A faintly buzzing, acrid-smelling brew that temporarily makes the drinker's body
 
 A thick, magma-orange brew that coats the lungs and skin against the volcanic heat of Death Mountain.
 
-**Effect:** For 30 minutes, you are immune to the environmental hazard of Scorched heat and have resistance to fire damage from non-magical sources.
+**Effect:** You gain 2 levels of Heat Protection, lasting as a Chilly Elixir's does. For the first hour, you also have resistance to fire damage from nonmagical sources.
 
 **Cost:** 120 gp &emsp; **Brewing Materials:** Fireproof Lizard + monster part
 
 ---
+
+{{footnote Items | Great Fairy Fountains }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### Fairy in a Bottle
 *Potion, rare*
@@ -18858,12 +18963,6 @@ A shimmering purple brew found primarily in older alchemical traditions. Complet
 
 Fresh creamy milk from the famous Lon Lon Ranch Talon family herd. Sold in bottles and prized across Hyrule for its restorative properties.
 
-{{footnote Items | Adventuring Gear & Consuma }}
-
-{{pageNumber,auto}}
-
-\page
-
 **Effect:** The bottle contains two servings. Each serving restores 1d4 + 1 hit points. *Bonus action* to drink.
 
 **Cost:** 20 gp (full bottle, 2 servings)
@@ -18875,9 +18974,9 @@ Fresh creamy milk from the famous Lon Lon Ranch Talon family herd. Sold in bottl
 
 An exquisite vintage aged at Romani Ranch, only the finest milk, properly fermented and blessed. Its restorative powers are legendary.
 
-**Effect:** You regain all expended Stamina Points and Magic Points. For 24 hours, you regain 1 Stamina Point at the start of each of your turns.
+**Effect:** You regain all expended Stamina Points and Magic Points. For 1 hour, you regain 1 Stamina Point at the start of each of your turns.
 
-**Cost:** 200 gp (when available; rarely sold outside Termina and certain elite establishments)
+**Cost:** 500 gp (when available; rarely sold outside Termina and certain elite establishments)
 
 ### Arrows & Ammunition
 
@@ -18889,7 +18988,7 @@ Standard arrows are sold in bundles at most traders and fletcher shops. Special 
 | Arrows (50) | 2 gp | Bulk bundle |
 | Fire Arrows (5) | 10 gp | Deal +1d6 fire damage; light flammable objects on contact |
 | Ice Arrows (5) | 10 gp | Deal +1d6 cold damage; target must DC 13 Con save or be restrained until end of their next turn |
-| Shock Arrows (5) | 10 gp | Deal +1d6 lightning damage; metal-armored targets have disadvantage on save |
+| Shock Arrows (5) | 10 gp | Deal +1d6 lightning damage (double against wet targets or targets standing in water) |
 | Ancient Arrows (3) | 75 gp | +2d8 force damage; constructs struck must DC 15 Con save or be stunned 1 round |
 | Light Arrows (3) | 100 gp | +2d8 radiant damage; undead and creatures vulnerable to radiant take maximum damage |
 | Bomb Arrows (5) | 25 gp | On hit, deal 2d6 fire damage in a 5-foot radius (Dex DC 13 half); DC 12 Dex check to fire in rain |
@@ -18901,17 +19000,21 @@ Standard arrows are sold in bundles at most traders and fletcher shops. Special 
 
 ***Ice Arrows*** freeze water on impact (a 5-foot cube per arrow), creating temporary platforms or blocking waterways. Against creatures vulnerable to cold, the restraining effect has disadvantage on the saving throw.
 
-\column
-
 ***Shock Arrows*** deal double damage to creatures that are wet or standing in water. Two shock arrows fired into a pool simultaneously create a 10-foot radius electrified zone lasting 1 round.
 
-***Light Arrows (Silver Arrows)*** are blessed ammunition that bypass the magical protections of Ganon and his servants. Against Blights, Malice constructs, and the King of Evil himself, light and silver arrows ignore damage resistances and immunities. Silver Arrows in particular are associated with the final, ritual defeat of Ganon across the ages. It is said that without a Silver Arrow, Ganon cannot truly be destroyed, only sealed.
+***Light Arrows and Silver Arrows*** are blessed ammunition that bypass the magical protections of Ganon and his servants. Against Blights, Malice constructs, and the King of Evil himself, light and silver arrows ignore damage resistances and immunities. Silver Arrows in particular are associated with the final, ritual defeat of Ganon across the ages. It is said that without a Silver Arrow, Ganon cannot truly be destroyed, only sealed.
 
 ***Bomb Arrows*** are notably unstable. They detonate if exposed to open flame, and they cannot be fired in rain without a DC 12 Dexterity check (on a failure, the arrow fizzles and the attack misses automatically).
 
 ### Bombs & Explosives
 
 Bombs are one of Hyrule's most iconic adventuring tools, used for combat, mining, demolition, and solving the countless rock-sealed mysteries of the kingdom's dungeons.
+
+{{footnote Items | Gear & Consumables }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### Bomb
 *Adventuring gear, common*
@@ -18929,9 +19032,9 @@ The classic black-powder Hyrulean bomb: spherical, fused, and devastatingly usef
 #### Bomb Flower
 *Adventuring gear, uncommon*
 
-A naturally occurring explosive plant found growing on cliffsides near volcanic and high-altitude regions. Bomb Flowers can be carried, thrown, or fused to weapons and arrows. Unlike manufactured bombs, they do not have a fuse. They detonate on impact.
+A naturally occurring explosive plant found growing on cliffsides near volcanic and high-altitude regions. Bomb Flowers can be carried, thrown, or bound to arrows. Unlike manufactured bombs, they do not have a fuse. They detonate on impact.
 
-**Effect:** As a bomb, but detonates immediately on impact. Range 20/60 as an improvised thrown weapon. When fused to an arrow, the arrow becomes a Bomb Arrow (see above).
+**Effect:** As a bomb, but detonates immediately on impact. On a missed throw it lands 1d10 feet past the target in a random direction and detonates there. A Bomb Flower that is swallowed, or lodges inside a creature, detonates at the start of that creature's next turn instead. Range 20/60 as an improvised thrown weapon. Binding one to an arrow takes 1 minute; the arrow becomes a Bomb Arrow (see above).
 
 **Cost:** 8 gp each (when found; they cannot be manufactured)
 
@@ -18939,12 +19042,6 @@ A naturally occurring explosive plant found growing on cliffsides near volcanic 
 
 #### Remote Bomb
 *Adventuring gear, uncommon (BotW/TotK)*
-
-{{footnote Items | Adventuring Gear & Consuma }}
-
-{{pageNumber,auto}}
-
-\page
 
 A Sheikah-tech explosive device with a distinctive square or spherical shape, detonated remotely by the user rather than a fuse. A Remote Bomb does not go off on its own. It only detonates when the user triggers it.
 
@@ -18976,14 +19073,14 @@ A wind-up mechanical mouse packed with explosive material. When placed, it scurr
 
 ### Tools & Gadgets
 
+*Pegasus Boots, Roc's Feather, the Lens of Truth and the Spinner are relics, not shop goods. See **Lesser Relics**.*
+
 These are the durable, reusable items that define a Zelda adventurer's toolkit, things carried on belts, over shoulders, or in packs across a lifetime of dungeon-delving.
 
 #### Hookshot
 *Adventuring gear, uncommon*
 
 A spring-loaded grappling device that fires a hooked chain at high speed. One of the most iconic and versatile tools in Hyrule, first developed in the Swamp Palace and spread across the kingdom by the adventurers who wielded it.
-
-\column
 
 **Effect:** As an action, you can fire the Hookshot at a target surface or object within **30 feet**. If it finds purchase (wood, stone, metal, or similar solid material), you are immediately pulled to a location adjacent to that surface. This counts as movement and does not provoke opportunity attacks.
 
@@ -18994,6 +19091,12 @@ The Hookshot can also grab and retrieve items up to 5 lbs. within 30 feet.
 **Cost:** 400 gp
 
 ---
+
+{{footnote Items | Gear & Consumables }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### Longshot
 *Adventuring gear, rare*
@@ -19030,12 +19133,6 @@ Two Clawshots worn on each wrist, allowing an adventurer to cross entire chasms 
 
 #### Empty Bottle
 *Adventuring gear, common*
-
-{{footnote Items | Adventuring Gear & Consuma }}
-
-{{pageNumber,auto}}
-
-\page
 
 A sturdy glass bottle with a tight stopper, absolutely indispensable. Used to carry potions, catch fairies, scoop water, or store curious substances found in the world. Adventurers learn quickly that an empty bottle is rarely truly empty for long.
 
@@ -19079,8 +19176,6 @@ Seed pods from Deku Babas or Deku Scrubs. When thrown or smashed, they release a
 #### Deku Stick
 *Adventuring gear, common*
 
-\column
-
 A dry, resinous stick harvested from Deku Babas. Burns brightly and for a surprisingly long time. Used as a torch, or as an improvised weapon in desperate situations.
 
 **Effect:** Functions as a torch (bright light 20 ft., dim light 20 ft.) for 30 minutes when lit. Can be used as an improvised club (1d4 bludgeoning). A lit Deku Stick also deals 1d4 fire damage on a hit, but the fire is extinguished if the stick is submerged.
@@ -19088,6 +19183,12 @@ A dry, resinous stick harvested from Deku Babas. Burns brightly and for a surpri
 **Cost:** 1 sp each
 
 ---
+
+{{footnote Items | Gear & Consumables }}
+
+{{pageNumber,auto}}
+
+\page
 
 #### Magnesis Orb (Sheikah Tech Tool)
 *Adventuring gear, rare*
@@ -19109,33 +19210,14 @@ A silk-and-wood gliding wing based on designs found across the Sheikah's legacy.
 
 **Cost:** 150 gp (civilian version). The legendary Paraglider blessed by the Deku Tree or King Rhoam is not available for purchase.
 
----
+#### Roc's Cape
+*Wondrous item, rare (Oracle games, Minish Cap)*
 
-#### Pegasus Boots
-*Wondrous item, uncommon (ALttP, OoT, ALBW)*
+A cape stitched from the same bird's feathers and cut to catch the air.
 
-Enchanted boots found in Kakariko Graveyard and other places touched by swift spirits. When activated, they launch the wearer into a sprint of almost supernatural speed.
+**Effect:** While wearing the cape you have the benefits of **Roc's Feather** (see Lesser Relics). In addition, after a jump you can glide horizontally up to 30 feet before descending, and you take no falling damage if you land while gliding.
 
-{{footnote Items | Adventuring Gear & Consuma }}
-
-{{pageNumber,auto}}
-
-\page
-
-**Effect:** As a bonus action, activate the Pegasus Boots. Until the end of your turn, your walking speed is tripled and you do not provoke opportunity attacks. If you move in a straight line and strike a creature at the end of this movement, the attack deals +2d6 bludgeoning damage and the target must make a DC 14 Strength saving throw or be knocked prone. Recharges after a short rest.
-
-**Cost:** 500 gp (when available; usually acquired through specific quests)
-
----
-
-#### Roc's Feather / Roc's Cape
-*Wondrous item, uncommon / rare (Oracle games, Minish Cap)*
-
-A magical feather (or its more powerful cape variant) that allows the wearer to leap far higher than natural ability would permit.
-
-**Roc's Feather (200 gp):** Once per turn, you can jump up to 15 feet horizontally or 10 feet vertically as a bonus action, without requiring a running start.
-
-**Roc's Cape (600 gp):** As Roc's Feather, but your jump distances are doubled, and after jumping you can glide horizontally up to 30 feet before descending. You take no falling damage if you land while the cape is active.
+**Cost:** 600 gp (when available)
 
 ---
 
@@ -19153,22 +19235,9 @@ A headpiece styled after a woodland rabbit, said to carry the speed of a frighte
 
 An enchanted boomerang inhabited by a captive Fairy of Winds. When thrown, it generates a focused whirlwind that can extinguish fires, spin mechanisms, and scatter lighter enemies.
 
-**Effect:** Functions as a Boomerang (1d6 bludgeoning, returning, 40/80 range). In addition, when thrown, it generates a burst of wind in a 10-foot cone at the point of impact: small fires are extinguished, lightweight objects (less than 5 lbs.) are hurled 10 feet away, and flying creatures of Medium size or smaller must make a DC 13 Strength save or be knocked prone.
+**Effect:** Functions as a Boomerang (1d6 bludgeoning, returning, 30/90 range). In addition, when thrown, it generates a burst of wind in a 10-foot cone at the point of impact: small fires are extinguished, lightweight objects (less than 5 lbs.) are hurled 10 feet away, and flying creatures of Medium size or smaller must make a DC 13 Strength save or be knocked prone.
 
 **Cost:** Artifact, not for sale; must be found or won
-
----
-
-#### Spinner
-*Wondrous item, rare (TP)*
-
-\column
-
-A top-like Sheikah/ancient relic that, when deployed, expands beneath the user's feet and allows them to race along special rail tracks embedded in certain ancient ruins and dungeons.
-
-**Effect:** When standing on an ancient rail (narrow grooved track found in certain ruins), you can use the Spinner to travel the track at up to 60 feet per round without expending movement, automatically following the track's path. Off-track, the Spinner can be used as a thrown weapon (range 20/60; 2d6 bludgeoning; returning) that pins Medium or smaller creatures in place on a hit (DC 14 Strength save to escape, freeing costs all movement on that turn).
-
-**Cost:** Artifact, found in specific ruins; not for purchase
 
 ---
 
@@ -19183,35 +19252,22 @@ A precision optical scope worn over one eye, crafted by Rito artisans for long-d
 
 ---
 
-#### Lens of Truth
-*Wondrous item, rare (OoT, MM)*
-
-A monocular device of Sheikah origin that allows the user to perceive what is hidden: invisible creatures, illusory walls, false floors, and disguised enemies all become visible.
-
-**Effect:** As an action, you peer through the Lens. Until the start of your next turn, you can see invisible creatures and objects, see through illusions (as if you had succeeded on a saving throw), and detect secret doors within 30 feet that are within your line of sight. The Lens functions continuously if held to the eye, but requires concentration. Continuous use beyond 1 minute per short rest begins to give you a headache from overstimulation.
-
-**Cost:** Sheikah artifact; not for sale
-
----
-
 #### Sheikah Sensor
 *Wondrous item, uncommon (BotW)*
 
 A Sheikah Slate attachment or standalone device that pulses faintly when certain designated objects (Shrines of Trials, Korok Seeds, specific materials) are nearby.
 
-{{footnote Items | Adventuring Gear & Consuma }}
+**Effect:** Attune it to a specific type of object, material, or magical aura (takes 1 hour and requires a sample or detailed description). While attuned, the Sensor pulses audibly when the target type is within 60 feet, and pulses faster as you grow closer (within 20 feet). It does not give direction, only proximity.
+
+**Cost:** 200 gp (a Sheikah technician retunes it in 1 hour; doing it yourself takes 8 hours)
+
+---
+
+{{footnote Items | Gear & Consumables }}
 
 {{pageNumber,auto}}
 
 \page
-
-**Effect:** Attune it to a specific type of object, material, or magical aura (takes 1 hour and requires a sample or detailed description). While attuned, the Sensor pulses audibly when the target type is within 60 feet, and pulses faster as you grow closer (within 20 feet). It does not give direction, only proximity.
-
-**Cost:** 200 gp (attunement to a new type requires a Sheikah technician or 8 hours of self-configuration)
-
----
-
-\column
 
 ### Ammunition Summary Table
 
@@ -19233,7 +19289,7 @@ A Sheikah Slate attachment or standalone device that pulses faintly when certain
 | Water Bomb | 10 gp | Functions underwater |
 | Bombchu | 15 gp | Runs 30 ft. along surfaces before detonating |
 
-{{footnote Items | Adventuring Gear & Consuma }}
+{{footnote Items | Gear & Consumables }}
 
 {{pageNumber,auto}}
 
@@ -19263,9 +19319,7 @@ ___
 
 Relics are items of extraordinary power, deep history, or sacred origin. They are not bought in shops or pried from monster loot. They are found at the heart of ancient dungeons, earned through trials set by the goddesses themselves, passed down through royal bloodlines, or drawn from the ruins of civilizations that no living person can name.
 
-\column
-
-Relics marked with ✦ are **quest items**. They cannot be sold, traded, or permanently lost by their rightful bearer. If separated from the bearer, they will find their way back within 1d7 days unless sealed by powerful divine magic.
+Relics marked with ✦ are **quest items**. They cannot be sold, traded, or permanently lost by their rightful bearer. If separated from the bearer, they will find their way back within seven days unless sealed by powerful divine magic.
 
 ---
 
@@ -19290,8 +19344,6 @@ What this chapter gives you is a ladder, so that you know what you are handing o
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/ALttP_Triforce_Sacred_Realm_soft.png' alt='The Sacred Realm' style='display:block;width:328px;height:230px;margin:6px auto 2px auto'/>
 
-\column
-
 ## Rules That Apply to Every Relic
 
 > ##### New Rule: The Relic Save DC
@@ -19300,17 +19352,19 @@ What this chapter gives you is a ladder, so that you know what you are handing o
 > **8 + your proficiency bonus + your highest ability modifier**
 >
 > This is your **Relic save DC**. It is the same for every relic you carry, it does not depend on your class, and it scales with you, so a relic found at 5th level is still worth using at 15th.
+>
+> Where a relic calls for an attack roll and gives no bonus, your **Relic attack bonus** is your proficiency bonus + the same ability modifier.
+
+> ##### New Rule: Once Per Turn
+> **A relic that adds damage to your attacks adds it once per turn**, on the first attack that qualifies, unless the relic says otherwise.
+>
+> This is the single most important balance rule in the chapter. Extra Attack, multiattack effects and bonus-action strikes would otherwise multiply every relic in this chapter by two or three, and the character contributing that damage would not need any class features at all.
 
 {{footnote Relics | Using Relics }}
 
 {{pageNumber,auto}}
 
 \page
-
-> ##### New Rule: Once Per Turn
-> **A relic that adds damage to your attacks adds it once per turn**, on the first attack that qualifies, unless the relic says otherwise.
->
-> This is the single most important balance rule in the chapter. Extra Attack, multiattack effects and bonus-action strikes would otherwise multiply every relic in this chapter by two or three, and the character contributing that damage would not need any class features at all.
 
 **Attunement.** Every relic states whether it requires attunement, and the standard limit of three attuned items applies. It is a real constraint: a character carrying the Master Sword, a Sage Medallion and an Element has no slot left, and that is the intended cost of carrying three legends at once. Forming the bond takes a short rest unless the entry says otherwise, and several of the greatest relics do.
 
@@ -19334,8 +19388,6 @@ Four questions, and the fourth is the one that matters.
 *Wondrous item, artifact (attunement is automatic and does not count against your limit of three)*
 
 The three golden triangles left behind when the Golden Goddesses, Din, Nayru, and Farore, departed the world at the moment of its creation. Together they form the Triforce: a wish-granting relic of absolute power, and the axis around which the fate of Hyrule has turned since the beginning of time.
-
-\column
 
 > ##### The Ceiling
 > **Nothing in this book is stronger than the Triforce, and nothing should be.** Every other relic in this chapter was written to sit beneath it. If you invent a relic for your own campaign, measure it against this page and keep it lower.
@@ -19362,12 +19414,6 @@ It burns with an inner heat visible through the back of the hand it marks. Ganon
 
 **Regeneration.** You regain 10 hit points at the start of each of your turns. This does not function on any turn during which you have taken **radiant damage** since the end of your last turn, or at any point while a drawn Master Sword is within 30 feet of you.
 
-{{footnote Relics | Using Relics }}
-
-{{pageNumber,auto}}
-
-\page
-
 **Death's Door.** If a killing blow does bring you to 0 hit points, you automatically succeed on your first death saving throw each round, and you stabilize after two successes rather than three.
 
 **Requirement.** The Triforce of Power seeks those with strength of conviction, for good or ill. If a creature attuned to it ever willingly surrenders without need, it may slip away.
@@ -19378,6 +19424,12 @@ It burns with an inner heat visible through the back of the hand it marks. Ganon
 *Tier 0. The golden triangle left by Nayru.*
 
 It gleams with a soft blue-white light and seems to clarify the thoughts of those nearby. It has most often chosen Zelda, princess of Hyrule, of a lineage of seers and prophets whose wisdom guards the kingdom even when its armies cannot.
+
+{{footnote Relics | Using Relics }}
+
+{{pageNumber,auto}}
+
+\page
 
 **Passive Effect.** Your Intelligence and Wisdom scores each increase by 3, to a maximum of 26. You can never be surprised. You have advantage on all saving throws against spells and magical effects.
 
@@ -19399,8 +19451,6 @@ It pulses faintly gold on the back of the left hand, warm to the touch. It has m
 **Ward Against Magic.** You have advantage on saving throws against any effect that would compel you to flee, surrender, or abandon an ally, and resistance to damage from spells.
 
 **The Last Step.** Once per long rest, when you would take damage that would reduce you to 0 hit points, you can reduce that damage to 0.
-
-\column
 
 **Death's Door.** When you drop to 0 hit points, you automatically succeed on your first death saving throw each round, and you stabilize after two successes rather than three.
 
@@ -19446,7 +19496,7 @@ This is the cycle. It has happened before. It will happen again.
 
 The Master Sword is not merely a weapon. It began as the **Goddess Sword**, forged by the goddess Hylia against the rising power of Demise, and was made into the Master Sword by her chosen hero, who bathed it in the three Sacred Flames. Zelda's blessing completed it. Sleeping within it is **Fi**, the spirit the goddess placed there.
 
-**Base statistics.** The Master Sword is a broadsword dealing 1d8 slashing damage, with the **versatile (1d10)** and **fine** properties. Everything below is in addition to that.
+**Base statistics.** The Master Sword is a broadsword dealing 1d8 slashing damage, with the **versatile (1d10)** property. It is a magic weapon with a **+2 bonus** to attack and damage rolls. Everything below is in addition to that.
 
 > ##### On the sword's origins
 > The histories do not agree, and this book does not pretend otherwise. The oldest Hylian record says the people of Hyrule forged the blade after Ganon claimed the Triforce. Another says the gods ordered it made long before, precisely so that something would exist to oppose whoever seized the Triforce. A third credits the ancient Sages. The oldest account of all says Hylia made it herself.
@@ -19459,11 +19509,11 @@ The Master Sword is not merely a weapon. It began as the **Goddess Sword**, forg
 
 **Evil's Bane.** **Once per turn**, when you hit a creature that is undead, a fiend, a creature of pure shadow, or a creature under Ganon's influence, the Master Sword deals an additional **2d6 radiant damage** and ignores that creature's resistance to radiant damage. Against Ganon himself, this increases to 4d6 and also ignores immunity.
 
-\column
+**Under Ganon's influence** means a Blight; a creature with the **Ganon's Empowerment** trait (silver Bokoblins and Moblins); a Death Armos or a Death Beamos; a creature with the **Malice** tag, such as the Phantom of Lanayru; or any creature the DM rules is corrupted by Malice. These are also the **Malice constructs** that other items in this book refer to.
 
-**Sword Beam.** While you are at full hit points, you can use a bonus action to fire a beam of light: a ranged spell attack at a target within 60 feet, using **your proficiency bonus plus your Strength or Dexterity modifier**, whichever you use to attack with the sword. On a hit it deals 2d8 radiant damage. Against a creature vulnerable to radiant damage, the beam scores a critical hit on a roll of 19 or 20.
+**Sword Beam.** While you have at least half your hit points, you can use a bonus action to fire a beam of light: a ranged spell attack at a target within 60 feet, using **your proficiency bonus plus your Strength or Dexterity modifier** (your choice). On a hit it deals 2d8 radiant damage. Against a creature vulnerable to radiant damage, the beam scores a critical hit on a roll of 19 or 20. It can be a Called Shot.
 
-**Barrier Breaker.** Your attacks with the Master Sword ignore, and destroy on a hit, any magical barrier, ward, seal or *forcecage* of 6th level or lower. Against higher-level barriers, one hit suppresses the barrier until the end of your next turn.
+**Barrier Breaker.** Your attacks with the Master Sword ignore, and destroy on a hit, any magical barrier, ward or seal of 6th level or lower, and any *forcecage*. A barrier that isn't a spell counts as 6th level or lower unless a Sage, a god or the Demon King made it. Against greater barriers, one hit suppresses the barrier until the end of your next turn. A barrier on a creature is struck when you hit the creature.
 
 **Curse Breaker.** As an action, you can touch a creature or object with the Master Sword to end one curse, one polymorph effect, or one magical transformation affecting it, as though you had cast *remove curse* or *dispel magic* at 9th level.
 
@@ -19471,11 +19521,11 @@ The Master Sword is not merely a weapon. It began as the **Goddess Sword**, forg
 
 **Return to the Pedestal.** If the bearer is slain, or willingly returns it, the sword flies to its pedestal. The bearer always knows the direction and approximate distance to it, wherever in the world it rests.
 
-**Sealing Power.** Once per long rest, as an action, you can touch one creature of CR 10 or lower and attempt to seal it inside a vessel of your choosing: a statue, a sword, a standing stone. The target makes a Charisma saving throw against your **Relic save DC**. On a failure it is sealed for 100 years, or until the vessel is destroyed or the seal is deliberately broken. On a success it is stunned until the end of its next turn.
+**Sealing Power.** Once per long rest, as an action, you can touch one creature of CR 10 or lower that is below half its hit point maximum or incapacitated, and attempt to seal it inside a vessel of your choosing: a statue, a sword, a standing stone. The target makes a Charisma saving throw against your **Relic save DC**. On a failure it is sealed for 100 years, or until the vessel is destroyed or the seal is deliberately broken. On a success it is stunned until the end of its next turn.
 
 A sealed creature may attempt to break out once per year, repeating the save. With additional divine sanction, and at the DM's discretion, this power can be turned on far greater beings; that is how Ganon was sealed the first time.
 
-<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/Jlrk6rP.png' alt='The Master Sword' style='display:block;width:123px;height:217px;margin:6px auto 2px auto'/>
+<img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/Jlrk6rP.png' alt='The Master Sword' style='display:block;width:89px;height:156px;margin:6px auto 2px auto'/>
 
 {{footnote Relics | The Master Sword }}
 
@@ -19507,8 +19557,6 @@ Two legends survive about where the sword sleeps and what unlocks it. Both are t
 >
 > This is a legitimate campaign turn and not a punishment. Used well, it is the mid-campaign time skip that changes the map, ages the NPCs, and lets the villain finally win something.
 
-\column
-
 > ##### The Sword Can Be Weakened
 > The Master Sword's power to repel evil was **given**, not born in it, and what is given can be taken away.
 >
@@ -19517,8 +19565,6 @@ Two legends survive about where the sword sleeps and what unlocks it. Both are t
 > This is the best villain move available to a DM whose party has become too comfortable, and it is entirely canonical. Restoring the blade should be its own arc.
 
 **Those with evil hearts cannot touch it.** This is not a saving throw. A creature the sword refuses simply cannot pick it up, and the party's most morally compromised member may discover this in front of everyone.
-
-
 
 {{footnote Relics | The Master Sword }}
 
@@ -19535,7 +19581,7 @@ These relics belong in a campaign set in Hyrule's ancient past, before the Maste
 
 *Each Sacred Flame requires attunement.*
 
-\column
+**The Goddess Sword** is a broadsword dealing 1d8 slashing damage, with the **versatile (1d10)** property; its attacks are magical. **Tempering is permanent and does not stack:** each Flame's tempering replaces the one before it (the Long Sword's +1 becomes the White Sword's +2), and the sword keeps its form if you later end your attunement to a Flame.
 
 ### Farore's Flame ✦
 *Sacred relic, Tier 2 (requires attunement)*
@@ -19593,7 +19639,7 @@ The green pendant from the Great Hyrule Forest, associated with Farore. Its surf
 
 The red pendant from the Desert Palace, associated with Din. It is warm to the touch and occasionally pulses.
 
-**Passive Effect.** **Once per turn**, when you hit a creature with a melee weapon attack, you deal an additional 2 damage of the weapon's type. You have advantage on Strength (Athletics) checks.
+**Passive Effect.** **Once per turn**, when you hit a creature with a melee weapon attack, you deal an additional 1d6 damage of the weapon's type. You have advantage on Strength (Athletics) checks.
 
 ---
 
@@ -19606,8 +19652,7 @@ The blue pendant from the Tower of Hera, associated with Nayru. It is the heavie
 
 ---
 
-**The Three Together.** A bearer holding all three Pendants may draw the Master Sword from the Lost Woods pedestal if the sword recognizes them. In a campaign using the Temple of Time legend instead, the three Pendants together grant the recognition without the journey: the sword accepts a bearer who wears all three, though they must still reach the pedestal.
-
+**The Three Together.** A bearer carrying all three Pendants may draw the Master Sword from the Lost Woods pedestal if the sword recognizes them. The Pendants act as the key whether or not you are attuned to them; only their passive effects need attunement. In a campaign using the Temple of Time legend instead, the three Pendants together grant the recognition without the journey: the sword accepts a bearer who carries all three, though they must still reach the pedestal.
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/sUc8XRV.png' alt='Pendant of Courage' style='display:block;width:328px;height:212px;margin:6px auto 2px auto'/>
 
@@ -19648,8 +19693,6 @@ When a Sage awakens to their calling, they forge a medallion and send it to the 
 >
 > If you would rather they line up in your Hyrule, swap Forest for Earth and Shadow for Wind and nothing else in the book breaks.
 
-\column
-
 ### Forest Medallion ✦
 *Sacred relic, Tier 2 (requires attunement). Gift of Saria, Sage of the Forest.*
 
@@ -19672,7 +19715,6 @@ A red disc that is warm to the touch. The Goron sage's fierce courage is bound w
 A blue disc that is always cool and slightly wet, as if just pulled from a deep lake.
 
 **Passive Effect.** You can breathe water and have a swim speed of 30 feet. Currents, floods and pressure do not affect you. You have advantage on Constitution saving throws.
-
 
 {{footnote Relics | Sage Medallions }}
 
@@ -19794,8 +19836,6 @@ A deep crimson crystal, warm to the touch, glowing faintly in darkness. Fire bri
 
 A pale blue crystal, always cool, catching light from no obvious source. Water flows around obstacles and purifies what it touches.
 
-\column
-
 **Passive Effect.** You have advantage on Dexterity saving throws. When you finish a short rest you may remove one of the following from yourself: the poisoned condition, the blinded condition, one level of standard exhaustion, or one level of Weather Exhaustion. Once per long rest you can cast *create or destroy water* or *water walk* without expending magic points.
 
 ---
@@ -19805,7 +19845,7 @@ A pale blue crystal, always cool, catching light from no obvious source. Water f
 
 A pale green crystal that drifts upward slightly in still air. Wind carries seeds to new lands. It is the force of possibility, of travel, of beginning again.
 
-**Passive Effect.** Your jump distances are doubled and you take no damage from falls of 30 feet or less. Your walking speed increases by 10 feet. Once per short rest, as a bonus action, you can cast *gust of wind* or *feather fall* without expending magic points. You always know the wind's direction and can sense approaching weather up to 24 hours ahead.
+**Passive Effect.** Your jump distances are doubled and you take no damage from falls of 30 feet or less. Your walking speed increases by 10 feet. Once per short rest you can cast *gust of wind* (as a bonus action) or *feather fall* (as a reaction, when you fall) without expending magic points. You always know the wind's direction and can sense approaching weather up to 24 hours ahead.
 
 ---
 
@@ -19840,7 +19880,7 @@ Each Essence is a jewel-like object about the size of a Deku Nut, pulsing with q
 
 *"Seeds scattered across bountiful lands are nourished in this Fertile Soil!"*
 
-**Passive Effect.** Once per day you can make up to 30 square feet of natural ground lush and fertile; by the next morning it sprouts enough edible vegetation to feed six people. Crops planted near you grow in days rather than months. Plant-based difficult terrain does not slow you.
+**Passive Effect.** Once per day you can make a 30-foot square of natural ground lush and fertile; by the next morning it sprouts enough edible vegetation to feed six people. Crops planted near you grow in days rather than months. Plant-based difficult terrain does not slow you.
 
 ---
 
@@ -19865,9 +19905,7 @@ Each Essence is a jewel-like object about the size of a Deku Nut, pulsing with q
 
 *"A single drop of the Soothing Rain can make flowers bloom!"*
 
-\column
-
-**Passive Effect.** Once per short rest you can touch a willing creature to remove the poisoned condition or reduce its exhaustion by one level. You have advantage on Wisdom (Medicine) checks, and any creature you stabilize heals 1d4 hit points at the end of your turn.
+**Passive Effect.** Once per short rest you can touch a willing creature to remove the poisoned condition, one level of exhaustion, or one level of Weather Exhaustion. You have advantage on Wisdom (Medicine) checks, and any creature you stabilize heals 1d4 hit points at the end of your turn.
 
 ---
 
@@ -19894,7 +19932,7 @@ Each Essence is a jewel-like object about the size of a Deku Nut, pulsing with q
 
 *"Life begins anew when birds carry this, the Seed of Life, to new lands!"*
 
-**Passive Effect.** Once per long rest, when you drop to 0 hit points, you **immediately and automatically** regain hit points equal to half your hit point maximum. This requires no action and works even after death saving throw failures, provided it triggers before your third. You have advantage on death saving throws while this Essence is on your person.
+**Passive Effect.** Once per long rest, when you drop to 0 hit points, you **immediately and automatically** regain hit points equal to half your hit point maximum. This requires no action. You have advantage on death saving throws while this Essence is on your person.
 
 ---
 
@@ -19907,13 +19945,13 @@ Each Essence is a jewel-like object about the size of a Deku Nut, pulsing with q
 
 ---
 
+**All Eight Essences of Nature.** You are in harmony with the living world. Once per day you can cast *control weather* without components or magic points, and plants and animals will never willingly harm you.
+
 {{footnote Relics | Essences of Nature }}
 
 {{pageNumber,auto}}
 
 \page
-
-**All Eight Essences of Nature.** You are in harmony with the living world. Once per day you can cast *control weather* without components or magic points, and plants and animals will never willingly harm you.
 
 ## Essences of Time
 *(Oracle of Ages). Tier 3.*
@@ -19954,8 +19992,6 @@ The eight Essences of Time are the forces that give history its meaning: memory,
 
 *"It reignites wavering hearts with a hero's burning passion."*
 
-\column
-
 **Passive Effect.** You are immune to the frightened condition. Once per short rest, when an ally within 30 feet fails a saving throw, you may use your reaction to let them reroll it. Your critical hit range expands by 1 (you score a critical hit on a 19 or 20).
 
 ### Sacred Soil ✦
@@ -19992,13 +20028,13 @@ The eight Essences of Time are the forces that give history its meaning: memory,
 
 **Passive Effect.** You always know the direction and approximate distance to every other Essence of Time or Nature in the world. You cannot become lost by any means. Once per long rest you can cast *guiding bolt* without expending magic points, dealing 8d6 radiant damage instead of 4d6. Outdoors, you always know the exact time of night, the season, and your cardinal direction.
 
+**All Eight Essences of Time.** Once per year you can cast *time stop* without components or magic points, and you do not age while it is active. You also sense temporal disturbance: you feel unease on entering any location whose timeline has been altered.
+
 {{footnote Relics | Essences of Nature }}
 
 {{pageNumber,auto}}
 
 \page
-
-**All Eight Essences of Time.** Once per year you can cast *time stop* without components or magic points, and you do not age while it is active. You also sense temporal disturbance: you feel unease on entering any location whose timeline has been altered.
 
 ## Other Sacred Relics
 
@@ -20029,8 +20065,6 @@ Shards of an ancient dark mask holding the magic of the **Dark Interlopers**, th
 
 The link the goddesses left between light and shadow after banishing the Interlopers into the Twilight Realm. It is a **projector, not a portal**: it casts light onto a black Portal Stone, and the stone opens the way.
 
-\column
-
 **Whole Mirror.** Once per day, the restored Mirror opens a two-way gate for 1 minute between its chamber and a corresponding point in the Twilight Realm. Opening it requires either the willing touch of a Twilit creature or a Sage's blessing or equivalent radiant power.
 
 **Individual Shards.** Holding one of the Mirror's shards lets you cast *see invisibility* at will without expending magic points; it reveals Twilit glamours and shadow disguises in particular. You cannot be permanently transformed against your will by Twilight magic.
@@ -20051,7 +20085,7 @@ A small golden harp bearing Hylia's crest, given to the chosen hero by the godde
 - **Farore's Courage.** You and allies within 30 feet who hear the music have advantage on saving throws against being frightened for 1 hour.
 - **Nayru's Wisdom.** You gain the benefit of *legend lore* concerning one ancient location or artifact within 1 mile.
 - **Din's Power.** Each creature of your choice within 30 feet that can hear the music takes 3d8 thunder damage, or half as much on a successful Constitution saving throw.
-- **Awakening.** The harp plays a resonance that activates dormant Sheikah technology, Goddess statues and sealed stone mechanisms. What wakes up is the DM's business.
+- **Awakening.** The harp plays a resonance that activates dormant Sheikah technology, Goddess statues and sealed stone mechanisms. What wakes up is the DM's business. Against an active construct within 30 feet that can hear the music, it makes a Wisdom saving throw or is incapacitated until the end of its next turn.
 
 ## Spiritual Stones
 *(Ocarina of Time). Tier 3.*
@@ -20085,7 +20119,7 @@ The three Spiritual Stones are the keys of the Door of Time. Each was held by on
 
 ---
 
-**All Three Together.** With the Ocarina of Time and the Song of Time, the three Stones unseal the **Door of Time** in the Temple of Time. In a campaign using the Temple of Time legend, beyond it lies the Pedestal of Time and the Master Sword. In a campaign using the Lost Woods legend, beyond it lies the entrance to the **Sacred Realm** itself, which is a larger and far more dangerous prize.
+**All Three Together.** With the Ocarina of Time and the Song of Time, the three Stones unseal the **Door of Time** in the Temple of Time. The Stones need only be carried, not attuned, to do this; the Ocarina must be attuned to play the Song. In a campaign using the Temple of Time legend, beyond it lies the Pedestal of Time and the Master Sword. In a campaign using the Lost Woods legend, beyond it lies the entrance to the **Sacred Realm** itself, which is a larger and far more dangerous prize.
 
 ### Ocarina of Time
 *(Ocarina of Time)*
@@ -20096,8 +20130,6 @@ A sky-blue ocarina that belonged to the royal family of Hyrule, holding the echo
 **Attunement.** The ocarina attunes instantly to a bearer it recognizes as of the royal bloodline or chosen by the goddesses. Anyone else must practice for 3 days.
 
 **Songs.** Playing a Song of Power takes an action. Songs must be taught or discovered; the ocarina never reveals one on its own. Where a save is called for, use your **Relic save DC**.
-
-\column
 
 | Song | Effect |
 |:--|:--|
@@ -20124,7 +20156,7 @@ A sky-blue ocarina that belonged to the royal family of Hyrule, holding the echo
 
 Everything before this page changes a campaign. Everything on the next four pages changes a **dungeon**, and that is the more useful thing to have in your hands most weeks.
 
-A Lesser Relic gives a character one new verb: jump, dig, dash, see what is hidden, flip a thing over, walk on water. None of them adds meaningful damage. All of them change what a room can ask of the party, which is the whole engine of a Zelda dungeon and the reason these are worth more at the table than another sword.
+A Lesser Relic gives a character one new verb: jump, dig, dash, see what is hidden, flip a thing over, walk on water. Few of them add much damage, and all of them change what a room can ask of the party, which is the whole engine of a Zelda dungeon and the reason these are worth more at the table than another sword.
 
 {{footnote Relics | Stones & Ocarina }}
 
@@ -20132,7 +20164,7 @@ A Lesser Relic gives a character one new verb: jump, dig, dash, see what is hidd
 
 \page
 
-**Most Lesser Relics do not require attunement**, so a party can carry many. That is intended. The constraint on a Lesser Relic is not the attunement slot; it is that you have to go and find it.
+**Most Lesser Relics do not require attunement**, so a party can carry many. That is intended. A relic in this section that does not say *(requires attunement)* does not need it. A few Tier 3 relics are filed here too (the Golden Gauntlets, Magic Cape, Cane of Byrna, Ball and Chain, Spinner, Dominion Rod and the three Medallions), because they are verbs as well. The constraint on a Lesser Relic is not the attunement slot; it is that you have to go and find it.
 
 ---
 
@@ -20161,7 +20193,7 @@ A heavy, water-stained collection of ancient Hylian lore, kept for centuries in 
 
 Heavy bronze-buckled boots that do nothing at a walk and a great deal at a run.
 
-**Effect.** As a bonus action you begin a **dash**: move up to twice your speed in a straight line without provoking opportunity attacks. If you end this movement against a wooden door, a cracked wall, a bookcase, a tree or a similar object, it breaks. If you end it against a creature, it makes a Strength saving throw against your **Relic save DC**, taking 2d6 bludgeoning damage and being pushed 10 feet on a failure, or half damage and no push on a success.
+**Effect.** As a bonus action you begin a **dash**: move up to twice your speed in a straight line without provoking opportunity attacks. If you end this movement against a wooden door, a cracked wall, a bookcase, a tree or a similar object, it breaks. If you end it against a creature, it makes a Strength saving throw against your **Relic save DC**, taking 2d6 bludgeoning damage and, if it is Large or smaller, being pushed 10 feet on a failure, or half damage and no push on a success.
 
 You cannot dash again until the end of your next turn.
 
@@ -20171,8 +20203,6 @@ You cannot dash again until the end of your next turn.
 *(Link's Awakening). Wondrous relic, Tier 4.*
 
 A single stiff white feather, longer than an arm, from a bird nobody living has seen.
-
-\column
 
 **Effect.** Your long jump and high jump distances are doubled, and you may make a running jump after moving only 5 feet rather than 10. As a bonus action you may jump without spending movement.
 
@@ -20209,16 +20239,16 @@ Webbed swimming fins of Zora make, traditionally sold rather than given, and nev
 
 ---
 
-### Magic Mirror
-*(A Link to the Past). Wondrous relic, Tier 4.*
-
-A hand mirror in a curled silver frame, given away by a lost old man to the person who walked him home.
-
 {{footnote Relics | Lesser Relics }}
 
 {{pageNumber,auto}}
 
 \page
+
+### Magic Mirror
+*(A Link to the Past). Wondrous relic, Tier 4.*
+
+A hand mirror in a curled silver frame, given away by a lost old man to the person who walked him home.
 
 **Effect.** As an action you can activate the Mirror to return from a parallel or overlaid realm (the Twilight Realm, the Dark World, a Silent Realm, the Depths) to the corresponding point in the world of light. Anything you carry and any willing creature you touch comes with you. A shimmering mark remains where you crossed; you can return through it later from either side.
 
@@ -20246,7 +20276,7 @@ A slender blue rod recovered from a cave that could only be reached by jumping o
 
 The barrier costs **3 MP** to raise and **3 MP** at the start of each of your turns to maintain. It ends when you stop paying or when you fall unconscious.
 
-*The Cane costs less than the Magic Cape and hides nothing. Everyone can see exactly where you are, glowing.*
+*The Cane costs more than the Magic Cape and hides nothing. Everyone can see exactly where you are, glowing.*
 
 ---
 
@@ -20254,8 +20284,6 @@ The barrier costs **3 MP** to raise and **3 MP** at the start of each of your tu
 *(The Minish Cap). Wondrous relic, Tier 4.*
 
 A wide-mouthed clay jar bound in copper, made by people four inches tall, which is why it has a handle on the side rather than the top.
-
-\column
 
 **Effect.** As an action you can direct the jar at a point within 30 feet and either **inhale** or **exhale**.
 
@@ -20322,8 +20350,6 @@ An ancient gyroscopic disc from the Arbiter's Grounds, ridden standing, which lo
 *(Twilight Princess). Wondrous relic, Tier 3 (requires attunement).*
 
 Also called the Rod of the Heavens. The Oocca, the bird-like people who live in the City in the Sky and are said to have shaped Hyrule's first humans, left it with the royal family so that a messenger could speak to the sky. It is unusable until a scholar reads the right passage aloud over it, and it goes quiet again on its own schedule.
-
-\column
 
 **Effect.** As an action, target one statue, automaton or carved figure you can see within 60 feet that is Large size or smaller. Until you take another action to release it, or it is destroyed, it moves as you move and acts on your turn, mirroring you. It has the statistics of an **animated object** of its size, and it can press switches, carry weight, cross hazards and fight.
 
@@ -20394,8 +20420,6 @@ A conductor's baton of white and gold, used long ago to direct the sages who pla
 
 **Effect.** While attuned, you can conduct as an action. You know the songs below; others exist.
 
-\column
-
 | Song | Effect |
 |:--|:--|
 | **Wind's Requiem** | Set the prevailing wind's direction within a mile for 1 hour |
@@ -20449,19 +20473,11 @@ Before laying out a single room, hold onto three ideas:
 
 **Player creativity is not a threat to your dungeon.** It is the point. If a player finds an unexpected solution, your instinct should usually be to let it work. The dungeon's job is to create a feeling (accomplishment, tension, discovery), not to protect a specific sequence of steps. A player who burns down a wooden door has solved a puzzle, just not the one you intended. Embrace it, redirect it, or build gentle consequences into it. But rarely forbid it outright.
 
-\column
-
 ## The Zelda Dungeon Blueprint
 
 The blueprint below is a framework, not a law. Classic Zelda dungeons loop through parts of this sequence multiple times. Some skip steps entirely. Some run the sequence in a different order. Think of it as a checklist of narrative beats, and decide which ones your dungeon needs.
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/TWW_Armos_Door_cut.png' alt='A guarded door' style='display:block;width:185px;height:330px;margin:6px auto 2px auto'/>
-
-{{footnote DM Guide | Dungeon Design }}
-
-{{pageNumber,auto}}
-
-\page
 
 ### Step 1: The Entrance
 
@@ -20477,6 +20493,12 @@ A strong entrance typically includes:
 
 ---
 
+{{footnote DM Guide | Dungeon Design }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Step 2: Orientation (Map and First Key)
 
 Somewhere in the dungeon's early rooms, players should gain some form of orientation. In classic Zelda, this is the Dungeon Map and Small Key. In your game, this might look like:
@@ -20489,8 +20511,6 @@ Somewhere in the dungeon's early rooms, players should gain some form of orienta
 Players do not need a complete map. They need enough information to feel like they are exploring rather than wandering.
 
 ---
-
-\column
 
 ### Step 3: The Mini-Boss
 
@@ -20510,7 +20530,9 @@ The mini-boss should feel thematically tied to the dungeon. It does not have to 
 
 The Dungeon Item is the heart of a Zelda dungeon. It is the tool that unlocks the second half of the dungeon, solves its central puzzles, and determines the strategy for the boss fight.
 
-**Choosing a Dungeon Item:** Pick something from the Adventuring Gear section of the Items chapter that creates interesting *interactions with the environment*, not just combat power. Good Dungeon Items have answers to the question: *"What can I do with this that I couldn't do before?"*
+**Choosing a Dungeon Item:** Pick something from the Items chapter (a weapon or a piece of Adventuring Gear) or a Lesser Relic from the Relics chapter that creates interesting *interactions with the environment*, not just combat power. Good Dungeon Items have answers to the question: *"What can I do with this that I couldn't do before?"*
+
+\column
 
 Examples:
 - **Hookshot:** Pull objects, cross gaps, reach high switches, yank enemies.
@@ -20522,12 +20544,6 @@ Examples:
 **Introducing the Item:** The room where players find the dungeon item should immediately suggest one obvious use for it. A Hookshot found in a room with a large metal ring on a distant platform. Bombs found next to a visibly cracked wall. Do not let players wonder what it does; show them.
 
 **Teaching the Item:** Rooms between the mini-boss and the boss should progressively deepen how the item is used:
-
-{{footnote DM Guide | Dungeon Design }}
-
-{{pageNumber,auto}}
-
-\page
 
 | Room | What It Teaches |
 |:--|:--|
@@ -20549,6 +20565,12 @@ The bulk of the dungeon lies between the Dungeon Item and the Boss Key. This is 
 - **Environmental hazards.** Pressure plates, falling ceilings, spike corridors, darkness, fire jets. These should feel like part of the dungeon's original purpose, not arbitrary obstacles.
 - **Secondary enemies.** Introduce variants or companion creatures to the ones seen at the entrance. A dungeon that started with Keese now adds Fire Keese in the deeper chambers.
 
+{{footnote DM Guide | Dungeon Design }}
+
+{{pageNumber,auto}}
+
+\page
+
 > **The Boss Key equivalent** is found somewhere in this section: a distinct item, rune, ward, or combination of keys that unlocks the final chamber. Its placement is a reward for thorough exploration of the dungeon's second half.
 
 ---
@@ -20560,8 +20582,6 @@ The boss chamber should feel architecturally different from the rest of the dung
 **Before the door:** A moment of transition: a save point, a chest with a potion or two, a healing pool, a moment of eerie quiet. This is a grace beat. It signals that what comes next is significant.
 
 **The boss fight:** See the *Zelda Boss Design* chapter for full guidance on structuring boss phases, communicating weaknesses, and running vulnerability windows. For dungeon design purposes, ensure:
-
-\column
 
 - The boss fight takes place in an environment that allows creative use of the dungeon item.
 - The boss's weakness is connected to that same item, completing the dungeon's thematic arc.
@@ -20587,12 +20607,6 @@ Some dungeons are built around a single environmental mechanic that transforms h
 
 If you choose to use one, introduce it before the mini-boss so players have time to understand it before they need to use it under pressure.
 
-{{footnote DM Guide | Dungeon Design }}
-
-{{pageNumber,auto}}
-
-\page
-
 | Mechanic | How It Works in Play |
 |:--|:--|
 | **Water Levels** | A central switch or sequence of valves raises or lowers water throughout the dungeon, opening new passages and closing others. Some rooms are only accessible when flooded; others only when drained. |
@@ -20609,7 +20623,11 @@ If you choose to use one, introduce it before the mini-boss so players have time
 
 Puzzles are the creative language of a Zelda dungeon. Before worrying about specific puzzle designs, internalize these principles. They will guide every puzzle you build.
 
-\column
+{{footnote DM Guide | Dungeon Design }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### The Rule of Player Agency
 
@@ -20622,12 +20640,6 @@ You should almost always allow creative solutions. The question is *what the wor
 ### Responding to Player Creativity: The DM's Options
 
 When a player solves a puzzle in an unexpected way, you have several tools available. None of these is universally correct. Choose based on what serves the moment and your table's preferences.
-
-{{footnote DM Guide | Dungeon Design }}
-
-{{pageNumber,auto}}
-
-\page
 
 | Situation | Option A: Embrace It | Option B: Consequence | Option C: Redirect |
 |:--|:--|:--|:--|
@@ -20648,13 +20660,17 @@ When players are genuinely stuck, not just impatient, but truly at an impasse, t
 
 **On a success:** Offer a hint that narrows the solution space without solving it outright. *"You notice that the shadow the statue casts doesn't quite match the light source in the room."* The players still have to figure out what to do with that information.
 
-\column
-
 **On a failure:** You have two options, and both are valid:
 - **No information:** *"You study the room carefully but don't find anything new."* This maintains tension but may frustrate players further, so use it sparingly.
 - **Misdirection:** *"Your eye is drawn to the large crystal on the far wall, but something about the floor near the entrance feels slightly off too."* This gives players something to chase that may or may not be relevant, keeping engagement high without solving anything.
 
 > **Never offer the full solution.** A hint that eliminates all remaining uncertainty is not a hint. It's you solving the puzzle for them. The goal is to restart the engine of creative thinking, not to replace it.
+
+{{footnote DM Guide | Dungeon Design }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Designing Puzzle-Proof Dungeons
 
@@ -20677,12 +20693,6 @@ Use this when designing any dungeon from scratch.
 - [ ] What is the Dungeon Item?
 - [ ] What is the boss, and how does the Dungeon Item defeat it?
 
-{{footnote DM Guide | Dungeon Design }}
-
-{{pageNumber,auto}}
-
-\page
-
 **Rooms to include (minimum viable dungeon, 7 rooms):**
 - [ ] Entrance chamber (threshold + first encounter)
 - [ ] Orientation room (map/structure hint + first locked passage)
@@ -20692,10 +20702,12 @@ Use this when designing any dungeon from scratch.
 - [ ] Puzzle room 2 (combined use: item + enemy or item + environment)
 - [ ] Boss chamber (item-based weakness, dynamic space)
 
+**Short on time?** A *vault* (a side-dungeon or shrine) needs only three rooms: an entrance with a threshold challenge, a room holding the Dungeon Item or a mini-boss, and a final chamber that can only be opened or won with it.
+
 **For each puzzle, confirm:**
 - [ ] At least two valid solutions exist
 - [ ] Brute-force approach has a planned response
-- [ ] Class-specific abilities won't hard-break it (or you've decided that's fine)
+- [ ] Class abilities and the party's relics won't hard-break it (or you've decided that's fine)
 - [ ] A hint path exists if players get stuck
 
 **For the boss fight, confirm:**
@@ -20718,16 +20730,20 @@ Use this when designing any dungeon from scratch.
 
 ---
 
-\column
-
 ### Room 1: The Strangled Gate (Entrance)
 
 *The sanctum's entrance is an arched doorway of living wood, now choked with thick, pulsing vines. Two Deku Babas flank the path, their stems embedded in the soil on either side.*
 
+{{footnote DM Guide | Dungeon Design }}
+
+{{pageNumber,auto}}
+
+\page
+
 **First encounter:** 2× Deku Baba (CR 1/4 each). These introduce the Deku Baba's Weak Point: Called Shot (Stem). Players who target the stem prevent the Baba from using its Snap attack. This is a gentle tutorial for the called shot system in an appropriately low-stakes encounter.
 
 **Threshold puzzle:** The gate itself is sealed by a vine-wrapped locking mechanism, a thick woven knot of corrupted plant matter. Options:
-- **Intended:** Cutting the vines with a slashing weapon (2 rounds of sustained cutting or one Called Shot).
+- **Intended:** Cutting the vines (AC 10) with a slashing weapon (2 rounds of sustained cutting or one Called Shot).
 - **Creative:** Burning the vines (fire damage ignites them, but also risks alerting deeper residents; DM's call on whether this draws a patrol).
 - **Clever:** A Deku PC can use Deku Spit to break apart the dry outer vines before cutting, reducing it to 1 round.
 
@@ -20741,13 +20757,7 @@ Use this when designing any dungeon from scratch.
 
 **Locked door (north):** The runed wooden bar is magically reinforced. It cannot be broken, burned, or bypassed by normal means. It reacts to the sound of something specific (revealed later to be the boomerang's returning spin, which the Deku elders used as a key tone). Players may note it but cannot open it yet.
 
-{{footnote DM Guide | Dungeon Design }}
-
-{{pageNumber,auto}}
-
-\page
-
-**Encounter:** 3× Deku Scrub in hiding (Shrub Disguise; they appear as plants). One Perception check (DC 13) reveals the ambush before it triggers. If missed, they attack when players examine the locked door. The Deku Scrubs attempt to flee underground when reduced to half HP. If captured or spoken to (Speak with Animals or Deku PC), they can confirm: *"The winding thing opens the sealed ways. The round-thrower. The spinning sage-tool."* This is a hint toward the Dungeon Item without revealing it.
+**Encounter:** 3× Deku Scrub hiding among the plinth plants (they look like shrubs). One Perception check (DC 13) reveals the ambush before it triggers. If missed, they attack when players examine the locked door. A Scrub reduced to half HP uses Burrow Retreat and slips away through the soft soil under the plinths. If captured or spoken to (they speak Hylian and Deku), they can confirm: *"The winding thing opens the sealed ways. The round-thrower. The spinning sage-tool."* This is a hint toward the Dungeon Item without revealing it.
 
 ---
 
@@ -20755,25 +20765,29 @@ Use this when designing any dungeon from scratch.
 
 *A narrow passage choked with root growth. The roots form a deliberate maze. This was clearly architectural at one point. Now the corruption has thickened them into near-solid walls of writhing plant matter. Some sections of the root-wall pulse faintly with dark energy.*
 
-**Environmental hazard:** Moving through the root corridor costs 1 extra foot of movement per foot traveled (difficult terrain). A creature can spend 1 Stamina Point to ignore this for 5 feet.
+**Environmental hazard:** The corridor is 60 feet long and counts as difficult terrain. Its pulsing sections lash at anything that brushes them: for each 10 feet a creature moves through the corridor, it makes a DC 11 Dexterity saving throw or takes 1d6 piercing damage. A creature can spend 1 Stamina Point to move carefully through a 10-foot section, avoiding both the save and the difficult terrain.
 
 **Puzzle:** Three sections of the corridor are blocked by particularly dense root-clusters. Each cluster has a visible dry, brown core, the corrupted heartwood. Hitting the core with piercing or slashing damage kills the cluster (AC 12, 10 HP). The puzzle is recognizing that the cores need to be targeted specifically and that the surrounding root mass has resistance to bludgeoning damage (it compresses rather than breaks).
 
-**Alternative:** A Sage with Plant Growth or Speak with Plants can address the corruption directly. On a successful DC 13 Wisdom check they can calm one cluster enough to pass without combat.
+**Alternative:** A caster with Plant Growth or Speak with Plants can address the corruption directly. Casting either spell here calms the clusters enough to pass without combat (Plant Growth calms one; Speak with Plants persuades all three).
 
 ### Room 4: The Petrified Archive (Mini-Boss)
 
 *A circular chamber. Shelves of root-bound scrolls line the walls, most rotted beyond reading. At the center, a Deku elder has been entirely petrified by the Great Baba's corruption, wooden and still, one arm extended as if offering something. In its frozen hand: a carved boomerang, still gleaming.*
 
-**Mini-boss:** Corrupted Armos (use the Armos stat block, refluffed as a Guardian Statue carved from living wood, a protective construct the Deku elders awakened). Its Weak Point is its Core Rune, visible on its chest.
+**Mini-boss:** Corrupted Armos (use the Armos stat block, refluffed as a Guardian Statue carved from living wood, a protective construct the Deku elders awakened). (Stats unchanged: the wood is petrified, so it keeps the Armos's poison immunity and does not burn.) Its Weak Point is its Core Rune, visible on its chest.
 
 *The statue's eyes glow amber. It moves.*
 
-The fight teaches players to notice and target the Core Rune weak point. When the Core Rune takes a Called Shot hit, the statue is stunned until the start of its next turn, creating the vulnerability window. When defeated, the amber light goes out. The statue is still.
-
-\column
+The fight teaches players to notice and target the Core Rune weak point. **In this room only**, a Called Shot hit on the Core Rune also leaves the statue reeling: it is stunned until the start of its next turn (it still takes that turn), which is the vulnerability window. A critical hit uses the stat block's effect instead. For a party of 2nd-level characters, halve the Armos's hit points. When defeated, the amber light goes out. The statue is still.
 
 **Reward:** The Boomerang in the petrified elder's hand is now accessible. When a player takes it, a soft chime resonates through the room, and in the distance, through the walls, they hear a brief resonant hum from the direction of the sealed northern door.
+
+{{footnote DM Guide | Dungeon Design }}
+
+{{pageNumber,auto}}
+
+\page
 
 > **DM note:** The chime is a deliberate auditory hint, the boomerang's tone is connected to the rune-locked door. Players may not understand it yet, but they should note it.
 
@@ -20783,7 +20797,7 @@ The fight teaches players to notice and target the Core Rune weak point. When th
 
 *A chamber bisected by a 20-foot gap. On the far side, a stone lever sits beside a sealed gate. Between here and there: open air over a deep root-filled pit.*
 
-**Intended solution:** Throw the boomerang at the lever on the far side to pull/activate it. The boomerang's return arc is the key. It hooks the lever on the throw and pulls it on the return.
+**Intended solution:** Throw the boomerang at the lever (AC 12) on the far side to pull/activate it. The boomerang's return arc is the key. It hooks the lever on the throw and pulls it on the return.
 
 **Alternative solutions:**
 - A Hookshot (if somehow acquired) can reach the lever.
@@ -20793,27 +20807,25 @@ The fight teaches players to notice and target the Core Rune weak point. When th
 
 **Puzzle-break protection:** The gap is too wide to jump without the Jump spell. The walls beside the gap are slick with moisture (Acrobatics DC 16 to traverse them), and a failed check means 1d6 fall damage and landing in the root-pit (difficult terrain, requires a Strength DC 12 Athletics check to climb out).
 
+**Beyond the gate:** A short vine-tunnel leads to the Spore Garden (Room 6).
+
 ---
 
 ### Room 6: The Spore Garden (Puzzle Room 2: Combined)
 
 *A greenhouse chamber. Corrupted spores fill the air. Each creature that ends its turn here makes a DC 10 Constitution save or takes 1d4 poison damage. Three large seed-pods hang from vines at the ceiling, swollen and dark. A locked gate on the far wall has three small indentations above it, clearly designed to receive something.*
 
-{{footnote DM Guide | Dungeon Design }}
+**Encounter:** 2× Green Bokoblin patrol. The spore cloud lightly obscures the room, and the Bokoblins start hidden in it (they're immune; they belong here). Players must deal with both the Bokoblins and the environmental hazard simultaneously.
 
-{{pageNumber,auto}}
-
-\page
-
-**Encounter:** 2× Green Bokoblin patrol, using the spore cloud as cover (they're immune; they belong here). Players must deal with both the Bokoblins and the environmental hazard simultaneously.
-
-**Puzzle:** The three seed-pods, when struck with the boomerang, release a hardened seed that flies toward the corresponding indentation in the gate, locking into place. All three must be hit in sequence (the gate resets if more than 12 seconds, 2 rounds, pass between activations).
+**Puzzle:** The three seed-pods (AC 12 each), when struck with the boomerang, release a hardened seed that flies toward the corresponding indentation in the gate, locking into place. All three must be hit in sequence (the gate resets if more than 12 seconds, 2 rounds, pass between activations).
 
 **Teaching moment:** This is the first time players must use the boomerang in a sequence under time pressure and while managing combat. The Bokoblins are not so threatening that the puzzle becomes impossible, but they create enough pressure to make it interesting.
 
 **Alternative:** Players who clear the Bokoblins first, then solve the puzzle without time pressure, also succeed. The sequence mechanic is forgiving enough to allow this.
 
 **Spore hazard interaction:** A character can spend an action to cover their face with cloth, gaining advantage on the Constitution saves. A Water-type spell or Create or Destroy Water cast at the ceiling clears the spores from a 10-foot section of the room.
+
+**Beyond the gate:** A root-tunnel curls back to the Meditation Hall (Room 2). In an alcove just inside sits a small chest holding two Red Potions.
 
 ---
 
@@ -20825,31 +20837,17 @@ The fight teaches players to notice and target the Core Rune weak point. When th
 
 This is a deliberate backtrack. Players re-enter a space they've seen before and solve something they couldn't before. The "click" of retroactive understanding is a core Zelda satisfaction: *we needed this all along.*
 
+**Grace beat:** Just past the door, a carved basin still holds clean golden sap. Each creature that drinks regains 1d8 hit points (once per creature), and the passage is quiet enough for a short rest.
+
 ### Boss Chamber: The Thornheart
 
 *A massive domed chamber. The ceiling is open to the sky, or what was once sky, now a canopy of corrupted root-growth that blocks all light except for a single shaft at the center. In that shaft of filtered green light, the Great Deku Baba coils.*
 
 *It is enormous. Its stem is as thick as a tree trunk, its maw wide enough to swallow a horse. Amber-corrupt light pulses through the veins running up its body. Its eyes, four of them, open slowly.*
 
-\column
-
-**Boss:** The Thornheart (Great Deku Baba; use a modified Deku Baba stat block at CR 5–6, or build a custom boss using the Boss Design chapter as a guide).
+**Boss:** The Thornheart (Great Deku Baba), a CR 4 Dungeon Guardian. Its stat block follows the Reward, below. It keeps the ordinary Deku Baba's Stem weak point.
 
 **Weak Point:** The amber-glowing **Bulb Node** at the base of its stem, the crystallized corrupted core from which all its power radiates.
-
-**Phase 1: Flailing.** The Thornheart attacks with its Snap bite and sweeping Stem Lash. Its Bulb Node is buried in root-growth and not yet visible. Players must deal 20 damage to force the first vulnerability window.
-
-**Vulnerability Window 1:** The Thornheart rears back in pain, its Bulb Node briefly exposed and glowing. Players have until the start of the Thornheart's next turn to target it. A Called Shot (Bulb Node) stuns the Thornheart until the end of its turn and deals double damage dice.
-
-**Phase 2: Rooted Defense.** At half HP, the Thornheart drives its stem into the floor, becoming Rooted (cannot be moved, but gains +3 AC from its bark tightening). It begins launching Seed Volleys, ranged attacks that deal 1d8 piercing damage to creatures in a 10-foot line. Its Bulb Node is now only exposed during Seed Volley recharge (every other round).
-
-**Using the Boomerang:** The Thornheart's Bulb Node can only be reliably exposed by hitting one of its four Eyes with the boomerang, causing the Thornheart to reflexively recoil and expose the Node for one round. Players who figure this out gain a reliable way to create vulnerability windows on demand. Players who don't figure it out must wait for the natural recharge windows.
-
-> **DM note:** If players are struggling with Phase 2, a DC 13 Wisdom check as a hint roll reveals: *"The creature's eyes seem to respond to the boomerang. Each impact makes it flinch. Maybe forcing a reaction could expose its core."*
-
-**Defeat:** When the Thornheart reaches 0 HP, the amber corruption drains from its body. The great plant collapses, its roots withdrawing into the floor. The canopy cracks open, real sunlight pouring down. The room begins to smell of clean rain and green growth.
-
-The corruption is broken.
 
 {{footnote DM Guide | Dungeon Design }}
 
@@ -20857,19 +20855,83 @@ The corruption is broken.
 
 \page
 
+**Phase 1: Flailing.** The Thornheart attacks with its Snap bite and sweeping Stem Lash. Its Bulb Node is buried in root-growth and not yet visible. **Every 20 damage** it takes in this phase forces a vulnerability window.
+
+**Vulnerability Window:** The Thornheart rears back in pain, its Bulb Node exposed and glowing. The window stays open until the start of the next turn of whoever opened it, so everyone else gets one turn to use it. A Called Shot (Bulb Node) that hits doubles the weapon's damage dice and stuns the Thornheart until the end of its next turn.
+
+**Phase 2: Rooted Defense.** At half HP, the Thornheart drives its stem deep into the floor and its bark tightens (AC 17). It begins launching Seed Volleys, 60-foot lines of hardened seeds, every other turn. Its Bulb Node is exposed from the end of each turn in which it fires a Seed Volley until the start of its next turn.
+
+**Using the Boomerang:** Hitting one of the Thornheart's four Eyes (AC 13) with the boomerang is a normal attack that costs no SP. The Thornheart reflexively recoils and exposes the Node, opening a window (once per round). Players who figure this out gain a reliable way to create vulnerability windows on demand. Players who don't figure it out must wait for the Seed Volley windows.
+
+> **DM note:** If players are struggling with Phase 2, a DC 13 Wisdom check as a hint roll reveals: *"The creature's eyes seem to respond to the boomerang. Each impact makes it flinch. Maybe forcing a reaction could expose its core."*
+
+**Defeat:** When the Thornheart reaches 0 HP, the amber corruption drains from its body. The great plant collapses, its roots withdrawing into the floor. The canopy cracks open, real sunlight pouring down. The room begins to smell of clean rain and green growth.
+
+The corruption is broken.
+
 ### Reward
 
 **Mechanical:**
 - **Heart of the Grove:** Each player gains +2 to their maximum hit points (permanent). This represents the sanctum's blessing, the grove recognizing its liberators.
-- **Thornheart Seed:** A rare crafting component. A Deku PC or Sage of Earth affinity can identify its properties with a DC 13 Nature check. It can be used to craft a Seed of Renewal (single-use: restore a dying plant to full health, or purify a small area of Malice corruption).
-- **Rupee Cache:** 180 rupees in ancient Deku amber-coins (accepted at most merchants), plus 2 Deku Sticks and a vial of Deku Oil.
-
-\column
+- **Thornheart Seed:** A rare crafting component. A Deku PC or Sage of Earth affinity can identify its properties with a DC 13 Nature check. With a day's work and an herbalism kit, it can be made into a Seed of Renewal (single-use: restore a dying plant to full health, or purify a small area of Malice corruption).
+- **Rupee Cache:** 180 rupees in ancient Deku amber-coins (accepted at most merchants), plus 2 Deku Sticks and 5 Deku Nuts.
 
 **Narrative:**
 The petrified elder in Room 4, the one from whose hand the boomerang was taken, slowly, over the next hour, begins to soften. They will not fully recover for several days, but as players leave, they see the wood of the elder's fingers uncurl. Life is returning.
 
 Whatever quest brought them to this forest, the sanctum now rests.
+
+> **Scaling.** For a 2nd-level party, or only three PCs, give it 85 HP (Phase 2 at 42). For a 4th-level party of four or more, give it 140 HP (Phase 2 at 70).
+
+{{footnote DM Guide | Dungeon Design }}
+
+{{pageNumber,auto}}
+
+\page
+
+{{monster,frame,wide
+## The Thornheart
+*Huge Plant, Unaligned*
+___
+**Armor Class** :: 14 (natural armor); 17 in Phase 2
+**Hit Points**  :: 115 (11d12 + 44)
+**Speed**       :: 0 ft.
+**Weak Point**  :: Bulb Node, Eyes, Stem
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)|8 (-1)|18 (+4)|3 (-4)|12 (+1)|5 (-3)|
+___
+**Senses**               :: blindsight 30 ft., darkvision 60 ft., passive Perception 11
+**Languages**            :: —
+**Challenge**            :: 4 (1,100 XP) {{bonus **Proficiency Bonus** +2}}
+___
+***Rooted.*** The Thornheart can't be moved against its will while it is conscious.
+:
+***Phase 1: Flailing (115 to 58 HP).*** The Bulb Node is buried in root-growth and can't be targeted. Every 20 damage the Thornheart takes opens a Vulnerability Window. Damage it takes while a window is open doesn't count toward the next one.
+:
+***Phase 2: Rooted Defense (57 HP or fewer).*** The Thornheart's bark tightens: its AC becomes 17, and it gains Seed Volley. A window that is open when Phase 2 begins closes.
+:
+***Vulnerability Window.*** While a window is open, the Bulb Node is exposed. A window opened by a creature's attack lasts until the start of that creature's next turn, so every other combatant gets one turn inside it. A window opened by Seed Volley lasts from the end of the Thornheart's turn until the start of its next turn. A window closes early when a called shot hits the Node.
+### Actions
+***Multiattack.*** The Thornheart makes one Snap attack and uses Stem Lash. In Phase 2, on a turn when Seed Volley is available, it uses Seed Volley instead of Stem Lash.
+:
+***Snap.*** *Melee Weapon Attack:* +6 to hit, reach 15 ft., one target. *Hit:* 13 (2d8 + 4) piercing damage.
+:
+***Stem Lash.*** Each creature of the Thornheart's choice within 15 feet of it must make a DC 14 Dexterity saving throw. On a failed save, a creature takes 7 (2d6) bludgeoning damage and is pushed up to 10 feet away from the Thornheart. On a successful save, it takes half as much damage and isn't pushed.
+:
+***Seed Volley (Phase 2 Only).*** The Thornheart uses Seed Volley on its first turn in Phase 2 and on every second turn after that. It fires hardened seeds in a line 60 feet long and 10 feet wide. Each creature in the line must make a DC 14 Dexterity saving throw, taking 10 (3d6) piercing damage on a failed save, or half as much on a successful one. At the end of this turn, its Bulb Node is exposed (a Vulnerability Window).
+### Called Shot (Bulb Node)
+*Only while the Bulb Node is exposed.*
+:
+**Hit:** The attack doubles its weapon damage dice (see *Called Shots during Vulnerability* in Zelda Boss Design), and the Thornheart is stunned until the end of its next turn. The window then closes. The Thornheart can't be stunned this way again until it has finished a turn without being stunned.
+### Eyes (4)
+Each eye has AC 13 in either phase. Hitting an eye with the **boomerang** is a normal attack that costs no SP: it deals its damage, and the Thornheart recoils and exposes its Bulb Node (a Vulnerability Window). This can happen once per round. Other attacks against an eye deal normal damage only, and blinding an eye does nothing to a creature with blindsight.
+### Called Shot (Stem)
+**Hit:** The Thornheart can't use Snap until the end of its next turn.
+:
+**Critical:** It also can't use Stem Lash until the end of its next turn.
+}}
 
 {{footnote DM Guide | Dungeon Design }}
 
@@ -20890,12 +20952,13 @@ This chapter gives you the tools to design boss fights that feel distinctly Zeld
 
 ## The Boss Loop
 
-Every Zelda boss fight is built around a repeating loop of four beats. Each phase of the fight runs through this loop once before the boss transitions. Understanding the loop is the foundation of everything else.
+Every Zelda boss fight is built around a repeating loop of four beats. Each phase of the fight runs through this loop at least once before the boss transitions. Understanding the loop is the foundation of everything else.
 
 ```
-DISCOVERY → EXPLOITATION → VULNERABILITY → DAMAGE WINDOW
-     ↑                                              |
-     └──────────────── (repeat per phase) ──────────┘
+  DISCOVERY  →  EXPLOITATION
+      ↑               ↓
+DAMAGE WINDOW  ←  VULNERABILITY
+   (repeat the loop each phase)
 ```
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/BotW_Calamity_Ganon_Artwork.webp' alt='Calamity Ganon' style='display:block;width:328px;height:288px;margin:6px auto 2px auto'/>
@@ -20905,8 +20968,6 @@ DISCOVERY → EXPLOITATION → VULNERABILITY → DAMAGE WINDOW
 Players must understand *how this fight works* before they can win it. Discovery is the moment, or series of moments, where that understanding clicks into place.
 
 Discovery can be:
-
-\column
 
 **Self-evident.** Some weak points require no explanation. A massive glowing eye begs to be shot. A monster encased in ice clearly hates fire. A skeleton animated by a glowing gem will fall when the gem is destroyed. Players familiar with the Zelda series will often spot these immediately, and that recognition is its own reward. Let it land without over-explaining.
 
@@ -20924,6 +20985,10 @@ When players are genuinely stuck, not just impatient, but truly unable to identi
 
 *"You've been fighting this creature for several rounds without finding an opening. Anyone want to make an Intelligence or Wisdom check to see if something about it stands out?"* (DC 12–15 depending on boss complexity.)
 
+A hint roll during combat costs no action. One character rolls (whoever asked, or whoever is best placed to notice), and you can offer it at most once per round.
+
+---
+
 {{footnote DM Guide | Boss Design }}
 
 {{pageNumber,auto}}
@@ -20935,8 +21000,6 @@ When players are genuinely stuck, not just impatient, but truly unable to identi
 | Success | A specific, actionable observation that narrows the solution without solving it outright. *"The creature's hide seems to harden whenever it stands still — but when it charges, you notice the joints at its shoulders loosen considerably."* |
 | Failure (no information) | *"You study its movements carefully but can't find a pattern yet."* Use sparingly — this maintains tension but risks frustrating players further. |
 | Failure (misdirection) | Give players something to investigate that may be partially useful or adjacent to the real answer. *"Your eye is drawn to the glowing marks on the floor — they seem to pulse when the creature moves across them."* Keeps engagement high without solving anything. |
-
----
 
 ### Beat 2: Exploitation
 
@@ -20961,15 +21024,13 @@ Common exploitation patterns:
 
 Successful exploitation creates a **Vulnerability Window**, a brief period where the boss is exposed, staggered, stunned, or otherwise open to significant damage.
 
-\column
-
 The Vulnerability Window is the emotional peak of each loop. It is the moment players have been working toward, and it should *feel* significant:
 
 - **Narrate the shift.** *"The Thornheart's stem buckles, the amber node at its base pulses open, glowing bright. The corruption flickers."* Give players a clear visual signal that the window is open.
 - **Make it time-limited.** The window should last long enough for players to act meaningfully, typically until the end of the boss's next turn, or until a specific trigger closes it. Not so long that it loses urgency; not so short that it becomes a reflex test.
 - **Scale it to the phase.** Early vulnerability windows in Phase 1 might be generous. By Phase 3, windows may be shorter or require more precise positioning.
 
-**Called Shots during Vulnerability:** A Called Shot against the exposed weak point during a Vulnerability Window should deal additional dice and apply the full Critical Hit effect from the monster's stat block. This is the design intent of the system, called shots during vulnerability windows are the primary damage mechanism of a Zelda boss fight.
+**Called Shots during Vulnerability:** A called shot that hits the exposed weak point during a Vulnerability Window **doubles the weapon's damage dice**, including the called shot's extra die, and triggers the weak point's **Critical** effect from the stat block. Other damage (Sneak Strike, spells, class features) is rolled normally. If the attack is also a critical hit, the weapon's dice are doubled only once. This is the design intent of the system: called shots during vulnerability windows are the primary damage mechanism of a Zelda boss fight.
 
 ---
 
@@ -20987,6 +21048,8 @@ The Damage Window closes when:
 ## Phase Design
 
 Most Zelda bosses have **two to three phases**. Stronger, more narratively significant bosses may have more. A simple dungeon guardian might have only one phase with a straightforward vulnerability loop.
+
+Give every boss **Boss Resolve** (see the Boss Compendium), so no single spell skips the loop.
 
 {{footnote DM Guide | Boss Design }}
 
@@ -21034,8 +21097,6 @@ The most common transition. The boss's appearance changes and it gains new attac
 
 Best for: Earlier phase transitions, lower-CR bosses, or when you want to preserve momentum.
 
-\column
-
 **Environmental**
 The arena itself changes at the transition: new hazards appear, existing features are altered, or the physical space shifts. This forces players to adapt to both the new boss behavior and the new environment simultaneously.
 
@@ -21057,12 +21118,24 @@ The boss becomes something fundamentally different: a different form, a differen
 
 Best for: Final bosses, major villain reveals, the campaign's climax.
 
+**When the new form has its own stat block:**
+
+- It starts at its own full hit points. Damage beyond what the old form had left is lost.
+- Conditions and ongoing effects on the old form end, unless you decide the new form inherits them.
+- Creatures the old form summoned stay, as separate combatants.
+
 **Combination**
 Many bosses use elements of multiple transition types, a cosmetic change combined with one environmental shift, for example. This is the most dynamic option and works well for bosses with three or more phases.
 
 > **Transition narration matters.** A phase transition is a cut-scene moment in a video game. Give it the same weight at the table. Describe what happens. Slow down. Let the players react. *"The creature's eyes all close at once. The amber light goes dark. You hear a sound like roots tearing, and then the floor of the chamber cracks open."*
 
 ---
+
+{{footnote DM Guide | Boss Design }}
+
+{{pageNumber,auto}}
+
+\page
 
 ## Designing the Arena
 
@@ -21073,19 +21146,11 @@ When designing the arena, ask:
 **What does the boss's anatomy demand?**
 A flying boss needs vertical space. A charging boss needs a long approach lane. A boss that burrows needs a floor that can be disrupted.
 
-{{footnote DM Guide | Boss Design }}
-
-{{pageNumber,auto}}
-
-\page
-
 **What does the dungeon item enable here?**
 If the dungeon item is the Hookshot, the arena should have hookshot targets: ceiling rings, metal posts, distant platforms. If it's the Boomerang, there should be objects that can be hit or knocked at range. The arena and the item should feel designed for each other.
 
 **What hazard exists to raise the stakes?**
 A pit of spikes. Lava channels the boss can knock players into. Pressure-activated traps on the floor. Moving platforms that shift when the boss strikes them. Hazards make the fight three-dimensional. Players are managing position, not just HP.
-
-\column
 
 **What can change?**
 Good arenas have dynamic elements that can shift during the fight, often at phase transitions. Water level. Platform configuration. Light sources. Destructible cover. The arena at the end of the fight should feel different from the arena at the beginning.
@@ -21094,68 +21159,90 @@ Good arenas have dynamic elements that can shift during the fight, often at phas
 
 Use this when building a new boss from scratch.
 
-{{descriptive,wide
-BOSS NAME: ___________________________
-DUNGEON / CONTEXT: ___________________________
-RECOMMENDED PARTY LEVEL: ___    PARTY SIZE: ___
-CR: ___    HP: ___    PHASES: ___
-
-WEAK POINT(S):
-  Primary: ___________________________
-  Secondary (if any): ___________________________
-
-HOW IS THE WEAK POINT DISCOVERED?
-  [ ] Self-evident (describe): ___________________________
-  [ ] Environmental hint: ___________________________
-  [ ] Behavioral tell: ___________________________
-  [ ] Dungeon item interaction: ___________________________
-
-PHASE BREAKDOWN:
-  Phase 1 (100% → ___% HP):
-    Exploitation method: ___________________________
-    Vulnerability window trigger: ___________________________
-    Vulnerability window duration: ___________________________
-    Transition type: [ ] Cosmetic/Tactical  [ ] Environmental  [ ] Transformation
-
-  Phase 2 (___% → ___% HP):
-    New mechanic or attack: ___________________________
-    Exploitation method (same or changed?): ___________________________
-    Vulnerability window (same or shorter?): ___________________________
-    Transition type (if 3+ phases): [ ] Cosmetic/Tactical  [ ] Environmental  [ ] Transformation
-
-  Phase 3 (___% → 0 HP):
-    Final form / final attack pattern: ___________________________
-    Exploitation method: ___________________________
-    Vulnerability window: ___________________________
-
-ARENA:
-  Size/shape: ___________________________
-  Key features: ___________________________
-  Hazard: ___________________________
-  What changes at phase transition(s): ___________________________
-
-FAILURE STATE:
-  What happens if players can't figure out the weak point?
-  ___________________________
-
-HINT ROLL DC: ___    HINT TEXT (success): ___________________________
-
-REWARD:
-  Mechanical: ___________________________
-  Narrative: ___________________________
+{{descriptive
+BOSS NAME: ___________________________  
+DUNGEON / CONTEXT: ___________________________  
+RECOMMENDED PARTY LEVEL: ___    PARTY SIZE: ___  
+CR: ___    HP: ___ (see Boss Numbers by CR)    PHASES: ___  
 }}
+
+{{descriptive
+WEAK POINT(S):  
+&nbsp;&nbsp;Primary: ___________________________  
+&nbsp;&nbsp;Secondary (if any): ___________________________  
+}}
+
+{{descriptive
+HOW IS THE WEAK POINT DISCOVERED?  
+&nbsp;&nbsp;[ ] Self-evident (describe): ___________________________  
+&nbsp;&nbsp;[ ] Environmental hint: ___________________________  
+&nbsp;&nbsp;[ ] Behavioral tell: ___________________________  
+&nbsp;&nbsp;[ ] Dungeon item interaction: ___________________________  
+}}
+
+{{descriptive
+PHASE BREAKDOWN:  
+&nbsp;&nbsp;Phase 1 (100% → ___% HP):  
+&nbsp;&nbsp;&nbsp;&nbsp;Exploitation method: ___________________________  
+&nbsp;&nbsp;&nbsp;&nbsp;Vulnerability window trigger: ___________________________  
+&nbsp;&nbsp;&nbsp;&nbsp;Vulnerability window duration: ___________________________  
+&nbsp;&nbsp;&nbsp;&nbsp;Transition type: [ ] Cosmetic/Tactical  [ ] Environmental  [ ] Transformation  
+}}
+
+{{descriptive
+&nbsp;&nbsp;Phase 2 (___% → ___% HP):  
+&nbsp;&nbsp;&nbsp;&nbsp;New mechanic or attack: ___________________________  
+&nbsp;&nbsp;&nbsp;&nbsp;Exploitation method (same or changed?): ___________________________  
+&nbsp;&nbsp;&nbsp;&nbsp;Vulnerability window (same or shorter?): ___________________________  
+&nbsp;&nbsp;&nbsp;&nbsp;Transition type (if 3+ phases): [ ] Cosmetic/Tactical  [ ] Environmental  [ ] Transformation  
+}}
+
+{{descriptive
+&nbsp;&nbsp;Phase 3 (___% → 0 HP):  
+&nbsp;&nbsp;&nbsp;&nbsp;Final form / final attack pattern: ___________________________  
+&nbsp;&nbsp;&nbsp;&nbsp;Exploitation method: ___________________________  
+&nbsp;&nbsp;&nbsp;&nbsp;Vulnerability window: ___________________________  
+}}
+
+{{descriptive
+ARENA:  
+&nbsp;&nbsp;Size/shape: ___________________________  
+&nbsp;&nbsp;Key features: ___________________________  
+&nbsp;&nbsp;Hazard: ___________________________  
+&nbsp;&nbsp;What changes at phase transition(s): ___________________________  
+}}
+
+{{descriptive
+FAILURE STATE:  
+&nbsp;&nbsp;What happens if players can't figure out the weak point?  
+&nbsp;&nbsp;___________________________  
+}}
+
+{{descriptive
+HINT ROLL DC: ___    HINT TEXT (success): ___________________________  
+}}
+
+{{descriptive
+REWARD:  
+&nbsp;&nbsp;Mechanical: ___________________________  
+&nbsp;&nbsp;Narrative: ___________________________  
+}}
+
+{{footnote DM Guide | Boss Design }}
+
+{{pageNumber,auto}}
+
+\page
 
 ## Example: The Thornheart (Annotated)
 
-*The Thornheart from the Dungeon Design chapter is a two-phase, CR 5–6 Forest boss. Here it is mapped to the boss loop to show how the framework applies at low levels.*
+*The Thornheart from the Dungeon Design chapter is a two-phase, CR 4 Dungeon Guardian. Here it is mapped to the boss loop to show how the framework applies at low levels.*
 
 **Discovery:** The Thornheart's Bulb Node is initially hidden by root growth, not self-evident. Players discover it through **behavioral tells**: when the creature rears back in pain, the node is briefly visible. Phase 2 introduces the secondary discovery that the Boomerang can force this exposure on demand by targeting the Eyes.
 
-**Exploitation:** Phase 1: deal 20 damage to trigger the first forced exposure. Phase 2: throw the Boomerang at one of four eyes, causing the Thornheart to reflexively recoil and expose the Bulb Node.
+**Exploitation:** Phase 1: every 20 damage forces an exposure. Phase 2: throw the Boomerang at one of four eyes, causing the Thornheart to reflexively recoil and expose the Bulb Node.
 
-\column
-
-**Vulnerability:** The Bulb Node glows bright when exposed. A Called Shot (Bulb Node) during this window stuns the Thornheart until the end of its turn and deals double damage dice. The window lasts until the start of the Thornheart's next turn.
+**Vulnerability:** The Bulb Node glows bright when exposed. A Called Shot (Bulb Node) during this window doubles the weapon's damage dice and stuns the Thornheart until the end of its next turn. The window lasts until the start of the next turn of whoever opened it, so every other combatant gets one turn to use it.
 
 **Phase Transition at 50% HP:** Cosmetic + Environmental. The Thornheart drives its stem into the floor (Rooted), gaining +3 AC, but the arena changes: it begins launching Seed Volleys in lines, which players must now navigate while also maintaining the boomerang exploitation rhythm.
 
@@ -21169,9 +21256,9 @@ REWARD:
 
 ## Example: The Phantom of Lanayru
 
-*A mid-campaign boss for a party of four at levels 7–9. Three phases. Demonstrates environmental transitions and a Dungeon Item interaction that evolves across phases.*
+*A mid-campaign boss for a party of four at levels 7–9. Three phases. Demonstrates environmental transitions and a Dungeon Item interaction that evolves across phases. Its stat block follows the Boss Design Principles table at the end of this chapter.*
 
-**Context:** Sunken in the ruins of a Zora shrine at the bottom of Lanayru Lake, the Phantom of Lanayru is the corrupted remnant of an ancient Zora guardian, a massive aquatic creature whose body has been consumed by Malice, leaving only a spectral shell of water and dark energy. The dungeon item is the **Zora Trident** (a ceremonial weapon found in the shrine's antechamber, granting the bearer a swim speed of 40 feet and the ability to hurl a water lance 60 feet as an action for 2d8 cold damage).
+**Context:** Sunken in the ruins of a Zora shrine at the bottom of Lanayru Lake, the Phantom of Lanayru is the corrupted remnant of an ancient Zora guardian, a massive aquatic creature whose body has been consumed by Malice, leaving only a spectral shell of water and dark energy. The dungeon item is the **Zora Trident** (a ceremonial weapon found in the shrine's antechamber, granting the bearer a swim speed of 40 feet and the ability to hurl a water lance 60 feet as an action: a ranged weapon attack that deals 2d8 cold damage).
 
 **Arena:** A partially submerged circular shrine, 60 feet in diameter. In Phase 1, the water level is at knee height (difficult terrain for non-Zora). In Phase 2, the water rises to chest height. In Phase 3, the room floods completely. Structural pillars rise from the floor at irregular intervals, useful for cover and as hookshot/clawshot targets if players have them.
 
@@ -21192,8 +21279,8 @@ REWARD:
 \column
 
 **Attacks during Phase 1:**
-- *Current Surge*: 30-foot line, DC 14 Strength save or 2d8 cold damage and pushed 15 feet.
-- *Spectral Claw*: Melee attack, +7 to hit, 2d10 + 4 cold damage.
+- *Current Surge*: 30-foot line, DC 16 Strength save or 4d8 cold damage and pushed 15 feet.
+- *Spectral Claw*: Melee attack, +7 to hit, reach 10 ft., 2d10 + 3 cold damage.
 
 **Transition at 66% HP (Environmental):**
 The Phantom shrieks. The water level rises sharply, now at chest height. Swimming is no longer optional: characters must make DC 12 Athletics checks to move at full speed, or treat the room as difficult terrain. Zora PCs and characters with the Zora Trident's swim speed are unaffected. The Phantom gains a new attack.
@@ -21208,7 +21295,7 @@ The Phantom's form shifts, the spectral fins multiply, and it begins moving thro
 
 **New mechanic:** The Phantom gains *Aquatic Phasing*. It can move through the water as a Bonus Action without provoking opportunity attacks, and its position is only clearly visible when it attacks or when a player succeeds on a DC 14 Perception check.
 
-**Exploitation change:** The water-rings now number four instead of three, and they reform faster (1 round instead of 2 after dispersion). However, a player with the Zora Trident who is *submerged* gets advantage on the water lance attack against the rings, as the blessing interacts more powerfully with full immersion.
+**Exploitation change:** The water-rings now number four instead of three. However, a player with the Zora Trident who is *submerged* gets advantage on the water lance attack against the rings, as the blessing interacts more powerfully with full immersion.
 
 **Vulnerability Window:** Still 2 rounds when all rings are dispersed, but the Phantom can end the window early by succeeding on a DC 15 Charisma save (roll at the start of each of its turns during the window, it's fighting the exposure).
 
@@ -21217,14 +21304,14 @@ The Phantom's form shifts, the spectral fins multiply, and it begins moving thro
 
 **Hint roll (if players struggle):** DC 13 Wisdom check. *"You notice the current around the Trident feels different when you're fully submerged, as if the water recognizes the weapon and amplifies it."*
 
+**Transition at 33% HP (Full Transformation + Environmental):**
+The Phantom's form collapses inward. For one terrifying moment, the water in the room goes completely still. Then the shrine floods entirely. The room is fully submerged. The Phantom reforms as a massive, whale-like entity of pure dark water, no longer spectral, now physically solid, its Malice Core now external, pulsing from its forehead.
+
 {{footnote DM Guide | Boss Design }}
 
 {{pageNumber,auto}}
 
 \page
-
-**Transition at 33% HP (Full Transformation + Environmental):**
-The Phantom's form collapses inward. For one terrifying moment, the water in the room goes completely still. Then the shrine floods entirely. The room is fully submerged. The Phantom reforms as a massive, whale-like entity of pure dark water, no longer spectral, now physically solid, its Malice Core now external, pulsing from its forehead.
 
 *"The shape that rises is not the same shape that fell. Where before it was diffuse and spectral, now it is enormous and real. The Malice Core sits exposed at its brow, but the creature is no longer trying to hide it. It believes it cannot be killed."*
 
@@ -21235,18 +21322,16 @@ The Phantom's form collapses inward. For one terrifying moment, the water in the
 The Phantom in its final form is larger, slower, and devastating. The water-ring mechanic is gone. The Core is now permanently exposed. But the Phantom's sheer size and power make reaching it the challenge.
 
 **New exploitation method:** The Core is on the creature's *forehead*, which means it is 15 feet above the water line when the Phantom surfaces. Players must either:
-- Use the Zora Trident's water lance from range (DC 12 attack, advantage if fully submerged)
+- Use the Zora Trident's water lance from range (an attack roll against the Core's AC 12, with advantage if fully submerged)
 - Grapple onto the Phantom and climb to its head (contested Athletics, then a Called Shot at advantage while mounted)
 - Use the shrine's structural pillars as elevated platforms. The pillars' tops are at water line in Phase 3, but some extend 5 feet above. Jump + ranged attack.
 
-**Vulnerability Window:** Permanent. The Core is always exposed. But the Phantom's new attack pattern punishes players who stand still. The fight shifts from exploitation-focused to positioning-focused.
+**Vulnerability Window:** None, because the Core is always exposed. Any attack can target it (AC 12), but called shots get only their normal extra die, not the window payoff. The Phantom's new attack pattern punishes players who stand still. The fight shifts from exploitation-focused to positioning-focused.
 
 **Attacks during Phase 3:**
 - *Tide Crash*: The Phantom breaches and crashes down in a 30-foot radius. DC 16 Dexterity save or 3d10 bludgeoning + cold damage, knocked prone (underwater; Athletics DC 14 to resurface as an action).
-- *Swallow*: Melee attack against a grappled target, +9 to hit. On hit, the target is Swallowed: restrained, 3d6 acid + cold damage per turn, DC 16 Strength save as an action to escape.
+- *Swallow*: Melee attack against a creature climbing on or grappling the Phantom, +9 to hit. On a hit, the target is swallowed (Appendix A): 3d6 acid and cold damage at the start of each of its turns; it escapes by dealing 20 damage to the Phantom from inside in one turn.
 - *Malice Current* (1/day): The water in the room becomes Malice-charged for 1 round. All creatures except the Phantom take 2d8 necrotic damage at the start of their turns. Players who use the Zora Trident to channel a counterblast (action, DC 15 Arcana or Athletics) can neutralize the current for that round.
-
-\column
 
 **Phase 3 hint roll:** DC 14. *"You recall the murals in the outer shrine, a Zora sage defeating a great water beast by diving beneath it and striking upward from below. Something about the underside of the Core..."* (The underside of the Phantom, accessible only by diving beneath it, deals double damage to the Core.)
 
@@ -21257,7 +21342,7 @@ The Phantom in its final form is larger, slower, and devastating. The water-ring
 **Reward:**
 - **Zora's Scale:** A permanent passive ability for one player. They can breathe water indefinitely and have a swim speed equal to their walking speed.
 - **Purified Shrine:** The shrine functions again as a fast-travel waypoint, a safe rest location, and a source of magical fresh water.
-- **Water Medallion Fragment** (if this is part of a medallion arc): One piece of the Water Sage's ancient medallion, recovered from the shrine's now-accessible inner sanctum.
+- **The Water Sage's Trail** (if this is part of a medallion arc): A mural in the shrine's now-accessible inner sanctum shows where the next Sage of Water waits to be awakened, and to forge the Water Medallion for the hero.
 
 ---
 
@@ -21277,6 +21362,129 @@ The Phantom in its final form is larger, slower, and devastating. The water-ring
 | **Vulnerability windows must feel earned** | Too easy to trigger and there's no tension. Too hard and the fight becomes frustrating. Calibrate by watching the table. |
 | **The arena fights for the boss** | Hazards, environmental features, and dynamic space elements are part of the boss's toolkit. Use them. |
 | **A good failure state exists** | If players truly cannot figure out the mechanic, there should be an escalating pressure system that forces them to change approach rather than a hard wall that stops the fight. |
+
+{{footnote DM Guide | Boss Design }}
+
+{{pageNumber,auto}}
+
+\page
+
+{{monster,frame,wide
+## The Phantom of Lanayru
+*Huge Elemental (Malice), Unaligned*
+___
+**Armor Class** :: 16 (natural armor)
+**Hit Points**  :: 210 (20d12 + 80)
+**Speed**       :: 30 ft., swim 60 ft.
+**Weak Point**  :: Malice Core
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|20 (+5)|16 (+3)|18 (+4)|6 (-2)|14 (+2)|18 (+4)|
+___
+**Saving Throws**        :: Str +9, Con +8, Wis +6
+**Damage Resistances**   :: necrotic
+**Damage Immunities**    :: poison
+**Condition Immunities** :: exhaustion, paralyzed, petrified, poisoned, unconscious
+**Senses**               :: darkvision 120 ft., passive Perception 12
+**Languages**            :: understands Zora but can't speak
+**Challenge**            :: 9 (5,000 XP) {{bonus **Proficiency Bonus** +4}}
+___
+***Phases.*** Phase 1 runs from 210 to 141 HP, Phase 2 from 140 to 71 HP, and Phase 3 from 70 HP to 0. A window that is open when a new phase begins closes.
+:
+***Water-Rings (Phases 1–2).*** Spinning rings of water (three in Phase 1, four in Phase 2) shield the Malice Core. While any ring remains, the Core can't be targeted. Each ring has AC 13 and is dispersed by one hit from the Zora Trident's water lance; other attacks pass through it harmlessly. Dispersed rings stay down. When the last one disperses, the Core is exposed (a Vulnerability Window) until all the rings reform at the start of the Phantom's third turn after that.
+:
+***Fighting the Exposure (Phase 2).*** At the start of each of its turns while the Core is exposed, the Phantom makes a DC 15 Charisma saving throw. On a success, the rings reform at once.
+:
+***Aquatic Phasing (Phase 2).*** As a bonus action, the Phantom moves up to its swim speed without provoking opportunity attacks. A creature has disadvantage on attack rolls against the Phantom unless the Phantom has attacked since the end of its last turn, or the creature has succeeded on a DC 14 Wisdom (Perception) check this turn (no action required).
+:
+***Leviathan Form (Phase 3).*** The rings are gone. The Core, now on the Phantom's brow and 15 feet above the water when it surfaces, is always exposed (AC 12). This is not a Vulnerability Window. An attack against the Core from directly beneath the Phantom deals double damage.
+### Actions
+***Multiattack.*** The Phantom makes two Spectral Claw attacks. In Phases 1–2 it can replace one of them with Current Surge; in Phase 3, with Swallow.
+:
+***Spectral Claw.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 14 (2d10 + 3) cold damage.
+:
+***Current Surge (Phases 1–2).*** Water surges in a line 30 feet long and 5 feet wide. Each creature in the line must succeed on a DC 16 Strength saving throw or take 18 (4d8) cold damage and be pushed 15 feet.
+:
+***Malice Surge (Phase 2 Only; Recharge 5–6).*** Corrupted water erupts in a 20-foot-radius sphere centered on the Phantom. Each other creature in the area must make a DC 16 Constitution saving throw. On a failed save, it takes 9 (2d8) necrotic damage plus 9 (2d8) cold damage and is poisoned until the end of its next turn. On a successful save, it takes half as much damage and isn't poisoned.
+:
+***Tide Crash (Phase 3 Only).*** The Phantom breaches and crashes down. Each other creature within 30 feet of it must succeed on a DC 16 Dexterity saving throw or take 11 (2d10) bludgeoning damage plus 5 (1d10) cold damage and be knocked prone. A creature knocked prone underwater must use its action and succeed on a DC 14 Strength (Athletics) check to resurface.
+:
+***Swallow (Phase 3 Only).*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one Medium or smaller creature climbing on or grappling the Phantom. *Hit:* The target is swallowed (see Appendix A). It takes 7 (2d6) acid damage plus 3 (1d6) cold damage at the start of each of its turns. It escapes if it deals 20 damage to the Phantom from inside in a single turn, and lands prone in the water within 10 feet. The Phantom can hold only one creature at a time.
+:
+***Malice Current (Phase 3 Only; 1/Day).*** The water becomes Malice-charged until the start of the Phantom's next turn. Each other creature in the water takes 9 (2d8) necrotic damage at the start of each of its turns. A creature holding the Zora Trident can use its action to channel a counterblast (DC 15 Intelligence (Arcana) or Strength (Athletics) check); on a success, the current ends.
+### Called Shot (Malice Core)
+*Only while the Core is exposed (AC 12).*
+:
+**Hit (Phases 1–2, in a window):** The attack doubles its weapon damage dice (see *Called Shots during Vulnerability*). The Phantom reels: until the end of its next turn it can't take reactions or use Aquatic Phasing, and its rings can't reform.
+:
+**Hit (Phase 3):** Normal called-shot damage, and the Phantom can't use Tide Crash on its next turn.
+}}
+
+{{footnote DM Guide | Boss Design }}
+
+{{pageNumber,auto}}
+
+\page
+
+## Boss Numbers by CR
+
+*Target numbers for building a monster or boss, or checking one you have scaled. Aim for the middle of each range. A boss that faces the whole party alone belongs at the top of its HP range.*
+
+| CR | XP | Prof. | AC | Hit Points | Attack | Save DC | Damage/Round |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 1 | 200 | +2 | 13 | 71–85 | +3 | 13 | 9–14 |
+| 2 | 450 | +2 | 13 | 86–100 | +3 | 13 | 15–20 |
+| 3 | 700 | +2 | 13 | 101–115 | +4 | 13 | 21–26 |
+| 4 | 1,100 | +2 | 14 | 116–130 | +5 | 14 | 27–32 |
+| 5 | 1,800 | +3 | 15 | 131–145 | +6 | 15 | 33–38 |
+| 6 | 2,300 | +3 | 15 | 146–160 | +6 | 15 | 39–44 |
+| 7 | 2,900 | +3 | 15 | 161–175 | +6 | 15 | 45–50 |
+| 8 | 3,900 | +3 | 16 | 176–190 | +7 | 16 | 51–56 |
+| 9 | 5,000 | +4 | 16 | 191–205 | +7 | 16 | 57–62 |
+| 10 | 5,900 | +4 | 17 | 206–220 | +7 | 16 | 63–68 |
+| 11 | 7,200 | +4 | 17 | 221–235 | +8 | 17 | 69–74 |
+| 12 | 8,400 | +4 | 17 | 236–250 | +8 | 17 | 75–80 |
+| 13 | 10,000 | +5 | 18 | 251–265 | +8 | 18 | 81–86 |
+| 14 | 11,500 | +5 | 18 | 266–280 | +8 | 18 | 87–92 |
+| 15 | 13,000 | +5 | 18 | 281–295 | +8 | 18 | 93–98 |
+| 16 | 15,000 | +5 | 18 | 296–310 | +9 | 18 | 99–104 |
+| 17 | 18,000 | +6 | 19 | 311–325 | +10 | 19 | 105–110 |
+| 18 | 20,000 | +6 | 19 | 326–340 | +10 | 19 | 111–116 |
+| 19 | 22,000 | +6 | 19 | 341–355 | +10 | 19 | 117–122 |
+| 20 | 25,000 | +6 | 19 | 356–400 | +10 | 19 | 123–140 |
+
+> ##### Scaling a Monster or Boss
+> **1. Choose the CR.** One boss against four PCs is a hard fight at about CR = party level + 1 at levels 2–4 and party level + 2 from 5th level on, and a deadly one at party level + 2 at levels 2–4 and about party level + 4 from 5th level on. For a printed boss and a party above its recommended levels, move it up one CR row per level. For each PC beyond four, add 25% to its hit points; for each PC short of four, remove 20%.
+>
+> **2. Move its numbers to the new row.** Add Hit Dice until its HP lands in the new range. Raise attack bonuses and save DCs to the new row by raising the ability score or proficiency bonus behind them, so the block still checks. Add damage dice (about one per attack for every 2 CR) until its damage per round sits in the new range. Raise AC by at most 1 for every 3 CR.
+>
+> **3. Leave the loop alone.** Don't shorten a telegraph or a Vulnerability Window, and don't move a weak point. Those are the fight; scale everything around them.
+>
+> **4. Test it against one window.** Add up what your party deals in one Vulnerability Window: each PC's best attack, hitting automatically, with doubled weapon dice. The boss should have at least twice that many hit points, even if that puts it above its CR's range. It spends turns stunned and telegraphing, so it earns the extra.
+
+> ##### Boss Actions
+> At their recommended levels the printed bosses don't need legendary actions: the arena and their helpers act for them. King Dodongo and Morpheel list one legendary action for a party of five or more. From the **Calamity Lieutenant** tier up, or whenever five or more PCs face one boss, give it legendary actions. It can take the number shown per round, one at a time, at the end of another creature's turn, and regains them at the start of its own turn.
+>
+> | Boss Tier | Legendary Actions | Legendary Resistance |
+> |:--|:--|:--|
+> | Dungeon Guardian (CR 3–5) | — | — |
+> | Temple Boss (CR 6–9) | 1 (only with 5+ PCs) | — |
+> | Calamity Lieutenant (CR 10–14) | 2 | 1/Day |
+> | Final Boss (CR 15+) | 3 | 2/Day |
+>
+> Two limits keep the Boss Loop intact:
+>
+> - A boss can't take legendary actions while it is stunned or while a Vulnerability Window is open.
+> - It can't use Legendary Resistance against a weak point's effect or a Vulnerability Window's trigger.
+>
+> **Generic legendary actions** (replace them with the boss's own moves where you can):
+>
+> **Move.** The boss moves up to half its speed without provoking opportunity attacks.
+>
+> **Strike.** The boss makes one attack.
+>
+> **Guard (Costs 2 Actions).** At the end of a turn in which a Called Shot hit its weak point, the boss covers it (see The Cover Reaction). That weak point can't be targeted until the end of the boss's next turn.
 
 {{footnote DM Guide | Boss Design }}
 
@@ -21304,15 +21512,13 @@ A weak point is any location on a creature's body or equipment where a targeted 
 > ##### What You Roll Against
 > **A called shot against a weak point uses a normal attack roll against the creature's Armor Class.** Spending the 2 SP does not change the number you need; it changes what happens when you hit.
 >
-> **Some weak points list their own AC**, and that AC is usually *lower* than the creature's body, because a weak point is by definition the place the armor is not. Gohma's eye and Morpheel's eye are both AC 14 while their bodies are harder to hurt. When a stat block names an AC for a weak point, use it. When it does not, use the creature's AC.
+> **Some weak points list their own AC**, and that AC is usually *lower* than the creature's body, because a weak point is by definition the place the armor is not. King Dodongo's open mouth is AC 8 against a body of AC 16. When a stat block names an AC for a weak point, use it. When it does not, use the creature's AC.
 >
 > If you are writing a new creature and its weak point is genuinely harder to hit than its body (a small target, a fast-moving one, one behind a grate), give it a higher AC and say so in the stat block. Everything else uses the body's AC.
 
 Weak points serve two purposes simultaneously:
 
 **Narratively**, they make combat feel like an interaction with a real creature rather than a health bar. A Lizalfos that favors its injured leg, a Darknut that raises its shield arm higher after its pauldron is knocked loose, a Gohma whose single massive eye flinches away from the light. These responses make monsters feel alive.
-
-\column
 
 **Mechanically**, they give players agency over the flow of combat. Rather than waiting for the dice to resolve things, players who observe carefully and act decisively can *shape* how the fight unfolds. Weak points are the engine that drives the Discovery → Exploitation → Vulnerability → Damage cycle, whether the fight is against a random Bokoblin patrol or a campaign-ending boss.
 
@@ -21355,8 +21561,6 @@ Minor weak points are the baseline, the kind every creature has, whether or not 
 | Daze | The creature has disadvantage on its next attack roll |
 | Expose | The creature's AC is reduced by 2 until the start of its next turn |
 
-\column
-
 ### Major Weak Points
 
 Major weak points are the ones that define how a fight works, the crystal, the eye, the unarmored belly, the glowing core. These require more effort to reach and carry consequences that can meaningfully shift the fight.
@@ -21368,7 +21572,7 @@ Major weak points are the ones that define how a fight works, the crystal, the e
 | Stunned (1 round) | The creature cannot act, loses its reaction, and attacks against it have advantage |
 | Armor broken | A piece of the creature's armor or natural defense is destroyed — permanent AC reduction for the fight |
 | Attack disabled | A specific ability or attack cannot be used until the creature takes a full action to recover it |
-| Vulnerability window | The creature enters a damage window — all attacks against it deal maximum damage dice for 1 round |
+| Vulnerability window | The weak point is exposed until the start of the attacker's next turn. A called shot that hits it doubles the weapon's damage dice and triggers its Critical effect (see Zelda Boss Design) |
 | Forced phase transition | If the creature has multiple phases, it transitions immediately (combining with next phase) |
 | Behavioral change | The creature retreats, attempts to protect the weak point, or changes tactics dramatically |
 
@@ -21384,12 +21588,12 @@ Major weak points are the ones that define how a fight works, the crystal, the e
 
 When a player calls a shot against a body part that isn't listed in a monster's stat block, this table gives you a fast framework for adjudicating the outcome. These are default effects, adjust them up or down based on the creature's CR, how protected that body part is, and the Rule of Cool.
 
-| Body Part | Minor Effect (typical) | Major Effect (boss/elite only) | Notes |
+| Body Part | Minor Effect (typical) | Major Effect (critical hit, or boss/elite) | Notes |
 |:--|:--|:--|:--|
 | **Head / Face** | Dazed — disadvantage on next attack | Stunned 1 round | Universal weak point for humanoid creatures. Even heavily armored foes have a visor gap. |
-| **Eyes** | Blinded until end of their next turn | Blinded for 1 minute (Constitution save each round to end) | Particularly effective against creatures with gaze attacks or truesight. |
+| **Eyes** | Blinded until end of their next turn | Blinded for 1 minute (Constitution save each round to end) | Particularly effective against creatures with gaze attacks or truesight. No effect on a creature that doesn't rely on sight (blindsight, tremorsense); use Head / Face instead. |
 | **Throat / Neck** | Silenced — cannot use verbal components or voice-based attacks until next turn | Silenced for 1 minute, loses Frightful Presence | Difficult to target on armored foes — usually requires a grapple or prone position first. |
-| **Arm / Weapon Hand** | Disarmed | Attack with that arm disabled 1 round | Disarmed creatures may spend their action retrieving a weapon or draw a backup. |
+| **Arm / Weapon Hand** | Disarmed | Weapon flung up to 30 feet away | Disarmed creatures may spend their action retrieving a weapon or draw a backup. |
 | **Shield Arm / Off-Hand** | Shield loses Guard bonus until creature uses a bonus action to resettle it | Shield shattered (destroyed) | Bypasses the Guard mechanic temporarily. |
 | **Torso / Chest** | Armor exposed (reduce AC by 1) | Armor piece broken (reduce AC by 2, permanent for fight) | Most armored creatures are strongest here — usually a Major effect only |
 | **Back / Spine** | Prone (knocked forward) | Speed reduced to 0 for 1 round | Rarely accessible head-on. Rewards flanking or surprise. |
@@ -21399,20 +21603,15 @@ When a player calls a shot against a body part that isn't listed in a monster's 
 | **Exposed Core / Crystal** | Flinch — lose reaction | Full vulnerability window (see Major effects) | The classic Zelda major weak point. Always a Major effect. |
 | **Equipment / Gear** | Item damaged — disadvantage on checks using that item | Item destroyed | Potions, keys, special devices. Rarely applicable in combat but valid per Rule of Cool. |
 
-> **A note on humanoids:** A Hylian soldier, Yiga Clan assassin, or Gerudo warrior has no listed weak point, but they are not immune to called shots. The Head entry (daze) and Shield Arm entry (lose Guard) are the most natural for armored humanoids. A headshot through a visor gap, a pommel strike to the temple, or a blade between pauldron and breastplate are all classic "weak point" moments even without a glowing crystal to aim at.
+A critical hit on a called shot uses the Major effect against any creature.
 
+> **A note on humanoids:** A Hylian soldier, Yiga Clan assassin, or Gerudo warrior has no listed weak point, but they are not immune to called shots. The Head entry (daze) and Shield Arm entry (lose Guard) are the most natural for armored humanoids. A headshot through a visor gap, a pommel strike to the temple, or a blade between pauldron and breastplate are all classic "weak point" moments even without a glowing crystal to aim at.
 
 }}
 
 ## Weak Point Reactions: When Enemies Fight Back
 
 One of the most dynamic aspects of weak point combat is that intelligent or instinctive creatures do not simply stand there and let players exploit the same spot forever. After a weak point has been struck, enemies may react.
-
-{{footnote DM Guide | Weak Points }}
-
-{{pageNumber,auto}}
-
-\page
 
 ### The Cover Reaction
 
@@ -21426,6 +21625,12 @@ Players should understand:
 1. The weak point still exists. It is just inaccessible right now.
 2. They need to either find an alternative or find a way to reopen the original one.
 
+{{footnote DM Guide | Weak Points }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Alternative Weak Points
 
 When the primary weak point is covered, players should have something to look for. As a general rule, every creature that can actively protect one weak point should have at least one other exploitable location, even if it's a minor one.
@@ -21437,8 +21642,6 @@ When the primary weak point is covered, players should have something to look fo
 | Armor gap with shield | Shield arm itself — trying to break or disarm the shield |
 | Wound with its own hand | That hand — disarm it, and the wound reopens |
 | Glowing node by retreating | The node is now recharging — players must deal enough pressure to force re-exposure |
-
-\column
 
 ### Breaking the Cover
 
@@ -21455,6 +21658,10 @@ Yes, and the DM should have a plan for how. Common approaches:
 
 ## Called Shots on Non-Weak-Point Locations
 
+
+:
+:
+
 Players will regularly attempt called shots against body parts that aren't listed in the stat block and don't appear in the body part table above. This is healthy creative engagement with the combat system. Handle it with the following priorities, in order:
 
 ### Priority 1: The Rule of Cool
@@ -21464,12 +21671,6 @@ If the called shot is creative, narratively satisfying, and won't break the enco
 ### Priority 2: Calibrated Effect
 
 If the shot is reasonable but not exceptional, use a Minor Weak Point effect from the Body Part table as a baseline and adjust from there. A player who calls a shot to a Bokoblin's sword arm isn't targeting a listed weak point, but a Disarm or Daze result is entirely appropriate.
-
-{{footnote DM Guide | Weak Points }}
-
-{{pageNumber,auto}}
-
-\page
 
 ### Priority 3: Acknowledge Without Rewarding
 
@@ -21492,9 +21693,13 @@ Sometimes the most interesting response to a creative called shot is an outcome 
 | Target a ChuChu's "face" (it has no real face) | The blow causes the ChuChu to split — it becomes two half-HP ChuChus of the same type |
 | Attack the Wizzrobe's spellbook | The Wizzrobe drops it — but the book lands open to a random page and casts its stored spell immediately, targeting a random creature |
 
-> **The guiding principle:** Balance the Rule of Cool against the flow of the battle. A creative called shot that shifts the narrative and creates new decision points is almost always worth doing something with, even if the outcome isn't exactly what the player intended. The goal is to make players feel like the world responds to their creativity, not like there's an invisible wall of "that's not a weak point."
+{{footnote DM Guide | Weak Points }}
 
-\column
+{{pageNumber,auto}}
+
+\page
+
+> **The guiding principle:** Balance the Rule of Cool against the flow of the battle. A creative called shot that shifts the narrative and creates new decision points is almost always worth doing something with, even if the outcome isn't exactly what the player intended. The goal is to make players feel like the world responds to their creativity, not like there's an invisible wall of "that's not a weak point."
 
 ## Running Weak Points in Practice: The DM's Checklist
 
@@ -21544,8 +21749,6 @@ In every Zelda game, the hero's actions change the world. A dungeon cleared mean
 
 This does not mean every action has a grand consequence. It means the world is *alive enough to notice*. A village that was hiding behind locked doors when the players arrived should be different, in some way, when they return.
 
-\column
-
 ### Exploration Is Its Own Reward
 
 Hyrule is not a backdrop. It is a participant. The urge to climb the next hill to see what's on the other side, to investigate the ruins visible in the distance, to follow the strange melody drifting from the forest. This is core to the Zelda experience, and it should be core to your campaign.
@@ -21572,15 +21775,15 @@ Rather than prescribing a single campaign structure, think of your campaign as e
 
 **Linear:** The world opens progressively. Each region or dungeon unlocks the next, usually because a key item, ability, or narrative beat is required to proceed. Players always know what they should do next, even if they have some freedom in how they do it.
 
+*Feels like:* A Link to the Past, Ocarina of Time, Twilight Princess. A clear sequence of goals, a satisfying sense of forward momentum, and a world that reveals itself in stages.
+
+*Best for:* New players, parties who prefer narrative clarity, campaigns with heavy story investment, DMs who want tight pacing control.
+
 {{footnote DM Guide | Campaigns }}
 
 {{pageNumber,auto}}
 
 \page
-
-*Feels like:* A Link to the Past, Ocarina of Time, Twilight Princess. A clear sequence of goals, a satisfying sense of forward momentum, and a world that reveals itself in stages.
-
-*Best for:* New players, parties who prefer narrative clarity, campaigns with heavy story investment, DMs who want tight pacing control.
 
 *In practice:* The item obtained in Dungeon 1 opens the path to Region 2. The sage medallion from Dungeon 3 is needed to break the seal on the dungeon in Region 4. Players may explore freely within a region, but the macro structure gates progression deliberately.
 
@@ -21604,8 +21807,6 @@ Rather than prescribing a single campaign structure, think of your campaign as e
 
 *In practice:* Each session has at least one dungeon room, one significant combat encounter, and one environmental puzzle. Story beats are brief and clear. NPCs are distinct but not deeply developed.
 
-\column
-
 **Narrative-Heavy:** The campaign invests significant time in character relationships, political intrigue, NPC development, and story beats between dungeons. Combat and exploration exist, but they share equal footing with scenes that don't involve either.
 
 *Feels like:* Twilight Princess, Majora's Mask, Spirit Tracks. The story takes its time. Relationships matter. The world has weight.
@@ -21626,12 +21827,6 @@ Before your first session, know what the campaign's ending looks like, even if y
 
 The shape of victory informs everything: what dungeons matter, what relics are worth finding, what factions are relevant, and what the players are building toward. It does not need to be rigid, campaigns evolve, but having an ending in mind prevents the campaign from drifting indefinitely.
 
-{{footnote DM Guide | Campaigns }}
-
-{{pageNumber,auto}}
-
-\page
-
 ### Let Region and Dungeon Be Inseparable
 
 The strongest Zelda campaigns treat each region and its dungeon as a single unit. Before players enter the dungeon, they should:
@@ -21641,6 +21836,12 @@ The strongest Zelda campaigns treat each region and its dungeon as a single unit
 - Have a reason to care about what the dungeon guards or contains
 
 This means each region should have enough content (quests, NPCs, locations, and context) to make the dungeon feel like a destination rather than a waypoint. A dungeon you arrive at through a region you know feels different from a dungeon you arrive at because the quest marker pointed here.
+
+{{footnote DM Guide | Campaigns }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Build the Connective Tissue
 
@@ -21657,8 +21858,6 @@ The space between dungeons is where your campaign's identity lives. This connect
 This is the most structurally significant choice you will make. Three common approaches:
 
 **Item-gated:** A specific item obtained in one dungeon or region is required to access the next. The Boomerang from the Forest Temple is needed to cross the river to Zora's Domain. This creates the satisfying "key fits lock" feeling of classic Zelda but requires careful design to avoid players feeling stuck.
-
-\column
 
 **Narrative-gated:** Access to the next region or dungeon requires completing a story beat, convincing a Sage to reveal the temple location, breaking a curse that sealed the path, earning the trust of a faction. More flexible than item-gating and creates investment in NPCs and story.
 
@@ -21679,12 +21878,6 @@ Zelda spans one of the widest tonal ranges in gaming. The same franchise produce
 | **Dark and Personal** | Loss, sacrifice, moral complexity, and the weight of the world pressing on individual characters. Victories often come at a cost. The world feels fragile. | Twilight Princess, Majora's Mask, the darker moments of Tears of the Kingdom |
 | **Open and Contemplative** | Exploration and wonder at the foreground. Story is quieter, less urgent. The world rewards patience and curiosity more than heroism. | Breath of the Wild, Tears of the Kingdom |
 
-{{footnote DM Guide | Campaigns }}
-
-{{pageNumber,auto}}
-
-\page
-
 These are not rigid categories. Most campaigns blend two adjacent tones: Heroic Epic with moments of Lighthearted Adventure, or Open and Contemplative with a Dark and Personal storyline threading through it.
 
 ### Choosing a Tone for Your Table
@@ -21697,6 +21890,12 @@ The right tone is the one your players will engage with most fully. Consider:
 
 **What does your party's character composition suggest?** A group of characters with heavy backstories and complex motivations is already leaning toward Dark and Personal. A group of characters who seem to exist primarily as adventure vehicles is probably Heroic Epic or Lighthearted.
 
+{{footnote DM Guide | Campaigns }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Maintaining Tone Across Sessions
 
 Once you've established a tone, maintain it deliberately.
@@ -21708,8 +21907,6 @@ Once you've established a tone, maintain it deliberately.
 **Dark and Personal:** Consequences are real and lasting. Not all problems can be solved. NPCs can die. Victory may require sacrifice. Introduce these elements gradually and always discuss comfort levels with your table in advance.
 
 **Open and Contemplative:** Resist the urge to fill every silence with urgency. Let players wander. Create beautiful, strange corners of the world that exist for no other reason than to be discovered. The main quest is always there, but it is not always pressing.
-
-\column
 
 ### Shifting Tone Deliberately
 
@@ -21750,16 +21947,14 @@ Use this chapter as a reference when designing environments and weather events. 
 
 Before reaching for the region tables, understand the four severity tiers. These determine how often you call for a check and what DC the check uses.
 
-| Severity | Check Frequency | Base DC | Examples |
-|:--|:--|:--|:--|
-| **Moderate** | Every 12 hours | DC 8 | Uncomfortably hot summer day, light snowfall, heavy rain, mild desert wind |
-| **Severe** | Every 6 hours | DC 10 | Sandstorm with reduced visibility, heavy snowfall, extreme heat wave, rough seas |
-| **Extreme** | Every 3 hours | DC 12 | Blizzard, volcanic ash cloud, desert at peak midday heat, hurricane-force winds |
-| **Natural Disaster** | Every 1 hour | DC 16 | Tornado, volcanic eruption event, full hurricane, catastrophic flood, whiteout blizzard |
+| Severity | Check Frequency | Base DC | Protection Needed | Examples |
+|:--|:--|:--|:--:|:--|
+| **Moderate** | Every 12 hours | DC 8 | 1 | Uncomfortably hot summer day, light snowfall, heavy rain, mild desert wind |
+| **Severe** | Every 6 hours | DC 10 | 2 | Sandstorm with reduced visibility, heavy snowfall, extreme heat wave, rough seas |
+| **Extreme** | Every 3 hours | DC 12 | 3 | Blizzard, volcanic ash cloud, desert at peak midday heat, hurricane-force winds |
+| **Natural Disaster** | Every 1 hour | DC 16 | 4 | Tornado, volcanic eruption event, full hurricane, catastrophic flood, whiteout blizzard |
 
 > **The guiding question:** Would this weather *threaten a normal person's life* over the course of a day's travel? If yes, it qualifies for Weather Exhaustion checks. If it is merely miserable, inconvenient, or atmospherically grim, it does not require mechanical enforcement, though you may describe it vividly.
-
-\column
 
 ## Region-by-Region Reference Table
 
@@ -21796,7 +21991,7 @@ The following table provides baseline Weather Exhaustion conditions for Hyrule's
 | **Faron Rainforest** | Flash flooding, storm surge | Severe | DC 10 | Every 6 hours | Froggy set, high ground awareness |
 | **Akkala / East Hyrule** | Blight-touched storm, red rain | Severe | DC 10 | Every 6 hours | Magical protection, resistance items |
 | **The Depths** | Darkness, Gloom exposure (not heat/cold) | Moderate | DC 8 | Every 12 hours | Miner's set, light sources, Gloom resistance |
-| **The Depths (deep)** | Concentrated Gloom zones | Severe | DC 10 | Every 6 hours | Miner's set (full), Sundelion food, light |
+| **The Depths (deep)** | Concentrated Gloom zones | Severe | DC 10 | Every 6 hours | Miner's set (full), light sources |
 | **Sky Islands / Lanayru Sky** | Altitude cold, strong wind | Moderate–Severe | DC 8–10 | Every 12–6 hours | Glide set, Snowquill piece, Rito presence |
 | **Lanayru Wetlands** | Mild climate — rarely dangerous | None–Moderate | — / DC 8 | — / Every 12 hours | — |
 | **Lost Woods** | Supernatural fog, disorientation | Moderate | DC 8 | Every 12 hours | Navigation magic, Korok guidance |
@@ -21841,8 +22036,6 @@ Slow pace means the party is moving carefully, resting frequently, and managing 
 
 When a player asks *"How's the weather looking?"*, *"Is it safe to cross the mountain today?"*, or *"Can we make it to the other side of the desert before things get bad?"*, that is a cue to ask for an ability check.
 
-\column
-
 **The check:** Wisdom (Survival) or Intelligence (Nature), DM's choice based on framing. Survival reflects instinct and field experience. Nature reflects academic or studied knowledge of environments.
 
 **The DC depends on how obvious the threat is:**
@@ -21865,18 +22058,18 @@ When a player asks *"How's the weather looking?"*, *"Is it safe to cross the mou
 
 For **Severe** conditions and above, describe the weather before calling for any check. Players should feel the environment before they are asked to roll against it.
 
-{{footnote DM Guide | Weather }}
-
-{{pageNumber,auto}}
-
-\page
-
 The goal is to build the scene, not to telegraph a mechanical outcome. Describe what the characters experience, what they see, hear, feel, and smell, and let the danger be implied by the description.
 
 **Examples by severity:**
 
 *Moderate:*
 > *"The sun has been relentless today, no clouds, no shade along this stretch of field, and the air sits hot and heavy. Your armor is warm to the touch. By afternoon, everyone is drinking more than they planned."*
+
+{{footnote DM Guide | Weather }}
+
+{{pageNumber,auto}}
+
+\page
 
 *Severe:*
 > *"The sandstorm moved in faster than you expected. Visibility has dropped to thirty feet, maybe less. Sand finds its way into everything: your eyes, your mouth, the seams of your armor. The wind pushes against you with real force. Shouting to each other is difficult. You can still move, but not easily, and not without cost."*
@@ -21896,9 +22089,7 @@ Use this when you need a fast ruling mid-session without returning to the full t
 **Is this a Weather Exhaustion situation?**
 - Would this kill an unprepared person within a day? → **Yes**
 - Does crossing this terrain cost roughly twice normal effort? → **Yes**
-- Is this merely miserable, wet, or cold? → **Probably not**
-
-\column
+- Is this merely miserable, wet, or cold? → **Probably not**, unless it lasts for days with no dry shelter (then Moderate)
 
 **What DC and frequency?**
 - Rough conditions, wrong gear, long exposure → **DC 8 / 12 hours**
@@ -21907,11 +22098,13 @@ Use this when you need a fast ruling mid-session without returning to the full t
 - Actively life-threatening, immediate danger → **DC 16 / 1 hour**
 
 **What reduces or eliminates checks?**
-- Appropriate armor set for the environment → Advantage on checks, or remove one severity tier
-- Appropriate elixir (Chilly, Spicy, Fireproof) → Advantage on checks for 30 minutes
+- Heat/Cold Protection levels ≥ the severity (Moderate 1, Severe 2, Extreme 3, Disaster 4) → **Automatic success**
+- Some Heat/Cold Protection, but fewer levels → **Advantage**
+- Elixir (Chilly, Spicy, Fireproof) → Adds levels until the next check
+- Gear for other weather (Rubber set in a storm, Froggy set in rain) → Advantage
 - Racial resistance (Gerudo Desert Temperature Endurance) → Advantage
-- Racial immunity → Automatic success
-- Shelter (cave, tent, magical space) → Checks suspended for the duration
+- Racial immunity (Goron to heat, Rito to cold) → Automatic success
+- Shelter (cave, tent, magical space) → Checks paused while inside, resume when you leave; short rests allowed
 
 {{footnote DM Guide | Weather }}
 
@@ -21942,9 +22135,10 @@ This chapter is written as a **modular framework**, not a fixed snapshot. Each f
 
 Once you've answered these questions for your campaign, apply that context to every faction below. A faction profile that says "currently allied with the Crown" might mean something very different in a campaign where the Crown has fallen.
 
-\column
-
 ## Major Factions of Hyrule
+
+
+\column
 
 ### The Royal Family of Hyrule
 
@@ -21966,13 +22160,13 @@ Once you've answered these questions for your campaign, apply that context to ev
 
 **What Quests They Give:** Investigate threats to the Royal Family before they manifest. Recover or secure ancient Sheikah technology that has fallen into the wrong hands. Escort scholars to dangerous ruins. Eliminate specific threats quietly, without drawing public attention.
 
+**If Players Help Them:** Access to ancient technology, training in stealth and precision combat, introductions to a network of watchers and informants across Hyrule. Sheikah trust is hard-won but extremely valuable once earned.
+
 {{footnote DM Guide | Factions }}
 
 {{pageNumber,auto}}
 
 \page
-
-**If Players Help Them:** Access to ancient technology, training in stealth and precision combat, introductions to a network of watchers and informants across Hyrule. Sheikah trust is hard-won but extremely valuable once earned.
 
 **If Players Oppose Them:** The Sheikah do not forget, and they do not forgive easily. Expect to be watched, followed, and eventually confronted: quietly, precisely, and without warning.
 
@@ -21998,8 +22192,6 @@ Once you've answered these questions for your campaign, apply that context to ev
 
 **What They Fear:** Resource scarcity (especially water). External powers attempting to control Gerudo Desert's resources or strategic position. The recurrence of conflict tied to historical figures who emerged from Gerudo society and turned against Hyrule.
 
-\column
-
 **What Quests They Give:** Escort caravans through dangerous desert terrain. Investigate threats to Gerudo Fortress or trade routes. Negotiate trade or political agreements with other kingdoms. Recover stolen artifacts or sacred items.
 
 **If Players Help Them:** Trade access, training in desert survival and Gerudo combat techniques, political goodwill that matters significantly if the party later needs Gerudo military or economic support.
@@ -22024,12 +22216,6 @@ Once you've answered these questions for your campaign, apply that context to ev
 
 **What They Want:** Stability of their mountain home, continued access to the minerals and ore that sustain their economy and craft, and the wellbeing of their community. Gorons place enormous value on communal celebration, hospitality, and strength used in service of others.
 
-{{footnote DM Guide | Factions }}
-
-{{pageNumber,auto}}
-
-\page
-
 **What They Fear:** Volcanic instability that threatens the mountain itself. Resource depletion. Conflicts that disrupt their famously warm relationships with neighboring peoples (Gorons generally try to get along with everyone, which makes conflict especially painful for them).
 
 **What Quests They Give:** Clear dangerous creatures from mining tunnels. Investigate volcanic instability or unusual seismic activity. Deliver goods or messages across dangerous mountain terrain. Resolve disputes over mining practices (see below).
@@ -22039,6 +22225,12 @@ Once you've answered these questions for your campaign, apply that context to ev
 **If Players Oppose Them:** Difficult, since Gorons are slow to anger, but if pushed, their raw strength makes them formidable, and their extended community means word travels fast.
 
 ---
+
+{{footnote DM Guide | Factions }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Rito Village
 
@@ -22055,8 +22247,6 @@ Once you've answered these questions for your campaign, apply that context to ev
 ### Zonai Researchers
 
 **What They Want:** Understanding and preservation of ancient Zonai technology and knowledge, often balanced against an awareness that such technology can be catastrophically dangerous if misused. Depending on your campaign's framing, Zonai Researchers might be actual Zonai descendants, or scholars (of any race) devoted to studying Zonai ruins and artifacts.
-
-\column
 
 **What They Fear:** Ancient technology falling into reckless or malicious hands. The loss of irreplaceable knowledge through careless excavation or destruction. Their research being suppressed or weaponized by political powers.
 
@@ -22084,12 +22274,6 @@ Once you've answered these questions for your campaign, apply that context to ev
 
 **What They Want:** Depends enormously on your campaign's framing of the Twilight Realm. Commonly: maintaining the boundary between the Twilight Realm and the Light World, understanding or escaping their exile (if your lore includes a banishment), and protecting their own realm from threats, including threats that might try to use the Twilight Realm as a weapon against Hyrule.
 
-{{footnote DM Guide | Factions }}
-
-{{pageNumber,auto}}
-
-\page
-
 **What They Fear:** The boundary between realms collapsing uncontrolled. Their own history of exile and what caused it repeating. Being misunderstood or treated as inherently hostile by Light World peoples (a real risk, given their unsettling appearance to outsiders).
 
 **What Quests They Give:** Investigate breaches between the Twilight Realm and the Light World. Recover items or individuals lost between realms. Address corrupting influences that threaten both realms. Mediate growing tension between Twili and Light World peoples.
@@ -22097,6 +22281,12 @@ Once you've answered these questions for your campaign, apply that context to ev
 **If Players Help Them:** Access to twilight magic, safe passage through the Twilight Realm, an ally with unique insight into shadow and illusion-based threats.
 
 **If Players Oppose Them:** The Twili can be a genuinely unsettling antagonist faction, not evil, but alien enough that conflict with them feels existentially different from conflict with other Hyrulean peoples.
+
+{{footnote DM Guide | Factions }}
+
+{{pageNumber,auto}}
+
+\page
 
 ### Bandits, Pirates & Outlaw Groups
 
@@ -22111,8 +22301,6 @@ Once you've answered these questions for your campaign, apply that context to ev
 **If Players Oppose Them:** Standard heroic conflict, though consider whether your particular outlaw group deserves a purely villainous treatment or a more nuanced one.
 
 <img src='https://raw.githubusercontent.com/AnthonyEllisDev/Zelda-DnD/main/images/HWAoC_Sooga_Artwork.png' alt='Sooga' style='display:block;width:100px;height:165px;margin:6px auto 2px auto'/>
-
-\column
 
 ## Faction Relationships
 
@@ -22138,13 +22326,13 @@ This example shows how a faction relationship becomes a playable adventure scena
 
 **Why This Works as an Adventure:** Neither side is purely right or wrong. Both have legitimate needs. There is no single "correct" answer, which means player choices genuinely matter.
 
-**Possible Player Approaches:**
-
 {{footnote DM Guide | Factions }}
 
 {{pageNumber,auto}}
 
 \page
+
+**Possible Player Approaches:**
 
 - **Broker a technical compromise.** Help the Gorons develop better filtration or processing methods (perhaps requiring a quest to recover ancient Zonai filtration technology, or consulting with a Zonai Researcher). This is the "everybody wins" path but requires the most effort and may take multiple sessions.
 - **Support the Zora.** Pressure the Gorons to halt or reduce mining. This protects Zora interests but damages Goron goodwill and potentially their economy. Goron quest-givers may become less friendly, and the local mining community may resent the party.
@@ -22161,8 +22349,6 @@ This example shows how a faction relationship becomes a playable adventure scena
 Five NPCs, each drawn from a different major faction, ready to use immediately. Each includes roleplaying notes; combat stats are included only where the NPC is realistically likely to fight.
 
 ---
-
-\column
 
 ### Lira Stonewatch: Sheikah Information Broker
 
@@ -22190,13 +22376,13 @@ Five NPCs, each drawn from a different major faction, ready to use immediately. 
 **Faction:** Rito Village (semi-independent)
 **Role:** Traveling musician and unofficial chronicler of Hyrule's current events
 
+**Appearance:** A Rito with striking blue-gray plumage, carrying a well-worn accordion-like instrument decorated with feathers from places he's visited. Travels light and far.
+
 {{footnote DM Guide | Factions }}
 
 {{pageNumber,auto}}
 
 \page
-
-**Appearance:** A Rito with striking blue-gray plumage, carrying a well-worn accordion-like instrument decorated with feathers from places he's visited. Travels light and far.
 
 **Personality:** Warm, curious, and endlessly delighted by stories. Kass has no particular agenda beyond seeing the world and turning what he finds into song. He is gossipy in the best sense, eager to share what he knows and equally eager to hear what the party knows.
 
@@ -22222,8 +22408,6 @@ Five NPCs, each drawn from a different major faction, ready to use immediately. 
 **Personality:** Direct, confident, and protective of her people, both her caravan crew and the Gerudo more broadly. She has little patience for outsiders who treat Gerudo with suspicion or condescension, but is warm and generous to those who earn her respect.
 
 **Voice/Mannerism:** Speaks bluntly, often with a hint of challenge in her tone. She is testing people, even in casual conversation. Laughs loudly and genuinely when something actually amuses her.
-
-\column
 
 **Motivation:** Sela's caravan is the economic lifeline for several smaller Gerudo settlements. She is fiercely committed to keeping trade routes safe and profitable, and views threats to her caravan as threats to her people's survival.
 
@@ -22283,8 +22467,6 @@ Five NPCs, each drawn from a different major faction, ready to use immediately. 
 1. Yiga Clan members have picked up Mara's trail, and she pleads with the party for protection, drawing them into direct conflict with the Clan as a side effect of an act of kindness.
 2. Mara possesses specific knowledge of a Yiga hideout or operation that could help the party with an unrelated quest, but giving up this information means risking her own exposure and safety.
 
-\column
-
 ## Quick-Use Faction Adventure Hook Index
 
 For fast reference, here are the adventure hooks listed by faction (minimum two each, drawing from both the faction profiles and the relationship example above).
@@ -22311,7 +22493,7 @@ For fast reference, here are the adventure hooks listed by faction (minimum two 
 
 {{insideCover}}
 
-# Appendices{{pageNumber,auto}}
+# Appendices
 
 ___
 
@@ -22320,6 +22502,8 @@ ___
 }}
 
 {{logo ![](/assets/naturalCritLogoRed.svg)}}
+
+{{pageNumber,auto}}
 
 \page
 
@@ -22345,31 +22529,29 @@ A separate track from standard exhaustion, gained by failing a Weather Exhaustio
 
 **At level 4, a further failed check gives you 1 level of standard exhaustion instead.** That is the only way Weather Exhaustion can lead to death, and it happens through the standard track rather than this one.
 
-Weather Exhaustion is reduced by **1 level per short or long rest**, provided you are sheltered from the environment that caused it. It is a separate condition from standard exhaustion; effects that remove one do not remove the other unless they say so.
+Weather Exhaustion is reduced by **1 level per short or long rest**, provided you are sheltered from the environment that caused it. While you are sheltered, checks pause and you can take a short rest even inside a weather region. It is a separate condition from standard exhaustion; effects that remove one do not remove the other unless they say so.
 
 ---
 
 ### Arcane Saturation
 *(Magic System)*
 
-Gained by casting spells that cost 5 MP or more. Tracked openly by the player.
+Gained each time you pay 5 MP or more for a single casting (the spell's cost, Arcane Strain and Overchanneling together). Tracked openly by the player.
 
 | Level | Effect |
 |:--:|:--|
 | 1 | No effect |
-| 2 | Arcane Strain costs an additional +25% |
+| 2 | Repeat casts cost 25% more of the base cost: +75% on a second cast, +125% on a third (round up) |
 | 3 | Disadvantage on spell attack rolls |
 | 4 | Spell save DCs reduced by 1 |
-| 5+ | You cannot cast spells costing 5 MP or more |
-
-\column
+| 5+ | You cannot pay 5 MP or more for a single casting |
 
 Resets at the end of combat, or after one uninterrupted minute without casting.
 
 ### Arcane Wounds
 *(Magic System)*
 
-Lasting damage to a caster's magical channels, taken by forcing a spell you cannot pay for. Wounds stack and are cumulative. Removed one at a time by a long rest, a Blue Potion, or a Great Fairy.
+Lasting damage to a caster's magical channels, taken by forcing a spell you cannot pay for (one Wound for each MP you were short). Each Wound reduces your maximum MP by 1; at 3 or more you also have disadvantage on spell attack rolls and your spell save DC is reduced by 1. Removed one at a time by a long rest, a Blue Potion, a Great Fairy, a sacred spring, or a rare ritual (see Magic System).
 
 ---
 
@@ -22383,7 +22565,7 @@ A creature designated by Hunter's Insight. The Ranger learns facts about it and 
 ### Elemental Marks
 *(Shaman)*
 
-Flame, Frost, Storm and Root Marks applied by Shaman spells. Applying a second Mark to a marked creature triggers an **Elemental Reaction** instead of stacking. Marks last until the end of the Shaman's next turn, or their second following turn from 9th level.
+Flame, Frost, Storm and Root Marks applied by Shaman spells. Applying a different Mark to a marked creature triggers an **Elemental Reaction** instead of stacking (from 11th level, Dual Mark lets the Shaman keep both instead); applying the same Mark again restarts its duration. Marks last until the end of the Shaman's next turn, or their second following turn from 9th level.
 
 ---
 
@@ -22401,6 +22583,12 @@ The creature takes the listed damage at the start of each of its turns. Bleeding
 
 ---
 
+{{footnote Appendices | Conditions }}
+
+{{pageNumber,auto}}
+
+\page
+
 ### Dazed
 *(Veilblade, Called Shots)*
 
@@ -22409,15 +22597,14 @@ The creature has disadvantage on its next attack roll. Dazed does not stack. A s
 ---
 
 ### Perfect Parry
-*(Items)*
+*(Items)*  
+Not a condition but a trigger: a parry with a shield that reduces the incoming damage to 0. Some shields and relics key extra effects off one.
 
 {{footnote Appendices | Conditions }}
 
 {{pageNumber,auto}}
 
 \page
-
-Not a condition but a trigger: a parry with a shield that reduces the incoming damage to 0. Some shields and relics key extra effects off one.
 
 # Appendix B: Advancement
 
@@ -22435,7 +22622,7 @@ This book uses the standard 2014 advancement rules. What follows is guidance on 
 - resolves a regional arc (a village saved, a faction won over, a corruption cleared),
 - or defeats a named boss.
 
-That lands a group at roughly **level 10 after five dungeons** and **level 20 after a full campaign of twelve to fifteen**, which is the pace the enemy chapter is built for.
+That lands a group at roughly **level 10 after five dungeons** and **level 20 after a full campaign of twelve to fifteen**. The Enemies chapter covers levels 1–12 (up to CR 12); past that, scale foes with **Boss Numbers by CR**.
 
 **If you prefer experience points,** the standard 5e table and the XP values printed in every stat block work without modification. Zelda DnD does not change how XP is earned or how much a level costs.
 
@@ -22454,8 +22641,6 @@ At every level, in this order:
 
 Nothing in this book changes how any of that works. If your class table and this list disagree, the class table is right.
 
-\column
-
 ## Tiers of Play in Hyrule
 
 The four tiers of 5e play map cleanly onto the shape of a Zelda story, and knowing which one you are in tells you what relics to hand out.
@@ -22469,6 +22654,10 @@ The four tiers of 5e play map cleanly onto the shape of a Zelda story, and knowi
 | **11–16** | Champions | Tier 3–2 | The kingdom |
 | **17–20** | The chosen | Tier 2–1 | The world, and everything after it |
 }}
+
+**The one early exception is the Master Sword.** When the sword is the turning point of your story, it can arrive mid-campaign (around 7th–10th level); see *If the Bearer Is Not Ready* in the Relics chapter. Other Tier 1 relics wait for the last tier.
+
+**Legendary items** in the Items chapter (the Hylian Shield, Daybreaker and the other Champions' gear) have no relic tier; pace them as Tier 2.
 
 **The Triforce belongs at 20th, or after it.** Handing out a piece earlier is a legitimate choice, and it will define everything that follows; see **Running the Triforce** in the Relics chapter before you do.
 
@@ -22485,6 +22674,7 @@ If a player wants the feeling of a second calling, the tools are already here:
 - **Relics.** A Lesser Relic gives a character a verb no class grants. That is what they are for.
 - **Backgrounds.** The thing your character was before is where a second skill set belongs.
 
-{{footnote Appendices | Conditions }}
+{{footnote Appendices | Advancement }}
 
 {{pageNumber,auto}}
+
